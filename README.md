@@ -1,4 +1,4 @@
-# DozZ CS
+# MANUAL DE UTILITÁRIAS
 
 Manual de utilitárias dos mapas competitivos do jogo Counter-Strike.
 
