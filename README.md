@@ -14,7 +14,7 @@ Olá, seja bem vindo ao meu manual de utilitárias. O objetivo desse documento c
 ## Material disponível
 
 Anubis: Guia de utilitárias (Documento para impressão)   
-
+https://github.com/dozz-cs/dozz_cs/tree/main/anubis   
 
 Inferno: Manual de utilitárias (Documento para impressão)  
-https://github.com/dozz-cs/dozz_cs/tree/main/inferno
+https://github.com/dozz-cs/dozz_cs/tree/main/inferno   
