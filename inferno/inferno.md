@@ -25,7 +25,7 @@ hyperrefoptions:
 
 ## Smokes
 
-1. **ARCO** (new)
+1. **ARCO**
    - Alvo: VARANDA; TAPETE B; HEAD SHOT;
    - Posição: Ao lado da caixa de cartas. No jardim, coloque a ponta do pé na quina da coluna;
    - Mira: Mire na parte de baixo do círculo alinhado com a fina rachadura;
@@ -34,7 +34,7 @@ hyperrefoptions:
    
 ## Molotov
 
-1. **ARCO** (new)
+1. **ARCO**
    - Alvo: AREIA;
    - Posição: Posicione-se próximo ao jardim ao lado da caixa de correio vermelha;
    - Mira: Mire na quina do telhado da construção amarela;
@@ -43,7 +43,7 @@ hyperrefoptions:
 
 ## Flash
 
-1. **ARCO** (new)
+1. **ARCO**
    - Alvo: XUXA; TAPETE; CEMITÉRIO; HEAD SHOT;
    - Posição: Suba na caixa de correio vermelha;
    - Mira: Mire em uma mancha na parede logo acima do palete de madeira e próximo a quina da parede;
@@ -52,7 +52,7 @@ hyperrefoptions:
 
 ## High Explosive (HE)
 
-1. **ARCO** (new)
+1. **ARCO**
    - Alvo: DEFAULT;
    - Posição: Suba na caixa de correio vermelha;
    - Mira: Mire em uma mancha na parede logo acima do palete de madeira e próximo a quina da parede;
