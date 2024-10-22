@@ -26,7 +26,7 @@ hyperrefoptions:
 ## Smokes
 
 1. **ARCO**
-   - Alvo: VARANDA; TAPETE B; HEAD SHOT;
+   - Alvo: VARANDA;
    - Posição: Ao lado da caixa de cartas. No jardim, coloque a ponta do pé na quina da coluna;
    - Mira: Mire na parte de baixo do círculo alinhado com a fina rachadura;
    - Execução: Jumpthrow;
