@@ -1,13 +1,20 @@
-# MANUAL DE UTILITÁRIAS
+# Manual de utilitárias
 
 Manual de utilitárias dos mapas competitivos do jogo Counter-Strike.
 
 
-Olá, seja bem vindo ao meu manual de utilitárias. O objetivo desse manual consiste em catalogar as principais smokes, molotovs e incendiárias, flashbangs, high explosive e decoys em cada mapa do competitivo.
+Olá, seja bem vindo ao meu manual de utilitárias. O objetivo desse documento consiste em catalogar as principais smokes, molotovs e incendiárias, flashbangs, high explosive e decoys em cada mapa do competitivo.
 
-Para melhor aproveitamento do guia sugiro sempre assistir os videos de demonstração de cada granada. As descrição serão feitas de forma resumida, de modo que o manual fique o mais prático possível.
+## Uso
 
-Teste com o git e github
-Mais um teste
-Outro teste
-Ultimo teste espero
+- Assistir os videos demonstrativos de cada utilitária;
+- Ler a descrição da origem, alvo, posicionamento, mira e execução;
+- Fazer o download do pdf do manual;
+
+## Material disponível
+
+Anubis: Guia de utilitárias (Documento para impressão)   
+
+
+Inferno: Manual de utilitárias (Documento para impressão)  
+https://github.com/dozz-cs/dozz_cs/tree/main/inferno
