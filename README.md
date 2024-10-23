@@ -13,8 +13,23 @@ Olá, seja bem vindo ao meu manual de utilitárias. O objetivo desse documento c
 
 ## Material disponível
 
+Ancient: Guia de utilitárias (Documento para impressão)  
+https://github.com/dozz-cs/dozz_cs/tree/main/ancient   
+
 Anubis: Guia de utilitárias (Documento para impressão)   
 https://github.com/dozz-cs/dozz_cs/tree/main/anubis   
 
+Dust 2: Guia de utilitárias (Documento para impressão)  
+https://github.com/dozz-cs/dozz_cs/tree/main/dust2   
+
 Inferno: Manual de utilitárias (Documento para impressão)  
 https://github.com/dozz-cs/dozz_cs/tree/main/inferno   
+
+Mirage: Guia de utilitárias (Documento para impressão)   
+https://github.com/dozz-cs/dozz_cs/tree/main/mirage   
+
+Nuke: Guia de utilitárias (Documento para impressão)  
+https://github.com/dozz-cs/dozz_cs/tree/main/nuke   
+
+Vertigo: Guia de utilitárias (Documento para impressão)    
+https://github.com/dozz-cs/dozz_cs/tree/main/vertigo   
