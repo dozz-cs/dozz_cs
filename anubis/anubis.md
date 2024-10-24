@@ -27,19 +27,40 @@ hyperrefoptions:
 
 1. **BASE CT**
    - Alvo: CAVERNA;
-   - Posição: Encoste no canto próximo a escada para a praia;
+   - Posição: Encoste no canto da mureta próximo a escada para a praia;
    - Mira: Na coluna quebrada em forma de arco, localize a segunda fileira de tijolos. Mire no canto inferior esquerdo do tijolo mais saliente;
    - Execução: Jumpthrow;
    - Ref. 141.0603: [YouTube](https://youtu.be/3fpRc7vnsS4)
+
+1. **BASE CT**
+   - Alvo: BURACO;
+   - Posição: Encoste no canto da mureta próximo a escada para a praia;
+   - Mira: Mire na quina da construção com as flores roxas;
+   - Execução: Jumpthrow;
+   - Ref. 141.0613: [YouTube](https://youtu.be/RHf45SoeFt0)
+
+1. **BASE CT**
+   - Alvo: PORTÃO;
+   - Posição: Encoste no canto da coluna com a mureta;
+   - Mira: Na parede saliente, ao lado direito da placa, mire ligeiramente a esquerda da junção entre o primeiro e o segundo tijolo saliente mais alto;
+   - Execução: Jumpthrow;
+   - Ref. 141.0626: [YouTube](https://youtu.be/1dD9KorD-g4)
 
 ## Molotov
 
 1. **BARCO**
    - Alvo: CÉU;
-   - Posição: Suba no cesto;
+   - Posição: Suba nos cestos localizado à esquerda do canal;
    - Mira: Mire na junção das pedras logo acima dos vasos no chão;
    - Execução: Ande ligeiramente para a frente + Jumpthrow;
    - Ref. 142.0601: [YouTube](https://youtu.be/OF1Oe5kfw94)
+
+1. **BARCO**
+   - Alvo: CÉU;
+   - Posição: Encoste no canto da pequena parede, ficando de frente para os cestos;
+   - Mira: Localize os três vasos empilhados no chão. Mire entre o topo dos vasos e a junção das pedras;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 142.0611: [YouTube](https://youtu.be/N3pp_97KlaE)
 
 ## Flash
 
@@ -50,6 +71,13 @@ hyperrefoptions:
    - Execução: Arremesso longo;
    - Ref. 143.0617: [YouTube](https://youtu.be/ZQyD5xIq-6c)
 
+1. **BARCO**
+   - Alvo: LIGAÇÃO; CÉU; REDONDO;
+   - Posição: Encoste no canto da pequena parede, ficando de frente para os cestos;
+   - Mira: Mire em uma tênue mancha escura à esquerda do balaústre na altura da marcação horizontal do vaso;
+   - Execução: Jumpthrow;
+   - Ref. 143.0611: [YouTube](https://youtu.be/A05z3TC6AP4)
+
 ## High Explosive
 
 1. **B BAIXO**
@@ -58,6 +86,13 @@ hyperrefoptions:
    - Mira: Mire no desenho na parte superior da coluna redonda;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 144.0647: [YouTube](https://youtu.be/Jm7wNxfyx64)
+
+1. **B BAIXO**
+   - Alvo: PORTÃO;
+   - Posição: Posicione-se atrás da pequena parede à direita, próximo ao bomb;
+   - Mira: Mire no rodapé do pilar do bomb;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 144.4598: [YouTube](https://youtu.be/o1zcSX-is7A)
 
 ## Referências
 
