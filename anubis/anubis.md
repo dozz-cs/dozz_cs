@@ -46,6 +46,55 @@ hyperrefoptions:
    - Execução: Jumpthrow;
    - Ref. 141.0626: [YouTube](https://youtu.be/1dD9KorD-g4)
 
+1. **BASE TR**
+   - Alvo: PONTE E JANELA;
+   - Posição: Na base TR alinhe-se com a parede a frente;
+   - Mira: Mire rente a lateral esquerda de uma pequena abertura, no topo desse muro;
+   - Execução: Jumpthrow médio;
+   - Ref. 141.0637: [YouTube](https://youtu.be/2rYuDu9JSAA)
+
+1. **BASE TR**
+   - Alvo: JANELÃO;
+   - Posição: Posicione-se na porta do lado direito do caminhão. Encoste no lado esquerdo da porta;
+   - Mira: Mire na quina da parede a frente;
+   - Execução: Jumpthrow;
+   - Ref. 141.0639: [YouTube](https://youtu.be/ngD90aJR318) | [Card](https://photos.app.goo.gl/Vdx87JfV2uTzi13q7)
+
+1. **BASE TR**
+   - Alvo: JANELÃO;
+   - Posição: Posicione-se em frente ao primeiro balaústre da cerca à direita;
+   - Mira: Mire no meio da parede de tijolos na construção alinhado com a parede à esquerda;
+   - Execução: Jumpthrow;
+   - Ref. 141.9846: [YouTube](https://youtu.be/DZyZYOm5RGA)
+
+1. **BASE TR**
+   - Alvo: RATO;
+   - Posição: Na base TR encoste na frente das duas tábuas de madeira;
+   - Mira: Mire a esquerda da parte inferior do caibro alinhado com a lateral direita da janela;
+   - Execução: Jumpthrow;
+   - Ref. 141.0645: [YouTube](https://youtu.be/-PErE2ltPnw)
+
+1. **BASE TR**
+   - Alvo: ENTRADA DO RATO;
+   - Posição: Posicione-se na porta do lado direito do caminhão. Encoste no lado esquerdo da porta;
+   - Mira: Mire no meio de uma viga de madeira na quina da parede à esquerda;
+   - Execução: Jumpthrow;
+   - Ref. 141.0649: [YouTube](https://youtu.be/4I_e1Nu0MgQ) | [Card](https://photos.app.goo.gl/xRynf7n4VwupzVq69)
+
+1. **BASE TR**
+   - Alvo: B BAIXO;
+   - Posição: Na saída da base TR, fique em frente a tenda;
+   - Mira: Mire na junção das ripas de madeira;
+   - Execução: Jumpthrow;
+   - Ref. 141.0659: [YouTube](https://youtu.be/YD9iA6yzcE0)
+
+1. **BASE TR**
+   - Alvo: TUMBA;
+   - Posição: Na saída da base TR, fique em frente a tenda;
+   - Mira: Mire na junção das tendas com o topo da parede com decorações arredondadas;
+   - Execução: Jumpthrow;
+   - Ref. 141.4386: [YouTube](https://youtu.be/bq7BryROXek)
+
 ## Molotov
 
 1. **BARCO**
