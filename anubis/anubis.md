@@ -111,6 +111,20 @@ hyperrefoptions:
    - Execução: Ande ligeiramente para a frente + Jumpthrow;
    - Ref. 142.0611: [YouTube](https://youtu.be/N3pp_97KlaE)
 
+1. **BARCO**
+   - Alvo: PLATAFORMA;
+   - Posição: Na água, encoste no canto da parede em frente a escada;
+   - Mira: Agache e mire ligeiramente a esquerda de uma pequena irregularidade na quina da escada;
+   - Execução: Ainda agachado + Jumpthrow;
+   - Ref. 142.0623: [YouTube](https://youtu.be/ClvOc2ytyv4)
+
+1. **BARCO**
+   - Alvo: PLATAFORMA;
+   - Posição: Encoste no canto da pequena parede arredondada em frente o cesto;
+   - Mira: Localize a junção das pedras alinhado com a esquerda do balaústre esquerdo. Mire à direita da junção, em uma mancha na parede;
+   - Execução: Jumpthrow;
+   - Ref. 142.1834: [YouTube](https://youtu.be/ME32rEzQIgw)
+
 ## Flash
 
 1. **BARCO**
