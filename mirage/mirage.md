@@ -33,11 +33,46 @@ hyperLinkoptions:
    - Ref. 131.8942: [YouTube](https://youtu.be/xlZecDzVaKQ);
 
 1. **BASE CT**
+   - Alvo: MEIO FALSO;
+   - Posição: Encoste no canto à esquerda do caminhão;
+   - Mira: Alinhe a mira com o canto da parede, no alto da mancha branca;
+   - Execução: Ande para a frente até a mira chegar na altura do telhado + Jumpthrow;
+   - Ref. 131.1203: [YouTube](https://youtu.be/-35ORxNGjhk);
+
+1. **BASE CT**
    - Alvo: PALÁCIO;
    - Posição: Encoste no canto da parede à esquerda do caminhão;
    - Mira: Mire na ponta do caibro à direita;
    - Execução: Jumpthrow;
    - Ref. 131.3068: [YouTube](https://youtu.be/CG-F2fZVsj8);
+
+1. **BASE CT**
+   - Alvo: PALÁCIO;
+   - Posição: Encoste no canto da porta de entrada para o mercado, em frente ao buraco;
+   - Mira: Mire no canto inferior direito da janela;
+   - Execução: Jumpthrow;
+   - Ref. 131.8456: [YouTube](https://youtu.be/v-ckOI77yuA);
+
+1. **BASE CT**
+   - Alvo: TV;
+   - Posição: Encoste no canto da parede à esquerda do caminhão;
+   - Mira: Alinhe a mira com o cruzamento dos fios de energia e posicione a mira na altura da ponta de uma haste da antena;
+   - Execução: Ande para a frente até chegar no cruzamento dos fio + Jumpthrow;
+   - Ref. 131.3420: [YouTube](https://youtu.be/CvLT58tCynY);
+
+1. **BASE CT**
+   - Alvo: TAPETE DA B;
+   - Posição: Encoste no canto à esquerda do caminhão;
+   - Mira: Localize a quina esquerda no alto da construção. Alinhe a mira na região da primeira mancha escura e no topo do telhado;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 131.7441: [YouTube](https://youtu.be/1EACGkmIgkw);
+
+1. **BASE CT**
+   - Alvo: TAPETE DA B;
+   - Posição: Posicione-se no canto de uma pequena parede próximo ao buraco;
+   - Mira: Mire na ponta de uma das hastes direita da antena espinha de peixe;
+   - Execução: Jumpthrow;
+   - Ref. 131.4091: [YouTube](https://youtu.be/Ugp4tisXoxE);
 
 1. **CARROÇA**
    - Alvo: JANELÃO;
