@@ -95,6 +95,34 @@ hyperrefoptions:
    - Execução: Jumpthrow;
    - Ref. 141.4386: [YouTube](https://youtu.be/bq7BryROXek)
 
+1. **FUNDO (1/3)**
+   - Alvo: B BAIXO;
+   - Posição: Na saída da base TR. Encoste no canto da parede esquerda ao lado da escada;
+   - Mira: Mire na extremidade do hieroglifo inferior esquerdo;
+   - Execução: Jumpthrow;
+   - Ref. 141.3894: [YouTube](https://youtu.be/3xT6mE7ICXw)
+
+1. **FUNDO (2/3)**
+   - Alvo: TUMBA;
+   - Posição: Na saída da base TR. Encoste no canto da parede esquerda ao lado da escada;
+   - Mira: Mire no canto inferior esquerdo interno da janela da construção quebrada;
+   - Execução: Jumpthrow;
+   - Ref. 141.3895: [YouTube](https://youtu.be/J0LPYyqpJAM)
+
+1. **FUNDO (3/3)**
+   - Alvo: RATO;
+   - Posição: Na saída da base TR. Encoste no canto da parede esquerda ao lado da escada;
+   - Mira: Mire no centro da pedra localizada no canto direito da janela da construção quebrada;
+   - Execução: Jumpthrow;
+   - Ref. 141.3896: [YouTube](https://youtu.be/t_NLrun5szA)
+
+1. **VARANDA**
+   - Alvo: LIGAÇÃO;
+   - Posição: Posicione-se na quina direita da saída da varanda;
+   - Mira: Mire no interior esquerdo da janela esquerda, na altura do começo do arco;
+   - Execução: Arremesso longo;
+   - Ref. 141.6624: [YouTube](https://youtu.be/pK-SfbpWeWw)
+
 ## Molotov
 
 1. **BARCO**
@@ -124,6 +152,13 @@ hyperrefoptions:
    - Mira: Localize a junção das pedras alinhado com a esquerda do balaústre esquerdo. Mire à direita da junção, em uma mancha na parede;
    - Execução: Jumpthrow;
    - Ref. 142.1834: [YouTube](https://youtu.be/ME32rEzQIgw)
+
+1. **TETRIS**
+   - Alvo: CÉU;
+   - Posição: Posicione-se na caixa do tetris do meio;
+   - Mira: Mire na decoração superior direita da janela;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 142.6009: [YouTube](https://youtu.be/yMTTsoNuO2w)
 
 ## Flash
 
