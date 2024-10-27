@@ -74,6 +74,41 @@ hyperLinkoptions:
    - Execução: Jumpthrow;
    - Ref. 131.4091: [YouTube](https://youtu.be/Ugp4tisXoxE);
 
+1. **BASE TR**
+   - Alvo: BOLTZ;
+   - Posição: Suba na pequena mureta e posicione-se em frente a grade;
+   - Mira: Mire na quina da parede à direita;
+   - Execução: Jumpthrow;
+   - Ref. 131.2965: [YouTube](https://youtu.be/hteQbGFrhBw);
+
+1. **BASE TR (1/2)**
+   - Alvo: JUNGLE;
+   - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
+   - Mire: Localize o caibro a direita. Mire na parte de baixo do caibro;
+   - Execução: Jumpthrow;
+   - Ref. 131.9853: [YouTube](https://youtu.be/YIK8648Lmao);
+
+1. **BASE TR (2/2)**
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
+   - Mire: Localize o caibro à direita. Mire na marcação horizontal entre o caibro e a parede;
+   - Execução: W + Jumpthrow;
+   - Ref. 131.7432: [YouTube](https://youtu.be/doVoRomd19o);
+
+1. **BASE TR**
+   - Alvo: LIGAÇÃO BAIXO;
+   - Posição: Encoste no canto da parede com a lateral da lixeira;
+   - Mira: Mire no canto inferior direito interno do desenho no tapete;
+   - Execução: Jumpthrow;
+   - Ref. 131.2544: [YouTube](https://youtu.be/KGmLrb9ii2c);
+
+1. **BASE TR**
+   - Alvo: PASSAGEM CARROÇA;
+   - Posição: Encoste no canto da parede com a lateral da lixeira;
+   - Mira: Agache e mire na ponta da antena do tipo espinha de peixe;
+   - Execução: Arremesso longo;
+   - Ref. 131.0911: [YouTube](https://youtu.be/VCPt4cng_-E);
+
 1. **CARROÇA**
    - Alvo: JANELÃO;
    - Posição: Posicione-se na roda da carroça;
@@ -89,6 +124,20 @@ hyperLinkoptions:
    - Mira: Alinhe a mira na direção da porta do mercado. Mire no canto do chão com a parede no lado esquerdo de uma mancha escura;
    - Execução: Jumpthrow médio;
    - Ref. 132.1993: [YouTube](https://youtu.be/oUiUszfMzUI);
+
+1. **BOMB B**
+   - Alvo: JANELA DO MERCADO;
+   - Posição: Posicione-se atrás da caixa no bomb B em frente a varanda;
+   - Mira: Mire abaixo da junção superior da quina direita da caixa. 
+   - Execução: Jumpthrow médio;
+   - Ref. 132.4508: [YouTube](https://youtu.be/65uIXvyO180);
+
+1. **CARROÇA**
+   - Alvo: JANELÃO;
+   - Posição: Posicione-se atrás da carroça e encostado na parede do fundo;
+   - Mira: Mire no topo da planta acima do janelão, alinhado com a antena; 
+   - Execução: Ande para a frente até chegar próximo a carroça + Arremesso longo;
+   - Ref. 132.0734: [YouTube](https://youtu.be/F9BLOeWn-bk);
 
 ## Flash
 
