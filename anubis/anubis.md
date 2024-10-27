@@ -95,6 +95,48 @@ hyperrefoptions:
    - Execução: Jumpthrow;
    - Ref. 141.4386: [YouTube](https://youtu.be/bq7BryROXek)
 
+1. **BARCO**
+   - Alvo: CÉU;
+   - Posição: Encoste em uma coluna arredondada no canto da parede com o cesto;
+   - Mira: Mire na junção das pedras logo acima dos vasos no chão;
+   - Execução: Jumpthrow;
+   - Ref. 141.0662: [YouTube](https://youtu.be/6PKxy4bTtqk)
+
+1. **BARCO**
+   - Alvo: CÉU;
+   - Posição: Na água, encoste no canto da parede em frente a escada;
+   - Mira: Mire um pouco abaixo da quina superior frontal esquerda da caixa;
+   - Execução: Jumpthrow;
+   - Ref. 141.0665: [YouTube](https://youtu.be/pqqAJgJ8Haw)
+
+1. **BURACO**
+   - Alvo: CAVERNA;
+   - Posição: Suba no bloco ao lado das cadeiras e do guarda sol;
+   - Mira: Mire na junção dos tijolo acima do pequeno toldo alinhado com o canto esquerdo da janela;
+   - Execução: Jumpthrow;
+   - Ref. 141.0683: [YouTube](https://youtu.be/xFhCqd8iZ8c)
+
+1. **BURACO**
+   - Alvo: ENTRADA DO RATO;
+   - Posição: Encoste na canto da parede com a madeira e os telefones, próximo a entrada do buraco;
+   - Mira: Mire na marcação de decoração à direita, próximo ao meio da torre;
+   - Execução: Jumpthrow;
+   - Ref. 141.0686: [YouTube](https://youtu.be/ImE5PyUI9uA)
+
+1. **BURACO**
+   - Alvo: PORTA DO MEIO;
+   - Posição: Posicione-se no canto da parede, ao lado das cadeiras e do guarda sol;
+   - Mira: Mire no pequeno quebrado da parede no topo esquerdo;
+   - Execução: Jumpthrow;
+   - Ref. 141.0689: [YouTube](https://youtu.be/7yfypv8jb9I)
+
+1. **BURACO**
+   - Alvo: PORTA DA LIGAÇÃO;
+   - Posição: Posicione-se no canto da parede, ao lado das cadeiras e do guarda sol;
+   - Mira: Mire na ponta do guindaste;
+   - Execução: Jumpthrow;
+   - Ref. 141.0693: [YouTube](https://youtu.be/BrUTKGkn-MM)
+
 1. **FUNDO (1/3)**
    - Alvo: B BAIXO;
    - Posição: Na saída da base TR. Encoste no canto da parede esquerda ao lado da escada;
@@ -175,6 +217,13 @@ hyperrefoptions:
    - Mira: Mire em uma tênue mancha escura à esquerda do balaústre na altura da marcação horizontal do vaso;
    - Execução: Jumpthrow;
    - Ref. 143.0611: [YouTube](https://youtu.be/A05z3TC6AP4)
+
+1. **ESQUINA**
+   - Alvo: JANELÃO; PORTAS;
+   - Posição: Posicione-se no canto esquerdo da escada;
+   - Mira: Mire na mancha horizontal entre as duas torres;
+   - Execução: Arremesso longo;
+   - Ref. 143.5683: [YouTube](https://youtu.be/UDYrGmo1uW4)
 
 ## High Explosive
 
