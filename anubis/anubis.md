@@ -9,8 +9,8 @@ output:
 classoption: twocolumn
 papersize: a4
 fontsize: 12pt
-colorlinks: red
-urlcolor: red
+colorlinks: blue
+urlcolor: blue
 geometry:
 - top=10mm
 - left=10mm
@@ -22,6 +22,8 @@ hyperrefoptions:
 ---
 
 # Manual de utilitárias
+
+Acesse o documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.pdf)
 
 ## Smokes
 
@@ -136,6 +138,13 @@ hyperrefoptions:
    - Mira: Mire na ponta do guindaste;
    - Execução: Jumpthrow;
    - Ref. 141.0693: [YouTube](https://youtu.be/BrUTKGkn-MM)
+
+1. **CANAL**
+   - Alvo: TUMBA;
+   - Posição: Pare com o pé esquerdo no degrau mais baixo no canal, dentro da água;
+   - Mira: Localize a quina da construção. Mire no ponto médio das construções, no céu azul;
+   - Execução: Arremesso longo;
+   - Ref. 141.0905: [YouTube](https://youtu.be/4Evmf9Vj8mw)
 
 1. **FUNDO (1/3)**
    - Alvo: B BAIXO;
