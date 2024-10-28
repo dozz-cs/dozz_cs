@@ -23,6 +23,8 @@ hyperrefoptions:
 
 # Manual de utilitárias
 
+Acesse o documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
+
 ## Smokes
 
 1. **ARCO**
@@ -31,7 +33,56 @@ hyperrefoptions:
    - Mira: Mire na parte de baixo do círculo alinhado com a fina rachadura;
    - Execução: Jumpthrow;
    - Ref. 121.5687: [YouTube](https://youtu.be/7sJemTxFWSI)
-   
+
+1. **ARCO**
+   - Alvo: XUXA;
+   - Posição: Pare no jardim ao lado da caixa de cartas. Coloque a ponta do pé esquerdo na quina da coluna;
+   - Mira: Mire na ponta esquerda da letra Y;
+   - Execução: Jumpthrow;
+   - Ref. 121.7621: [YouTube](https://youtu.be/-lHwnz9mOeI)
+
+1. **BANANA**
+   - Alvo: PEZINHO CT;
+   - Posição: Encoste as costas no barril de madeira;
+   - Mira: Alinhe na quina de traz do telhado e levante a mira até a altura do arco a sua frente.
+   - Execução: Arremesso longo;
+   - Ref. 121.8874: [YouTube](https://youtu.be/uhKWTR_WjGA)
+
+1. **BANANA**
+   - Alvo: PEZINHO CT;
+   - Posição: Encoste na pequena parede atrás do muro do carro;
+   - Mira: Mire no cumeeira direita do telhado;
+   - Execução: Pressione (shift) + W + Jumpthrow;
+   - Ref. 121.9832: [YouTube](https://youtu.be/vATbFjhml40)
+
+1. **BANANA**
+   - Alvo: PEZINHO CT;
+   - Posição: Encoste no meio da placa GAS próximo ao muro do carro;
+   - Mira: Mire entre a quina do telhado da torre e o fio com as lâmpadas.
+   - Execução: Arremesso longo;
+   - Ref. 121.1057: [YouTube](https://youtu.be/-k0pQo6Hkt8)
+
+1. **BANANA**
+   - Alvo: PASSAGEM CT;
+   - Posição: Encoste na pequena parede atrás do muro do carro;
+   - Mira: Mire rente a quina do telhado;
+   - Execução: Arremesso longo;
+   - Ref. 121.7839: [YouTube](https://youtu.be/k4rUglDIwhE)
+
+1. **BANANA**
+   - Alvo: CAIXÃO;
+   - Posição: Encoste em frente a placa cinza ao lado da placa GAS;
+   - Mira: Mire na mancha escura próximo a quina esquerda do madeirite;
+   - Execução: Jumpthrow;
+   - Ref. 121.8521: [YouTube](https://youtu.be/orAIC0mroO8)
+
+1. **BANANA**
+   - Alvo: CAIXÃO;
+   - Posição: Encoste na pequena parede atrás do muro do carro;
+   - Mira: Ache e mire na lâmpada do topo, alinhado com a escada no telhado;
+   - Execução: Mantenha-se agachado + Arremesso longo;
+   - Ref. 121.1244: [YouTube](https://youtu.be/x6rnl5iPaPA)
+
 ## Molotov
 
 1. **ARCO**
