@@ -105,11 +105,46 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Ref. 141.0662: [YouTube](https://youtu.be/6PKxy4bTtqk)
 
 1. **BARCO**
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se dentro da água em frente a porta de entrada da caverna;
+   - Mira: Mire na parede a frente alinhado com a direita da porta e na altura da marcação horizontal no topo da parede;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 141.0667: [YouTube](https://youtu.be/ab2LyAs88GA)
+
+1. **BARCO**
    - Alvo: CÉU;
    - Posição: Na água, encoste no canto da parede em frente a escada;
    - Mira: Mire um pouco abaixo da quina superior frontal esquerda da caixa;
    - Execução: Jumpthrow;
    - Ref. 141.0665: [YouTube](https://youtu.be/pqqAJgJ8Haw)
+
+1. **BARCO (1/2)**
+   - Alvo: PLATAFORMA;
+   - Posição: Encoste em uma coluna arredondada no canto da parede próximo ao cesto;
+   - Mira: Localize a primeira fileira inferior de pedras. Alinhe a mira com a esquerda do balaústre da direita. Mire à direita da junção das pedras em uma tênue mancha clara;
+   - Execução: Jumpthrow;
+   - Ref. 141.0674: [YouTube](https://youtu.be/dchHeznM5_s)
+
+1. **BARCO (2/2)**
+   - Alvo: PAREDÃO;
+   - Posição: Dentro do rio, encoste no canto da ponte com a calçada elevada;
+   - Mira: Mire ligeiramente abaixo da junção das pedras na parede logo a sua frente;
+   - Execução: Jumpthrow;
+   - Ref. 141.0675: [YouTube](https://youtu.be/dchHeznM5_s)
+
+1. **BARCO**
+   - Alvo: PLATAFORMA;
+   - Posição: Encoste no canto da pequena parede arredondada em frente o cesto;
+   - Mira: Localize a junção das pedras alinhado com a esquerda do balaústre esquerdo. Mire à direita da junção, em uma mancha na parede;
+   - Execução: Jumpthrow;
+   - Ref. 141.4537: [YouTube](https://youtu.be/7Kdl_DU145Y)
+
+1. **BARCO**
+   - Alvo: RATO;
+   - Posição: Posicione-se sobre uma divisória no piso da calçada ao lado da ponte de madeira;
+   - Mira: Mire em uma pequena falha no alto da construção logo em frente;
+   - Execução: Jumpthrow;
+   - Ref. 141.8522: [YouTube](https://youtu.be/27U5twTYDLE)
 
 1. **BURACO**
    - Alvo: CAVERNA;
@@ -225,6 +260,27 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Execução: Jumpthrow;
    - Ref. 142.1834: [YouTube](https://youtu.be/ME32rEzQIgw)
 
+1. **BARCO**
+   - Alvo: REDONDO;
+   - Posição: Suba no cesto próximo a pequena parede arredondada;
+   - Mira: Mire na junção das pedras alinhado com a quina da calçada;
+   - Execução: Jumpthrow;
+   - Ref. 142.6492: [YouTube](https://youtu.be/Jrpthhw6oG8)
+
+1. **B BAIXO**
+   - Alvo: PILAR;
+   - Posição: Na descida para o B baixo, encoste na parede à frente;
+   - Mira: Mire no desenho na parte superior da coluna redonda;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 142.0647: [YouTube](https://youtu.be/swXWnzqGCJE)
+
+1. **B BAIXO**
+   - Alvo: PORTÃO;
+   - Posição: Posicione-se atrás da pequena parede à direita, próximo ao bomb;
+   - Mira: Mire no rodapé do pilar do bomb;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 142.4398: [YouTube](https://youtu.be/zAtMNYoTpY4)
+
 1. **TETRIS**
    - Alvo: CÉU;
    - Posição: Posicione-se na caixa do tetris do meio;
@@ -248,6 +304,27 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Execução: Jumpthrow;
    - Ref. 143.0611: [YouTube](https://youtu.be/A05z3TC6AP4)
 
+1. **BARCO**
+   - Alvo: CAVERNA; ALTAR;
+   - Posição: Posicione-se no canto esquerdo do canal e do lado direito da porta fechada;
+   - Mira: Mire na ponta da decoração na porta de entrada da caverna;
+   - Execução: Arremesso longo;
+   - Ref. 143.0623: [YouTube](https://youtu.be/ks83R8xu2U0)
+
+1. **B BAIXO**
+   - Alvo: PORTÃO; RATO; FUNDO;
+   - Posição: Na descida para o B baixo, encoste na parede à esquerda;
+   - Mira: Mire na quina da decoração no topo da parede a frente;
+   - Execução: Arremesso longo;
+   - Ref. 143.7632: [YouTube](https://youtu.be/xfd9y3WFydo)
+
+1. **B BAIXO**
+   - Alvo: PORTÃO;
+   - Posição: Posicione-se atrás da pequena parede à direita, próximo ao bomb;
+   - Mira: Mire no rodapé do pilar do bomb;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 143.7320: [YouTube](https://youtu.be/6jP4OEzzOV0)
+
 1. **ESQUINA**
    - Alvo: JANELÃO; PORTAS;
    - Posição: Posicione-se no canto esquerdo da escada;
@@ -270,6 +347,27 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Mira: Mire no rodapé do pilar do bomb;
    - Execução: Ande ligeiramente para a frente + Jumpthrow;
    - Ref. 144.4598: [YouTube](https://youtu.be/o1zcSX-is7A)
+
+1. **CAVERNA**
+   - Alvo: ALTAR;
+   - Posição: Dentro da caverna se posicione no lado dos cestos de forma a visualizar a coluna arredondada na parede direita do altar;
+   - Mira: Mire à esquerda da coluna, na junção com o topo da abertura;
+   - Execução: Arremesso longo;
+   - Ref. 144.4956: [YouTube](https://youtu.be/65w-JcR9cCc)
+
+1. **FUNDO**
+   - Alvo: B BAIXO;
+   - Posição: Pare em uma marcação horizontal no chão em frente ao portão;
+   - Mira: Mire em uma pedra saliente na parede ao lado da tumba;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 144.2857: [YouTube](https://youtu.be/avdF0TFEiX4)
+
+1. **FUNDO**
+   - Alvo: NEWBA;
+   - Posição: Pare no topo da escada no fundo e em frente ao portão;
+   - Mira: Mire no topo da construção entre a parede do portão e o pilar;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 144.3289: [YouTube](https://youtu.be/zhPFJg1fAEs)
 
 ## Referências
 

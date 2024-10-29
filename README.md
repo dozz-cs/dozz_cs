@@ -17,7 +17,7 @@ Ancient: Manual de utilitárias (Documento para impressão)
 https://github.com/dozz-cs/dozz_cs/tree/main/ancient   
 
 Anubis: Manual de utilitárias (Documento para impressão)   
-https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.md
+https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.md   
 
 Dust 2: Manual de utilitárias (Documento para impressão)  
 https://github.com/dozz-cs/dozz_cs/tree/main/dust2   
