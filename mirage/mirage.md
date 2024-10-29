@@ -21,7 +21,9 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# Guia de utilitárias
+# Manual de utilitárias
+
+Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mirage/mirage.pdf)
 
 ## Smokes
 
@@ -108,6 +110,20 @@ hyperLinkoptions:
    - Mira: Agache e mire na ponta da antena do tipo espinha de peixe;
    - Execução: Arremesso longo;
    - Ref. 131.0911: [YouTube](https://youtu.be/VCPt4cng_-E);
+
+1. **BASE TR (1/2)**
+   - Alvo: CABECINHA;
+   - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
+   - Mire: Mire na parte superior de uma mancha central no topo da construção;
+   - Execução: Jumpthrow;
+   - Ref. 131.5623: [YouTube](https://youtu.be/0UNyDm84iVQ);
+
+1. **BASE TR (2/2)**
+   - Alvo: PASSAGEM JUNGLE;
+   - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
+   - Mire: Localize o segundo caibro, da Dir para a Esq. Mire na junção direita do caibro com a parede; 
+   - Execução: Jumpthrow;
+   - Ref. 131.3452: [YouTube](https://youtu.be/0UNyDm84iVQ);
 
 1. **CARROÇA**
    - Alvo: JANELÃO;

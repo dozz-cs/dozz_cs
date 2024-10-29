@@ -17,7 +17,7 @@ Ancient: Manual de utilitárias (Documento para impressão)
 https://github.com/dozz-cs/dozz_cs/tree/main/ancient   
 
 Anubis: Manual de utilitárias (Documento para impressão)   
-https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.pdf   
+https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.md
 
 Dust 2: Manual de utilitárias (Documento para impressão)  
 https://github.com/dozz-cs/dozz_cs/tree/main/dust2   
@@ -26,7 +26,7 @@ Inferno: Manual de utilitárias (Documento para impressão)
 https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.md
 
 Mirage: Manual de utilitárias (Documento para impressão)   
-https://github.com/dozz-cs/dozz_cs/tree/main/mirage   
+https://github.com/dozz-cs/dozz_cs/blob/main/mirage/mirage.md   
 
 Nuke: Manual de utilitárias (Documento para impressão)  
 https://github.com/dozz-cs/dozz_cs/tree/main/nuke   

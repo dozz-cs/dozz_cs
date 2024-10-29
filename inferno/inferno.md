@@ -23,7 +23,7 @@ hyperrefoptions:
 
 # Manual de utilitárias
 
-Acesse o documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
+Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
 
 ## Smokes
 
