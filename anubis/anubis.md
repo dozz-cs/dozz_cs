@@ -9,7 +9,7 @@ output:
 classoption: twocolumn
 papersize: a4
 fontsize: 12pt
-colorlinks: blue
+colorlinks: true
 urlcolor: blue
 geometry:
 - top=10mm
@@ -145,6 +145,27 @@ Acesse o documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blo
    - Mira: Localize a quina da construção. Mire no ponto médio das construções, no céu azul;
    - Execução: Arremesso longo;
    - Ref. 141.0905: [YouTube](https://youtu.be/4Evmf9Vj8mw)
+
+1. **CAVERNA**
+   - Alvo: PASSAGEM PARA O BOMB A;
+   - Posição: Encoste no começo do cesto localizado a esquerda;
+   - Mira: Mire na ponta do tecido do toldo;
+   - Execução: Arremesso longo;
+   - Ref. 141.0914: [YouTube](https://youtu.be/Dn6HL-zJu8M)
+
+1. **CAVERNA**
+   - Alvo: CÉU;
+   - Posição: Encoste no pilar redondo próximo a entrada da caverna;
+   - Mira: Mire sobre uma marcação no meio da ponta inferior do caibro;
+   - Execução: Jumpthrow;
+   - Ref. 141.0923: [YouTube](https://youtu.be/oXZf_VAbFP0)
+
+1. **CAVERNA, ENTRADA**
+   - Alvo: LIGAÇÃO;
+   - Posição: Posicione-se no canto direito da porta de entrada da caverna;
+   - Mira: Localize o terceiro sarrafo da Esq para a Dir. Mire na fileira de pregos superior.
+   - Execução: Jumpthrow médio;
+   - Ref. 141.0957: [YouTube](https://youtu.be/2RyRzeWzm-4)
 
 1. **FUNDO (1/3)**
    - Alvo: B BAIXO;
