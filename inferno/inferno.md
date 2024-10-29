@@ -83,6 +83,48 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Execução: Mantenha-se agachado + Arremesso longo;
    - Ref. 121.1244: [YouTube](https://youtu.be/x6rnl5iPaPA)
 
+1. **BASE CT**
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se no caminho formado na areia e em frente ao vaso de flor;
+   - Mira: Mire na junção dos telhados;
+   - Execução: Corra até a mira chegar no beiral inferior + Jumpthrow;
+   - Ref. 121.1201: [YouTube](https://youtu.be/sbK-H0KmPZs)
+
+1. **BASE CT**
+   - Alvo: CAVERNA E BANANA;
+   - Posição: Encoste na quina da construção em frente a porta da adega;
+   - Mira: Localiza dois tênues pontos escuros no lado esquerdo de uma rachadura na parede do lado esquerdo da janela. Os pontos ficam alinhados na altura do telhado à esquerda. Mire entre esses dois pontos escuros;
+   - Execução: Jumpthrow;
+   - Ref. 121.3292: [YouTube](https://youtu.be/xSsOt7xAsJs)
+
+1. **BASE CT**
+   - Alvo: BANANA;
+   - Posição: Encoste no canto da floreira com a quina da construção em frente a porta da adega;
+   - Mira: Agache e mire na à direita do meio superior da janela no alto da construção;
+   - Execução: Ainda agachado + Jumpthrow;
+   - Ref. 121.2345: [YouTube](https://youtu.be/GFwmELJJBAU)
+
+1. **BASE CT**
+   - Alvo: MEIO CIMA;
+   - Posição: Encoste no canto da chapa de madeira e da parede ao lado da caminhonete;
+   - Mira: Mire na casinha à direita no alto do telhado;
+   - Execução: Jumpthrow;
+   - Ref. 121.5638: [YouTube](https://youtu.be/dvZRQKA3oJY)
+
+1. **BASE CT**
+   - Alvo: MEIO BAIXO;
+   - Posição: Encoste no canto da chapa de madeira com a parede da construção amarela;
+   - Mira: Mira na ponta esquerda do telhado, na região da cumeeira;
+   - Execução: Pressione (shift) + Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 121.6701: [YouTube](https://youtu.be/HF4IUXoNLZc)
+
+1. **BASE CT**
+   - Alvo: MEIO BAIXO;
+   - Posição: Encoste no pequeno muro entre os ganchos;
+   - Mira: Mire na ponta da viga de madeira do beiral próximo do canto esquerdo da sacada com os barris;
+   - Execução: Jumpthrow;
+   - Ref. 121.9379: [YouTube](https://youtu.be/AL0nVODLX_c)
+
 ## Molotov
 
 1. **ARCO**
@@ -98,6 +140,27 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Mira: Mire na parte de baixo da letra T;
    - Execução: W + Jumpthrow;
    - Ref. 122.0034: [YouTube](https://youtu.be/If3MXcM9SLY)
+
+1. **BANANA**
+   - Alvo: CAIXÃO;
+   - Posição: Encoste no canto do muro com a parede;
+   - Mira: Mire na parte superior de uma tênue falha na região superior direita da letra B;
+   - Execução: Jumpthrow;
+   - Ref. 122.9234: [YouTube](https://youtu.be/5D__UMovNX0)
+
+1. **CT**
+   - Alvo: MURETA DA PISCINA;
+   - Posição: Encoste no canto da parede da igreja ao lado do vaso de planta;
+   - Mira: Localize o lado esquerdo da marcação vertical formada pelas pedras salientes. Mire no canto inferior direito de uma pedra levemente saliente na região a meia altura da parede; 
+   - Execução: Jumpthrow;
+   - Ref. 122.3901: [YouTube](https://youtu.be/3L10Hv4DUS4)
+
+1. **CT**
+   - Alvo: PISCINA;
+   - Posição: Fique próximo a quina da parede, em frente a porta de entrada da igreja. Visualize o canto superior esquerdo da janela superior próxima a quina da parede;
+   - Mira: Mire na parede abaixo do canto inferior esquerdo da janela; 
+   - Execução: Arremesso longo;
+   - Ref. 122.4322: [YouTube](https://youtu.be/0ZZIWQ8Se-E)
 
 1. **CT**
    - Alvo: TRIPLA;
@@ -171,6 +234,26 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Execução: Ande ligeiramente para a frente + Jumpthrow;
    - Ref. 123.2649: [YouTube](https://youtu.be/U6Wu8TelQAY)
 
+1. **TAPETE DA A**
+   - Alvo: AREIA; BOMB A; ADEGA;
+   - Posição: No pilar com a placa verde de fire exit, mire na terceira grade a direita;
+   - Mira: Mire na mancha que aparece na fresta da parede com a porta;
+   - Execução: Arremesso médio;
+   - Ref. 123.1699: [YouTube](https://youtu.be/CxkcAM1Gfg0)
+
+1. **TAPETE DA A**
+   - Alvo: HEAD SHOT; AREIA; CEMITÉRIO; BOMB; AREIA 2;
+   - Posição: No pilar com a placa verde de fire exit, posicione-se na terceira grade a direita;
+   - Mira: Agache e mire entre as janelas à esquerda na torre que aparece ao lado da placa verde;
+   - Execução: Agachado + Arremesso longo;
+   - Ref. 123.4960: [YouTube](https://youtu.be/hjklJef6PPY)
+
+1. **TAPETE DA A**
+   - Alvo: AREIA; BOMB A; CEMITÉRIO;
+   - Posição: Encoste no canto do aquecedor;
+   - Mira: Localize o canto superior direito interno do nicho com o vaso de flor. Mire um pouco acima, na altura da vista do nicho;
+   - Execução: Arremesso longo;
+   - Ref. 123.3548: [YouTube](https://youtu.be/Yv8IOUb1q90)
 
 ## High Explosive (HE)
 
