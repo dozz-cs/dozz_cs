@@ -125,6 +125,76 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Execução: Jumpthrow;
    - Ref. 131.3452: [YouTube](https://youtu.be/0UNyDm84iVQ);
 
+1. **BECO**
+   - Alvo: BOLTZ;
+   - Posição: Suba na calçada elevada e encoste no canto da parede com o muro, próximo ao vaso de flor;
+   - Mira: Mire na junção superior da haste com o suporte vertical da antena espinha de peixe;
+   - Execução: Ande para a frente até chegar na junção com o fio de energia + Jumpthrow;
+   - Ref. 131.8345: [YouTube](https://youtu.be/4VIT-PBPkk0);
+
+1. **BECO (1/2)**
+   - Alvo: CABECINHA;
+   - Posição: Encoste no canto da parede da calçada elevada com o muro;
+   - Mira: Mire um pouco à esquerda da ponta esquerda da antena espinha de peixe;
+   - Execução: Jumpthrow;
+   - Ref. 131.7433: [YouTube](https://youtu.be/V0jDRO-1sfc);
+
+1. **BECO (2/2)**
+   - Alvo: PASSAGEM JUNGLE;
+   - Posição: Encoste no canto da parede da calçada elevada com o muro;
+   - Mira: Mire na primeira junção à esquerda das hastes da antena espinha de peixe;
+   - Execução: Jumpthrow;
+   - Ref. 131.7434: [YouTube](https://youtu.be/N29J97Vi6wE);
+
+1. **BECO (1/2)**
+   - Alvo: MERCADO JANELA;
+   - Posição: Encoste no canto da parede com o muro no lado da porta de saída da TV;
+   - Mira: Mire na ponta superior da torre;
+   - Execução: Jumpthrow;
+   - Ref. 131.0732: [YouTube](https://youtu.be/q6qx6hqTaK4);
+
+1. **BECO (2/2)**
+   - Alvo: MERCADO PORTA;
+   - Posição: Encoste no canto da parede com o muro no lado da porta de saída da TV;
+   - Mira: Mire na junção da quina da construção com a decoração horizontal logo acima das janelas da torre;
+   - Execução: Jumpthrow;
+   - Ref. 131.5438: [YouTube](https://youtu.be/X9n39Kuty_Y);
+ 
+1. **BECO**
+   - Alvo: VAN;
+   - Posição: Suba no pequeno vaso de flor no chão. Posicione o pé esquerdo ao lado do vaso;
+   - Mira: Alinhe a mira com a vista esquerda da porta. Mire na marcação inferior no parapeito da sacada;
+   - Execução: Jumpthrow;
+   - Ref. 131.2184: [YouTube](https://youtu.be/uqGfLMpz3j0);
+   
+1. **BECO**
+   - Alvo: VAN;
+   - Posição: Encoste no canto da parede com o muro no lado da porta de saída da TV;
+   - Mira: Mire no canto inferior direito da janela ao alto;
+   - Execução: Jumpthrow;
+   - Ref. 131.7593: [YouTube](https://youtu.be/RThRBE7fvag);
+   
+1. **BECO**
+   - Alvo: FOREST;
+   - Posição: Suba no pequeno vaso de flor no chão. Posicione o pé esquerdo ao lado do vaso;
+   - Mire: Mire na ponta esquerda do beiral;
+   - Execução: Jumpthrow;
+   - Ref. 131.8104: [YouTube](https://youtu.be/4NmQMGzOR3Y);
+
+1. **BECO**
+   - Alvo: PASSAGEM EDWARD;
+   - Posição: Encoste no canto da parede em cima dos sacos de lixo;
+   - Mira: Mire na ponta inferior esquerda do tapete vermelho pendurado na parede;
+   - Execução: Jumpthrow médio;
+   - Ref. 131.6630: [YouTube](https://youtu.be/MSyxwpd0mig);
+
+1. **BECO**
+   - Alvo: PASSAGEM MOSCOW;
+   - Posição: Encoste no canto da parede em cima dos sacos de lixo;
+   - Mira: Mire na ponta superior esquerda do tapete vermelho pendurado na parede;
+   - Execução: Jumpthrow médio;
+   - Ref. 131.7391: [YouTube](https://youtu.be/nt0cpATk2Wc)
+
 1. **CARROÇA**
    - Alvo: JANELÃO;
    - Posição: Posicione-se na roda da carroça;
