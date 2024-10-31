@@ -125,7 +125,35 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Execução: Jumpthrow;
    - Ref. 121.9379: [YouTube](https://youtu.be/AL0nVODLX_c)
 
+1. **BASE TR**
+   - Alvo: BANANA;
+   - Posição: Pare no batente esquerdo da porta na base TR;
+   - Mira: Mire na junção do fio do varal com a parte de baixo direita do vestido amarelo;
+   - Execução: W + Jumpthrow;
+   - Ref. 121.2939: [YouTube](https://youtu.be/w-5TZAuMBng)
+
+1. **BASE TR, SAÍDA**
+   - Alvo: CARRO;
+   - Posição: No batente direito da porta de saída, próximo ao barril, posicione-se em frente a linha externa;
+   - Mira: Mire na junção do primeiro caibro do beiral com a parede;
+   - Execução: Jumpthrow;
+   - Ref. 121.0124: [YouTube](https://youtu.be/BF340vhfiZw)
+   
+1. **BASE TR, SAÍDA**
+   - Alvo: PASSAGEM CT;
+   - Posição: Encoste no canto do barril com a parede;
+   - Mira: Mire rente a quina da parede a frente, na altura da carranca na parte inferior da janela;
+   - Execução: Ande (shift) + Jumpthrow;
+   - Ref. 121.8345: [YouTube](https://youtu.be/RQUunlNJ3Fg)
+
 ## Molotov
+
+1. **ARCO**
+   - Alvo: ESCURO DA A;
+   - Posição: Pare com o pé esquerdo na vista esquerda da porta ao lado da caixa de correio vermelha;
+   - Mira: Mire no topo do telhado, próximo a quina da parede;
+   - Execução: Jumpthrow;
+   - Ref. 122.8732: [YouTube](https://youtu.be/H9hNedKZuO0)
 
 1. **ARCO**
    - Alvo: AREIA;
@@ -140,6 +168,13 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Mira: Mire na parte de baixo da letra T;
    - Execução: W + Jumpthrow;
    - Ref. 122.0034: [YouTube](https://youtu.be/If3MXcM9SLY)
+
+1. **AREIA 2**
+   - Alvo: TAPETE DA A;
+   - Posição: Posicione-se no início da canaleta no chão;
+   - Mira: Mire um pouco acima do topo da antena, alinhado com a porta de saída do tapete;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 122.3940: [YouTube](https://youtu.be/XmBYUCLHK-U)
 
 1. **BANANA**
    - Alvo: CAIXÃO;
@@ -175,6 +210,34 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Mira: Mire um pouco acima do rodapé, no final de uma mancha na parede vermelha;
    - Execução: Ande para a frente + Jumpthrow;
    - Ref. 122.1955: [YouTube](https://youtu.be/KETcaea-RrM)
+
+1. **CT**
+   - Alvo: ESCURO;
+   - Posição: Posicione-se próximo ao início da sombra da construção. Alinhe o topo da coluna arredondada com a quina da parede;
+   - Mira: Mire na decoração circular no topo direito da coluna arredondada; 
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 122.9203: [YouTube](https://youtu.be/9AyMkow8W8M)
+
+1. **CAIXÃO**
+   - Alvo: ESCURO;
+   - Posição: Encoste no canto, próximo ao saco de cimento, atrás do caixão;
+   - Mira: Mire na junção da coluna com o arco, em frente ao escuro;
+   - Execução: Arremesso longo;
+   - Ref. 122.8741: [YouTube](https://youtu.be/_UzZLPGo2k4)
+
+1. **CAMPANÁRIO**
+   - Alvo: HEAD SHOT;
+   - Posição: Encoste no batente esquerdo da porta do campanário;
+   - Mira: Mire no canto inferior esquerdo da caixa de correio cinza na parede do Xuxa;
+   - Execução: Jumpthrow;
+   - Ref. 122.8211: [YouTube](https://youtu.be/aePHXvU-FxI)
+
+1. **CAMPANÁRIO**
+   - Alvo: AREIA;
+   - Posição: Posicione-se próximo ao lado esquerdo da porta do campanário;
+   - Mira: Mire em uma marcação horizontal ao lado de uma árvore, na distante construção que aparece ao fundo da região da areia;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 122.4398: [YouTube](https://youtu.be/vdzzKB4RvBU)
 
 1. **CARRO**
    - Alvo: BTT;
