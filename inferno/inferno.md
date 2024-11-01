@@ -43,17 +43,17 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
 
 1. **BANANA**
    - Alvo: PEZINHO CT;
-   - Posição: Encoste as costas no barril de madeira;
-   - Mira: Alinhe na quina de traz do telhado e levante a mira até a altura do arco a sua frente.
+   - Posição: Posicione-se em frente ao carrinho de cargas vermelho próximo aos barris;
+   - Mira: Alinhe a mira com a quina da torre da igreja. Levante a mira na altura do arco.
    - Execução: Arremesso longo;
-   - Ref. 121.8874: [YouTube](https://youtu.be/uhKWTR_WjGA)
+   - Ref. 121.8874: [YouTube](https://youtu.be/KezoK1QVv00)
 
 1. **BANANA**
    - Alvo: PEZINHO CT;
    - Posição: Encoste na pequena parede atrás do muro do carro;
-   - Mira: Mire no cumeeira direita do telhado;
+   - Mira: Localize o canto direito da cumeeira do telhado. Mire no meio do telhado, alinhado com o canto da cumeeira;
    - Execução: Pressione (shift) + W + Jumpthrow;
-   - Ref. 121.9832: [YouTube](https://youtu.be/vATbFjhml40)
+   - Ref. 121.9832: [YouTube](https://youtu.be/ApbtnPseS7E)
 
 1. **BANANA**
    - Alvo: PEZINHO CT;
