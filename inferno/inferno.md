@@ -146,6 +146,83 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Execução: Ande (shift) + Jumpthrow;
    - Ref. 121.8345: [YouTube](https://youtu.be/RQUunlNJ3Fg)
 
+1. **BASE TR, SAÍDA**
+   - Alvo: MEIO;
+   - Posição: Posicione-se em frente a caixa de correio vermelha;
+   - Mira: Mire na ponta da antena a sua frente;
+   - Execução: Arremesso longo;
+   - Ref. 121.4110: [YouTube](https://youtu.be/h4ktjE0fMkc)
+   
+1. **BASE TR, SAÍDA**
+   - Alvo: MEIO;
+   - Posição: Posicione-se em frente ao corrimão da escada;
+   - Mira: Mire na abraçadeira da calha à frente;
+   - Execução: Jumpthrow;
+   - Ref. 121.0977: [YouTube](https://youtu.be/hF04CE9pYBo)
+
+1. **BASE TR, SAÍDA**
+   - Alvo: ADEGA;
+   - Posição: Posicione-se no lado esquerdo da porta de rolo;
+   - Mira: Mire na quina direita do telhado da construção bege;
+   - Execução: Ande (shift) até a mira chegar na tubulação da calha + Jumpthrow;
+   - Ref. 121.8453: [YouTube](https://youtu.be/kjfuxRuBcMw)
+
+1. **CT**
+   - Alvo: BANANA;
+   - Posição: Encoste no canto da parede da igreja ao lado do vaso de planta;
+   - Mira: Mire em uma marcação amarela na haste da antena;
+   - Execução: Jumpthrow;
+   - Ref. 121.0042: [YouTube](https://youtu.be/5m0630O9XjE)
+
+1. **CARRO**
+   - Alvo: CAIXÃO;
+   - Posição: Encoste no canto direito da mureta;
+   - Mira: Mire no alto da região do vale do telhado logo a esquerda da luminária;
+   - Execução: Jumpthrow;
+   - Ref. 121.7981: [YouTube](https://youtu.be/ynRSQmbeKmU)
+
+1. **CARRO**
+   - Alvo: CAIXÃO;
+   - Posição: Encoste em frente ao carrinho de carga vermelho;
+   - Mira: Mire na borda esquerda branca do desenho na parede, em uma região com uma mancha escura;
+   - Execução: Jumpthrow;
+   - Ref. 121.7340: [YouTube](https://youtu.be/Sqfz9oFgaNY)
+
+1. **CARRO**
+   - Alvo: PASSAGEM CT;
+   - Posição: Encoste no lado direito do madeirite;
+   - Mira: Mire no canto inferior direito da letra H;
+   - Execução: Jumpthrow médio;
+   - Ref. 121.6320: [YouTube](https://youtu.be/tmjGL6PuE9M)
+
+1. **CARRO**
+   - Alvo: CT;
+   - Posição: Encoste no canto da mureta com a parede;
+   - Mira: Alinhe a mira com a janela direita da igreja e na altura da segunda fileira de janelas da torre (meio);
+   - Execução: Arremesso longo;
+   - Ref. 121.1978: [YouTube](https://youtu.be/RS75VjCX2TQ)
+
+1. **COGU**
+   - Alvo: TELHADO DO COGU;
+   - Posição: Encoste no canto da parede em cima do telhado no Cogu;
+   - Mira: Mire na região da terceira telha, de baixo para cima;
+   - Execução: Arremesso curto;
+   - Ref. 121.1003: [YouTube](https://youtu.be/HtUwmwLRLFw)
+
+1. **CORREDOR CT**
+   - Alvo: CT;
+   - Posição: Pare na região da escada próximo a coluna à direita;
+   - Mira: Mire na junção do arco (laranjado) com o peitoril da janela;
+   - Execução: Arremesso longo;
+   - Ref. 121.2255: [YouTube](https://youtu.be/ImxW5o9fl88)
+
+1. **HEAD SHOT, FRENTE**
+   - Alvo: FALLEN;
+   - Posição: Na frente do Head Shot, encoste na canto na frente do muro com a caminhonete azul;
+   - Mira: Mire na ponta da telha da construção a frente;
+   - Execução: W + Jumpthrow;
+   - Ref. 121.2384: [YouTube](https://youtu.be/NDkN8GLV1EA)
+
 ## Molotov
 
 1. **ARCO**
@@ -252,6 +329,41 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Mira: Mire um pouco acima da junção da calha com a tubulação da calha ao lado da janela;
    - Execução: Arremesso longo;
    - Ref. 122.3922: [YouTube](https://youtu.be/TeCG5eTMjyU)
+
+1. **CARRO**
+   - Alvo: SAÍDA DA CAVERNA;
+   - Posição: Encoste na parede atrás das placas de madeira;
+   - Mira: Mire ligeiramente à direita do início da tubulação da calha;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 122.7611: [YouTube](https://youtu.be/xmvq9yYoghU)
+
+1. **CARRO**
+   - Alvo: SAÍDA DA CAVERNA;
+   - Posição: Posicione-se próximo a sombra da luminária;
+   - Mira: Mire à direita do início da tubulação da calha;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 122.9724: [YouTube](https://youtu.be/-QgQrMOgVtQ)
+
+1. **CARRO**
+   - Alvo: SAÍDA DA CAVERNA;
+   - Posição: Encoste na parede atrás dos madeirites;
+   - Mira: Mire ligeiramente à esquerda na altura da junção do fio de iluminação superior com a tubulação da calha;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 122.3484: [YouTube](https://youtu.be/tbN8QEpTKTk)
+
+1. **CARRO**
+   - Alvo: CAIXÃO;
+   - Posição: Suba na mureta e encoste na telha;
+   - Mira: Mire ligeiramente à direita da junção de trás da armação de ferro do andaime;
+   - Execução: Arremesso longo;
+   - Ref. 122.0991: [YouTube](https://youtu.be/yRHEgIuOARU)
+
+1. **CARRO**
+   - Alvo: ESCURO;
+   - Posição: Suba no muro e pare em frente a telha;
+   - Mira: Mire na parede no lado direito da janela e na altura dos círculos na grade;
+   - Execução: Jumpthrow;
+   - Ref. 122.7224: [YouTube](https://youtu.be/pI8fNHhWyHw)
 
 1. **CARRO**
    - Alvo: TRIPLA;
