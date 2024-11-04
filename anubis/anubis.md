@@ -258,6 +258,62 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Execução: Jumpthrow;
    - Ref. 141.3896: [YouTube](https://youtu.be/t_NLrun5szA)
 
+1. **FUNDO**
+   - Alvo: RATO;
+   - Posição: Pare com o pé esquerdo na junção das lajotas próximo a sombra de uma planta;
+   - Mira: Mire na parte de baixo da primeira decoração arredondada da Esq para a Dir;
+   - Execução: Jumpthrow;
+   - Ref. 141.1804: [YouTube](https://youtu.be/nJUzVD192eo)
+
+1. **FUNDO**
+   - Alvo: PASSAGEM NEWBA;
+   - Posição: Encoste na coluna do arco. Alinhe o pé esquerdo com a borda do piso;
+   - Mira: Localize o desenho egípcio na parede. Mire na ponta superior da mão próxima a cabeça;
+   - Execução: Jumpthrow;
+   - Ref. 141.5644: [YouTube](https://youtu.be/wL9t6mVU-A0)
+
+1. **FUNDO**
+   - Alvo: TUMBA;
+   - Posição: Encoste na coluna do arco.  Alinhe o pé esquerdo com a borda do piso;
+   - Mira: Mire no meio da segunda decoração arredondada da Esq para a Dir no alto da construção;
+   - Execução: Arremesso longo;
+   - Ref. 141.1841: [YouTube](https://youtu.be/1LYpz-B4RMw)
+
+1. **FUNDO (1/3)**
+   - Alvo: PASSAGEM NEWBA;
+   - Posição: Posicione-se no canto da parede próximo a uma pequena escada;
+   - Mira: Localize as decorações arredondadas direita no topo da construção. Mire ligeiramente abaixo da linha superior da segunda decoração arredondada da Esq para a Dir;
+   - Execução: Arremesso longo;
+   - Ref. 141.1814: [YouTube](https://youtu.be/wUJgy5Ushz4)
+
+1. **FUNDO (2/3)**
+   - Alvo: B BAIXO;
+   - Posição: Posicione-se no canto da parede próximo de uma pequena escada;
+   - Mira: Mire na parte de baixo entre a segunda e a terceira decoração arredondada inferior, da Esq para a Dir;
+   - Execução: Jumpthrow;
+   - Ref. 141.1815: [YouTube](https://youtu.be/HgC8iCjHBIA)
+
+1. **FUNDO (3/3)**
+   - Alvo: RATO;
+   - Posição: Encoste no canto da parede próximo a uma pequena escada;
+   - Mira: Localize as decorações arredondadas no topo da construção à direita. Mire ligeiramente acima da linha horizontal na parte superior da segunda decoração arredondada da Esq para a Dir;
+   - Execução: Arremesso longo;
+   - Ref. 141.1809: [YouTube](https://youtu.be/ioxAqwIuHgA)
+
+1. **FUNDO**
+   - Alvo: B BAIXO;
+   - Posição: Posicione-se no canto da parede próximo de uma pequena escada;
+   - Mira: Localize as decorações arredondadas inferiores esquerda. Mire no meio da segunda decoração arredondada da Dir para a Esq; 
+   - Execução: Jumpthrow médio;
+   - Ref. 141.4921: [YouTube](https://youtu.be/zIfLu14bQaI)
+
+1. **FUNDO**
+   - Alvo: TUMBA;
+   - Posição: Posicione-se na parede no início de alguns pequenos degraus com uma grade de ferro em forma de arco;
+   - Mira: Mire na junção dos ornamentos à direita da coluna central;
+   - Execução: Arremesso longo;
+   - Ref. 141.1838: [YouTube](https://youtu.be/VGdVbKuHBbo)
+
 1. **VARANDA**
    - Alvo: LIGAÇÃO;
    - Posição: Posicione-se na quina direita da saída da varanda;
