@@ -195,6 +195,48 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Execução: Jumpthrow médio;
    - Ref. 131.7391: [YouTube](https://youtu.be/nt0cpATk2Wc)
 
+1. **BECO**
+   - Alvo: CENTRO DO BOMB B;
+   - Posição: Posicione-se sobre o degrau mais alto da escada. Agache e alinhe a mira na junção da sombra com a escada;
+   - Mira: Mire na quina direita e ao ao fundo no topo da torre;
+   - Execução: Arremesso longo;
+   - Ref. 131.1003: [YouTube](https://youtu.be/BpIT1WOEUwo);
+
+1. **BECO**
+   - Alvo: EDWARD FECHADO;
+   - Posição: Pare alinhado com o meio da janela de madeira;
+   - Mira: Mire na ponta da antena acima do telhado;
+   - Execução: Arremesso Longo;
+   - Ref. 131.9027: [YouTube](https://youtu.be/wwU-4fSdcz8);
+
+1. **BECO**
+   - Alvo: EDWARD ABERTO;
+   - Posição: Pare alinhado com o meio da janela de madeira;
+   - Mira: Mire no topo da torre alinhado com a primeira janela à esquerda;
+   - Execução: Jumpthrow;
+   - Ref. 131.5882: [YouTube](https://youtu.be/EW1t1Iqi8Iw);
+
+1. **BOLTZ**
+   - Alvo: CAVERNA;
+   - Posição: Encoste atrás da caixa do Boltz;
+   - Mira: Alinhe a mira com a ponta da torre esquerda. Mire no céu azul entre as torres, acima da saída da caverna;
+   - Execução: Arremesso longo;
+   - Ref. 131.7522: [YouTube](https://youtu.be/dkU4N3K1tkk);
+
+1. **BOLTZ**
+   - Alvo: ENTRADA DO PALÁCIO;
+   - Posição: Pare próximo a sombra do coqueiro no muro atrás do Boltz. Alinhe-se de forma a enxergar o lado direito da porta; 
+   - Mira: Mire ligeiramente abaixo do canto superior esquerdo da porta na região da cabecinha;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 131.4399: [YouTube](https://youtu.be/IpABmc5Nk0I);
+
+1. **BOLTZ**
+   - Alvo: ENTRADA DO PALÁCIO;
+   - Posição: Posicione-se na parte de trás da caixa com cilindros, no degrau mais alto da escada. Coloque o pé esquerdo na junta das lajotas no chão;
+   - Mira: Mire na junção da parede com a madeira superior da caixa;
+   - Execução: Jumpthrow médio;
+   - Ref. 131.1392: [YouTube](https://youtu.be/7RHbwssY_dY); 
+
 1. **CARROÇA**
    - Alvo: JANELÃO;
    - Posição: Posicione-se na roda da carroça;
@@ -224,6 +266,34 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Mira: Mire no topo da planta acima do janelão, alinhado com a antena; 
    - Execução: Ande para a frente até chegar próximo a carroça + Arremesso longo;
    - Ref. 132.0734: [YouTube](https://youtu.be/F9BLOeWn-bk);
+
+1. **CAVERNA**
+   - Alvo: AREIA;
+   - Posição: Posicione-se na na saída da caverna;
+   - Mira: Mire na parte superior esquerda da placa A;
+   - Execução: Corra para frente + Arremesso longo;
+   - Ref. 132.0877: [YouTube](https://youtu.be/xoixaSX3zPY);
+
+1. **CAVERNA**
+   - Alvo: NEWBA E NINJA;
+   - Posição: Posicione-se na quina direita do arco na saída da caverna. Alinhe-se com a divisória do piso no chão;
+   - Mira: Mire na região do topo das pequenas janelas, acima da região da newba;
+   - Execução: Arremesso longo;
+   - Ref. 132.3480: [YouTube](https://youtu.be/vB857ZfW0WA);
+
+1. **CAVERNA**
+   - Alvo: CABECINHA E SANDUÍCHE;
+   - Posição: Posicione-se no topo da escada da caverna;
+   - Mire: Alinhe a mira um pouco acima do topo da porta na região da cabecinha. Mire próximo a quina da construção na região do tetris;  
+   - Execução: Arremesso longo;
+   - Ref. 132.7932: [YouTube](https://youtu.be/7RWdoywgoq8);
+
+1. **CAVERNA TR**
+   - Alvo: SANDUÍCHE;
+   - Posição: Posicione-se próximo a entrada da caverna, ainda na região da caverna TR;
+   - Mira: Mire na ponta do caibro que aparece acima da região do sanduíche;
+   - Execução: Arremesso longo;
+   - Ref. 132.4230: [YouTube](https://youtu.be/wKSemFdwvBE);
 
 ## Flash
 
