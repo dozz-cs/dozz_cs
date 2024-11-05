@@ -223,6 +223,90 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Execução: W + Jumpthrow;
    - Ref. 121.2384: [YouTube](https://youtu.be/NDkN8GLV1EA)
 
+1. **MEIO**
+   - Alvo: ADEGA;
+   - Posição: Posicione-se na quina de uma pequena parede em frente a mureta. Alinhe-se com a tubulação cinza da calha;
+   - Mira: Mire na junção superior do guarda-sol amarelo com a aba direita da janela veneziana que está aberta;
+   - Execução: Jumpthrow;
+   - Ref. 121.7634: [YouTube](https://youtu.be/11oU4MQHS8g)
+
+1. **MEIO**
+   - Alvo: NIP;
+   - Posição: Posicione-se à direita, no canto da parede com a mureta;
+   - Mira: Mire na junção a esquerda da luminária com o telhado;
+   - Execução: Jumpthrow;
+   - Ref. 121.1104: [YouTube](https://youtu.be/yZZCIrohrkI)
+
+1. **MEIO**
+   - Alvo: NIP;
+   - Posição: Posicione-se em frente a junção das placas de madeira com a caminhonete verde;
+   - Mira: Mire na parede de passagem para o Xuxa, na altura do muro e na divisão entre a parede branca e laranja;
+   - Execução: Ande para a frente + Jumpthrow;
+   - Ref. 121.4063: [YouTube](https://youtu.be/CYksEK5JskQ)
+
+1. **MEIO FALSO**
+   - Alvo: ADEGA;
+   - Posição: Posicione-se em frente aos cartões postais;
+   - Mira: Mire na parte inferior da letra S na palavra "CASA";
+   - Execução: Jumpthrow;
+   - Ref. 121.3488: [YouTube](https://youtu.be/sJE6wDR5DbA)
+
+1. **MEIO FALSO**
+   - Alvo: AREIA 2;
+   - Posição: Posicione-se em frente aos cartões postais;
+   - Mira: Mire na parte inferior da letra V na palavra "VIGNA";
+   - Execução: Jumpthrow;
+   - Ref. 121.3992: [YouTube](https://youtu.be/YwTqip6XUDM)
+
+1. **MEIO FALSO**
+   - Alvo: AREIA 2;
+   - Posição: Encoste no lado esquerdo da porta de rolo, ao lado do janelão.
+   - Mira: Mire na junção do beiral com a parede e alinhado com o lado esquerdo da janela veneziana (fechada).
+   - Execução: Jumpthrow;
+   - Ref. 121.7209: [YouTube](https://youtu.be/JXKCiiyh1Xc)
+
+1. **MEIO FALSO**
+   - Alvo: ARCO;
+   - Posição: Posicione-se em frente aos cartões postais;
+   - Mira: Mire logo a esquerda de uma abraçadeira, semelhante a um nó, que une os fios de energia;
+   - Execução: Jumpthrow;
+   - Ref. 121.5210: [YouTube](https://youtu.be/co0mUwBqseg)
+
+1. **MEIO FALSO**
+   - Alvo: AREIA E CAMINHÃO;
+   - Posição: Posicione-se em frente aos cartões postais;
+   - Mira: Mire a esquerda e em baixo da quina da luminária;
+   - Execução: Arremesso longo;
+   - Ref. 121.0087: [YouTube](https://youtu.be/_g5MEKaZKVI)
+   
+1. **MEIO FALSO**
+   - Alvo: NIP;
+   - Posição: Posicione-se no canto da mureta de pedra perto da ponte;
+   - Mira: Mire na parte inferior entre as janelas venezianas na construção vermelha;
+   - Execução: Jumpthrow;
+   - Ref. 121.5421: [YouTube](https://youtu.be/D0L_b9jkmyg)
+
+1. **MEIO FALSO**
+   - Alvo: NIP;
+   - Posição: Encoste no canto de uma pequena parede ao lado da porta vermelha de acesso ao tapete TR;
+   - Mira: Mire entre a janela veneziana fechada e a quina da parede vermelha, na altura de uma marcação horizontal decorativa;
+   - Execução: Jumpthrow;
+   - Ref. 121.7423: [YouTube](https://youtu.be/322a0_Bcx_k)
+
+1. **MEIO FALSO**
+   - Alvo: NIP;
+   - Posição: Encoste no canto da escada embaixo da sacada do janelão, em frente a porta vermelha, mas não suba na escada.
+   - Mira: Mire na abraçadeira da calha entre os dois caibros localizados à esquerda.
+   - Execução: Jumpthrow;
+   - Ref. 121.4902: [YouTube](https://youtu.be/dqy_bh7PQXQ)
+
+1. **MEIO FALSO**
+   - Alvo: NIP;
+   - Posição: Encoste no canto da mureta de pedra com a porta de madeira.
+   - Mira: Mire no meio de uma tubulação branca no fio de energia.
+   - Execução: Jumpthrow;
+   - Ref. 121.5102: [YouTube](https://youtu.be/7l6gAK6RKIY)
+
 ## Molotov
 
 1. **ARCO**
@@ -386,6 +470,41 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Execução: Jumpthrow;
    - Ref. 122.8740: [YouTube](https://youtu.be/ZfSRdo4tQLg)
 
+1. **CIMENTO**
+   - Alvo: BANANA (OPOSTO À MADEIRA)
+   - Posição: Pare em frente aos sacos de cimento;
+   - Mira: Mire no topo de uma coluna no muro na região da banana;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 122.2845: [YouTube](https://youtu.be/qwxd_NY-sa4)
+
+1. **FALLEN**
+   - Alvo: BANANA (MADEIRA)
+   - Posição: Posicione-se na vista direita da porta da região do Fallen;
+   - Mira: Mire próximo ao chão, na junção das pedras próximas a quina;
+   - Execução: Jumpthrow;
+   - Ref. 122.9377: [YouTube](https://youtu.be/EGUK3b8sUnE)
+
+1. **IGREJA**
+   - Alvo: CIMENTO DO BOMB B;
+   - Posição: Encoste no canto da parede atrás do púlpito;
+   - Mira: Mire na parte superior direita de uma pedra saliente na abertura em forma de arco;
+   - Execução: Jumpthrow;
+   - Ref. 122.09323: [YouTube](https://youtu.be/QjU79BKgJ9Q)
+
+1. **MEIO**
+   - Alvo: COGU;
+   - Posição: Posicione-se na passagem do meio para o Xuxa. Alinha a quina do muro com o arco na parede a frente;
+   - Mira: Mire rente a parede próximo ao telhado;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 122.6433: [YouTube](https://youtu.be/AhAodF4Kf_M)
+
+1. **MEIO**
+   - Alvo: COGU;
+   - Posição: Posicione-se próximo ao canto direito da porta pantográfica, alinhando a luminária com a quina da parede;
+   - Mira: Mire no telhado próximo a quina da parede;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 122.3222: [YouTube](https://youtu.be/ZWHtVL0Uvvk)
+
 ## Flash
 
 1. **ARCO**
@@ -408,6 +527,34 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Mira: Mire na junção esquerda do barril com o carrinho de carga vermelho.
    - Execução: Ande ligeiramente para a frente + Jumpthrow;
    - Ref. 123.2649: [YouTube](https://youtu.be/U6Wu8TelQAY)
+
+1. **BASE TR, SAÍDA**
+   - Alvo: BANANA; CARRO;
+   - Posição: Encoste na parede direita da escada de acesso a cozinha;
+   - Mira: Mire acima de uma mancha na parede na região do arco;
+   - Execução: Jumpthrow;
+   - Ref. 123.9832: [YouTube](https://youtu.be/IGPONOwVexY)
+
+1. **CAIXÃO**
+   - Alvo: CARRO; BANANA;
+   - Posição: Posicione-se em cima dos madeirites em frente a placa com o desenho do caixão;
+   - Mira: Mire na ponta esquerda do telhado mais alto;
+   - Execução: Arremesso longo;
+   - Ref. 123.0905: [YouTube](https://youtu.be/Vzp1m26BPDg)
+
+1. **CARRO**
+   - Alvo: BOMB B; TRIPLA; CAIXÃO; ESCURO; CT;
+   - Posição: Encoste no canto da parede com a mureta;
+   - Mira: Mire na ponta inferior da letra C;
+   - Execução: Jumpthrow médio;
+   - Ref. 123.3894: [YouTube](https://youtu.be/D8r1MZQFAUQ)
+
+1. **CARRO**
+   - Alvo: ESCURO; TRIPLA; CAIXÃO; IGREJA;
+   - Posição: Suba na mureta e encoste na parede atrás do telhado;
+   - Mira: Mire no vão entre o andaime e a escada que está em cima do telhado;
+   - Execução: Arremesso longo;
+   - Ref. 123.7323: [YouTube](https://youtu.be/eKz8aw7_-m8)
 
 1. **TAPETE DA A**
    - Alvo: AREIA; BOMB A; ADEGA;
