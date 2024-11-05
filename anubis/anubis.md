@@ -314,6 +314,48 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Execução: Arremesso longo;
    - Ref. 141.1838: [YouTube](https://youtu.be/VGdVbKuHBbo)
 
+1. **JANELÃO**
+   - Alvo: PORTA DO MEIO;
+   - Posição: Posicione-se de frente para a porta da ligação;
+   - Mira: Mire em uma pequena linha divisória no tijolo acima e no centro da porta da ligação;
+   - Execução: Ande para a frente até chegar próximo a escada + Arremesso longo;
+   - Ref. 141.3019: [YouTube](https://youtu.be/IqoQsa_a7IE)
+
+1. **LIGAÇÃO**
+   - Alvo: ENTRADA DA CAVERNA;
+   - Posição: Encoste no lado esquerdo da porta;
+   - Mira: Mire imediatamente à direita e quase sobre uma pequena falha na faixa horizontal do rodapé.;
+   - Execução: Jumpthrow médio;
+   - Ref. 141.3649: [YouTube](https://youtu.be/EFA1SktNFkk)
+
+1. **MEIO**
+   - Alvo: PONTE;
+   - Posição: Encoste na coluna redonda ao lado da lixeira atrás da porta de vidro;
+   - Mira: Mire na borda direita do sol, um pouco acima;
+   - Execução: Jumpthrow;
+   - Ref. 141.3916: [YouTube](https://youtu.be/CctPBiKKktg)
+
+1. **MEIO**
+   - Alvo: PONTE;
+   - Posição: Encoste atrás da caixa com um pano azul;
+   - Mira: Dê um ou dois passos para o lado até abrir um pequeno vão, mire nesse vão;
+   - Execução: Arremesso longo;
+   - Ref. 141.3927: [YouTube](https://youtu.be/kHkHgbHlcvA)
+
+1. **MEIO, CAIXA**
+   - Alvo: ENTRADA DA CAVERNA;
+   - Posição: Suba na caixa e posicione-se em frente a parede quebrada;
+   - Mira: Mire a esquerda da mancha no alto da torre. No ceu azul;
+   - Execução: Agache + Arremesso longo;
+   - Ref. 141.3934: [YouTube](https://youtu.be/Mee8XFGRFAk)
+
+1. **MEIO, PORTA**
+   - Alvo: ENTRADA DA CAVERNA;
+   - Posição: Posicione-se em baixo do batente da porta;
+   - Mira: Mire acima da pedra com uma superfície reta;
+   - Execução: Arremesso longo;
+   - Ref. 141.3947: [YouTube](https://youtu.be/-99OCt51epM)
+
 1. **VARANDA**
    - Alvo: LIGAÇÃO;
    - Posição: Posicione-se na quina direita da saída da varanda;
@@ -393,6 +435,34 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 142.0913: [YouTube](https://youtu.be/V_9TMPeKkac)
 
+1. **CAVERNA, ENTRADA**
+   - Alvo: LIGAÇÃO;
+   - Posição: Posicione-se no canto direito da porta de entrada da caverna;
+   - Mira: Mire nos pregos superiores do terceiro sarrafo da Esq para a Dir.
+   - Execução: Jumpthrow médio;
+   - Ref. 142.0919: [YouTube](https://youtu.be/IDPNW-nypYU)
+
+1. **CAVERNA, ENTRADA**
+   - Alvo: PAREDÃO;
+   - Posição: Encoste no canto direito da porta de entrada da caverna;
+   - Mira: Alinhe a mira com uma junção das pedras logo acima do cesto de palha. Mire na tampa do cesto;
+   - Execução: Jumpthrow;
+   - Ref. 142.0925: [YouTube](https://youtu.be/1YOi-Mi43vg)
+
+1. **CAVERNA, ENTRADA**
+   - Alvo: PAREDÃO E ESCADA;
+   - Posição: Encoste no canto direito da porta de entrada da caverna;
+   - Mira: No topo do arco, mire na altura da linha horizontal;
+   - Execução: Arremesso longo;
+   - Ref. 142.0932: [YouTube](https://youtu.be/a7ivxXMxZ3I)
+
+1. **CAVERNA, ENTRADA**
+   - Alvo: LIGAÇÃO;
+   - Posição: Encoste na parede do lado direito da porta da entrada da caverna;
+   - Mira: Mire no círculos da grade na parte inferior direita da janela;
+   - Execução: Arremesso longo;
+   - Ref. 142.0928: [YouTube](https://youtu.be/CrlcqOVvdx0)
+
 1. **TETRIS**
    - Alvo: CÉU;
    - Posição: Posicione-se na caixa do tetris do meio;
@@ -464,6 +534,20 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Mira: Mire na mancha horizontal entre as duas torres;
    - Execução: Arremesso longo;
    - Ref. 143.5683: [YouTube](https://youtu.be/UDYrGmo1uW4)
+
+1. **ESQUINA**
+   - Alvo: PORTAS;
+   - Posição: Posicione-se no lado direito da escada;
+   - Mira: Alinhe a mira na altura da quina traseira da construção na direção da palmeira. A mira ficará no céu azul;
+   - Execução: Arremesso longo;
+   - Ref. 143.1514: [YouTube](https://youtu.be/KjZ0jSxBhxw)
+
+1. **ESQUINA**
+   - Alvo: RATO;
+   - Posição: Posicione-se na quina da parede ao lado dos cestos no chão. Alinhe a mira com a quina da parede;
+   - Mira: Localize o vão no topo da parede do lado direito da palmeira. Mire dentro do vão, no topo da folha;
+   - Execução: Arremesso longo;
+   - Ref. 143.6449: [YouTube](https://youtu.be/uAxaiK_xeuY)
 
 ## High Explosive
 
