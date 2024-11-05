@@ -83,6 +83,41 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Execução: Jumpthrow;
    - Ref. 131.2965: [YouTube](https://youtu.be/hteQbGFrhBw);
 
+1. **BASE TR**
+   - Alvo: JANELÃO;
+   - Posição: Encoste no canto da parede em frente a lixeira;
+   - Mira: Mire no topo direito da construção com a parede vermelha;
+   - Execução: Pressione a tecla para a direita + Jumpthrow (Não ande pra a frente);
+   - Ref. 131.5629: [YouTube](https://youtu.be/CbVUCljo8NU);
+
+1. **BASE TR**
+   - Alvo: PASSAGEM EDWARD;
+   - Posição: Encostado na frente da lixeira;
+   - Mira: Mire na ponta da folha central no topo da construção;
+   - Execução: Jumpthrow;
+   - Ref. 131.9642: [YouTube](https://youtu.be/T9IVs9Y_HZo);
+
+1. **BASE TR**
+   - Alvo: L; ENTRADA DO MOSCOU;
+   - Posição: Encoste no canto da parede com a frente da lixeira;
+   - Mira: Mire na ponta da folha esquerda da planta no topo da construção;
+   - Execução: Jumpthrow;
+   - Ref. 131.8954: [YouTube](https://youtu.be/cH0hkFLdjgI);
+
+1. **BASE TR**
+   - Alvo: L;
+   - Posição: Encoste na parede ao lado da lixeira;
+   - Mira: Mire na parte superior da folha deitada à esquerda e no topo da construção;
+   - Execução: Jumpthrow;
+   - Ref. 131.7320: [YouTube](https://youtu.be/ZPze9F_tfxc);
+
+1. **BASE TR** (new)
+   - Alvo: LIGAÇÃO BAIXO;
+   - Posição: Encoste no canto da parede com a lateral da lixeira;
+   - Mira: Mire no terceiro losango, da Dir para a Esq. na parte inferior do tapete;
+   - Execução: Jumpthrow;
+   - Ref. 131.2544: [YouTube](https://youtu.be/Uqlj_ydElrQ);
+
 1. **BASE TR (1/2)**
    - Alvo: JUNGLE;
    - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
@@ -237,6 +272,55 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Execução: Jumpthrow médio;
    - Ref. 131.1392: [YouTube](https://youtu.be/7RHbwssY_dY); 
 
+1. **BOMB B**
+   - Alvo: JANELA DO MERCADO;
+   - Posição: Posicione-se atrás da caixa no bomb B em frente a varanda;
+   - Mira: Mire no meio da ferragem sem a lona verde no teto do bomb, próximo ao Forest;
+   - Execução: Jumpthrow;
+   - Ref. 131.2110: [YouTube](https://youtu.be/G1W3euPg-XE);
+
+1. **CABECINHA**
+   - Alvo: ENTRADA DO PALÁCIO;
+   - Posição: Posicione-se ao lado da escada da cabecinha.
+   - Mira: Mire na pequena torre com a ponta branca que aparece logo acima do topo da escada;
+   - Execução: Arremesso longo;
+   - Ref. 131.4370: [YouTube](https://youtu.be/9maVZMbl5Zk);
+
+1. **CAVERNA TR (1/2)**
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Encoste no canto da parede com a escada ao fundo;
+   - Mira: Mire na ponta da folha da bananeira;
+   - Execução: Jumpthrow;
+   - Ref. 131.8303: [YouTube](https://youtu.be/M8etjOJe_LQ);
+
+1. **CAVERNA TR (2/2)**
+   - Alvo: JUNGLE;
+   - Posição: Encoste no canto da parede com a escada ao fundo (não suba na escada);
+   - Mira: Mire na junção da segunda ripa horizontal do andaime;
+   - Execução: Jumpthrow;
+   - Ref. 131.0946: [YouTube](https://youtu.be/7x3Etf5oh_w);
+
+1. **CAVERNA TR (1/2)**
+   - Alvo: CABECINHA;
+   - Posição: Posicione-se de frente para a vista direita do portão;
+   - Mira: Posicione a mire no céu azul muito próximo da quina no topo na construção.
+   - Execução: Jumpthrow;
+   - Ref. 131.8757: [YouTube](https://youtu.be/F2piqW1aj0c);
+
+1. **CAVERNA TR (2/2)**
+   - Alvo: PASSAGEM JUNGLE;
+   - Posição: Posicione-se de frente para a vista direita do portão;
+   - Mira: Mire na junção do fio de energia elétrica com a parede;
+   - Execução: Jumpthrow;
+   - Ref. 131.8756: [YouTube](https://youtu.be/HMZPhN576KA);
+
+1. **CAVERNA TR**
+   - Alvo: L;
+   - Posição: Posicione-se no canto da escada com a parede. Não suba na escada;
+   - Mira: Mire na junção do telhado com a parede esquerda;
+   - Execução: Jumpthrow;
+   - Ref. 131.9972: [YouTube](https://youtu.be/Q3jbGxjj1no);
+
 1. **CARROÇA**
    - Alvo: JANELÃO;
    - Posição: Posicione-se na roda da carroça;
@@ -295,6 +379,27 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Execução: Arremesso longo;
    - Ref. 132.4230: [YouTube](https://youtu.be/wKSemFdwvBE);
 
+1. **COZINHA**
+   - Alvo: VARANDA DA B;
+   - Posição: Na região da saída da cozinha para o tapete;
+   - Mira: Mire na marcação horizontal do teto alinhado com o meio da porta;
+   - Execução: Arremesso longo;
+   - Ref. 132.7893: [YouTube](https://youtu.be/5c9LJAnewNg);
+
+1. **EDWARD**
+   - Alvo: VAN;
+   - Posição: Posicione-se próximo a coluna do Edward. Alinhe a ponta da coluna com a região entre a tubulação e a quina da parede;
+   - Mira: Mire na marcação do teto, acima da porta;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 132.7124: [YouTube](https://youtu.be/psE6cSM38Ug);
+
+1. **JANELÃO**
+   - Alvo: RATO;
+   - Posição: Encoste no canto da parede com a mesa;
+   - Mire: Mire no meio da parede, alinhado com a região descascada na parede;
+   - Execução: Arremesso longo;
+   - Ref. 132.6492: [YouTube](https://youtu.be/FIDqk8gFOlc);
+
 ## Flash
 
 1. **AREIA**
@@ -303,6 +408,83 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Mira: Mire na madeira acima da altura da pilha de blocos;
    - Execução: Jumpthrow;
    - Ref. 133.8733: [YouTube](https://youtu.be/WlyZDl-jE88);
+
+1. **AREIA**
+   - Alvo: CAVERNA; TETRIS; PALÁCIO;
+   - Posição: Posicione-se no canto próximo a escada;
+   - Mira: Mire na placa do bomb, acima da letra A;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 133.7632: [YouTube](https://youtu.be/5mAPA57UyqU);
+
+1. **BECO**
+   - Alvo: EDWARD; FOREST; VAN; MERCADO;
+   - Posição: Encoste na parede em frente a coluna de madeira na escada;
+   - Mire: Mire na parede entre o topo da porta e uma marcação horizontal, alinhado com a vista esquerda da porta;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 133.0922: [YouTube](https://youtu.be/pJ97ZwvhgFE);
+
+1. **CARROÇA**
+   - Alvo: LIGAÇÃO; RATO; JANELÃO; L;
+   - Posição: Pare na parte de trás da carroça;
+   - Mire: Mire na ponta de uma haste de suporte da fiação elétrica na parede da ligação. 
+   - Execução: Arremesso longo;
+   - Ref. 133.2197: [YouTube](https://youtu.be/SLPNGXn0Cuw);
+
+1. **CARROÇA**
+   - Alvo: MEIO; L; JANELÃO; RATO;
+   - Posição: Pare atrás da carroça;
+   - Mire: Agache e alinhe a mira com o assoalho da carroça;
+   - Execução: Mantenha-se agachado e arremesso curto;
+   - Ref. 133.4066: [YouTube](https://youtu.be/Q5Ob6yhFMhc);
+
+1. **CARROÇA**
+   - Alvo: MEIO; L; JANELÃO; RATO;
+   - Posição: Pare atrás da carroça;
+   - Mire: Mire na parede atrás da carroça, na altura das pontas das folhagens na parede;
+   - Execução: Arremesso longo;
+   - Ref. 133.7923: [YouTube](https://youtu.be/jSJf8qUYk2M);
+
+1. **CAVERNA TR**
+   - Alvo: TETRIS; CABECINHA; DEFAULT; SANDUÍCHE;
+   - Posição: Posicione-se no canto chanfrado;
+   - Mira: Mire abaixo da quina da plataforma;
+   - Execução: Jumpthrow;
+   - Ref. 133.1982: [YouTube](https://youtu.be/izAbPGrByWkz);
+
+1. **CAVERNA TR**
+   - Alvo: TACO; TETRIS; CABECINHA; DEFAULT;
+   - Posição: Posicione-se em frente ao portão;
+   - Mire: Mire na ponta superior da luminária;
+   - Execução: Arremesso longo;
+   - Ref. 133.7900: [YouTube](https://youtu.be/RduJru6g__o);
+
+1. **CAVERNA TR**
+   - Alvo: CAVERNA; TETRIS;
+   - Posição: Posicione-se do lado da coluna no lado direito da porta de entrada da caverna;
+   - Mire: Agache e mire em uma região manchada na parede logo acima dos tijolos próximos ao chão;
+   - Execução: Jumpthrow;
+   - Ref. 133.3375: [YouTube](https://youtu.be/AHmQnjVh77Y);
+
+1. **JANELÃO**
+   - Alvo: MEIO; RATO; CARROÇA; PASSAGEM;
+   - Posição: Encoste no canto da parede ao lado do buraco;
+   - Mire: Mire próximo ao canto superior esquerdo do janelão;
+   - Execução: Arremesso longo;
+   - Ref. 133.9944: [YouTube](https://youtu.be/0I_PURmknng);
+
+1. **JANELÃO**
+   - Alvo: MEIO; RATO;
+   - Posição: Encoste no canto do cavalete ao lado do buraco;
+   - Mire: Mire no meio do papelão no chão;
+   - Execução: Jumpthrow curto;
+   - Ref. 133.8734: [YouTube](https://youtu.be/nHh_0JOxsJM);
+
+1. **JANELÃO**
+   - Alvo: RATO;
+   - Posição: Encoste no canto da parede com a mesa;
+   - Mire: Mire no meio da parede, alinhado com a região descascada na parede;
+   - Execução: Arremesso longo;
+   - Ref. 133.7409: [YouTube](https://youtu.be/HMQny3jUBh8);
 
 ## High Explosive (HE)
 
