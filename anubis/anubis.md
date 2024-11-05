@@ -356,6 +356,48 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Execução: Arremesso longo;
    - Ref. 141.3947: [YouTube](https://youtu.be/-99OCt51epM)
 
+1. **PAREDÃO**
+   - Alvo: VARANDA;
+   - Posição: Encoste na coluna redonda à direita da entrada da ligação;
+   - Mira: Agache e mire no canto inferior esquerdo da janela, alinhado com a pequena grade;
+   - Execução: Arremesso longo;
+   - Ref. 141.4815: [YouTube](https://youtu.be/JLnU1b0ArtQ)
+
+1. **RATO**
+   - Alvo: TUMBA;
+   - Posição: Suba a escada e aproxime-se do lado esquerdo da porta até visualizar a parte superior piramidal do pilar e o início do céu azul;
+   - Mira: Mire na parte superior do pilar próximo a uma marcação na parte superior da porta;
+   - Execução: Arremesso longo;
+   - Ref. 141.5417: [YouTube](https://youtu.be/KoZb09kxOyI)
+
+1. **TETRIS**
+   - Alvo: LIGAÇÃO;
+   - Posição: Posicione-se na pequena parede a frente;
+   - Mira: Mire na junção dos tijolos alinhado com a direita do balaustre;
+   - Execução: Jumpthrow médio;
+   - Ref. 141.6014: [YouTube](https://youtu.be/lDmRxFZ32og)
+
+1. **TETRIS, FRENTE DO**
+   - Alvo: CÉU;
+   - Posição: Posicione-se ao lado da escada do Nilo, na entrada da caverna;
+   - Mira: Mire na junção das pedras da parede, alinhado com a parte de baixo da placa do bomb site A;
+   - Execução: Jumpthrow;
+   - Ref. 141.0937: [YouTube](https://youtu.be/ow4_NKjlWjY)
+
+1. **TETRIS, FRENTE DO**
+   - Alvo: ALTAR;
+   - Posição: Posicione-se em frente a uma decoração na caixa do tetris;
+   - Mira: Mire na parte superior da parede estreita da direita, na junção dos tijolos.
+   - Execução: Jumpthrow;
+   - Ref. 141.0945: [YouTube](https://youtu.be/nCACkhXT8HI)
+
+1. **VARANDA**
+   - Alvo: PORTA DO MEIO;
+   - Posição: Posicione-se no canto direito da parede próxima a porta de grade;
+   - Mira: Mire no canto superior esquerdo interno da torre com janelas em formato de fechadura;
+   - Execução: Jumpthrow;
+   - Ref. 141.6617: [YouTube](https://youtu.be/tCKW7Mw8SKI)
+
 1. **VARANDA**
    - Alvo: LIGAÇÃO;
    - Posição: Posicione-se na quina direita da saída da varanda;
@@ -463,6 +505,20 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Execução: Arremesso longo;
    - Ref. 142.0928: [YouTube](https://youtu.be/CrlcqOVvdx0)
 
+1. **ESQUINA**
+   - Alvo: PORTAS;
+   - Posição: Pare na quina da mesa, próximo ao acesso a ponte;
+   - Mira: Mire no topo da segundo vão na parede;
+   - Execução: Arremesso longo;
+   - Ref. 142.1518: [YouTube](https://youtu.be/KE3X9yNQ99I)
+
+1. **ESQUINA**
+   - Alvo: JANELÃO;
+   - Posição: Posicione-se no canto esquerdo da escada;
+   - Mira: Mire na mancha horizontal entre as duas torres;
+   - Execução: Arremesso longo;
+   - Ref. 142.1523: [YouTube](https://youtu.be/H5jXV-FnGF0)
+
 1. **TETRIS**
    - Alvo: CÉU;
    - Posição: Posicione-se na caixa do tetris do meio;
@@ -548,6 +604,48 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Mira: Localize o vão no topo da parede do lado direito da palmeira. Mire dentro do vão, no topo da folha;
    - Execução: Arremesso longo;
    - Ref. 143.6449: [YouTube](https://youtu.be/uAxaiK_xeuY)
+
+1. **FUNDO**
+   - Alvo: TUMBA; NEWBA; RATO; PILAR;
+   - Posição: Posicione-se no lado direito do portão de forma que seja possível visualizar a parede com a porta falsa;
+   - Mira: Mire à esquerda e na altura do meio da porta falsa;
+   - Execução: Arremesso longo;
+   - Ref. 143.1823: [YouTube](https://youtu.be/8eBercwJINY)
+
+1. **JANELÃO**
+   - Alvo: PORTA DO MEIO; TUMBA;
+   - Posição: Pare no canto esquerdo da parede de acesso ao meio, com vistas para a caixa coberta com lona azul e para a porta do meio;
+   - Mira: Mire do lado esquerdo da coluna arredondada e na altura da linha horizontal superior e abaixo dos desenhos egípcios;
+   - Execução: Arremesso longo;
+   - Ref. 143.3018: [YouTube](https://youtu.be/UfxD1Kn7bbw)
+
+1. **JANELÃO**
+   - Alvo: PONTE; PALMEIRA; ESQUINA;
+   - Posição: Posicione-se na parede ao lado do janelão;
+   - Mira: Mire no parafuso superior das portas duplas;
+   - Execução: W + Arremesso longo;
+   - Ref. 143.7456: [YouTube](https://youtu.be/YTHBqrk2fEc)
+
+1. **MEIO**
+   - Alvo: PONTE;
+   - Posição: Posicione-se no canto de uma pequena parede localizada à esquerda na região do meio;
+   - Mira: Mire na quina da decoração abaixo do beiral do telhado no topo da construção;
+   - Execução: Arremesso longo;
+   - Ref. 143.7662: [YouTube](https://youtu.be/wrBoHFjx0FA)
+
+1. **NEWBA**
+   - Alvo: FUNDO;
+   - Posição: Posicione-se no canto da parede com a esquerda da coluna arredondada na saída da tumba;
+   - Mira: Coloque a mira à direita do pilar alinhado com a grade furada. Mire na altura do topo da porta;
+   - Execução: Arremesso longo;
+   - Ref. 143.4217: [YouTube](https://youtu.be/mKWAOhsvLe0)
+
+1. **NEWBA**
+   - Alvo: FUNDO;
+   - Posição: Posicione-se no canto da parede com a esquerda da coluna arredondada na saída da tumba;
+   - Mira: Coloque a mira à esquerda do pilar. Alinhe a mira entre a segunda e a terceira grade;
+   - Execução: Jumpthrow;
+   - Ref. 143.4229: [YouTube](https://youtu.be/N4yqSx1unjM)
 
 ## High Explosive
 
