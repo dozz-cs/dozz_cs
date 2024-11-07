@@ -384,6 +384,27 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Execução: Arremesso longo;
    - Ref. 131.8527: [YouTube](https://youtu.be/KbS0IDc4NK4);
 
+1. **CARROÇA**
+   - Alvo: JANELA DO MERCADO;
+   - Posição: Posicione-se na roda da carroça;
+   - Mira: Alinhe a mira verticalmente com junção da caixa e da tampa de papelão. Levante a mira até alinhar com o tijolo à esquerda na parte superior da construção;
+   - Execução: Jumpthrow;
+   - Ref. 131.4209: [YouTube](https://youtu.be/GbFyRXd4zEw);
+ 
+1. **JUNGLE**
+   - Alvo: BOLTZ;
+   - Posição: Posicione-se na quina à direita na saída do Jungle;
+   - Mire: Mire na marcação horizontal acima da grande porta com decoração;
+   - Execução: Arremesso longo;
+   - Ref. 131.2203: [YouTube](https://youtu.be/nAhRK3pkAlI);
+
+1. **MEIO**
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Posicione-se próximo a parede de forma que seja possível enxergar as caixas de eletricidade na parede interna direita da ligação;
+   - Mire: Mire na altura da caixa de eletricidade no interior da ligação;
+   - Execução: Arremesso longo;
+   - Ref. 131.6342: [YouTube](https://youtu.be/RJX0mfH8bow);
+
 1. **MEIO FALSO**
    - Alvo: JUNGLE;
    - Posição: Encoste na pequena parede ao lado da porta;
@@ -439,6 +460,132 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Mire: Alinhe a mire na altura do beiral. Mire entre as manchas na parede, à esquerda do pequeno beiral;
    - Execução: Jumpthrow;
    - Ref. 131.7392: [YouTube](https://youtu.be/WJR6XQGhEVQ);
+
+1. **MERCADO JANELA (FORA)**
+   - Alvo: TAPETE DA B;
+   - Posição: Encoste no canto ao lado da janela;
+   - Mira: Mire na quina direita do telhado acima da janela da região do tapete;
+   - Execução: Arremesso longo;
+   - Ref. 131.0766: [YouTube](https://youtu.be/i78OEdZyQt0);
+ 
+1. **PALÁCIO**
+   - Alvo: LIGAÇÃO;
+   - Posição: Posicione-se à direita da porta do palácio;
+   - Mire: Mire na quina da construção, abaixo da antena;
+   - Execução: Arremesso longo;
+   - Ref. 131.9579: [YouTube](https://youtu.be/XHkQ7BAwvys);
+
+1. **PASSAGEM CARROÇA**
+   - Alvo: JANELÃO;
+   - Posição: Posicione-se sobre as sombras dos fios com o marcação no chão.
+   - Mire: Mire na haste superior da antena tipo espinha de peixe;
+   - Execução: Ande para a frente até chegar na haste inferior + Arremesso longo;
+   - Ref. 131.4560: [YouTube](https://youtu.be/uMklmAI_KDk);
+
+1. **PASSAGEM CARROÇA**
+   - Alvo: JANELÃO;
+   - Posição: Encoste na primeira quina da parede. Ande para a esquerda até aparecer um bloco no topo da construção;
+   - Mire: Mire no topo do bloco;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 131.7592: [YouTube](https://youtu.be/33ghUhrl4Ls);
+
+1. **PASSAGEM CARROÇA**
+   - Alvo: LIGAÇÃO BAIXO;
+   - Posição: Encoste na primeira quina da parede;
+   - Mire: Mire na ponta superior da porta de entrada da ligação;
+   - Execução: Arremesso longo;
+   - Ref. 131.9011: [YouTube](https://youtu.be/pdBaCVckihY);
+
+1. **PASSAGEM CARROÇA**
+   - Alvo: JUNGLE;
+   - Posição: Posicione-se na quina da passagem carroça;
+   - Mire: Mire no topo superior da porta na região da cadeira;
+   - Execução: Jumpthrow;
+   - Ref. 131.1932: [YouTube](https://youtu.be/g35xaLdoyrE);
+
+1. **PLATAFORMA (1/2)**
+   - Alvo: CABECINHA;
+   - Posição: Suba na plataforma, encoste na coluna de madeira de frente para a caverna;
+   - Mira: Mire no topo da maior argamassa de junção das pedras na parede a sua frente;
+   - Execução: Jumpthrow médio;
+   - Ref. 131.2230: [YouTube](https://youtu.be/Ru_yNrbL8gs);
+
+1. **PLATAFORMA (2/2)**
+   - Alvo: PASSAGEM JUNGLE;
+   - Posição: Suba na plataforma e encoste na madeira próximo a entrada da caverna;
+   - Mira: Mire um pouco à esquerda da ponta da coluna no topo da parede;
+   - Execução: Arremesso longo;
+   - Ref. 131.7901: [YouTube](https://youtu.be/Ru_yNrbL8gs);
+
+1. **RATO**
+   - Alvo: PASSAGEM JUNGLE;
+   - Posição: Encoste a esquerda da porta de saída do rato;
+   - Mira: Mire na ponta do poste do corrimão;
+   - Execução: Arremesso longo;
+   - Ref. 131.6577: [YouTube](https://youtu.be/WeVsYwkVtlI);
+
+1. **RATO**
+   - Alvo:  JANELÃO;
+   - Posição: Encoste na parede da esquerda antes de chegar no arco de saída;
+   - Mira: Agache e mire na ponta da falha no topo do janelão;
+   - Execução: Arremesso longo;
+   - Ref. 131.7523: [YouTube](https://youtu.be/rk99ajyDGoY);
+
+1. **RATO**
+   - Alvo: L;
+   - Posição: Posicione-se perto da saída do rato alinhado com a terceira coluna de lajotas no chão;
+   - Mira: Mire um pouco acima do canto superior direito do banco;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 131.6392: [YouTube](https://youtu.be/-uE8rFAniig);
+
+1. **TV, VARANDA**
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Posicione-se no canto da coluna de madeira com a parede da varanda de acesso a TV;
+   - Mire: Mire no meio inferior dos caibros, em uma mancha escura na parede vermelha;
+   - Execução: Ande (shift) até a mira chegar próximo a parte de baixo da sombra + Jumpthrow;
+   - Ref. 131.8391: [YouTube](https://youtu.be/y2VSvTikXCo);
+
+1. **TACO**
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Encoste no canto da parede;
+   - Mira: Mire ligeiramente à esquerda, no segundo tijolo de baixo para cima;
+   - Execução: Jumpthrow;
+   - Ref. 131.8491: [YouTube](https://youtu.be/nPwANejXk3s);
+
+1. **TETRIS**
+   - Alvo: JUNGLE;
+   - Posição: Posicione-se na frente da primeira caixa do tetris;
+   - Mira: Mire na ponta do caibro parcialmente encoberto pela tenda amarela;
+   - Execução: Arremesso longo;
+   - Ref. 131.5427: [YouTube](https://youtu.be/CMKsBpueWFI);
+   
+1. **TETRIS**
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Encoste no canto das caixas inferiores;
+   - Mira: Mire a direita do caibro, se afastando um pouco;
+   - Execução: Arremesso longo;
+   - Ref. 131.7209: [YouTube](https://youtu.be/BpCntFIGyW4);
+
+1. **TETRIS**
+   - Alvo: BOLTZ;
+   - Posição: Posicione-se na frente da primeira caixa do tetris;
+   - Mire: Mire no canto superior esquerdo da janela no alto da torre acima do Boltz;
+   - Execução: Arremesso longo;
+   - Ref. 131.9723: [YouTube](https://youtu.be/8E7erkRnpy0);
+
+1. **VAN**
+   - Alvo: PORTA DO MERCADO;
+   - Posição: Encoste no canto do barril com a parede, atrás da van;
+   - Mira: Mire a direita de uma região horizontal de ferrugem. Desça a mira até a marcação horizontal da lataria;
+   - Execução: Jumpthrow;
+   - Ref. 131.9122: [YouTube](https://youtu.be/s0ekRlPff7s);
+
+1. **VAN**
+   - Alvo: JANELA DO MERCADO;
+   - Posição: Encoste em qualquer posição na parede do fundo atrás da van;
+   - Mira: Mire em uma linha de marcação horizontal na lataria da van. Alinhe a mira no centro da janela dupla;
+   - Execução: Jumpthrow médio;
+   - Ref. 131.2677: [YouTube](https://youtu.be/Ptmi8iuJnOk);
 
 ## Molotov
 
