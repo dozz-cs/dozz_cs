@@ -519,12 +519,124 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Execução: Arremesso longo;
    - Ref. 142.1523: [YouTube](https://youtu.be/H5jXV-FnGF0)
 
+1. **FUNDO**
+   - Alvo: B BAIXO;
+   - Posição: Pare em uma marcação horizontal no chão em frente ao portão;
+   - Mira: Mire em uma pedra saliente na parede ao lado da tumba;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 142.4783: [YouTube](https://youtu.be/6G849ZPPGA4)
+
+1. **FUNDO**
+   - Alvo: NEWBA;
+   - Posição: Pare no topo da escada no fundo e em frente ao portão;
+   - Mira: Mire no topo da construção entre a parede do portão e o pilar;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 142.2840: [YouTube](https://youtu.be/M1mkJNludYg)
+
+1. **FUNDO**
+   - Alvo: PORTÃO;
+   - Posição: Saindo da base TR, alinhe-se com o canto esquerdo da ruína;
+   - Mira: Mire na decoração acima do portão;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 142.1807: [YouTube](https://youtu.be/KcfWg7lr6ew)
+
+1. **FUNDO**
+   - Alvo: PILAR;
+   - Posição: Posicione-se em uma ponta no caminho do chão, próximo a placa vermelha indicando o bomb B;
+   - Mira: Mire acima da segunda decoração arredondada inferior, da Esq para a Dir;
+   - Execução: Jumpthrow;
+   - Ref. 142.1812: [YouTube](https://youtu.be/Qf80h4Uehks)
+
+1. **FUNDO**
+   - Alvo: PILAR;
+   - Posição: Posicione-se no canto da parede próximo a uma pequena escada;
+   - Mira: Localize a região da decoração arredondada inferior esquerda. Mire entre a primeira e a segunda decoração arredondada, da Esq para a Dir, na altura do meio da marcação horizontal;
+   - Execução: Dê um pequeno passo para o lado direito + Jumpthrow;
+   - Ref. 142.1824: [YouTube](https://youtu.be/XiPwMVLcZ5k)
+
+1. **FUNDO**
+   - Alvo: PILAR;
+   - Posição: Posicione-se na junção esquerda do caminho do fundo com a sombra do telhado;
+   - Mira: Mire na junção da sombra com o topo do rodapé;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 142.9054: [YouTube](https://youtu.be/2wtLES6z9oE)
+
+1. **LIGAÇÃO**
+   - Alvo: ENTRADA DA CAVERNA;
+   - Posição: Encoste no lado esquerdo da porta;
+   - Mira: Mire imediatamente à direita e quase sobre uma pequena falha na faixa horizontal do rodapé.;
+   - Execução: Jumpthrow médio;
+   - Ref. 142.3485: [YouTube](https://youtu.be/v_ktssvD0vs)
+
+1. **PILAR**
+   - Alvo: FUNDO;
+   - Posição: Encoste ao lado do pilar, posicionando o pé esquerdo sobre a linha no chão;
+   - Mira: Mire na junção esquerda mais baixa do andaime à frente;
+   - Execução: Jumpthrow;
+   - Ref. 142.6403: [YouTube](https://youtu.be/geGbHZl8Zfo)
+
+1. **PLATAFORMA**
+   - Alvo: BURACO;
+   - Posição: Encoste ao lado da grade do andaime;
+   - Mira: Mire na região direita do desenho, acima do topo da janela em forma de arco;
+   - Execução: Ande para a frente até descer a escada + Arremesso longo;
+   - Ref. 142.4837: [YouTube](https://youtu.be/7Q0njtmdyuI)
+
+1. **PLATAFORMA**
+   - Alvo: BURACO;
+   - Posição: Suba na mureta próxima a caixa. Fique próximo a parede;
+   - Mira: Mire no chão, alinhado com o centro da janela;
+   - Execução: Ande para a frente + Jumpthrow;
+   - Ref. 142.4849: [YouTube](https://youtu.be/INIhMDve-zY)
+
+1. **RATO**
+   - Alvo: ESCURO;
+   - Posição: Encoste na parede do fundo do rato, de frente para o pilar. Alinhe o lado esquerdo do pilar com lado esquerdo da porta;
+   - Mira: Mire na base do pilar, alinhado com uma pequena marcação vertical da escada;
+   - Execução: Ande para a frente + Jumpthrow;
+   - Ref. 142.5423: [YouTube](https://youtu.be/x15L8nJuyI0)
+
+1. **RATO**
+   - Alvo: ESCURO;
+   - Posição: Suba na escada e pare em frente a porta. Alinhe o lado esquerdo do topo cúbico do pilar com lado esquerdo da porta;
+   - Mira: Alinhe a mira com a linha azul do desenho a direita do pilar. Mire no topo da coluna, na região cúbica;
+   - Execução: Corra para a frente + Arremesso longo;
+   - Ref. 142.5437: [YouTube](https://youtu.be/ufoJ7kCXFV0)
+
 1. **TETRIS**
    - Alvo: CÉU;
    - Posição: Posicione-se na caixa do tetris do meio;
    - Mira: Mire na decoração superior direita da janela;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 142.6009: [YouTube](https://youtu.be/yMTTsoNuO2w)
+
+1. **TETRIS**
+   - Alvo: PAREDÃO;
+   - Posição: Posicione-se na pequena parede na região inferior do tetris;
+   - Mira: Mire na parte superior do arco da janela esquerda, alinhado com a direita do balaústre;
+   - Execução: Arremesso longo;
+   - Ref. 142.6017: [YouTube](https://youtu.be/Vu_JYgHHte8)
+
+1. **TETRIS**
+   - Alvo: REDONDO;
+   - Posição: Posicione-se na parte superior do tetris;
+   - Mira: Mire no meio e na parte inferior da placa, alinhado com a letra árabe parecida com um J;
+   - Execução: Jumpthrow;
+   - Ref. 142.6025: [YouTube](https://youtu.be/jQl8SOPwoXI)
+
+1. **VARANDA**
+   - Alvo: LIGAÇÃO;
+   - Posição: Posicione-se na quina direita da saída da varanda;
+   - Mira:  Mira: Mire no interior esquerdo da janela esquerda, na altura do começo do arco;
+   - Execução: Arremesso longo;
+   - Ref. 142.6609: [YouTube](https://youtu.be/pYQJuVJs98g)
+
+1. **VARANDA**
+   - Alvo: PORTAS;
+   - Posição: Posicione-se no canto da porta de grade com as caixas;
+   - Mira: Mire em uma tênue mancha clara na parede a frente, na região do barco;
+   - Execução: Jumpthrow;
+   - Ref. 142.7032: [YouTube](https://youtu.be/kk0Mm7CybF4)
 
 ## Flash
 
@@ -646,6 +758,55 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Mira: Coloque a mira à esquerda do pilar. Alinhe a mira entre a segunda e a terceira grade;
    - Execução: Jumpthrow;
    - Ref. 143.4229: [YouTube](https://youtu.be/N4yqSx1unjM)
+
+1. **PORTAS**
+   - Alvo: ESQUINA; PALMEIRA;
+   - Posição: Posicione-se na abertura da porta dupla de modo a visualizar o topo da torre;
+   - Mira: Mire à esquerda e alinhado com o topo da torre;
+   - Execução: Arremesso longo;
+   - Ref. 143.4827: [YouTube](https://youtu.be/VmzBbetQA4Y)
+
+1. **PORTAS**
+   - Alvo: CANAL; RATO; BURACO;
+   - Posição: Posicione-se no canto da parede, ao lado do portão de grade, à esquerda das das portas;
+   - Mira: Localize as linhas coloridas na região da ponte. Mire à esquerda entre as linhas azul e preta, na altura de uma tênue falha;
+   - Execução: Ande para a frente até chegar no final da sombra + Arremesso longo;
+   - Ref. 143.4832: [YouTube](https://youtu.be/eDB9WiRICkI)
+
+1. **PORTAS**
+   - Alvo: BURACO;
+   - Posição: Posicione-se na abertura das portas, de frente para a parede laranjada;
+   - Mira: Mire na região do meio da parede laranja;
+   - Execução: W + Jumpthrow curto;
+   - Ref. 143.4844: [YouTube](https://youtu.be/1rJTZZagP44)
+
+1. **PORTAS**
+   - Alvo: PONTE; PALMEIRA; ESQUINA;
+   - Posição: Posicione-se no canto direito das portas com as dobradiças;
+   - Mira: Mire no lado direito do caixilho da porta, na altura de uma região levemente quebrada na parede;
+   - Execução: Jumpthrow;
+   - Ref. 143.5399: [YouTube](https://youtu.be/JkTGLJ_Ijk8)
+
+1. **PORTÃO**
+   - Alvo: CANAL;
+   - Posição: Posicione-se no lado direito de uma porta falsa na região direita do portão de grade;
+   - Mira: Mire um pouco abaixo no canto superior direito da porta do rato;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 143.4862: [YouTube](https://youtu.be/CtYNBBf_mNc)
+
+1. **VARANDA**
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se na coluna do lado direito antes de chegar na escada;
+   - Mira: Mire na junção do tapete com a caixa de madeira localizado na parede esquerda;
+   - Execução: Jumpthrow;
+   - Ref. 143.7586: [YouTube](https://youtu.be/ipGZ59s32gw)
+
+1. **VARANDA**
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se na coluna do lado esquerdo da escada;
+   - Mira: Alinhe a mira com a terceira decoração arredondada da Dir para a Esq, na altura da ponta da madeira no telhado;
+   - Execução: Arremesso longo;
+   - Ref. 143.6636: [YouTube](https://youtu.be/s1EOc7wEwOI)
 
 ## High Explosive
 
