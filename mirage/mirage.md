@@ -121,16 +121,16 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
 1. **BASE TR (1/2)**
    - Alvo: JUNGLE;
    - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
-   - Mire: Localize o caibro a direita. Mire na parte de baixo do caibro;
+   - Mire: Localize o caibro a direita. Mire na junção esquerda do caibro com uma marcação horizontal na parede;
    - Execução: Jumpthrow;
-   - Ref. 131.9853: [YouTube](https://youtu.be/YIK8648Lmao);
+   - Ref. 131.9853: [YouTube](https://youtu.be/VA1NRsPRNxk);
 
 1. **BASE TR (2/2)**
    - Alvo: LIGAÇÃO CIMA;
    - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
    - Mire: Localize o caibro à direita. Mire na marcação horizontal entre o caibro e a parede;
    - Execução: W + Jumpthrow;
-   - Ref. 131.7432: [YouTube](https://youtu.be/doVoRomd19o);
+   - Ref. 131.7432: [YouTube](https://youtu.be/VA1NRsPRNxk);
 
 1. **BASE TR**
    - Alvo: LIGAÇÃO BAIXO;
@@ -149,16 +149,16 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
 1. **BASE TR (1/2)**
    - Alvo: CABECINHA;
    - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
-   - Mire: Mire na parte superior de uma mancha central no topo da construção;
+   - Mire: Alinhe a mira com a mancha na parede. Mire na marcação horizontal no topo da construção;
    - Execução: Jumpthrow;
-   - Ref. 131.5623: [YouTube](https://youtu.be/0UNyDm84iVQ);
+   - Ref. 131.5623: [YouTube](https://youtu.be/_30_2a9Uk7I);
 
 1. **BASE TR (2/2)**
    - Alvo: PASSAGEM JUNGLE;
    - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
-   - Mire: Localize o segundo caibro, da Dir para a Esq. Mire na junção direita do caibro com a parede; 
+   - Mire: Mire em uma tênue mancha na parede na região entre os dois fios de eletricidade;
    - Execução: Jumpthrow;
-   - Ref. 131.3452: [YouTube](https://youtu.be/0UNyDm84iVQ);
+   - Ref. 131.3452: [YouTube](https://youtu.be/_30_2a9Uk7I);
 
 1. **BECO**
    - Alvo: BOLTZ;
@@ -286,6 +286,20 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Execução: Arremesso longo;
    - Ref. 131.4370: [YouTube](https://youtu.be/9maVZMbl5Zk);
 
+1. **CAVERNA**
+   - Alvo: PASSAGEM CAVERNA;
+   - Posição: Posicione-se no lado esquerdo da abertura de acesso a caverna;
+   - Mire: Mire na linha horizontal direita na saída da caverna;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 131.0056: [YouTube](https://youtu.be/gQGbnsnEcAo);
+
+1. **CAVERNA**
+   - Alvo: PASSAGEM JUNGLE;
+   - Posição: Ande até chegar no topo da escada da caverna;
+   - Mire: Mire no meio do refletor da antena parabólica;
+   - Execução: Arremesso longo;
+   - Ref. 131.2384: [YouTube](https://youtu.be/HGxdnsPd2ys);
+
 1. **CAVERNA TR (1/2)**
    - Alvo: LIGAÇÃO CIMA;
    - Posição: Encoste no canto da parede com a escada ao fundo;
@@ -315,6 +329,20 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Ref. 131.8756: [YouTube](https://youtu.be/HMZPhN576KA);
 
 1. **CAVERNA TR**
+   - Alvo: CABECINHA;
+   - Posição: Suba na borda direita do primeiro degrau da escada;
+   - Mira: Em frente a coluna de madeira mais grossa, mire na região do céu azul, na altura de uma mancha escura na coluna;
+   - Execução: Arremesso longo;
+   - Ref. 131.8741: [YouTube](https://youtu.be/a6_3h1R0pvA);
+
+1. **CAVERNA TR**
+   - Alvo: CABECINHA;
+   - Posição: Pare em frente ao portão;
+   - Mira: Mire na junção do telhado com a quina da parede;
+   - Execução: Jumpthrow;
+   - Ref. 131.0032: [YouTube](https://youtu.be/Ittt6GjIUrM);
+
+1. **CAVERNA TR**
    - Alvo: L;
    - Posição: Posicione-se no canto da escada com a parede. Não suba na escada;
    - Mira: Mire na junção do telhado com a parede esquerda;
@@ -327,6 +355,90 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Mira: Agache e mire na quina da caixa de papelão;
    - Execução: Levante + Arremesso longo;
    - Ref. 131.7439: [YouTube](https://youtu.be/uZs06hyP9GU);
+
+1. **CARROÇA**
+   - Alvo: JANELÃO;
+   - Posição: Pare na roda da carroça;
+   - Mira: Alinhe a mira com a antena à frente e suba a mira verticalmente na altura da ponta do papelão;
+   - Execução: Arremesso longo;
+   - Ref. 131.6722: [YouTube](https://youtu.be/98RYeVxM6DI);
+
+1. **CARROÇA**
+   - Alvo: L;
+   - Posição: Pare na traseira da carroça;
+   - Mira: Mire à esquerda da ponta da antena espinha de peixe;
+   - Execução: Arremesso longo;
+   - Ref. 131.8720: [YouTube](https://youtu.be/c4kaAthepYM);
+
+1. **CARROÇA**
+   - Alvo: LIGAÇÃO BAIXO;
+   - Posição: Pare na roda da carroça;
+   - Mira: Mire na ponta direita da ripa vertical da lateral da carroça com a amarração em forma de x;
+   - Execução: Arremesso longo;
+   - Ref. 131.7001: [YouTube](https://youtu.be/oNcqc7_BuZE);
+   
+1. **CARROÇA**
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Pare na parte de trás da carroça;
+   - Mira: Mire entre as duas falhas na parte inferior da folha da palmeira em forma de arco;
+   - Execução: Arremesso longo;
+   - Ref. 131.8527: [YouTube](https://youtu.be/KbS0IDc4NK4);
+
+1. **MEIO FALSO**
+   - Alvo: JUNGLE;
+   - Posição: Encoste na pequena parede ao lado da porta;
+   - Mira: Mire no canto superior direito da janela;
+   - Execução: Jumpthrow;
+   - Ref. 131.9733: [YouTube](https://youtu.be/vKPVuc1a3PE);
+  
+1. **MEIO FALSO**
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Encoste no canto da porta, em baixo da luminária;
+   - Mira: Agache e mire na ponta central da antena;
+   - Execução: Levante + Jumpthrow;
+   - Ref. 131.9743: [YouTube](https://youtu.be/AwG7WQThlBY);
+
+1. **MEIO FALSO**
+   - Alvo: LIGAÇÃO BAIXO;
+   - Posição: Posicione-se no canto da parede em frente a escada de acesso para a TV;
+   - Mire: Mire no desenho localizado no centro inferior do tapete;
+   - Execução: Jumpthrow;
+   - Ref. 131.5400: [YouTube](https://youtu.be/1-kTJjn8J00);
+
+1. **MEIO FALSO (1/2)**
+   - Alvo: JANELA DO MERCADO;
+   - Posição: Posicione-se no canto da parede em frente a escada de acesso para a TV;
+   - Mire: Mire no topo da construção, ao lado do tapete na parede, alinhado com uma marcação logo abaixo;
+   - Execução: Ande para a frente até a mira chegar na marcação + Jumpthrow;
+   - Ref. 131.7423: [YouTube](https://youtu.be/vklbMtTLp5U);
+
+1. **MEIO FALSO (2/2)**
+   - Alvo: PORTA DO MERCADO;
+   - Posição: Posicione-se no canto da parede em frente a escada de acesso para a TV;
+   - Mire: Mire ligeiramente à direita da quina da construção com o tapete na parede;
+   - Execução: Ande para a frente até a mira chegar em baixo + Jumpthrow;
+   - Ref. 131.7424: [YouTube](https://youtu.be/9Qaxu8Ig_wg);
+
+1. **MEIO FALSO**
+   - Alvo: JANELA DO MERCADO;
+   - Posição: Posicione-se no canto da parede do portão à direita da base TR;
+   - Mira: Mire um pouco abaixo da ponta da antena espinha de peixe;
+   - Execução: Ande para a frente até chegar no topo da construção + Jumpthrow;
+   - Ref. 131.6732: [YouTube](https://youtu.be/BiPXljKfn5k);
+
+1. **MEIO FALSO**
+   - Alvo: EDWARD;
+   - Posição: Posicione-se no canto da parede em frente a escada de acesso para a TV;
+   - Mire: Mire na ponta do caibro que aparece abaixo dos dois fios de energia elétrica; 
+   - Execução: Jumpthrow;
+   - Ref. 131.6428: [YouTube](https://youtu.be/dACcOd-1xoI);
+ 
+1. **MEIO FALSO**
+   - Alvo: CENTRO DO BOMB B;
+   - Posição: Pare em frente a tubulação branca na parede;
+   - Mire: Alinhe a mire na altura do beiral. Mire entre as manchas na parede, à esquerda do pequeno beiral;
+   - Execução: Jumpthrow;
+   - Ref. 131.7392: [YouTube](https://youtu.be/WJR6XQGhEVQ);
 
 ## Molotov
 
