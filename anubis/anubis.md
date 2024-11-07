@@ -6,14 +6,14 @@ date: Atualizado em \today
 lang: pt-br
 output:
   pdf_document:
-classoption: twocolumn
+classoption: onecolumn
 papersize: a4
 fontsize: 12pt
 colorlinks: true
 urlcolor: blue
 geometry:
 - top=10mm
-- left=10mm
+- left=20mm
 - right=10mm
 - bottom=20mm
 hyperrefoptions:
@@ -21,7 +21,7 @@ hyperrefoptions:
 - pdfwindowui
 ---
 
-# Manual de utilitárias
+# ANUBIS (+110 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.pdf)
 
