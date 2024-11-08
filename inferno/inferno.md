@@ -379,6 +379,13 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Execução: Jumpthrow;
    - Ref. 122.9234: [YouTube](https://youtu.be/5D__UMovNX0)
 
+1. **BANANA (MADEIRA)**
+   - Alvo: CIMENTO;
+   - Posição: Encoste parede do fundo, atrás dos barris;
+   - Mira: Mire na altura do telhado da construção na região do Fallen. Alinhe a mira com a quina da parede;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 122.1824: [YouTube](https://youtu.be/x7TMhtrXzoY)
+
 1. **CT**
    - Alvo: MURETA DA PISCINA;
    - Posição: Encoste no canto da parede da igreja ao lado do vaso de planta;
@@ -539,6 +546,13 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Mira: Mire no telhado próximo a quina da parede;
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 122.3222: [YouTube](https://youtu.be/ZWHtVL0Uvvk)
+
+1. **MEIO FALSO**
+   - Alvo: JANELÃO;
+   - Posição: Antes de passar a ponte, corra na região de sol, ao lado da sombra do telhado;
+   - Mira: Mire na junção do chão com a mureta do canteiro de flor;
+   - Execução: Corra até passar a ponte + Jumpthrow;
+   - Ref. 122.0027: [YouTube](https://youtu.be/eY1kh1v_0Pg)
 
 1. **SANDUÍCHE**
    - Alvo: CARRO;
