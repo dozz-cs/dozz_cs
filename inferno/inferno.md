@@ -6,14 +6,14 @@ date: \today
 lang: pt-br
 output:
   pdf_document:
-classoption: twocolumn
+classoption: onecolumn
 papersize: a4
 fontsize: 12pt
 colorlinks: true
 urlcolor: blue
 geometry:
 - top=10mm
-- left=10mm
+- left=20mm
 - right=10mm
 - bottom=20mm
 hyperrefoptions:
@@ -307,6 +307,41 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Execução: Jumpthrow;
    - Ref. 121.5102: [YouTube](https://youtu.be/7l6gAK6RKIY)
 
+1. **NIP**
+   - Alvo: FALLEN;
+   - Posição: Encoste em um pequeno canto com um saco de lixo no chão, próximo do arco;
+   - Mira: Alinhe a mira com a cumeeira da casa. Desloque a mira acima desse telhado;
+   - Execução: Arremesso longo;
+   - Ref. 121.6499: [YouTube](https://youtu.be/DPF3Q5YDF64)
+
+1. **PISCINA**
+   - Alvo: CAVERNA;
+   - Posição: Encoste no canto da mureta com a parede da igreja, em cima do vaso de flor;
+   - Mira: Mire na junção do telhado com a haste da antena parabólica;
+   - Execução: Jumpthrow;
+   - Ref. 121.7310: [YouTube](https://youtu.be/vduq72HcWas)
+   
+1. **SANDUÍCHE**
+   - Alvo: BANANA;
+   - Posição: Suba na caixa do sanduíche sem a lona azul. Localize o buraco da ferragem no canto direito da caixa;
+   - Mira: Mire no canto superior esquerdo da folha da janela veneziana;
+   - Execução: Arremesso médio;
+   - Ref. 121.5320: [YouTube](https://youtu.be/axIAUVBCDNo)
+
+1. **TAPETE DA A**
+   - Alvo: AREIA 2;
+   - Posição: Encoste no canto esquerdo da porta, próximo a luminária;
+   - Mira: Mire no vaso de flor da janela na construção na região da areia 2;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 121.9766: [YouTube](https://youtu.be/6GSj7nqdt9w)
+
+1. **TAPETE DA A**
+   - Alvo: VARANDA;
+   - Posição: Encoste no canto do aquecedor;
+   - Mira: Localize o canto superior direito interno do nicho com o vaso de flor. Mire um pouco acima, na altura da vista do nicho;
+   - Execução: Arremesso longo;
+   - Ref. 121.5299: [YouTube](https://youtu.be/twLrqsxHqPU)
+
 ## Molotov
 
 1. **ARCO**
@@ -505,6 +540,27 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 122.3222: [YouTube](https://youtu.be/ZWHtVL0Uvvk)
 
+1. **SANDUÍCHE**
+   - Alvo: CARRO;
+   - Posição: Suba na caixa do sanduíche sem a lona azul. Localize o buraco da ferragem no canto direito da caixa;
+   - Mira: À direita, mire na junção dos ferros do andaime;
+   - Execução: Arremesso longo;
+   - Ref. 122.5320: [YouTube](https://youtu.be/z6WFLVYn_E0)
+
+1. **TAPETE DA A**
+   - Alvo: AREIA;
+   - Posição: No pilar com a placa verde de fire exit, mire na terceira grade a direita;
+   - Mira: Mire na mancha que aparece na fresta da parede com a porta;
+   - Execução: Arremesso longo;
+   - Ref. 122.5378: [YouTube](https://youtu.be/KmjzlVaAHgU)
+
+1. **TAPETE DA A**
+   - Alvo: AREIA 2;
+   - Posição: Encoste no canto esquerdo da porta, próximo a luminária;
+   - Mira: Mire no vaso de flor da janela no alto da construção na região da areia 2;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 122.4301: [YouTube](https://youtu.be/sxUFyTXN2Nc)
+
 ## Flash
 
 1. **ARCO**
@@ -586,12 +642,40 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Execução: Jumpthrow;
    - Ref. 124.2751: [YouTube](https://youtu.be/s2aTiUCDeco)
 
+1. **AREIA 2**
+   - Alvo: TAPETE DA A;
+   - Posição: Posicione-se no início da canaleta no chão;
+   - Mira: Mire um pouco acima do topo da antena, alinhado com a porta da região do tapete;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 124.3900: [YouTube](https://youtu.be/ynMEdJ2J2xk)
+  
+1. **CARRO**
+   - Alvo: SAÍDA DA CAVERNA;
+   - Posição: Posicione-se próximo a sombra da luminária;
+   - Mira: Mire à direita do início da tubulação da calha;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 124.9724: [YouTube](https://youtu.be/_b2ag-5qAXo)
+
 1. **CT**
    - Alvo: TRIPLA;
    - Posição: Encoste na coluna da grade próxima a pequena escada para o corredor CT;
    - Mira: Mire um pouco acima do rodapé, no final de uma mancha na parede vermelha;
    - Execução: Ande para a frente + Jumpthrow;
    - Ref. 124.1955: [YouTube](https://youtu.be/DU9sYXvX5kc)
+
+1. **FALLEN**
+   - Alvo: MURETA DA BANANA;
+   - Posição: Posicione-se na região da porta. Alinhe a quina do telhado com a quina da parede;
+   - Mira: Mire na parte inferior do arco, logo acima do telhado;
+   - Execução: Arremesso longo;
+   - Ref. 124.2749: [YouTube](https://youtu.be/jcyRECMlsPw)
+
+1. **TAPETE DA A**
+   - Alvo: AREIA;
+   - Posição: No pilar com a placa verde de fire exit, mire na terceira grade a direita;
+   - Mira: Mire na mancha que aparece na fresta da parede com a porta;
+   - Execução: Arremesso longo;
+   - Ref. 124.9834: [YouTube](https://youtu.be/ALWErXTAyPo)
 
 ## Referências
 
