@@ -13,8 +13,8 @@ colorlinks: true
 urlcolor: blue
 geometry:
 - top=10mm
-- left=20mm
-- right=10mm
+- left=15mm
+- right=15mm
 - bottom=20mm
 hyperrefoptions:
 - linktoc=all
