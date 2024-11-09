@@ -13,8 +13,8 @@ colorlinks: true
 urlcolor: blue
 geometry:
 - top=10mm
-- left=20mm
-- right=10mm
+- left=15mm
+- right=15mm
 - bottom=20mm
 hyperrefoptions:
 - linktoc=all
@@ -52,7 +52,7 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Alvo: PEZINHO CT;
    - Posição: Encoste na pequena parede atrás do muro do carro;
    - Mira: Localize o canto direito da cumeeira do telhado. Mire no meio do telhado, alinhado com o canto da cumeeira;
-   - Execução: Pressione (shift) + W + Jumpthrow;
+   - Execução: Pressione (shift) + W + Jumpthrow médio;
    - Ref. 121.9832: [YouTube](https://youtu.be/ApbtnPseS7E)
 
 1. **BANANA**
