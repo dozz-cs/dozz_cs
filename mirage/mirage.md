@@ -6,22 +6,22 @@ date: Atualizado em \today
 lang: pt-br
 output:
   pdf_document:
-classoption: twocolumn
+classoption: onecolumn
 papersize: a4
 fontsize: 12pt
 colorlinks: true
 urlcolor: blue
 geometry:
 - top=10mm
-- left=10mm
-- right=10mm
+- left=15mm
+- right=15mm
 - bottom=20mm
 hyperLinkoptions:
 - linktoc=all
 - pdfwindowui
 ---
 
-# Manual de utilitárias
+# MIRAGE (+120 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mirage/mirage.pdf)
 
@@ -658,6 +658,146 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Mire: Mire no meio da parede, alinhado com a região descascada na parede;
    - Execução: Arremesso longo;
    - Ref. 132.6492: [YouTube](https://youtu.be/FIDqk8gFOlc);
+
+1. **JUNGLE**
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se próximo a parede na saída do Jungle, alinhado com a marcação horizontal no chão;
+   - Mira: Mire na região de uma marcação horizontal na parede acima da saída da caverna. Alinhe a mira com a mancha escura na parede;
+   - Execução: Arremesso longo;
+   - Ref. 132.7690: [YouTube](https://youtu.be/LvN-l8XETbM);
+
+1. **JUNGLE**
+   - Alvo: PALÁCIO;
+   - Posição: Posicione-se próximo a parede direita na saída do jungle alinhado com a marcação horizontal;
+   - Mira: Mire na ponta branca da pequena torre acima da entrada do palácio;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 132.5333: [YouTube](https://youtu.be/oXSEcViwOoQ);   
+
+1. **LIGAÇÃO**
+   - Alvo: AREIA;
+   - Posição: Posicione-se do lado esquerdo da porta da ligação;
+   - Mira: Alinhe a mira com a madeira do andaime na frete da entrada do palácio. Mire na segunda linha horizontal do topo da escada;
+   - Execução: Arremesso longo;
+   - Ref. 132.7309: [YouTube](https://youtu.be/0enU7fK55SU);
+
+1. **MEIO BANCO**
+   - Alvo: MOSCOW;
+   - Posição: Pare ao lado do banco, sobre uma mancha branca no chão;
+   - Mire: Mire no canto direito da passagem do janelão para o Moscow;
+   - Execução: Arremesso longo;
+   - Ref. 132.8430: [YouTube](https://youtu.be/MFaae5fh2i0);
+
+1. **MEIO BAIXO**
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Posicione-se ao lado da tubulação de eletricidade, ande para o lado até ver a parede interna da ligação;
+   - Mire: Mire na parede interna da ligação;
+   - Execução: Arremesso longo;
+   - Ref. 132.7433: [YouTube](https://youtu.be/ZQqf6VOBiaE);
+
+1. **MEIO BAIXO**
+   - Alvo: CAIXA DA LIGAÇÃO;
+   - Posição: Posicione-se ao lado do banco próximo a entrada da ligação;
+   - Mire: Mire na linha de divisão da parede, no lado direito da lâmpada;
+   - Execução: Arremesso longo;
+   - Ref. 132.8702: [YouTube](https://youtu.be/9xO88amYE3k);
+
+1. **PASSAGEM CARROÇA**
+   - Alvo: LIGAÇÃO BAIXO;
+   - Posição: Encoste na primeira quina da parede;
+   - Mire: Mire no canto superior direito da janela mais afastada;
+   - Execução: Arremesso longo;
+   - Ref. 132.9011: [YouTube](https://youtu.be/x6jghKZgSeI);
+
+1. **PASSAGEM CARROÇA**
+   - Alvo: JANELÃO;
+   - Posição: Posicione-se sobre as sombras dos fios com o marcação reta no chão, Alinhe a parede com a haste da antena;
+   - Mire: Mire na ponta de baixo da antena do tipo espinha de peixe;
+   - Execução: Ande para a frente até chegar na parede + Arremesso longo;
+   - Ref. 132.2331: [YouTube](https://youtu.be/a8uPn4E6Jsc);
+
+1. **PASSAGEM CARROÇA**
+   - Alvo: JANELÃO;
+   - Posição: Encoste na primeira quina da parede. Ande para a esquerda até aparecer um bloco no topo da construção;
+   - Mire: Mire no topo do bloco;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 132.7592: [YouTube](https://youtu.be/uwFAYzZ0koE);
+
+1. **PALÁCIO**
+   - Alvo: AREIA;
+   - Posição: Encoste na quina esquerda do segundo pilar;
+   - Mira: Mire na divisa da parede com o teto, no canto da luminária;
+   - Execução: Ande para a frente até a mira chegar próximo a luminária + Arremesso longo;
+   - Ref. 132.8230: [YouTube](https://youtu.be/2MR4CpzJNKw);
+
+1. **PALÁCIO**
+   - Alvo: AREIA;
+   - Posição: Encoste na frente do segundo pilar;
+   - Mira: Mire em uma linha fina escura acima da divisa da parede com o teto, no canto da luminária;
+   - Execução: Ande para a frente até a mira ficar na altura da luminária + Arremesso longo;
+   - Ref. 132.6342: [YouTube](https://youtu.be/1O3HT61We-8);
+
+1. **PALÁCIO**
+   - Alvo: AREIA;
+   - Posição: Encoste na parede próximo a porta;
+   - Mira: Mire em uma pequena rachadura no rodapé;
+   - Execução: Ande até o canto da parede ao fundo da porta + Arremesso longo;
+   - Ref. 132.7201: [YouTube](https://youtu.be/gK0Cu6JxYTc);
+
+1. **PLATAFORMA**
+   - Alvo: SANDUÍCHE;
+   - Posição: Posicione-se próximo a quina da plataforma;
+   - Mira: Mire a esquerda de uma pequena mancha preta no topo; 
+   - Execução: Arremesso longo;
+   - Ref. 132.7866: [YouTube](https://youtu.be/_TeGeSzg1U4);
+
+1. **RATO**
+   - Alvo: JANELÃO;
+   - Posição: Encoste na parede da esquerda antes de chegar no arco;
+   - Mira: Agache e mire na ponta do falha no topo do janelão;
+   - Execução: Arremesso longo;
+   - Ref. 132.9065: [YouTube](https://youtu.be/5M_XeKScgv4);
+
+1. **RATO**
+   - Alvo: FUNDO DO JANELÃO/BURACO;
+   - Posição: Encoste na parede da esquerda antes de chegar no arco;
+   - Mira: Mire dentro do janelão, na parede que aparece a frente;
+   - Execução: Arremesso longo;
+   - Ref. 132.8733: [YouTube](https://youtu.be/1BicYhEZdrk);
+
+1. **TACO**
+   - Alvo: JUNGLE;
+   - Posição: No canto da parede do taco;
+   - Mire: Mire na quina do telhado que aparece acima do Jungle;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 132.3777: [YouTube](https://youtu.be/jHxN_ARbghQ);
+
+1. **TAPETE DA B**
+   - Alvo: SOMBRA DA B;
+   - Posição: No lado esquerdo da janela de grade;
+   - Mira: Mire na coluna ao lado da janela do mercado;
+   - Execução: Corra para a frente + Arremesso longo;
+   - Ref. 132.7031: [YouTube](https://youtu.be/sH_8Upvfveo);
+   
+1. **TAPETE DA B**
+   - Alvo: FOREST;
+   - Posição: Ao lado direito da porta de madeira veneziana;
+   - Mira: Mire na parte de baixo da janela sem a grade (queda) com o pano pendurado;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 132.9021: [YouTube](https://youtu.be/h1R13mcq2Fc);
+
+1. **TAPETE DA B**
+   - Alvo: BOMB B;
+   - Posição: Pare no meio da porta de madeira veneziana;
+   - Mira: Mire próximo a parte inferior direita da janela com grade;
+   - Execução: Arremesso longo;
+   - Ref. 132.0932: [YouTube](https://youtu.be/N3cBs6SbbhI);
+
+1. **TETRIS**
+   - Alvo: BOLTZ;
+   - Posição: Encoste na parede e na frente da primeira caixa do tetris;
+   - Mira: Mire na ponta superior direita do quadrado na parte inferior esquerda da caixa logo a sua frente;
+   - Execução: Jumpthrow;
+   - Ref. 132.9511: [YouTube](https://youtu.be/E3LXQdK_Cao);
 
 ## Flash
 
