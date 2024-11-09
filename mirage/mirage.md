@@ -650,7 +650,7 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Posição: Posicione-se próximo a coluna do Edward. Alinhe a ponta da coluna com a região entre a tubulação e a quina da parede;
    - Mira: Mire na marcação do teto, acima da porta;
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
-   - Ref. 132.7124: [YouTube](https://youtu.be/psE6cSM38Ug);
+   - Ref. 132.7124: [YouTube](https://youtu.be/xeXvOEGxs_c);
 
 1. **JANELÃO**
    - Alvo: RATO;
