@@ -113,7 +113,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow;
    - Ref. 131.7320: [YouTube](https://youtu.be/ZPze9F_tfxc);
 
-1. **BASE TR** (new)
+1. **BASE TR**
    - Alvo: LIGAÇÃO BAIXO;
    - Posição: Encoste no canto da parede com a lateral da lixeira;
    - Mira: Mire no terceiro losango, da Dir para a Esq. na parte inferior do tapete;
@@ -133,13 +133,6 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mire: Localize o caibro à direita. Mire na marcação horizontal entre o caibro e a parede;
    - Execução: W + Jumpthrow;
    - Ref. 131.7432: [YouTube](https://youtu.be/VA1NRsPRNxk);
-
-1. **BASE TR**
-   - Alvo: LIGAÇÃO BAIXO;
-   - Posição: Encoste no canto da parede com a lateral da lixeira;
-   - Mira: Mire no canto inferior direito interno do desenho no tapete;
-   - Execução: Jumpthrow;
-   - Ref. 131.2544: [YouTube](https://youtu.be/KGmLrb9ii2c);
 
 1. **BASE TR**
    - Alvo: PASSAGEM CARROÇA;
@@ -181,7 +174,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Posição: Encoste no canto da parede da calçada elevada com o muro;
    - Mira: Mire na primeira junção à esquerda das hastes da antena espinha de peixe;
    - Execução: Jumpthrow;
-   - Ref. 131.7434: [YouTube](https://youtu.be/N29J97Vi6wE);
+   - Ref. 131.7434: [YouTube](https://youtu.be/V0jDRO-1sfc);
 
 1. **BECO (1/2)**
    - Alvo: MERCADO JANELA;
@@ -274,7 +267,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow médio;
    - Ref. 131.1392: [YouTube](https://youtu.be/7RHbwssY_dY); 
 
-1. **BOMB B**
+1. **BOMB B (NINJA)**
    - Alvo: JANELA DO MERCADO;
    - Posição: Posicione-se atrás da caixa no bomb B em frente a varanda;
    - Mira: Mire no meio da ferragem sem a lona verde no teto do bomb, próximo ao Forest;
@@ -463,7 +456,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow;
    - Ref. 131.7392: [YouTube](https://youtu.be/WJR6XQGhEVQ);
 
-1. **MERCADO JANELA (FORA)**
+1. **MERCADO, JANELA DO (FORA)**
    - Alvo: TAPETE DA B;
    - Posição: Encoste no canto ao lado da janela;
    - Mira: Mire na quina direita do telhado acima da janela da região do tapete;
