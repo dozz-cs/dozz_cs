@@ -10,7 +10,7 @@ classoption: onecolumn
 papersize: a4
 fontsize: 12pt
 colorlinks: true
-urlcolor: blue
+linkcolor: blue
 geometry:
 - top=10mm
 - left=15mm
@@ -21,11 +21,15 @@ hyperrefoptions:
 - pdfwindowui
 ---
 
-# INFERNO (+95 utilitárias)
+# INFERNO (+90 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
 
+Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+
 ## Smokes
+
+Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
 1. **ARCO**
    - Alvo: VARANDA;
@@ -344,6 +348,8 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
 
 ## Molotov
 
+Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+
 1. **ARCO**
    - Alvo: ESCURO DA A;
    - Posição: Pare com o pé esquerdo na vista esquerda da porta ao lado da caixa de correio vermelha;
@@ -577,6 +583,8 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
 
 ## Flash
 
+Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
+
 1. **ARCO**
    - Alvo: XUXA; TAPETE; CEMITÉRIO; HEAD SHOT;
    - Posição: Suba na caixa de correio vermelha;
@@ -648,6 +656,8 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
    - Ref. 123.3548: [YouTube](https://youtu.be/Yv8IOUb1q90)
 
 ## High Explosive (HE)
+
+Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 1. **ARCO**
    - Alvo: DEFAULT;
