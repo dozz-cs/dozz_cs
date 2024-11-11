@@ -9,8 +9,8 @@ output:
 classoption: onecolumn
 papersize: a4
 fontsize: 12pt
-colorlinks: true
-urlcolor: blue
+colorlinks: True
+linkcolor: blue
 geometry:
 - top=10mm
 - left=15mm
@@ -21,11 +21,13 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# MIRAGE (+140 utilitárias)
+# MIRAGE (+150 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mirage/mirage.pdf)
 
 ## Smokes
+
+Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
 1. **BASE CT**
    - Alvo: CAVERNA;
@@ -589,6 +591,8 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
 
 ## Molotov
 
+Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+
 1. **BOMB B**
    - Alvo: PORTA DO MERCADO;
    - Posição: Posicione-se atrás da caixa no bomb B em frente a varanda;
@@ -800,6 +804,8 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Ref. 132.9511: [YouTube](https://youtu.be/E3LXQdK_Cao);
 
 ## Flash
+
+Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
 1. **AREIA**
    - Alvo: CAVERNA; TETRIS;
@@ -1020,12 +1026,84 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
 
 ## High Explosive (HE)
 
+Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
+
 1. **CARROÇA**
    - Alvo: JANELÃO;
    - Posição: Posicione-se atrás da carroça e encoste na parede do fundo;
    - Mira: Mire no topo da planta acima do janelão, alinhado com a antena. Você também pode alinhar a mira com a construção; 
    - Execução: Ande para a frente até chegar próximo a carroça + Arremesso longo;
    - Ref. 134.7523: [YouTube](https://youtu.be/EMtm9FNFeRs);
+
+1. **CAVERNA**
+   - Alvo: AREIA;
+   - Posição: Encoste no arco a direita na entrada da caverna;
+   - Mira: Mire na parte superior esquerda da placa A;
+   - Execução: Ande para frente + Arremesso longo;
+   - Ref. 134.8527: [YouTube](https://youtu.be/DHe-If23YpI);
+
+1. **EDWARD**
+   - Alvo: VAN;
+   - Posição: Posicione-se próximo a coluna do Edward. Alinhe a ponta da coluna com o canto inferior da janela;
+   - Mira: Mire na marcação do teto, acima da porta;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 134.7124: [YouTube](https://youtu.be/4z_bHAPURlc);
+
+1. **JANELÃO**
+   - Alvo: JANELÃO (QUEBRA DE SMOKE);
+   - Posição: Posicione-se no canto do cavalete próximo ao buraco;
+   - Mire: Agache e alinhe a mira com a mancha próximo a quina da parede;
+   - Execução: Agachado + Jumpthrow curto;
+   - Ref. 134.8990: [YouTube](https://youtu.be/e6wY_XvJG-M);
+
+1. **JUNGLE**
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se próximo a parede na saída da Jungle, alinhado com a marcação horizontal no chão;
+   - Mira: Mire em uma tênue mancha branca na parede acima da cabecinha;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 134.9833: [YouTube](https://youtu.be/4Gid4kcEW_w);
+
+1. **PALÁCIO**
+   - Alvo: AREIA;
+   - Posição: Encoste na quina do segundo pilar;
+   - Mira: Mire na divisa superior da parede com o teto, no canto da luminária;
+   - Execução: Corra para a frente até a mira ficar na altura da luminária + Arremesso longo;
+   - Ref. 134.7852: [YouTube](https://youtu.be/M8WInUpXiS4);
+   
+1. **PALÁCIO**
+   - Alvo: AREIA;
+   - Posição: Encoste na parede próximo a porta;
+   - Mira: Mire em uma pequena rachadura no rodapé;
+   - Execução: Ande até o canto da parede na saída do palácio +  Arremesso longo;
+   - Ref. 134.6201: [YouTube](https://youtu.be/QeV87GrXbaE);
+
+1. **PALÁCIO**
+   - Alvo: LIGAÇÃO;
+   - Posição: Posicione-se à direita da porta do palácio;
+   - Mire: Mire no topo da construção acima da entrada da ligação;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 134.9579: [YouTube](https://youtu.be/jyVDPRxc6RE);
+
+1. **RATO**
+   - Alvo: JANELÃO;
+   - Posição: Encoste na parede da esquerda antes de chegar no arco;
+   - Mira: Mire na ponta da falha no topo do janelão;
+   - Execução: Agache + Arremesso longo;
+   - Ref. 134.9065: [YouTube](https://youtu.be/cH2D_1IZM7Q);
+
+1. **RATO**
+   - Alvo: JANELÃO/BURACO;
+   - Posição: Encoste na parede da esquerda antes de chegar no arco;
+   - Mira: Mire dentro do janelão, na parede que aparece a frente;
+   - Execução: Arremesso longo;
+   - Ref. 134.8551: [YouTube](https://youtu.be/yi7zMHDY7tw);
+
+1. **VAN**
+   - Alvo: JANELA DO MERCADO;
+   - Posição: Posicione-se no canto do barril com a parede;
+   - Mira: Mire um pouco à direita da linha da porta oposta a maçaneta e no meio das marcação horizontais na lataria;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 134.2509: [YouTube](https://youtu.be/IZ1r-BbLmdE);
 
 ## Referências
 
