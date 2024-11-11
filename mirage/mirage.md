@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# MIRAGE (+120 utilitárias)
+# MIRAGE (+140 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mirage/mirage.pdf)
 
@@ -822,6 +822,20 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Execução: Ande ligeiramente para a frente + Jumpthrow;
    - Ref. 133.0922: [YouTube](https://youtu.be/pJ97ZwvhgFE);
 
+1. **BOMB B**
+   - Alvo: PORTA DO MERCADO;
+   - Posição: Posicione-se atrás da caixa no bomb B (ninja);
+   - Mira: Alinhe a mira na direção da porta do mercado. Mire no canto do chão com a parede no lado esquerdo de uma mancha escura;
+   - Execução: Jumpthrow médio;
+   - Ref. 133.1993: [YouTube](https://youtu.be/0h0Y01p2Phk);
+
+1. **BOMB B, CANTO DO** (new)
+   - Alvo: PORTA DO MERCADO;
+   - Posição: Posicione-se no canto da parede dentro do bomb B;
+   - Mira: Mire no meio da sombra do pneu que aparece sobre a lona verde no teto;
+   - Execução: Arremesso longo;
+   - Ref. 133.2690: [YouTube](https://youtu.be/GDAsMpVA2yo);
+
 1. **CARROÇA**
    - Alvo: LIGAÇÃO; RATO; JANELÃO; L;
    - Posição: Pare na parte de trás da carroça;
@@ -864,6 +878,20 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Execução: Jumpthrow;
    - Ref. 133.3375: [YouTube](https://youtu.be/AHmQnjVh77Y);
 
+1. **CAVERNA**
+   - Alvo: LIGAÇÃO; JUNGLE;
+   - Posição: Encoste no canto direito da escada no fundo da caverna;
+   - Mire: Agache e mire no lado esquerdo da mancha clara no chão;
+   - Execução: Permaneça agachado e Jumpthrow;
+   - Ref. 133.8234: [YouTube](https://youtu.be/7FLK3To0yco);
+
+1. **COZINHA**
+   - Alvo: BOMB B; EDWARD;
+   - Posição: Posicione-se na entrada da cozinha;
+   - Mire: Mira na coluna do lado esquerdo da porta veneziana;
+   - Execução: Ande para a frente e arremesso longo;
+   - Ref. 133.0228: [YouTube](https://youtu.be/iTz_hLnBlmQ);
+
 1. **JANELÃO**
    - Alvo: MEIO; RATO; CARROÇA; PASSAGEM;
    - Posição: Encoste no canto da parede ao lado do buraco;
@@ -884,6 +912,111 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
    - Mire: Mire no meio da parede, alinhado com a região descascada na parede;
    - Execução: Arremesso longo;
    - Ref. 133.7409: [YouTube](https://youtu.be/HMQny3jUBh8);
+
+1. **MEIO (BANCO)**
+   - Alvo: JANELÃO; JUNGLE; MOSCOW;
+   - Posição: Encoste no lado do banco próximo a entrada da ligação;
+   - Mire: Mire na mancha preta, à esquerda, no bloco de subida para o janelão;
+   - Execução: Jumpthrow curto;
+   - Ref. 133.3290: [YouTube](https://youtu.be/CWE_cM4yDe4);
+
+1. **MEIO (BANCO)**
+   - Alvo: MOSCOW;
+   - Posição: Posicione-se do lado direito do banco;
+   - Mire: Mire na junção da mancha cinza com a cerca, ao lado da porta na região do L;
+   - Execução: Arremesso longo;
+   - Ref. 133.4391: [YouTube](https://youtu.be/WI2XkypEdo4);
+
+1. **MEIO FALSO**
+   - Alvo: MEIO; L;
+   - Posição: Na rampa de subida para a carroça, posicione-se ao lado do nicho;
+   - Mire: Mire acima do fio, alinhado com a quina do telhado da construção. Não é necessário ser muito preciso.
+   - Execução: Arremesso longo;
+   - Ref. 133.7317: [YouTube](https://youtu.be/U7LhKvO3Et4);
+
+1. **MEIO FALSO**
+   - Alvo: MEIO BAIXO;
+   - Posição: Posicione-se à direita e no topo da rampa de subida para a carroça;
+   - Mire: Mire rente a quina da parede da cadeira, na altura da mureta do meio cima;
+   - Execução: Ande para a frente e arremesso longo. Execução rápida;
+   - Ref. 133.9114: [YouTube](https://youtu.be/fZYSRkWhdTM);
+
+1. **MEIO FALSO**
+   - Alvo: MEIO BAIXO; JANELÃO; L;
+   - Posição: Na subida da rampa para a carroça, localize a marcação antes de chegar ao topo;
+   - Mire: Mire do lado direito inferior da janela alinhado com o barril;
+   - Execução: Ande para a frente e arremesso longo;
+   - Ref. 133.0356: [YouTube](https://youtu.be/shwL8r_FKFs);
+
+1. **MERCADO JANELA**
+   - Alvo: TAPETE; COZINHA;
+   - Posição: Encoste na parede ao lado da janela do mercado;
+   - Mire: Mire na região dos tijolos aparentes na parte de baixo da parede do bomb B;
+   - Execução: Jumpthrow;
+   - Ref. 133.1073: [YouTube](https://youtu.be/EZwOGKRpyf4);
+
+1. **MOSCOU**
+   - Alvo: MEIO; RATO; CARROÇA;
+   - Posição: Posicione-se em frente ao barril no interior do Moscou. Alinhe a mira com a divisória do piso à esquerda;
+   - Mire: Mire na junção da divisória das madeiras do andaime com a estrutura de ferro;
+   - Execução: Arremesso longo;
+   - Ref. 133.5492: [YouTube](https://youtu.be/HTahorlnVCw);
+
+1. **PASSAGEM CARROÇA**
+   - Alvo: CABECINHA; CAIXA FOGO; PALÁCIO; JUNGLE;
+   - Posição: Pare na quina da passagem carroça;
+   - Mire: Mire no canto da parede ao lado da porta da região da cadeira, na altura da porta;
+   - Execução: Ande para a frente + Jumpthrow;
+   - Ref. 133.7940: [YouTube](https://youtu.be/V5QrUvnJflc);
+
+1. **PLATAFORMA**
+   - Alvo: TETRIS;
+   - Posição: Posicione-se no canto da parede, de frente para a caverna;
+   - Mire: Mire no lado direito da escada, no piso liso, entre as manchas claras no piso e na altura da marcação horizontal da porta;
+   - Execução: Arremesso longo;
+   - Ref. 133.2153: [YouTube](https://youtu.be/kXMijQEwiqc);
+
+1. **RATO**
+   - Alvo: MEIO; LIGAÇÃO; JANELÃO; CADEIRA;
+   - Posição: Posicione-se próximo do arco de saída do rato;
+   - Mire: Mire acima da região direita do banco;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 133.0644: [YouTube](https://youtu.be/zJ4lJ3NypGQ);
+
+1. **TV VARANDA**
+   - Alvo: MEIO;
+   - Posição: Posicione-se em frente a coluna de madeira ao lado da pintura da B;
+   - Mire: Mire na parte de baixo da segunda mancha, da Esq para a Dir, na parede no Meio Falso;
+   - Execução: Ande para a frente + Jumpthrow;
+   - Ref. 133.1732: [YouTube](https://youtu.be/rmhP3I3kzS4);
+
+1. **TV**
+   - Alvo: COZINHA; TAPETE;
+   - Posição: Encoste no canto direito da porta de saída da TV;
+   - Mire: Mire à esquerda do topo do corrimão, na parede de tijolos;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 133.1239: [YouTube](https://youtu.be/tA0xOF5-BOU);
+
+1. **TACO**
+   - Alvo: JUNGLE; LIGAÇÃO; CAIXA FOGO; CABECINHA;
+   - Posição: Posicione-se no canto da parede;
+   - Mire: Mire na junção da parede de tijolos com a parede lisa acima da cabecinha, de forma que a flash bata na parede;
+   - Execução: Arremesso longo; 
+   - Ref. 133.0771: [YouTube](https://youtu.be/2ZAQaeLA-LU);
+
+1. **TAPETE DA B**
+   - Alvo: EDWARD; FOREST; MERCADO JANELA;
+   - Posição: Posicione-se no canto da parede, ao lado da escada de acesso para o tapete;
+   - Mire: Mire entre as manchas claras na parede a frente;
+   - Execução: Arremesso longo:
+   - Ref. 133.8566: [YouTube](https://youtu.be/FD2Vy4XYqec);
+
+1. **VAN**
+   - Alvo: TAPETE;
+   - Posição: Posicione-se no canto da caixa de madeira com a parede do fundo;
+   - Mire: Mire na vista direita da porta rente ao chão da varanda;
+   - Execução: Arremesso longo. Após arremessar a granada. pressione A, pule e agache;
+   - Ref. 133.8453: [YouTube](https://youtu.be/QGRZNgenFmk);
 
 ## High Explosive (HE)
 
