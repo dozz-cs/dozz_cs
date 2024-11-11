@@ -814,7 +814,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 143.6636: [YouTube](https://youtu.be/s1EOc7wEwOI)
 
-## High Explosive
+## High Explosive (HE)
 
 Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
