@@ -10,7 +10,7 @@ classoption: onecolumn
 papersize: a4
 fontsize: 12pt
 colorlinks: true
-urlcolor: blue
+linkcolor: blue
 geometry:
 - top=10mm
 - left=15mm
@@ -21,11 +21,13 @@ hyperrefoptions:
 - pdfwindowui
 ---
 
-# ANUBIS (+110 utilitárias)
+# ANUBIS (+115 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.pdf)
 
 ## Smokes
+
+Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
 1. **BASE CT**
    - Alvo: CAVERNA;
@@ -407,6 +409,8 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
 
 ## Molotov
 
+Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+
 1. **BARCO**
    - Alvo: CÉU;
    - Posição: Suba nos cestos localizado à esquerda do canal;
@@ -640,6 +644,8 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
 
 ## Flash
 
+Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
+
 1. **BARCO**
    - Alvo: PAREDÃO; LIGAÇÃO; ALTAR; CÉU; REDONDO;
    - Posição: Posicione-se dentro da água, no canto da escada de acesso para a entrada da caverna;
@@ -809,6 +815,8 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
    - Ref. 143.6636: [YouTube](https://youtu.be/s1EOc7wEwOI)
 
 ## High Explosive
+
+Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 1. **B BAIXO**
    - Alvo: PILAR;
