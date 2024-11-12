@@ -677,7 +677,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Arremesso longo;
    - Ref. 132.7309: [YouTube](https://youtu.be/0enU7fK55SU);
 
-1. **MEIO BANCO**
+1. **MEIO (BANCO)**
    - Alvo: MOSCOW;
    - Posição: Pare ao lado do banco, sobre uma mancha branca no chão;
    - Mire: Mire no canto direito da passagem do janelão para o Moscow;
