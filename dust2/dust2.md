@@ -6,24 +6,28 @@ date: Atualizado em \today
 lang: pt-br
 output:
   pdf_document:
-classoption: twocolumn
+classoption: onecolumn
 papersize: a4
 fontsize: 12pt
-colorlinks: true
-urlcolor: blue
+colorlinks: True
+linkcolor: blue
 geometry:
 - top=10mm
-- left=10mm
-- right=10mm
+- left=15mm
+- right=15mm
 - bottom=20mm
 hyperLinkoptions:
 - linktoc=all
 - pdfwindowui
 ---
 
-# Guia de utilitárias
+# DUST 2 (+5 utilitárias)
+
+Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/dust2/dust2.pdf)
 
 ## Smokes
+
+Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
 1. **AZUL**
    - Alvo: RAMPA DA BASE CT;
@@ -34,6 +38,8 @@ hyperLinkoptions:
 
 ## Molotov
 
+Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+
 1. **ANDAIME**
    - Alvo: BOMB B;
    - Posição: Posicione-se na coluna de madeira do andaime;
@@ -43,6 +49,8 @@ hyperLinkoptions:
 
 ## Flash
 
+Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
+
 1. **ANDAIME**
    - Alvo: BOMB B; TÚNEL; CARRO;
    - Posição: Posicione-se no canto da parede próximo a janela;
@@ -50,7 +58,9 @@ hyperLinkoptions:
    - Execução: Agache + Jumpthrow;
    - Ref. 103.7633: [YouTube](https://youtu.be/yOLFO7df6Ek);
 
-## High Explosive
+## High Explosive (HE)
+
+Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 1. **ESCURO BAIXO**
    - Alvo: COLUNA DO ESCURO;

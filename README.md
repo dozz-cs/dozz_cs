@@ -20,7 +20,7 @@ Anubis: Manual de utilitárias (Documento para impressão)
 https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.md   
 
 Dust 2: Manual de utilitárias (Documento para impressão)  
-https://github.com/dozz-cs/dozz_cs/tree/main/dust2   
+https://github.com/dozz-cs/dozz_cs/blob/main/dust2/dust2.md   
 
 Inferno: Manual de utilitárias (Documento para impressão)   
 https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.md   
