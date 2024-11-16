@@ -111,7 +111,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Posição: Encoste na quina da parede;
    - Mira: Mire na quina da caixa a frente;
    - Execução: Jumpthrow;
-   - Ref. 101.0924: [YouTube](https://youtu.be/v9Hgu8S5MGs;
+   - Ref. 101.0924: [YouTube](https://youtu.be/v9Hgu8S5MGs);
 
 1. **ESCURO BAIXO**
    - Alvo: PORTA DO MEIO;
@@ -189,6 +189,69 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire à esquerda na região da decoração quadriculada superior. Alinhe a mira verticalmente com o canto esquerdo do vaso de barro;
    - Execução: Jumpthrow;
    - Ref. 101.6345: [YouTube](https://youtu.be/3eo8xFyfXp4);
+
+1. **FUNDO TR**
+   - Alvo: CAIXA DA BASE CT;
+   - Posição: Encoste no canto do fundo atrás do carro TR;
+   - Mira: Mire no topo da janela fechada em forma de arco à esquerda;
+   - Execução: Ande para a frente até a mira chegar na metade da janela e Jumpthrow;
+   - Ref. 101.1813: [YouTube](https://youtu.be/ddMnYe_q2XY);
+
+1. **FUNDO TR**
+   - Alvo: QUINA DO FUNDO;
+   - Posição: Encoste no canto esquerdo da porta pantográfica atrás do carro TR;
+   - Mira: Mire ligeiramente à esquerda do topo da parede, acima da palmeira;
+   - Execução: Arremesso longo;
+   - Ref. 101.4563: [YouTube](https://youtu.be/ZH-0CVZs9ok);
+
+1. **FUNDO TR**
+   - Alvo: XBOX;
+   - Posição: Posicione-se na vista esquerda da porta pantográfica ao lado dos pneus empilhados;
+   - Mira: Alinhe a mira na extremidade da cobertura do telhado ondulado. Mire na parede entre o telhado e o beiral;
+   - Execução: Jumpthrow;
+   - Ref. 101.7453: [YouTube](https://youtu.be/RnTxIVTR4gU);
+
+1. **FUNDO (1/2)**
+   - Alvo: PORTA DA B;
+   - Posição: Encoste no canto direito do barril com a parede da caverna;
+   - Mira: Mire na junção do poste de iluminação com o topo do telhado;
+   - Execução: Jumpthrow;
+   - Ref. 101.6732: [YouTube](https://youtu.be/6pRODjfpIKQ);
+
+1. **FUNDO (2/2)**
+   - Alvo: JANELA;
+   - Posição: Encoste no canto direito do barril com a parede da caverna;
+   - Mira: Mire no canto inferior esquerdo da janela acima do poste de iluminação;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 101.6733: [YouTube](https://youtu.be/6pRODjfpIKQ);
+
+1. **FUNDO**
+   - Alvo: RAMPA DA BASE CT;
+   - Posição: Encoste no barril azul ao lado da porta da saída da caverna;
+   - Mira: Mire na ponta da sombra da luminária no asfalto;
+   - Execução: Ande ligeiramente para a frente até a mira se aproximar do meio-fio + Jumpthrow;
+   - Ref. 101.0314: [YouTube](https://youtu.be/nSPIkk2gqdc);
+
+1. **FUNDO**
+   - Alvo: RAMPA DA BASE CT;
+   - Posição: Posicione-se no batente esquerdo da porta de grade (Smoke curta). Posicione-se no batente esquerdo da porta pantográfica (Smoke média). Posicione-se no batente esquerdo da porta pantográfica próxima a quina do fundo (Smoke longa);
+   - Mira: Mire a média altura do trinco da porta com o chão (Smoke curta). Mire um pouco abaixo da altura da base da placa da A, desloque a mira para a região da porta (Smoke média); Mire no desenho central da placa verde no alto (Smoke longa);
+   - Execução: Arremesso longo (Para as três smokes);
+   - Ref. 101.2478: [YouTube](https://youtu.be/s31SXVoETaE);
+
+1. **FUNDO**
+   - Alvo: PORTA DO MEIO;
+   - Posição: Posicione-se no canto das dobradiças da porta à direita;
+   - Mira: Mire na ponta da antena espinha de peixe;
+   - Execução: Jumpthrow médio;
+   - Ref. 101.6501: [YouTube](https://youtu.be/TvJTn_UQMTQ);
+
+1. **FUNDO**
+   - Alvo: XBOX;
+   - Posição: Suba no barril e posicione-se no canto da parede;
+   - Mira: Mire em uma mancha escura no topo e no lado esquerdo dos tijolos vazados;
+   - Execução: Jumpthrow;
+   - Ref. 101.3854: [YouTube](https://youtu.be/0LfgErXMhmc);
 
 ## Molotov
 
