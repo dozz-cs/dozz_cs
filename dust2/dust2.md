@@ -253,6 +253,76 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow;
    - Ref. 101.3854: [YouTube](https://youtu.be/0LfgErXMhmc);
 
+1. **MEIO CIMA**
+   - Alvo: CAIXA DA BASE CT;
+   - Posição: Posicione-se em frente a um quebrado na vista esquerda do portão de grade;
+   - Mira: Mire na junção do arco da porta com um detalhe vertical de madeira;
+   - Execução: Jumpthrow;
+   - Ref. 101.1549: [YouTube](https://youtu.be/NwgdM5ftrPs);
+
+1. **PORTA DO MEIO**
+   - Alvo: PORTA DO MEIO;
+   - Posição: Encoste atrás da porta esquerda;
+   - Mira: Mire entre uma pequena saliência esférica e o batente superior da porta;
+   - Execução: Arremesso médio;
+   - Ref. 101.4816: [YouTube](https://youtu.be/CNym8TM7wvE);
+
+1. **RAMPA DA B**
+   - Alvo: TÚNEL DO ESCURO;
+   - Posição: Posicione-se em frente a pequena janela na subida;
+   - Mira: Mire na ponta direita de um guindaste de madeira;
+   - Execução: Arremesso longo;
+   - Ref. 101.5398: [YouTube](https://youtu.be/x4omfefJUl0);
+
+1. **RAMPA CT**
+   - Alvo: CAVERNA;
+   - Posição: Encoste no canto das caixas da rampa com o número 14;
+   - Mira: Mire no toldo azul alinhando a mira com o centro da janela do topo da construção;
+   - Execução: Jumpthrow;
+   - Ref. 101.5423: [YouTube](https://youtu.be/SJviROxQwHc);
+
+1. **RAMPA CT**
+   - Alvo: FUNDO DA CAVERNA;
+   - Posição: Encoste no canto das caixas da rampa com o número 14;
+   - Mira: No topo da construção, abaixo da janela. Mire na parte inferior direita da entrada de cabos e fios;
+   - Execução: Jumpthrow;
+   - Ref. 101.9110: [YouTube](https://youtu.be/3Fz7IyGrd5g);
+
+1. **VARANDA, ESCADA DA**
+   - Alvo: VARANDA;
+   - Posição: Encoste na frente da porta de grade;
+   - Mira: Alinhe a mira verticalmente com o centro da janela em uma mancha muito fraca na parede;
+   - Execução: Arremesso longo;
+   - Ref. 101.6614: [YouTube](https://youtu.be/KsNeVSPiIzc);
+
+1. **VARANDA, CAIXA ALTA DA (1/2)**
+   - Alvo: VARANDA;
+   - Posição: Encoste ao lado de uma pequena parede do lado esquerdo do toldo verde;
+   - Mira: Mire na junção do fio de energia com a janela verde em forma de arco;
+   - Execução: Arremesso longo;
+   - Ref. 101.7633: [YouTube](https://youtu.be/RsqvhKQ-mG8);
+
+1. **VARANDA, CAIXA ALTA DA (2/2)**
+   - Alvo: VARANDA;
+   - Posição: Encoste ao lado de uma pequena parede do lado esquerdo do toldo verde;
+   - Mira: Mire rente a quina da parede da varanda, entre a tubulação e a placa azul da A;
+   - Execução: Arremesso longo;
+   - Ref. 101.7634: [YouTube](https://youtu.be/RsqvhKQ-mG8);
+
+1. **VARANDA**
+   - Alvo: BASE CT;
+   - Posição: Posicione-se no canto da caixa baixa da varanda com a parede;
+   - Mira: Mire na parte inferior direita da janela ao alto;
+   - Execução: Arremesso longo;
+   - Ref. 101.0942: [YouTube](https://youtu.be/GSOSSVo-_AE);
+
+1. **XBOX**
+   - Alvo: CAIXA DA BASE CT;
+   - Posição: Agache atrás da caixa xbox;
+   - Mira: Ainda agachado, alinhe a mira na altura dos pregos. Mire no lado direito da segunda tábua à esquerda da corda;
+   - Execução: Levante + Jumpthrow;
+   - Ref. 101.6918: [YouTube](https://youtu.be/eep2Cp5AVDY);
+
 ## Molotov
 
 Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
