@@ -334,6 +334,83 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 102.0117: [YouTube](https://youtu.be/R5yCaXdKVPM);
 
+1. **AZUL, FRENTE DO**
+   - Alvo: CARRO DA A;
+   - Posição: Suba no barril azul ao lado da porta da saída da caverna;
+   - Mira: Mire no relógio de eletricidade ao lado da porta;
+   - Execução: Jumpthrow;
+   - Ref. 102.0312: [YouTube](https://youtu.be/qqFGRA0zNSg);
+
+1. **ALTAR DO BUNKER**
+   - Alvo: BOMB A;
+   - Posição: Pare no topo da escada encostado com o muro;
+   - Mira: Mire no lado esquerdo da falha na parede;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 102.7643: [YouTube](https://youtu.be/1VVLiPWqVqA);
+
+1. **CAMINHO DA MORTE**
+   - Alvo: PORTA DO MEIO;
+   - Posição: Ande pelo caminho da morte até chegar próximo a caixa;
+   - Mira: Mire acima do coqueiro;
+   - Execução: Arremesso longo;
+   - Ref. 102.0603: [YouTube](https://youtu.be/mqeHe4IsRHE);
+
+1. **ESCURO ALTO**
+   - Alvo: ALTAR DO FUNDO;
+   - Posição: Posicione-se no canto direito da entrada no túnel do escuro;
+   - Mira: Mire no topo do arco de saída do túnel;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 102.3593: [YouTube](https://youtu.be/Sss9gKa850c);
+
+1. **ESCURO ALTO**
+   - Alvo: DIREITINHA;
+   - Posição: Agache e posicione a mira do lado esquerdo de uma mancha clara no chão, próximo a uma pequena pedra cinza. O pé esquerdo deve ficar encostado na parede, não sendo possível andar para a frente;
+   - Mira: Mire ligeiramente a esquerda de uma mancha escura no alto da parede;
+   - Execução: W + Jumpthrow;
+   - Ref. 102.2755: [YouTube](https://youtu.be/XCcp-RepMis);
+
+1. **ESCURO BAIXO**
+   - Alvo: PORTA DO MEIO;
+   - Posição: Encoste no canto da parede direita com a caixa;
+   - Mira: Mire próximo a quina, em uma mancha escura próximo ao topo do arco;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 102.1512: [YouTube](https://youtu.be/GMVD11ptM0o);
+
+1. **ESCURO BAIXO**
+   - Alvo: MEIO CT;
+   - Posição: Encoste no canto direito da parede na saída do escuro baixo;
+   - Mira: Localize um mancha escura no topo da abertura de saída em forma de arco. Mire na extremidade esquerda da mancha;
+   - Execução: Agache + Arremesso médio;
+   - Ref. 102.2380: [YouTube](https://youtu.be/54ZFZqgpITw);
+
+1. **FUNDO, QUINA DO**
+   - Alvo: MAROTE DO AZUL;
+   - Posição: Fique no asfalto, próximo ao lado direito da porta pantográfica;
+   - Mira: Mire na junção da tubulação do lado direito da janela;
+   - Execução: Ande ligeiramente para a frente e arremesso longo;
+   - Ref. 102.1804: [YouTube](https://youtu.be/B1Ko9p7RJi8);
+
+1. **RAMPA DA B, CAIXA DA**
+   - Alvo: FUNDO DO ALTAR;
+   - Posição: Suba na caixa da rampa com o pano verde;
+   - Mira: Mire no batente da porta alinhado com a ripa horizontal abaixo da decoração da porta;
+   - Execução: Jumpthrow;
+   - Ref. 102.5407: [YouTube](https://youtu.be/-dDAqsPSatU);
+
+1. **VARANDA, ESCADA**
+   - Alvo: NEWBA;
+   - Posição: Posicione-se no canto da caixa baixa da escada;
+   - Mira: Mire entre as duas manchas mais baixas da placa azul;
+   - Execução: Deslize pela caixa sem mover a mira até ficar ao lado da tubulação + Arremesso longo;
+   - Ref. 102.6621: [YouTube](https://youtu.be/ns4lRKWKNO0);
+
+1. **VARANDA**
+   - Alvo: CAIXA BAIXA DA VARANDA;
+   - Posição: Posicione-se no canto esquerdo do sanduíche da varanda;
+   - Mira: Mire na região do topo da janela;
+   - Execução: Corra até a mira chegar na parte inferior da janela + Jumpthrow;
+   - Ref. 102.4823: [YouTube](https://youtu.be/v05qQJfHvQ0);
+
 ## Flash
 
 Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
