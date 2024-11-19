@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# DUST 2 (+5 utilitárias)
+# DUST 2 (+70 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/dust2/dust2.pdf)
 
