@@ -29,7 +29,7 @@ Mirage: Manual de utilitárias (Documento para impressão)
 https://github.com/dozz-cs/dozz_cs/blob/main/mirage/mirage.md   
 
 Nuke: Manual de utilitárias (Documento para impressão)  
-https://github.com/dozz-cs/dozz_cs/tree/main/nuke   
+https://github.com/dozz-cs/dozz_cs/blob/main/nuke/nuke.md   
 
 Vertigo: Manual de utilitárias (Documento para impressão)    
 https://github.com/dozz-cs/dozz_cs/tree/main/vertigo   
