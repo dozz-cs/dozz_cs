@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# NUKE (+10 utilitárias)
+# NUKE (+20 utilitárias)
 
 ## Smoke
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
@@ -116,6 +116,90 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na parte superior do corrimão amarelo acima do teto da casinha;
    - Execução: Arremesso longo;
    - Ref. 161.6777: [YouTube](https://youtu.be/s8r9NXMV2XU);
+
+1. **BREAKING BAD**
+   - Alvo: PASSAGEM DO BOMB B; 
+   - Posição: Deixe a porta do breaking bad aberta. Ache no canto da parede do fundo, em frente a escada;
+   - Mira: Agache e mire na marcação no chão, em baixo da porta;
+   - Execução: Levante + Arremesso longo;
+   - Ref. 161.7211: [YouTube](https://youtu.be/8jjbPe19FiY);
+
+1. **CAT/CÉU**
+   - Alvo: METAL;
+   - Posição: Posicione-se à esquerda do CAT;
+   - Mira: Mire na base da escada dentro do duto;
+   - Execução: Jumpthrow;
+   - Ref. 161.9367: [YouTube](https://youtu.be/42gadqy28NQ);
+
+1. **CAT/CÉU**
+   - Alvo: Casinha;
+   - Posição: Posicione-se no canto direito da parede do fundo do CAT;
+   - Mira: Mire no centro inferior da luminária esquerda;
+   - Execução: Arremesso longo;
+   - Ref. 161.6704: [YouTube](https://youtu.be/yFZFeySjHrQ);
+
+1. **CAIXA CT**
+   - Alvo: FORA;
+   - Posição: Encoste na quina da parede ao lado da caixa CT;
+   - Mira: Mire na quina direita da caixa azul, na altura do adesivo;
+   - Execução: Jumpthrow;
+   - Ref. 161.8477: [YouTube](https://youtu.be/SRj1K658fkk);
+   
+1. **CAIXA CT**
+   - Alvo: PASSAGEM MONTANHA;
+   - Posição: Posicione-se na quina direita da caixa;
+   - Mira: Mire na linha do teto, entre a segunda e a terceira barra vertical do parapeito da Esq para a Dir;
+   - Execução: Jumpthrow;
+   - Ref. 161.7773: [YouTube](https://youtu.be/BZhHpzGx25E);
+
+1. **CAIXA CT**
+   - Alvo: MONTANHA;
+   - Posição: Pare na frente do painel branco de eletricidade próximo a caixa CT;
+   - Mira: Mire na parte superior da barra vertical do corrimão alinhado com o exaustor do fundo;
+   - Execução: Jumpthrow;
+   - Ref. 161.2390: [YouTube](https://youtu.be/ED7VaUp9TX4);
+
+1. **CAMINHÃO (1/2)**
+   - Alvo: FRENTE DO VERMELHO;
+   - Posição: Encoste na traseira esquerda do caminhão;
+   - Mira: Mire na parede entre as janelas, alinhado com a parte superior das janelas;
+   - Execução: Jumpthrow;
+   - Ref. 161.8071: [YouTube](https://youtu.be/cGF4xZ3Hbak);
+
+1. **CAMINHÃO (2/2)**
+   - Alvo: FRENTE DO SECRET;
+   - Posição: Encoste na traseira esquerda do caminhão;
+   - Mira: Mire na segunda abraçadeira do cano;
+   - Execução: Jumpthrow;
+   - Ref. 161.8072: [YouTube](https://youtu.be/cGF4xZ3Hbak);
+
+1. **CAMINHÃO**
+   - Alvo: FRENTE DO GALPÃO;
+   - Posição: Encoste na traseira esquerda do caminhão;
+   - Mira: Localize a marcação branca esquerda na parte superior do container vermelho. Mire no centro dessa marcação;
+   - Execução: Jumpthrow;
+   - Ref. 161.4578: [YouTube](https://youtu.be/8axOM_VwKPU);
+
+1. **CAMINHÃO**
+   - Alvo: CAT/CÉU;
+   - Posição: Posicione ao lado do adesivo refletivo vermelho na lateral traseira do caminhão;
+   - Mira: Alinhe a mira com o duto no topo da construção. Posicione a mira sobre o fio, alinhado com o duto;
+   - Execução: Corra para a frente até a mira chegar no topo da construção + Jumpthrow;
+   - Ref. 161.7430: [YouTube](https://youtu.be/8er42ss1mLQ);
+
+1. **CAMINHÃO**
+   - Alvo: REATOR DO BOMB A;
+   - Posição: Posicione-se no canto da parede com o container vermelho em cima do caminhão;
+   - Mira: Mire no meio do duto à direita, rente a cúpula do reator nuclear;
+   - Execução: Quebre a janela esquerda. Jumpthrow;
+   - Ref. 161.4398: [YouTube](https://youtu.be/EpfzhSdzA-k);
+
+1. **GALPÃO, FRENTE**
+   - Alvo: PORTA DO METAL;
+   - Posição: Encoste no canto da parede em frente ao galpão;
+   - Mira: Alinhe a mira com o topo da porta. Mire um pouco à direita do canto superior esquerdo;
+   - Execução: Arremesso longo;
+   - Ref. 161.8067: [YouTube](https://youtu.be/K8g1JMEqPDE);
 
 ## Molotov
 Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
