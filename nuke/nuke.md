@@ -26,6 +26,13 @@ hyperLinkoptions:
 ## Smoke
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
 
+1. **ADM**
+   - Alvo: TROFÉU;
+   - Posição: Posiciona-se perto da saída da sala de administração na região da rampa;
+   - Mira: Mire no topo da porta, alinhado com o canto chanfrado;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 161.9473: [YouTube](https://youtu.be/E_TVDUz_QsI);
+
 1. **AZUL**
    - Alvo: VERMELHO (FORA);
    - Posição: Posiciona-se na sombra em forma de arco da alça, atrás do azul;
@@ -200,6 +207,111 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Alinhe a mira com o topo da porta. Mire um pouco à direita do canto superior esquerdo;
    - Execução: Arremesso longo;
    - Ref. 161.8067: [YouTube](https://youtu.be/K8g1JMEqPDE);
+
+1. **METAL**
+   - Alvo: PORTA INTERNA DO TERRA;
+   - Posição: Com a porta do metal fechada. Coloque a mira para o teto. Agache e mire na junção do teto metálico com a a tubulação corrugada;
+   - Mira: Mire na altura da maçaneta da porta;
+   - Execução: Abra a porta + arremesso longo;
+   - Ref. 161.8309: [YouTube](https://youtu.be/za2P3mFOTgo);
+
+1. **MIOLO**
+   - Alvo: PORTA INTERNA DO TERRA;
+   - Posição: Com a porta do metal aberta (destruída), encoste na parede da entrada para o miolo;
+   - Mira: Mire na altura dos capacetes no canto da parede, mova-se para o lado;
+   - Execução: Arremesso longo;
+   - Ref. 161.5641: [YouTube](https://youtu.be/0jRLTatST48);
+
+1. **MIOLO**
+   - Alvo: DUTO;
+   - Posição: Com a porta do metal aberta (destruída), fique na passagem próximo a entrada do metal;
+   - Mira: Mire na parede do lado direito da placa de vermelha;
+   - Execução: Ande para a frente + arremesso longo;
+   - Ref. 161.9239: [YouTube](https://youtu.be/XeC9KUJ95m4);
+
+1. **MONTANHA**
+   - Alvo: CAT/CÉU;
+   - Posição: Suba no topo da montanha e posicione-se sobre a tubulação à esquerda.
+   - Mira: Para quebrar o vidro, localize a extremidade do parapeito em cima do telhado. Mire na parede de metal um pouco acima das janelas, pule e atire até quebrar o vidro da claraboia. Para arremessar a smoke, localize a junção na tubulação na lateral da cúpula do reator. Posicione a mira na extremidade direita da cúpula do reator.
+   - Execução: Arremesso longo;
+   - Ref. 161.6662: [YouTube](https://youtu.be/uhUbZQX7xLQ);
+
+1. **RAMPA**
+   - Alvo: VIDRO;
+   - Posição: Na frente da canaleta de metal, ao lado da flecha vermelha da B;
+   - Mira: De dois ou três passos para a direita e mire no chão na altura da tubulação;
+   - Execução: Arremesso longo;
+   - Ref. 161.7090: [YouTube](https://youtu.be/m_HjLOQnQoU);
+
+1. **RAMPA**
+   - Alvo: BREAKING BAD;
+   - Posição: Localize a porta direita de acesso ao bomb B. Posicione-se no lado esquerdo da porta;
+   - Mira: Mire na quina do parapeito amarelo ao fundo;
+   - Execução: Arremesso longo;
+   - Ref. 161.7634: [YouTube](https://youtu.be/LuQUbxqLuIc);
+
+1. **RAMPA**
+   - Alvo: PORTA DUPLA;
+   - Posição: Localize a porta esquerda de acesso ao bomb B;
+   - Mira: Mire na vareta amarela localizada na topo esquerdo do reator;
+   - Execução: Ande para a frente + arremesso longo;
+   - Ref. 161.9832: [YouTube](https://youtu.be/hTSmpbFkN78);
+
+1. **RAMPA**
+   - Alvo: PORTA DUPLA;
+   - Posição: Localize a porta direita de acesso ao bomb B;
+   - Mira: Mire no canto superior direito da porta dupla;
+   - Execução: Ande ligeiramente para a frente + arremesso longo;
+   - Ref. 161.9833: [YouTube](https://youtu.be/hjzRNaJPRxw);
+
+1. **TELHADO TR**
+   - Alvo: CAT/CEU;
+   - Posição: Suba na bobina (baixa) próximo a escada amarela ao lado da montanha. Alinhe a mira com uma marcação na bobina;
+   - Mira: Localize a primeira e a segunda abraçadeira da tubulação de eletricidade. Mire na marcação horizontal de rebites abaixo da tubulação, alinhado com o meio das abraçadeiras. 
+   - Execução: Atenção! Não quebre o vidro. Agache + Jumpthrow agachado;
+   - Ref. 161.9235: [YouTube](https://youtu.be/HwnBc6JAHWw);
+
+1. **TELHADO TR**
+   - Alvo: CAT/CEU;
+   - Posição: Suba na bobina (baixa) próximo a escada amarela ao lado da montanha. Alinhe a mira com uma marcação na bobina;
+   - Mira: Alinhe a mira na altura entre as linhas azuis da cúpula do reator nuclear e a segunda divisória das janelas. A mira ficará no céu azul; 
+   - Execução: Atenção! Quebre o vidro com uma decoy. Arremesso longo;
+   - Ref. 161.6743: [YouTube](https://youtu.be/k6Ui4MjlGMU);
+
+1. **TERRA, PORTA INTERNA**
+   - Alvo: CÉU; 
+   - Posição: Posicione-se a direita da porta na entrada da A;
+   - Mira: Mire em uma ligação do duto de ar que está na direção do céu;
+   - Execução: Arremesso longo;
+   - Ref. 161.1818: [YouTube](https://youtu.be/NZEyFWtMYy0);
+
+1. **TETRIS**
+   - Alvo: CAT/CÉU;
+   - Posição: Aline a alça esquerda do container com o gancho no teto;
+   - Mira: Mire na junção dos telhados na direção do CAT;
+   - Execução: Arremesso longo;
+   - Ref. 161.6429: [YouTube](https://youtu.be/vIxysnWoNY8);
+
+1. **VIDRO (1/2)**
+   - Alvo: PORTA DIREITA DO BOMB B;
+   - Posição: Fique próximo a porta trancada na sala do vidro;
+   - Mira: Mire nos dois tubos próximo ao teto;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 161.7350: [YouTube](https://youtu.be/ZUhDJ8fMf1I);
+
+1. **VIDRO (2/2)**
+   - Alvo: PORTA ESQUERDA DO BOMB B;
+   - Posição: Fique próximo a porta trancada na sala do vidro;
+   - Mira: Mire na placa de metal embaixo das tubulações do teto; 
+   - Execução: Arremesso longo;
+   - Ref. 161.7351: [YouTube](https://youtu.be/ZUhDJ8fMf1I);
+
+1. **VIDRO**
+   - Alvo: BREAKING BAD;
+   - Posição: Posicione-se na parede do fundo até o batente amarelo esquerdo da porta ficar completamente visível;
+   - Mira: Mire entre as duas colunas de ferro amarela no topo da porta pantográfica;
+   - Execução: O vidro esquerdo deve estar quebrado e a porta do breaking bad, aberta. Ande pra a frente e arremesso longo;
+   - Ref. 161.0824: [YouTube](https://youtu.be/U9I_lbknOto);
 
 ## Molotov
 Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
