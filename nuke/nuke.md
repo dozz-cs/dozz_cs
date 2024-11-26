@@ -265,6 +265,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 161.9833: [YouTube](https://youtu.be/hjzRNaJPRxw);
 
 1. **TELHADO TR**
+   - Alvo: PORTA INTERNA DO TERRA;
+   - Posição: Quebre os vidros, posicione-se no canto da parede com o parapeito próximo a entrada dos dutos de ventilação;
+   - Mira: Mire a direita da quina do telhado logo acima da porta amarela.
+   - Execução: Jumpthrow médio;
+   - Ref. 161.7233: [YouTube](https://youtu.be/JzRO4yDs8m0);
+
+1. **TELHADO TR**
    - Alvo: CAT/CEU;
    - Posição: Suba na bobina (baixa) próximo a escada amarela ao lado da montanha. Alinhe a mira com uma marcação na bobina;
    - Mira: Localize a primeira e a segunda abraçadeira da tubulação de eletricidade. Mire na marcação horizontal de rebites abaixo da tubulação, alinhado com o meio das abraçadeiras. 
@@ -322,6 +329,69 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Mira: Mire rente as faixa listrada na subida para o CAT;
    - Execução: Arremesso longo;
    - Ref. 162.7214: [YouTube](https://youtu.be/zRJia9ctzpk);
+
+1. **BASE CT, SAÍDA**
+   - Alvo: CAIXA DA MONTANHA; 
+   - Posição: Posicione-se em frente ao duto próximo a caixa CT;
+   - Mira: Mire ao lado da quina da parede na altura do fio de eletricidade mais baixo;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 162.6222: [YouTube](https://youtu.be/7Askhb5P8Pw);
+
+1. **BASE TR, SAÍDA**
+   - Alvo: VERMELHO; 
+   - Posição: Posicione-se na sombra da coluna da cerca em frente a marcação circular na montanha;
+   - Mira: No lado direito da montanha alinhado com a quina da construção. Mire no fio de energia do meio;
+   - Execução: Arremesso longo;
+   - Ref. 162.8235: [YouTube](https://youtu.be/OagETOyvNpk);
+
+1. **BASE TR, SAÍDA**
+   - Alvo: AZUL; 
+   - Posição: Posicione-se na fresta do canto da caixa cinza com a montanha;
+   - Mira: Mire no canto inferior direito da porta pantográfica;
+   - Execução: Jumpthrow;
+   - Ref. 162.4309: [YouTube](https://youtu.be/r3f91wkw6fg);
+
+1. **BASE TR, SAÍDA**
+   - Alvo: SEC-RT;
+   - Posição: Posicione-se na junção da caixa cinza com a caixa azul ao lado da montanha;
+   - Mira: Mire na quina direita da construção acima do SEC-RT;
+   - Execução: Arremesso longo;
+   - Ref. 162.4583: [YouTube](https://youtu.be/ZhCV5Zh-b-U);
+
+1. **BANANA**
+   - Alvo: ESCADA DA PORTA DUPLA;
+   - Posição: Descendo o SEC-RT, posicione-se em frente a cisterna próximo a quina de acesso a banana;
+   - Mira: Mire à direita e na altura da divisão da pintura verde/branca na parede;
+   - Execução: Ande para a frente + arremesso longo;
+   - Ref. 162.7403: [YouTube](https://youtu.be/jfEHMfwmifw);
+
+1. **BOMB B**
+   - Alvo: ESCADA DA PORTA DUPLA;
+   - Posição: Posicione-se na parte superior da rampa do bomb B, de frente para a janela, próximo a uma marcação amarela no chão;
+   - Mira: Dentro da sala da janela, mire a esquerda da quina da parede, na altura da divisão da pintura verde/branca na parede;
+   - Execução: Quebre os vidros. Ande para a frente + arremesso longo;
+   - Ref. 162.7634: [YouTube](https://youtu.be/CPWrv12StUQ);
+
+1. **CASINHA, PORTA DA**
+   - Alvo: CAT/CÉU;
+   - Posição: Posicione-se em frente a porta azul;
+   - Mira: Mire na junção do duto de ar com a treliça do teto;
+   - Execução: Arremesso longo;
+   - Ref. 162.9833: [YouTube](https://youtu.be/LhaS3A1wy-E);
+
+1. **CASINHA, PORTA DA**
+   - Alvo: DUTO FALSO;
+   - Posição: Posicione-se em frente a porta azul, ande para a esquerda até a luminária da parede ficar visível;
+   - Mira: Mire na luminária;
+   - Execução: Arremesso longo;
+   - Ref. 162.9502: [YouTube](https://youtu.be/DsFP4Iw_OdI);
+
+1. **CAT/CÉU**
+   - Alvo: PORTA DO METAL;
+   - Posição: Posicione-se na parede direita do CAT;
+   - Mira: Mire no meio da inscrição no metal da passarela amarela;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 162.6418: [YouTube](https://youtu.be/h4Ye2Ky6V5I);
 
 ## Flash
 Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
