@@ -393,6 +393,90 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 162.6418: [YouTube](https://youtu.be/h4Ye2Ky6V5I);
 
+1. **PLATAFORMA DA CASINHA**
+   - Alvo: BOBINA DO TELHADO TR;
+   - Posição: Posicione-se no canto da parede com a coluna ao lado do quadro com botões;
+   - Mira: Mire na junção superior direita da janela com a coluna de concreto;
+   - Execução: Necessário ter os vidros quebrados. Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 162.6732: [YouTube](https://youtu.be/HbEudNxQUug);
+
+1. **RAMPA**
+   - Alvo: ESCURO;
+   - Posição: Posicione-se à esquerda, em uma canaleta na parede localizada na parte de baixo da rampa;
+   - Mira: Mire no topo do extintor de incêndio pendurado na parede;
+   - Execução: Arremesso longo;
+   - Ref. 162.0534: [YouTube](https://youtu.be/utJt3tpdP5o);
+
+1. **RAMPA**
+   - Alvo: TROFÉU;
+   - Posição: Posiciona-se do perto da entrada para a sala de troféus, ainda na região da rampa;
+   - Mira: Mire no topo da porta, alinhado com o canto chanfrado;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 162.7492: [YouTube](https://youtu.be/YiLVZ24bviM);
+
+1. **TERRA, PORTA INTERNA**
+   - Alvo: CAT/CÉU;
+   - Posição: Posicione-se a direita da porta na entrada da A;
+   - Mira: Mire em uma ligação do duto de ar que está na direção do céu;
+   - Execução: Arremesso longo;
+   - Ref. 162.7851: [YouTube](https://youtu.be/IecCQqPRjpI);
+
+1. **TELHADO TR**
+   - Alvo: TETO DA CASINHA;
+   - Posição: Posicione-se na bobina esquerda (não possui a mangueira enrolada). Alinhe a mira com uma marcação na bobina;
+   - Mira: A partir da divisória da janela, mire na primeira marcação vertical, rente a janela;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 162.8001: [YouTube](https://youtu.be/sdsrpo6xcYM);
+
+1. **TELHADO TR**
+   - Alvo: TETO DA CASINHA;
+   - Posição: Posicione-se na borda da bobina da direita (com a mangueira enrolada). Alinhe a mira com uma marcação na bobina;
+   - Mira: A partir da extremidade direita da janela, mire na segunda marcação vertical, rente a janela;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 162.8002: [YouTube](https://youtu.be/ip7jJw3aChY);
+
+1. **TELHADO TR**
+   - Alvo: REATOR DA A;
+   - Posição: Posicione-se no lado esquerdo da bobina da esquerda (sem a mangueira enrolada);
+   - Mira: Mire na terceira marcação escura, da Dir para a Esq, na altura do corrimão;
+   - Execução: Jumpthrow;
+   - Ref. 162.9364: [YouTube](https://youtu.be/TY5ubZlLXRc);
+
+1. **TELHADO TR**
+   - Alvo: REATOR DA A;
+   - Posição: Suba na bobina bobina da esquerda (sem a mangueira enrolada) e alinhe a mira com a marcação da bobina;
+   - Mira: Mire um pouco à esquerda do canto superior direito da janela, na linha da segunda marcação;
+   - Execução: Arremesso longo;
+   - Ref. 162.7391: [YouTube](https://youtu.be/O2yOZOPVesA);
+
+1. **TELHADO TR**
+   - Alvo: PLATAFORMA DA CASINHA;
+   - Posição: Posicione-se no duto de ventilação direito. Agache e posicione a mira sobre o parafuso da base;
+   - Mira: Mire na borda da sombra da escada no meio da pequena parede branca de metal;
+   - Execução: Jumpthrow;
+   - Ref. 162.6322: [YouTube](https://youtu.be/24wRSO0JIno);
+
+1. **TERRA, ENTRADA DO**
+   - Alvo: MONTANHA;
+   - Posição: Alinhe-se com a quina da parede de saída do Terra, ao lado da placa vermelha do bomb A;
+   - Mira: Mire próximo ao topo da construção alinhado com uma marcação vertical;
+   - Execução: Arremesso longo;
+   - Ref. 162.6452: [YouTube](https://youtu.be/vTAEkFa9LUw);
+
+1. **TETRIS**
+   - Alvo: CAT/CÉU;
+   - Posição: Alinhe a alça esquerda do container com o gancho no teto;
+   - Mira: Mire a esquerda da parte debaixo da junção alça com o container (lista branca);
+   - Execução: Jumpthrow;
+   - Ref. 162.8032: [YouTube](https://youtu.be/1y-VhQsoeJk);
+
+1. **VIDRO**
+   - Alvo: ESCURO;
+   - Posição: Pare em frente a bancada de controle direita na frente do vidro de forma a conseguir ver a parede do escuro;
+   - Mira: Mire no trilho da janela de vidro;
+   - Execução: Arremesso longo;
+   - Ref. 162.7502: [YouTube](https://youtu.be/J-J9JBjRLrI);
+
 ## Flash
 Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
