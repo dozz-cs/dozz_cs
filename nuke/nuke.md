@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# NUKE (+20 utilitárias)
+# NUKE (+80 utilitárias)
 
 ## Smoke
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
@@ -480,6 +480,76 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
 ## Flash
 Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
+1. **BASE CT, SAÍDA**
+   - Alvo: BOMB A;
+   - Posição: Posicione-se em frente a junção do muro, do lado direito da placa amarela "Danger";
+   - Mira: Mire na quina superior direita da porta amarela;
+   - Execução: Jumpthrow;
+   - Ref. 163.0854: [YouTube](https://youtu.be/eXgHspNV2sI);
+
+1. **BASE TR, SAÍDA**
+   - Alvo: PORTA DO TERRA; FORA; AZUL;
+   - Posição: Posicione-se na junção da sombra do prédio com a sombra da cerca;
+   - Mira: Mire no fio acima da cerca a frente. Alinhe a mira com o centro da cerca;
+   - Execução: Corra até passar a sombra do poste da cerca + Arremesso longo;
+   - Ref. 163.6342: [YouTube](https://youtu.be/6RIqBOy17PU);
+
+1. **BASE TR, SAÍDA**
+   - Alvo: FORA; SEC-RT; PORTA DO TERRA; GALPÃO;
+   - Posição: Posicione-se sobre a borda da cerca caída na saída da base TR;
+   - Mira: Mire no canto inferior esquerdo da caixa azul ao lado da montanha;
+   - Execução: Ande para a frente + Jumpthrow;
+   - Ref. 163.7345: [YouTube](https://youtu.be/SSCal5I9-2Q);
+
+1. **BASE TR, SAÍDA**
+   - Alvo: SEC-RT; GALPÃO;
+   - Posição: Posicione-se sobre a sombra da cerca, atrás da montanha;
+   - Mira: Mire na logo azul em cima do SEC-RT;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 163.6343: [YouTube](https://youtu.be/gRn-GUkZYPE);
+
+1. **BASE TR, SAÍDA**
+   - Alvo: CAT; REATOR; DUTO FALSO; PLATAFORMA; 
+   - Posição: Quebre os vidros direito. Posicione-se no canto da cerca com a parede à direita da saída da base TR;
+   - Mira: Mire na base do corrimão que está alinhado com a janela;
+   - Execução: Ande para a frente até a mira chegar no container azul + Jumpthrow;
+   - Ref. 163.8210: [YouTube](https://youtu.be/OZUXi4EfBSE);
+
+1. **MIOLO**
+   - Alvo: CAT; REATOR; DUTO FALSO;
+   - Posição: Com a porta do metal aberta (destruída), fique na passagem próximo a entrada do metal;
+   - Mira: Mire no canto superior direito da porta;
+   - Execução: Arremesso longo;
+   - Ref. 163.5632: [YouTube](https://youtu.be/2uHKIxf0lLA);
+
+1. **RAMPA**
+   - Alvo: TROFÉU;
+   - Posição: Posiciona-se perto da saída da sala de administração na região da rampa;
+   - Mira: Mire no topo da porta, alinhado com o canto chanfrado;
+   - Execução: Ande para a frente até a linha amarela próximo a sala de troféu + Arremesso longo;
+   - Ref. 163.4563: [YouTube](https://youtu.be/jHZDqerahfE);
+
+1. **RAMPA**
+   - Alvo: TROFÉU;
+   - Posição: Posiciona-se sobre a faixa amarela direita no topo da rampa. Agache para ajustar a posição;
+   - Mira: Mire na base branca do corrimão amarelo;
+   - Execução: Jumpthrow;
+   - Ref. 163.3891: [YouTube](https://youtu.be/B1DBHXQjVUY);
+
+1. **TROFÉU**
+   - Alvo: RAMPA; FUNDO DA RAMPA;
+   - Posição: Posicione-se no lado esquerdo da porta de acesso a sala de controle;
+   - Mira: Mire no topo da coluna amarela atrás da caixa da rampa. 
+   - Execução: Arremesso longo;
+   - Ref. 163.8374: [YouTube](https://youtu.be/G5AtcXF080U);
+
+1. **TERRA, FRENTE**
+   - Alvo: SAÍDA DA BASE TR;
+   - Posição: Posicione-se na quina da parede em frente a saída do Terra;
+   - Mira: Mire a meia altura e a direita da porta pantográfica dentro do Terra;
+   - Execução: Jumpthrow;
+   - Ref. 163.2201: [YouTube](https://youtu.be/Vs5fRl7VFCY);
+
 ## High explosive (HE)
 Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
@@ -491,11 +561,74 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Ref. 164.7214: [YouTube](https://youtu.be/uKu7K9DpuCw);
 
 1. **BOMB A**
+   - Alvo: CAT/CÉU;
+   - Posição: Posicione-se em frente a porta de saída da casinha;
+   - Mira: Mire no topo do reator, alinhado em direção ao CAT;
+   - Execução: Arremesso longo;
+   - Ref. 164.9823: [YouTube](https://youtu.be/QHJVHbXzjaA);
+
+1. **BOMB A**
    - Alvo: TERRA;
    - Posição: Posicione-se atrás e entre os dois reatores da A;
    - Mira: Mire na fresta entre os reatores acima da placa de metal amarela;
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 164.0722: [YouTube](https://youtu.be/ksQ2P61v2fQ);
+
+1. **BREAKING BAD**
+   - Alvo: ESCURO;
+   - Posição: Entro do Breaking bad, posicione-se à direita da porta. Alinhe o batente esquerdo do Vidro com o batente da porta;
+   - Mira: Mire na junção do corrimão amarelo, próximo ao adesivo vermelho;
+   - Execução: Ande pra a frente + Arremesso longo;
+   - Ref. 164.9047: [YouTube](https://youtu.be/cXgsXUlwW9c);
+
+1. **PLATAFORMA**
+   - Alvo: BOBINA DO TELHADO TR;
+   - Posição: Posicione-se em frente ao quadro com botões;
+   - Mira: Mire na junção superior direita da janela com a coluna de concreto;
+   - Execução: Necessário ter os vidros quebrados. Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 164.7853: [YouTube](https://youtu.be/MJ5QQPZEk9c);
+
+1. **TELHADO TR**
+   - Alvo: PLATAFORMA;
+   - Posição: Posicione-se no duto de ventilação direito. Agache e posicione a mira sobre a marcação do parafuso;
+   - Mira: Mire na borda da sombra da escada no meio da pequena parede branca de metal;
+   - Execução: O vidro deve estar quebrado. Jumpthrow;
+   - Ref. 164.6322: [YouTube](https://youtu.be/WxkmH-wT5pM);
+
+1. **RAMPA**
+   - Alvo: REATOR DO BOMB B;
+   - Posição: Posicione-se na porta esquerda/direita;
+   - Mira: Mire ligeiramente à esquerda/direita do topo do reator;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 164.8229: [YouTube](https://youtu.be/SK59fShHMS0);
+
+1. **TERRA, ENTRADA DO**
+   - Alvo: MONTANHA;
+   - Posição: Alinhe-se com a quina da parede de saída do Terra, ao lado da placa vermelha do bomb A;
+   - Mira: Mire próximo ao topo da construção alinhado com uma marcação vertical;
+   - Execução: Arremesso longo;
+   - Ref. 164.9662: [YouTube](https://youtu.be/25L3Y8FYqQk);
+
+1. **VIDRO, ESCADA DO**
+   - Alvo: CAIXA DA B;
+   - Posição: Posicione-se na parede verde claro do fundo, na região da escada. Alinhe a lateral do adesivo amarelo com a quina da parede;
+   - Mira: Mire no topo da porta alinhado com o reator;
+   - Execução: Ande pra a frente + Arremesso longo;
+   - Ref. 164.9631: [YouTube](https://youtu.be/D0FDzQBzJgk);
+
+1. **VIDRO**
+   - Alvo: BREAKING BAD;
+   - Posição: Posicione-se na parede do fundo até o batente amarelo esquerdo da porta ficar completamente visível;
+   - Mira: Mire entre as duas colunas de ferro amarela no topo da porta pantográfica;
+   - Execução: O vidro esquerdo deve estar quebrado e a porta do breaking bad, aberta. Ande pra a frente e arremesso longo;
+   - Ref. 164.0824: [YouTube](https://youtu.be/OahZlGLbcMo);
+
+1. **VIDRO**
+   - Alvo: REATOR DO BOMB B;
+   - Posição: Posicione-se sobre a cadeira vermelha próximo ao vidro;
+   - Mira: Mire no topo e à esquerda do reator;
+   - Execução: Arremesso longo;
+   - Ref. 164.5342: [YouTube](https://youtu.be/_TCZU7iqnyA);
 
 ## Referências
 
