@@ -22,7 +22,7 @@ hyperLinkoptions:
 ---
 
 
-# ANCIENT (+10 utilitárias)
+# ANCIENT (+30 utilitárias)
 
 ## Smoke
 Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
@@ -138,6 +138,97 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Mire: Mire na junção das pedras acima das pontas de madeira;
    - Execução: Jumpthrow;
    - Ref. 151.8701: [YouTube](https://youtu.be/rz6DJKI5zrc);
+
+1. **CT DA B**
+   - Alvo: PORTA;
+   - Posição: Posicione-se na quina da parede à direita, perto da saída do escuro;
+   - Mira: Mire na região da parede de pedra a esquerda da madeira azul do pilar na altura da segunda linha horizontal;
+   - Execução: Jumpthrow;
+   - Ref. 151.4377: [YouTube](https://youtu.be/dwFST0fZtpE);
+
+1. **ESQUINA**
+   - Alvo: JANELÃO;
+   - Posição: Posicione-se na quina da parede, com a mira alinhada rente a quina;
+   - Mira: Posicione a mira no lado esquerdo da forquilha mais grossa no alto da árvore;
+   - Execução: Arremesso longo;
+   - Ref. 151.1770: [YouTube](https://youtu.be/e8eZhdlq2qk);
+
+1. **ESQUINA**
+   - Alvo: ENTRADA DA LIGAÇÃO;
+   - Posição: Posicione-se no canto da parede da esquina. Fique de frente para o xbox;
+   - Mira: Posicione a mira na marcação horizontal superior, alinhado com o lado esquerdo das pedras na região da parede de elementos vazados;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 151.3967: [YouTube](https://youtu.be/Wb80Kud4kgA);
+
+1. **ESCURO**
+   - Alvo: SOL;
+   - Posição: Posicione-se na frente da pá encostada na parede do escuro;
+   - Mira: Mire à esquerda da coluna na altura da marcação horizontal da pedra;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 151.7091: [YouTube](https://youtu.be/q_wsKMyIwZ0);
+
+1. **L**
+   - Alvo: FUNDO RAMPA;
+   - Posição: Encoste no canto de uma pequena parede com a parede do fundo;
+   - Mira: Mire entre as folhas da planta no topo da parede a frente;
+   - Execução: Arremesso longo;
+   - Ref. 151.6641: [YouTube](https://youtu.be/88JgnUj4DI4);
+
+1. **L**
+   - Alvo: RAMPA CIMA;
+   - Posição: Encoste no canto de uma pequena parede com a parede do fundo;
+   - Mira: Alinhe a mira entre as folhas da planta na altura do pico da montanha;
+   - Execução: Jumpthrow médio;
+   - Ref. 151.7844: [YouTube](https://youtu.be/cmO_RTKDZOA);
+
+1. **L**
+   - Alvo: ESCURO;
+   - Posição: Encoste no canto de uma pequena parede com a parede do fundo;
+   - Mira: Alinhe a mira com a marcação horizontal da coluna. Mire à direita da coluna, em uma pedra alongada localizada na parede;
+   - Execução: Jumpthrow médio;
+   - Ref. 151.6423: [YouTube](https://youtu.be/C11q6qNw7ec);
+
+1. **LIGAÇÃO, ENTRADA**
+   - Alvo: CT;
+   - Posição: Posicione-se no canto da parede na entrada esquerda da ligação;
+   - Mira: Mire em um vão formado pelo canto do muro com a parede;
+   - Execução: Arremesso longo;
+   - Ref. 151.7243: [YouTube](https://youtu.be/EFqcs6Spxr0);
+
+1. **PORTA**
+   - Alvo: SOL;
+   - Posição: Posicione-se em frente a fechadura na porta esquerda, 
+   - Mira: Alinhe a mira com a direita da placa da B na altura do topo da parede, em um pequeno degrau.
+   - Execução: Jumpthrow médio;
+   - Ref. 151.9722: [YouTube](https://youtu.be/MGLXh3ylny0);
+   
+1. **PORTA**
+   - Alvo: CT DA B;
+   - Posição: Na porta esquerda, posicione-se em frente a uma marcação triangular;
+   - Mira: Mire na ponta da folha fina mais alta localizada na parte superior da parede;
+   - Execução: Arremesso longo;
+   - Ref. 151.7431: [YouTube](https://youtu.be/Nxqiq7Re_Jw);
+   
+1. **PORTA**
+   - Alvo: SAÍDA DO ESCURO;
+   - Posição: Na porta esquerda, posicione-se em frente a uma marcação triangular;
+   - Mira: Mire na ponta da folha fina mais a esquerda localizada na parte superior da parede;
+   - Execução: Arremesso longo;
+   - Ref. 151.7466: [YouTube](https://youtu.be/UHtyorU4sFs);
+
+1. **PORTA**
+   - Alvo: CT DA B;
+   - Posição: Posicione-se no canto da porta direita com a parede;
+   - Mira: Alinhe a mira com a quina do pilar e com a quina das pedras da construção, à esquerda. A mira ficará no céu azul;
+   - Execução: Arremesso longo;
+   - Ref. 151.0236: [YouTube](https://youtu.be/Xvpy5Z_Pjg4);
+
+1. **PORTA**
+   - Alvo: CORREDOR;
+   - Posição: Na porta esquerda, posicione-se em frente a uma marcação triangular;
+   - Mira: Localize a pedra retangular acima da grande pedra quadrada. Mire próximo a parte de baixo e à direita de uma mancha difusa mais escura;
+   - Execução: Jumpthrow;
+   - Ref. 151.8220: [YouTube](https://youtu.be/ISiuEd54TI4);
 
 ## Molotov
 Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
