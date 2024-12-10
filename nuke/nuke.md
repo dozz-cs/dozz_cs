@@ -9,7 +9,7 @@ output:
 classoption: onecolumn
 papersize: a4
 fontsize: 12pt
-colorlinks: True
+colorlinks: true
 linkcolor: blue
 geometry:
 - top=10mm
