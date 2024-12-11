@@ -22,7 +22,7 @@ hyperLinkoptions:
 ---
 
 
-# ANCIENT (+30 utilitárias)
+# ANCIENT (+45 utilitárias)
 
 ## Smoke
 Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
@@ -229,6 +229,111 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Mira: Localize a pedra retangular acima da grande pedra quadrada. Mire próximo a parte de baixo e à direita de uma mancha difusa mais escura;
    - Execução: Jumpthrow;
    - Ref. 151.8220: [YouTube](https://youtu.be/ISiuEd54TI4);
+
+1. **QUADRADO DA B**
+   - Alvo: CT DA B;
+   - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
+   - Mira: Mire na mancha clara no meio e na parte superior da porta;
+   - Execução: Jumpthrow;
+   - Ref. 151.9007: [YouTube](https://youtu.be/I_zliudzSLI);
+
+1. **QUADRADO DA B**
+   - Alvo: CORREDOR;
+   - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
+   - Mira: Acima da porta, mire entre as decorações em forma de cone à direita e próxima do centro;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Ref. 151.4308: [YouTube](https://youtu.be/voh1XOR9Wu0);
+
+1. **QUADRADO DA B**
+   - Alvo: SOL;
+   - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
+   - Mira: Mire a direita da porta, na linha do topo, na parte superior da segunda pedra em formato de cone;
+   - Execução: Jumpthrow;
+   - Ref. 151.9107: [YouTube](https://youtu.be/U1r16Uu89ms);
+   
+1. **QUADRADO DA B**
+   - Alvo: SOL;
+   - Posição: Encoste no lado da caixa com o número 14;
+   - Mira: Localize uma pedra quadrada entre as portas e à direita. Mire no canto inferior esquerdo dessa pedra quadrada;
+   - Execução: Jumpthrow;
+   - Ref. 151.8743: [YouTube](https://youtu.be/tJbYmq_cLY0);
+
+1. **QUADRADO DA B**
+   - Alvo: SAÍDA DO ESCURO;
+   - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
+   - Mira: Mire na pedra inferior em formato de argola, à esquerda da mancha clara no meio e na parte superior da porta;
+   - Execução: Jumpthrow;
+   - Ref. 151.9417: [YouTube](https://youtu.be/MWFbEZDhEAU);
+
+1. **QUADRADO DO FUNDO**
+   - Alvo: JANELÃO;
+   - Posição: Encoste na parte de trás da quina esquerda do quadrado do fundo;
+   - Mira: Mire no meio do caule de uma folhagem do tipo costela de Adão localizado à esquerda;
+   - Execução: Jumpthrow;
+   - Ref. 151.7731: [YouTube](https://youtu.be/fyBDe62dixQ);
+ 
+1. **QUADRADO DO FUNDO**
+   - Alvo: VARANDA;
+   - Posição: No fundo, posicione-se em cima de uma samambaia em frente a uma pedra;
+   - Mira: Mire no topo da janela, na região central, em uma pequena mancha escura;
+   - Execução: Jumpthrow;
+   - Ref. 151.2066: [YouTube](https://youtu.be/4GPEhcbaHlM);
+
+1. **QUADRADO DO FUNDO**
+   - Alvo: CT;
+   - Posição: Posicione-se na quina da construção de acesso a base TR;
+   - Mira: Mire ligeiramente à direita da quina do topo da construção ao fundo;
+   - Execução: Jumpthrow;
+   - Ref. 151.3093: [YouTube](https://youtu.be/dmweYh2KItk);
+
+1. **RAMPA DO FUNDO (SMOKE 1/3)**
+   - Alvo: CT;
+   - Posição: Posicione-se no canto esquerdo da entrada da rampa do fundo;
+   - Mira: Agache e mire na ponta da folha do tipo costela de Adão;
+   - Execução: Mantenha-se agachado + Jumpthrow;
+   - Ref. 151.8632: [YouTube](https://youtu.be/I2ItKLmRyy8);
+
+1. **RAMPA DO FUNDO (SMOKE 2/3)**
+   - Alvo: LIGAÇÃO;
+   - Posição: Posicione-se no canto esquerdo da entrada da rampa do fundo;
+   - Mira: No topo da construção, agache e mire entre as folhas finas, à esquerda, da planta no topo da construção;
+   - Execução: Mantenha-se agachado + w Jumpthrow;
+   - Ref. 151.5326: [YouTube](https://youtu.be/_9tDZCuSLlI);
+
+1. **RAMPA DO FUNDO (SMOKE 3/3)**
+   - Alvo: TEMPLO;
+   - Posição: Posicione-se no canto esquerdo da entrada da rampa do fundo;
+   - Mira: Agache e mire na região marrom, na parte superior e à direita, da folha do tipo costela de Adão;
+   - Execução: Mantenha-se agachado + Jumpthrow;
+   - Ref. 151.7498: [YouTube](https://youtu.be/xbyKqdZHF7c);
+
+1. **RAMPA DO FUNDO**
+   - Alvo: LIGAÇÃO;
+   - Posição: Posicione o pé esquerdo na quina esquerda da escada de acesso ao fundo;
+   - Mira: No topo esquerdo da parede de elementos vazados, mire no meio do elemento vazado;
+   - Execução: Jumpthrow;
+   - Ref. 151.0275: [YouTube](https://youtu.be/15YLLn0jh50);
+
+1. **TÚNEL, SAÍDA**
+   - Alvo: ESCURO;
+   - Posição: Antes de chegar no quadrado da B, posicione-se sobre a mureta em ruínas no lado esquerdo;
+   - Mire: Mire no topo direito da construção de blocos, na altura de uma parede horizontal; 
+   - Execução: Jumpthrow;
+   - Ref. 151.0911: [YouTube](https://youtu.be/FhteJxHEZzI);
+
+1. **TÚNEL, SAÍDA**
+   - Alvo: ENTRADA DO CHITA;
+   - Posição: Antes de chegar no quadrado do B, posicione-se no canto esquerdo da parede com placas de madeira;
+   - Mire: Alinhe a mira na ponta esquerda da folhagem do tipo costela de Adão. Mire entre a folha e a parede, no céu azul; 
+   - Execução: Arremesso longo;
+   - Ref. 151.5003: [YouTube](https://youtu.be/8883sNq8iOI);
+
+1. **XBOX**
+   - Alvo: CT;
+   - Posição: Posicione-se atrás do xbox;
+   - Mire: Mire ligeiramente à direita da costura da lona na altura dos dois pontos pretos no topo da caixa; 
+   - Execução: Jumpthrow;
+   - Ref. 151.8452: [YouTube](https://youtu.be/VSynGMF8U0E);
 
 ## Molotov
 Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
