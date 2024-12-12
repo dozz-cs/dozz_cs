@@ -22,7 +22,7 @@ hyperLinkoptions:
 ---
 
 
-# ANCIENT (+45 utilitárias)
+# ANCIENT (+55 utilitárias)
 
 ## Smoke
 Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
@@ -344,6 +344,84 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Mira: Mire na junção da alça esquerda do balde com a bacia;
    - Execução: Arremesso longo;
    - Ref. 152.3585: [YouTube](https://youtu.be/yt8LjCpdJnA);
+
+1. **BANANA**
+   - Alvo: ENTRADA DO ESCURO;
+   - Posição: Posiciona-se no lado direito da porta, em frente a pedra com mais argamassa em volta;
+   - Mira: Mire na parede do fundo à direita do tecido azul;
+   - Execução: Arremesso longo;
+   - Ref. 152.0925: [YouTube](https://youtu.be/gdD8UlHLgY0);
+
+1. **BOCA DO FUNDO**
+   - Alvo: TEMPLO;
+   - Posição: Posiciona-se no lado direito da boca do fundo;
+   - Mira: Mire em uma pedra quebrada logo acima da entrada do templo;
+   - Execução: Arremesso longo;
+   - Ref. 152.1973: [YouTube](https://youtu.be/mXk-GIKqrTA);
+
+1. **BOCA DO FUNDO**
+   - Alvo: CAIXA FOGO;
+   - Posição: Posicione-se à direita da saída da boca do fundo;
+   - Mira: Mire no meio e na linha horizontal da decoração no alto da construção;
+   - Execução: Ande ligeiramente para a frente + arremesso longo;
+   - Ref. 152.8623: [YouTube](https://youtu.be/h3o5DJwbrH4);
+
+1. **CORREDOR**
+   - Alvo: RAMPA;
+   - Posição: Posicione-se no corredor até que a quina da parede se alinhe com o madeira da B;
+   - Mira: Mire na pedra do chão, na coluna do centro da parede;
+   - Execução: Jumpthrow;
+   - Ref. 152.7872: [YouTube](https://youtu.be/tR05yAW7O4E);
+
+1. **L**
+   - Alvo: PILAR;
+   - Posição: Encoste na quina da parede do fundo;
+   - Mira: Mire à esquerda da primeira marcação vertical da coluna central do grande quadrado;
+   - Execução: Jumpthrow médio;
+   - Ref. 152.8422: [YouTube](https://youtu.be/xCNL2Iu7w4k);
+
+1. **LIGAÇÃO, ENTRADA**
+   - Alvo: LIGAÇÃO (DONUTS);
+   - Posição: Na entrada esquerda do donuts;
+   - Mira: Mire na região do topo e no meio da parede diagonal;
+   - Execução: Ande para a frente + arremesso longo;
+   - Ref. 152.8452: [YouTube](https://youtu.be/vClN7X5_gd4);
+
+1. **PORTA**
+   - Alvo: ENTRADA DO ESCURO;
+   - Posição: Na porta esquerda, posicione-se em frente a uma marcação triangular;
+   - Mira: No lado esquerdo da folha, mire no meio da pedra no topo da parede;
+   - Execução: Arremesso longo;
+   - Ref. 152.8733: [YouTube](https://youtu.be/lSS-EyskoMc);
+
+1. **PORTA**
+   - Alvo: AREIA;
+   - Posição: Na porta esquerda, posicione-se em frente a marcação triangular;
+   - Mira: Mire na parte superior da primeira decoração azul à esquerda;
+   - Execução: Arremesso longo;
+   - Ref. 152.9643: [YouTube](https://youtu.be/mE5F4cpIQ8E);
+
+1. **QUADRADO DA B**
+   - Alvo: AREIA;
+   - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
+   - Mira: Alinhe a mira um pouco acima da decoração da porta. Mire no centro da pedra decorativa à esquerda da parede; 
+   - Execução: W + Jumpthrow;
+   - Ref. 152.2845: [YouTube](https://youtu.be/9DyYvLfCJ9I);
+
+1. **SOL**
+   - Alvo: PORTA;
+   - Posição: Posicione-se atrás da parede do sol;
+   - Mira: Mire na altura da parede em que está localizado a porta;
+   - Execução: Arremesso longo;
+   - Ref. 152.2720: [YouTube](https://youtu.be/s-PFopbyyQ8);
+
+1. **SOMBRA**
+   - Alvo: ESCURO;
+   - Posição: Posiciona-se na atrás da parede do grande quadrado em cima de uma mancha branca no chão;
+   - Mira: Mire na junção das pedras na quina ao alto do quadrado;
+   - Execução: Ande ligeiramente para a frente e arremesso longo; Arremesso longo;
+   - Ref. 152.8963: [YouTube](https://youtu.be/Fowmw6HmWns);
+
 
 ## Flash
 Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosive-he)   
