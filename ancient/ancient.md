@@ -22,7 +22,7 @@ hyperLinkoptions:
 ---
 
 
-# ANCIENT (+55 utilitárias)
+# ANCIENT (+70 utilitárias)
 
 ## Smoke
 Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
