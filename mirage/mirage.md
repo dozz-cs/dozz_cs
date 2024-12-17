@@ -203,7 +203,14 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire no canto inferior direito da janela ao alto;
    - Execução: Jumpthrow;
    - Ref. 131.7593: [YouTube](https://youtu.be/RThRBE7fvag);
-   
+
+1. **BECO**
+   - Alvo: VARANDA;
+   - Posição: Suba na mureta da escada de acesso ao rato. Encoste as costas na segunda coluna de madeira;
+   - Mira: Localize os dois fios de energia elétrica. Mire entre as manchas escuras da madeira arredondada que está no telhado;
+   - Execução: Arremesso longo;
+   - Ref. 131.2145: [YouTube](https://youtu.be/eSjkjfelxg8);
+
 1. **BECO**
    - Alvo: FOREST;
    - Posição: Suba no pequeno vaso de flor no chão. Posicione o pé esquerdo ao lado do vaso;
@@ -294,6 +301,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mire: Mire no meio do refletor da antena parabólica;
    - Execução: Arremesso longo;
    - Ref. 131.2384: [YouTube](https://youtu.be/HGxdnsPd2ys);
+
+1. **CAVERNA TR**
+   - Alvo: BOLTZ;
+   - Posição: Posicione-se em frente a quina chanfrada;
+   - Mire: Mire na quina superior direita da construção ao fundo, na região do Boltz;
+   - Execução: Jumpthrow;
+   - Ref. 131.5395: [YouTube](https://youtu.be/mj9dkicsrdc);
 
 1. **CAVERNA TR (1/2)**
    - Alvo: LIGAÇÃO CIMA;
@@ -1055,6 +1069,20 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire em uma tênue mancha branca na parede acima da cabecinha;
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 134.9833: [YouTube](https://youtu.be/4Gid4kcEW_w);
+
+1. **L**
+   - Alvo: JANELÃO;
+   - Posição: Posicione-se próximo a parede na região do L e alinhado com a marcação horizontal no chão;
+   - Mira: Alinhe a mira com o balaústre da cerca à direita da placa da B. Mire na altura do beiral da construção;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 134.7750: [YouTube](https://youtu.be/DSDE4lJuXcI);
+
+1. **MERCADO, JANELA DO**
+   - Alvo: BOMB B (NINJA);
+   - Posição: Posicione-se próximo a caixa registradora e as prateleiras em frente a janela do mercado;
+   - Mira: Mire no topo e ligeiramente à esquerda da tábua de madeira no bomb B;
+   - Execução: Arremesso longo;
+   - Ref. 134.6743: [YouTube](https://youtu.be/Q6UjVx5TkKM);
 
 1. **PALÁCIO**
    - Alvo: AREIA;
