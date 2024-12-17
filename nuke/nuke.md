@@ -480,6 +480,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
 ## Flash
 Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
+
 1. **BASE CT, SAÍDA**
    - Alvo: BOMB A;
    - Posição: Posicione-se em frente a junção do muro, do lado direito da placa amarela "Danger";
