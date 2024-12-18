@@ -100,18 +100,18 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 141.4386: [YouTube](https://youtu.be/bq7BryROXek)
 
 1. **BARCO**
-   - Alvo: CÉU;
-   - Posição: Encoste em uma coluna arredondada no canto da parede com o cesto;
-   - Mira: Mire na junção das pedras logo acima dos vasos no chão;
-   - Execução: Jumpthrow;
-   - Ref. 141.0662: [YouTube](https://youtu.be/6PKxy4bTtqk)
-
-1. **BARCO**
    - Alvo: CAVERNA;
    - Posição: Posicione-se dentro da água em frente a porta de entrada da caverna;
    - Mira: Mire na parede a frente alinhado com a direita da porta e na altura da marcação horizontal no topo da parede;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 141.0667: [YouTube](https://youtu.be/ab2LyAs88GA)
+
+1. **BARCO**
+   - Alvo: CÉU;
+   - Posição: Encoste na coluna arredondada no canto da parede com o cesto;
+   - Mira: Mire na junção das pedras logo acima dos vasos no chão;
+   - Execução: Jumpthrow;
+   - Ref. 141.0662: [YouTube](https://youtu.be/6PKxy4bTtqk)
 
 1. **BARCO**
    - Alvo: CÉU;
@@ -122,15 +122,15 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **BARCO (1/2)**
    - Alvo: PLATAFORMA;
-   - Posição: Encoste em uma coluna arredondada no canto da parede próximo ao cesto;
-   - Mira: Localize a primeira fileira inferior de pedras. Alinhe a mira com a esquerda do balaústre da direita. Mire à direita da junção das pedras em uma tênue mancha clara;
+   - Posição: Encoste na coluna arredondada no canto da parede próximo ao cesto;
+   - Mira: Localize a primeira fileira inferior de pedras na parede. Localize também o balaústre à direita. Alinhe a mira com a esquerda do desse balaústre. Desça a mira até a junção das pedras, em uma região com uma tênue mancha clara;
    - Execução: Jumpthrow;
    - Ref. 141.0674: [YouTube](https://youtu.be/dchHeznM5_s)
 
 1. **BARCO (2/2)**
    - Alvo: PAREDÃO;
    - Posição: Dentro do rio, encoste no canto da ponte com a calçada elevada;
-   - Mira: Mire ligeiramente abaixo da junção das pedras na parede logo a sua frente;
+   - Mira: Mire ligeiramente abaixo da junção da primeira fileira de pedras na parede;
    - Execução: Jumpthrow;
    - Ref. 141.0675: [YouTube](https://youtu.be/dchHeznM5_s)
 
@@ -234,8 +234,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **ESQUINA**
    - Alvo: PORTA DA LIGAÇÃO;
-   - Posição: Posicione-se no canto da parede em frente a placa;
-   - Mira: Alinhe a mira com o lado esquerdo da pedra da frente no topo da torre. Mire na altura do meio da torre;
+   - Posição: Posicione-se no canto da parede em frente a placa de indicação do "Temple of Ra";
+   - Mira: Localize o canto esquerdo da torre. Mire um pouco à direita da parte interna, a meia altura da torre;
    - Execução: Jumpthrow;
    - Ref. 141.1535: [YouTube](https://youtu.be/85-XmnRp05g)
 
@@ -259,13 +259,6 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire no centro da pedra localizada no canto direito da janela da construção quebrada;
    - Execução: Jumpthrow;
    - Ref. 141.3896: [YouTube](https://youtu.be/t_NLrun5szA)
-
-1. **FUNDO**
-   - Alvo: RATO;
-   - Posição: Pare com o pé esquerdo na junção das lajotas próximo a sombra de uma planta;
-   - Mira: Mire na parte de baixo da primeira decoração arredondada da Esq para a Dir;
-   - Execução: Jumpthrow;
-   - Ref. 141.1804: [YouTube](https://youtu.be/nJUzVD192eo)
 
 1. **FUNDO**
    - Alvo: PASSAGEM NEWBA;
