@@ -21,7 +21,7 @@ hyperrefoptions:
 - pdfwindowui
 ---
 
-# ANUBIS (+115 utilitárias)
+# ANUBIS (+120 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.pdf)
 
@@ -32,9 +32,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **BASE CT**
    - Alvo: CAVERNA;
    - Posição: Encoste no canto da mureta próximo a escada para a praia;
-   - Mira: Na coluna quebrada em forma de arco, localize a segunda fileira de tijolos. Mire no canto inferior esquerdo do tijolo mais saliente;
+   - Mira: Na coluna quebrada em forma de arco, localize a segunda fileira de tijolos. Mire próximo a quina esquerda do tijolo;
    - Execução: Jumpthrow;
-   - Ref. 141.0603: [YouTube](https://youtu.be/3fpRc7vnsS4)
+   - Ref. 141.0603: [YouTube](https://youtu.be/1WZpOAJ5YGA)
 
 1. **BASE CT**
    - Alvo: BURACO;
@@ -74,9 +74,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **BASE TR**
    - Alvo: RATO;
    - Posição: Na base TR encoste na frente das duas tábuas de madeira;
-   - Mira: Mire a esquerda da parte inferior do caibro alinhado com a lateral direita da janela;
+   - Mira: Alinhe a mira com a lateral direita do buraco. Mire na junção dos tijolos alinhado com a parte inferior do caibro;
    - Execução: Jumpthrow;
-   - Ref. 141.0645: [YouTube](https://youtu.be/-PErE2ltPnw)
+   - Ref. 141.0645: [YouTube](https://youtu.be/6D3J2hBFozk)
 
 1. **BASE TR**
    - Alvo: ENTRADA DO RATO;
@@ -221,9 +221,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **ESQUINA**
    - Alvo: JANELÃO;
    - Posição: Pare no meio e na parte de cima da escada com a ponta do pé esquerdo em uma divisão no piso do chão;
-   - Mira: Na ponta de trás da torre, mire na ponta da frente;
+   - Mira: mire no canto superior esquerdo interno na lateral da torre;
    - Execução: Jumpthrow médio;
-   - Ref. 141.1517: [YouTube](https://youtu.be/pBp9sZqDuXE)
+   - Ref. 141.1517: [YouTube](https://youtu.be/c0PbNdEuu1o)
 
 1. **ESQUINA**
    - Alvo: PORTA DO MEIO;
@@ -353,10 +353,10 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **PAREDÃO**
    - Alvo: VARANDA;
-   - Posição: Encoste na coluna redonda à direita da entrada da ligação;
-   - Mira: Agache e mire no canto inferior esquerdo da janela, alinhado com a pequena grade;
+   - Posição: Encoste à esquerda da coluna redonda na entrada da ligação;
+   - Mira: Mire próximo ao canto inferior esquerdo da janela, alinhado com a pequena grade;
    - Execução: Arremesso longo;
-   - Ref. 141.4815: [YouTube](https://youtu.be/JLnU1b0ArtQ)
+   - Ref. 141.4815: [YouTube](https://youtu.be/ai0EBhURowc)
 
 1. **RATO**
    - Alvo: TUMBA;
@@ -459,6 +459,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Mira: Mire na quina da decoração no topo da parede a frente;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 142.1827: [YouTube](https://youtu.be/JLGOH2JYuM4)
+
+1. **BURACO**
+   - Alvo: PORTAS;
+   - Posição: Posicione-se no canto da parede, ao lado das cadeiras e do guarda sol;
+   - Mira: Mire no quina da decoração da parede próximo ao topo da construção;
+   - Execução: Ande para a frente até a mira chegar no guindaste + Arremesso longo;
+   - Ref. 142.3677: [YouTube](https://youtu.be/-eFOXtLavBw)
 
 1. **CANAL**
    - Alvo: RATO;
@@ -564,6 +571,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Mira: Mire imediatamente à direita e quase sobre uma pequena falha na faixa horizontal do rodapé.;
    - Execução: Jumpthrow médio;
    - Ref. 142.3485: [YouTube](https://youtu.be/v_ktssvD0vs)
+
+1. **NEWBA**
+   - Alvo: FUNDO;
+   - Posição: Posicione-se no canto da parede com a esquerda da coluna arredondada na saída da tumba;
+   - Mira: Posicione a mira na junção da quina superior da pequena grade com o topo da porta;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 142.1755: [YouTube](https://youtu.be/liuAKtz8OM0)
 
 1. **PILAR**
    - Alvo: FUNDO;
@@ -694,6 +708,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Mira: Mire à esquerda da coluna, na junção com o topo da abertura;
    - Execução: Arremesso longo;
    - Ref. 143.0953: [YouTube](https://youtu.be/FkSLt8f59A0)
+
+1. **DEFAULT**
+   - Alvo: RATO;
+   - Posição: Posicione-se de frente para a porta do rato e encostado no canto do pilar;
+   - Mira: Mire próximo a quina do pilar na região do hieroglifo mais baixo;
+   - Execução: Jumpthrow;
+   - Ref. 143.3456: [YouTube](https://youtu.be/OmhtS2mdxvw)
 
 1. **ESQUINA**
    - Alvo: JANELÃO; PORTAS;
