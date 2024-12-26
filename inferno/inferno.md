@@ -25,8 +25,6 @@ hyperrefoptions:
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
 
-Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
-
 ## Smokes
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
@@ -600,18 +598,39 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Ref. 123.9723: [YouTube](https://youtu.be/R3uNhH_9prE)
 
 1. **BANANA**
+   - Alvo: FALLEN; CIMENTO; CAIXÃO; CT;
+   - Posição: Posicione-se no meio da calçada, alinhado com a região da madeira;
+   - Mira: Mire nas lâmpadas rente a parede vermelha acima do muro;
+   - Execução: Arremesso longo;
+   - Ref. 123.2833: [YouTube](https://youtu.be/218vI_8l_aI)
+
+1. **BANANA**
    - Alvo: PEZINHO CT; TRIPLA;
    - Posição: Encoste as costas no barril de madeira;
    - Mira: Mire na junção esquerda do barril com o carrinho de carga vermelho.
    - Execução: Ande ligeiramente para a frente + Jumpthrow;
    - Ref. 123.2649: [YouTube](https://youtu.be/U6Wu8TelQAY)
 
+1. **BANANA**
+   - Alvo: CAIXÃO; TRIPLA; CT;
+   - Posição: Encoste as costas no barril de madeira;
+   - Mira: Mire na junção dos barris localizados à esquerda do carro, na altura da cinta metálica mais alta.
+   - Execução: Jumpthrow;
+   - Ref. 123.0943: [YouTube](https://youtu.be/DyHKgt2Yj8Y)
+
 1. **BASE TR, SAÍDA**
    - Alvo: BANANA; CARRO;
    - Posição: Encoste na parede direita da escada de acesso a cozinha;
    - Mira: Mire acima de uma mancha na parede na região do arco;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 123.9832: [YouTube](https://youtu.be/IGPONOwVexY)
+
+1. **BASE TR, SAÍDA**
+   - Alvo: BANANA; CARRO;
+   - Posição: Encoste na frente do corrimão de acesso ao apartamento;
+   - Mira: Alinhe a mira verticalmente com a placa vermelha. Mire entre os beirais dos telhados, na parede branca;
+   - Execução: Arremesso longo;
+   - Ref. 123.7443: [YouTube](https://youtu.be/Tf5qjyP4Jvk)
 
 1. **CAIXÃO**
    - Alvo: CARRO; BANANA;
@@ -683,9 +702,16 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 1. **CT**
    - Alvo: TRIPLA;
    - Posição: Encoste na coluna da grade próxima a pequena escada para o corredor CT;
-   - Mira: Mire um pouco acima do rodapé, no final de uma mancha na parede vermelha;
+   - Mira: Mire um pouco acima do rodapé, próximo a quina da parede vermelha;
    - Execução: Ande para a frente + Jumpthrow;
    - Ref. 124.1955: [YouTube](https://youtu.be/DU9sYXvX5kc)
+
+1. **CT**
+   - Alvo: TRIPLA;
+   - Posição: Encoste no canto da pequena parede da construção oposta à igreja;
+   - Mira: Mire na extremidade do peitoril da janela;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 124.6433: [YouTube](https://youtu.be/cGgrpjDFpfs)
 
 1. **FALLEN**
    - Alvo: MURETA DA BANANA;
@@ -693,6 +719,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire na parte inferior do arco, logo acima do telhado;
    - Execução: Arremesso longo;
    - Ref. 124.2749: [YouTube](https://youtu.be/jcyRECMlsPw)
+
+1. **FALLEN**
+   - Alvo: MURETA DA BANANA;
+   - Posição: Posicione-se próximo ao batente direito da porta;
+   - Mira: Mire na região de sombra, próximo a quina da construção;
+   - Execução: Ande para a frente até a mira chegar próxima a quina + Jumpthrow curto;
+   - Ref. 124.8923: [YouTube](https://youtu.be/EO0BuaYy5m4)
 
 1. **TAPETE DA A**
    - Alvo: AREIA;
