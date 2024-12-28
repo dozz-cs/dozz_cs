@@ -225,6 +225,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande (shift) até a mira chegar na tubulação da calha + Jumpthrow;
    - Ref. 121.8453: [YouTube](https://youtu.be/kjfuxRuBcMw)
 
+1. **BOMB B**
+   - Alvo: CARRO;
+   - Posição: Encoste em um canto da parede do chafariz, na parte frontal do bomb;
+   - Mira: Alinhe a mira com a região da sombra do andaime e na altura do metal da caixa do sanduíche;
+   - Execução: Jumpthrow longo;
+   - Ref. 121.7011: [YouTube](https://youtu.be/acnRO-v-Gok)
+
 1. **CT**
    - Alvo: CT;
    - Posição: Pare na região da escada próximo a coluna à direita;
@@ -474,6 +481,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 122.1824: [YouTube](https://youtu.be/x7TMhtrXzoY)
 
+1. **BOMB B**
+   - Alvo: CARRO;
+   - Posição: Encoste em um canto da parede do chafariz, na parte frontal do bomb;
+   - Mira: Mire na parte debaixo da decoração da janela na região do fallen;
+   - Execução: Jumpthrow longo;
+   - Ref. 122.7011: [YouTube](https://youtu.be/U8A-veLWXj8)
+
 1. **CT**
    - Alvo: ESCURO;
    - Posição: Posicione-se próximo ao início da sombra da construção. Alinhe o topo da coluna arredondada com a quina da parede;
@@ -646,8 +660,15 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Alvo: CIMENTO DO BOMB B;
    - Posição: Encoste no canto da parede atrás do púlpito;
    - Mira: Mire na parte superior direita de uma pedra saliente na abertura em forma de arco;
-   - Execução: Jumpthrow;
-   - Ref. 122.09323: [YouTube](https://youtu.be/QjU79BKgJ9Q)
+   - Execução: Jumpthrow longo;
+   - Ref. 122.0933: [YouTube](https://youtu.be/QjU79BKgJ9Q)
+
+1. **IGREJA**
+   - Alvo: CIMENTO DO BOMB B;
+   - Posição: Posicione-se sobre uma marcação do piso atrás do púlpito;
+   - Mira: Mire em uma tênue junção de duas pedras que formam um arco;
+   - Execução: Jumpthrow longo;
+   - Ref. 122.4534: [YouTube](https://youtu.be/o49kOhUocms)
 
 1. **MEIO**
    - Alvo: COGU;
