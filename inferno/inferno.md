@@ -21,7 +21,7 @@ hyperrefoptions:
 - pdfwindowui
 ---
 
-# INFERNO (+90 utilitárias)
+# INFERNO (+120 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
 
@@ -359,7 +359,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 121.5210: [YouTube](https://youtu.be/co0mUwBqseg)
 
 1. **MEIO FALSO**
-   - Alvo: AREIA E CAMINHÃO;
+   - Alvo: PASSAGEM AREIA; CAMINHÃO;
    - Posição: Posicione-se em frente aos cartões postais;
    - Mira: Mire a esquerda e em baixo da quina da luminária;
    - Execução: Arremesso longo;
@@ -381,8 +381,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **MEIO FALSO**
    - Alvo: NIP;
-   - Posição: Encoste no canto da escada embaixo da sacada do janelão, em frente a porta vermelha, mas não suba na escada.
-   - Mira: Mire na abraçadeira da calha entre os dois caibros localizados à esquerda.
+   - Posição: Encoste no canto da escada, embaixo da sacada do janelão, em frente à porta vermelha, mas não suba na escada;
+   - Mira: Mire na abraçadeira da calha entre os dois caibros localizados à esquerda;
    - Execução: Jumpthrow longo;
    - Ref. 121.4902: [YouTube](https://youtu.be/dqy_bh7PQXQ)
 
@@ -491,7 +491,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
 1. **BOMB B**
    - Alvo: CARRO;
    - Posição: Encoste em um canto da parede do chafariz, na parte frontal do bomb;
-   - Mira: Mire na parte debaixo da decoração da janela na região do fallen;
+   - Mira: Mire na parte debaixo da decoração da janela na região do Fallen;
    - Execução: Jumpthrow longo;
    - Ref. 122.7011: [YouTube](https://youtu.be/w6-oqJuAlH4)
 
@@ -665,13 +665,6 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
 
 1. **MEIO**
    - Alvo: COGU;
-   - Posição: Posicione-se na passagem do meio para o Xuxa. Alinha a quina do muro com o arco na parede a frente;
-   - Mira: Mire rente a parede próximo ao telhado;
-   - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 122.6433: [YouTube](https://youtu.be/AhAodF4Kf_M)
-
-1. **MEIO**
-   - Alvo: COGU;
    - Posição: Posicione-se próximo ao canto direito da porta pantográfica, alinhando a luminária com a quina da parede;
    - Mira: Mire no telhado próximo a quina da parede;
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
@@ -840,7 +833,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Ref. 124.2751: [YouTube](https://youtu.be/s2aTiUCDeco)
 
 1. **AREIA 2**
-   - Alvo: TAPETE DA A;
+   - Alvo: TAPETE;
    - Posição: Posicione-se no início da canaleta no chão;
    - Mira: Mire um pouco acima do topo da antena, alinhado com a porta da região do tapete;
    - Execução: Ande para a frente + Arremesso longo;
