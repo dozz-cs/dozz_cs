@@ -44,42 +44,42 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: CAT/CÉU;
    - Posição: Posiciona-se em frente ao canto esquerdo da janela com persiana;
    - Mira: Mire ao lado da quinta abraçadeira do cano a frente, de baixo para cima;
-   - Execução: Ande até chegar próximo ao telhado TR + Jumpthrow;
+   - Execução: Ande até chegar próximo ao telhado TR + Jumpthrow longo;
    - Ref. 161.8954: [YouTube](https://youtu.be/KJ5Bqmzenvc);
 
 1. **BASE TR**
    - Alvo: PORTA EXTERNA DO TERRA;
    - Posição: Encoste na faixa vertical da parede de pedra a esquerda;
    - Mira: Mire na quina da construção a sua frente;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.9002: [YouTube](https://youtu.be/3Vfo6wfl8eo);
 
 1. **BASE TR**
    - Alvo: PORTA EXTERNA DO TERRA;
    - Posição: Posicione-se em frente ao poste baixo amarelo, próximo ao latão amarelo;
    - Mira: Mire na base do corrimão no telhado à direita, logo acima da luminária;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.8932: [YouTube](https://youtu.be/DLGHKshyz9U);
 
 1. **BASE TR (1/3)**
    - Alvo: PORTA EXTERNA DO TERRA;
    - Posição: Posicione-se na quina da construção próximo ao caminhão. Alinhe a logo CT/TR com a marcação vertical;
    - Mira: Posicione a mira à esquerda da luminária do poste. Afaste-se da luminária e posicione a mira no céu;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.9882: [YouTube](https://youtu.be/JrwW1kXxhWs);
 
 1. **BASE TR (2/3)**
    - Alvo: PASSAGEM TERRA;
    - Posição: Posicione-se na quina da construção próximo ao caminhão. Alinhe a logo CT/TR com a marcação vertical;
    - Mira: Posicione a mira rente a lateral direita da luminária do poste;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.9883: [YouTube](https://youtu.be/JrwW1kXxhWs);
 
 1. **BASE TR (3/3)**
    - Alvo: FRENTE DO GALPÃO;
    - Posição: Posicione-se na quina da construção próximo ao caminhão. Alinhe a logo CT/TR com a marcação vertical;
    - Mira: Mire na quina do corrimão no telhado da construção;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.9884: [YouTube](https://youtu.be/JrwW1kXxhWs);
 
 1. **BASE TR, SAÍDA**
@@ -100,21 +100,21 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: FRENTE DO DUTO;
    - Posição: Quebre os vidros direito. Posicione-se no canto do muro e da cerca na saída esquerda da base TR;
    - Mira: Mire na base da segunda marcação vertical de metal à direita da lâmpada na parte superior da porta;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.7343: [YouTube](https://youtu.be/bJLMezAy1so);
 
 1. **BOMB A**
    - Alvo: PORTA DO METAL; 
    - Posição: Posicione-se no canto da parede em baixo do CAT;
    - Mira: Mire no canto superior esquerdo de uma caixinha no reator;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.1003: [YouTube](https://youtu.be/d_1D1JABaE8);
 
 1. **BOMB A**
    - Alvo: PORTA DO TERRA; 
    - Posição: Encoste na parede atrás do reator direito da A;
    - Mira: Mire acima da faixa vermelha da base do reator direito;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.4562: [YouTube](https://youtu.be/1diZ0SkbZE0);
 
 1. **BOMB A**
@@ -135,7 +135,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: METAL;
    - Posição: Posicione-se à esquerda do CAT;
    - Mira: Mire na base da escada dentro do duto;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.9367: [YouTube](https://youtu.be/42gadqy28NQ);
 
 1. **CAT/CÉU**
@@ -149,57 +149,64 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: FORA;
    - Posição: Encoste na quina da parede ao lado da caixa CT;
    - Mira: Mire na quina direita da caixa azul, na altura do adesivo;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.8477: [YouTube](https://youtu.be/SRj1K658fkk);
    
 1. **CAIXA CT**
    - Alvo: PASSAGEM MONTANHA;
    - Posição: Posicione-se na quina direita da caixa;
    - Mira: Mire na linha do teto, entre a segunda e a terceira barra vertical do parapeito da Esq para a Dir;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.7773: [YouTube](https://youtu.be/BZhHpzGx25E);
 
 1. **CAIXA CT**
    - Alvo: MONTANHA;
    - Posição: Pare na frente do painel branco de eletricidade próximo a caixa CT;
    - Mira: Mire na parte superior da barra vertical do corrimão alinhado com o exaustor do fundo;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.2390: [YouTube](https://youtu.be/ED7VaUp9TX4);
 
 1. **CAMINHÃO (1/2)**
    - Alvo: FRENTE DO VERMELHO;
    - Posição: Encoste na traseira esquerda do caminhão;
    - Mira: Mire na parede entre as janelas, alinhado com a parte superior das janelas;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.8071: [YouTube](https://youtu.be/cGF4xZ3Hbak);
 
 1. **CAMINHÃO (2/2)**
    - Alvo: FRENTE DO SECRET;
    - Posição: Encoste na traseira esquerda do caminhão;
-   - Mira: Mire na segunda abraçadeira do cano;
-   - Execução: Jumpthrow;
+   - Mira: Mire na segunda abraçadeira do cano na parede;
+   - Execução: Jumpthrow longo;
    - Ref. 161.8072: [YouTube](https://youtu.be/cGF4xZ3Hbak);
 
 1. **CAMINHÃO**
    - Alvo: FRENTE DO GALPÃO;
    - Posição: Encoste na traseira esquerda do caminhão;
    - Mira: Localize a marcação branca esquerda na parte superior do container vermelho. Mire no centro dessa marcação;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 161.4578: [YouTube](https://youtu.be/8axOM_VwKPU);
 
 1. **CAMINHÃO**
    - Alvo: CAT/CÉU;
    - Posição: Posicione ao lado do adesivo refletivo vermelho na lateral traseira do caminhão;
    - Mira: Alinhe a mira com o duto no topo da construção. Posicione a mira sobre o fio, alinhado com o duto;
-   - Execução: Corra para a frente até a mira chegar no topo da construção + Jumpthrow;
+   - Execução: Corra para a frente até a mira chegar no topo da construção + Jumpthrow longo;
    - Ref. 161.7430: [YouTube](https://youtu.be/8er42ss1mLQ);
 
 1. **CAMINHÃO**
    - Alvo: REATOR DO BOMB A;
    - Posição: Posicione-se no canto da parede com o container vermelho em cima do caminhão;
    - Mira: Mire no meio do duto à direita, rente a cúpula do reator nuclear;
-   - Execução: Quebre a janela esquerda. Jumpthrow;
+   - Execução: Quebre a janela esquerda. Jumpthrow longo;
    - Ref. 161.4398: [YouTube](https://youtu.be/EpfzhSdzA-k);
+
+1. **CAMINHÃO**
+   - Alvo: VIDRO/VESTIÁRIO;
+   - Posição: Posicione-se em frente a roda traseira do caminhão;
+   - Mira: Mire na região superior e ao lado do duto de metal em cima do telhado TR;
+   - Execução: Ande até a mira chegar na altura do teto do telhado + Jumpthrow longo;
+   - Ref. 161.2877: [YouTube](https://youtu.be/Y9hasTULV-A);
 
 1. **GALPÃO, FRENTE**
    - Alvo: PORTA DO METAL;
@@ -275,7 +282,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: CAT/CEU;
    - Posição: Suba na bobina (baixa) próximo a escada amarela ao lado da montanha. Alinhe a mira com uma marcação na bobina;
    - Mira: Localize a primeira e a segunda abraçadeira da tubulação de eletricidade. Mire na marcação horizontal de rebites abaixo da tubulação, alinhado com o meio das abraçadeiras. 
-   - Execução: Atenção! Não quebre o vidro. Agache + Jumpthrow agachado;
+   - Execução: Atenção! Não quebre o vidro. Agache + Jumpthrow longo agachado;
    - Ref. 161.9235: [YouTube](https://youtu.be/HwnBc6JAHWw);
 
 1. **TELHADO TR**
@@ -348,7 +355,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Alvo: AZUL; 
    - Posição: Posicione-se na fresta do canto da caixa cinza com a montanha;
    - Mira: Mire no canto inferior direito da porta pantográfica;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 162.4309: [YouTube](https://youtu.be/r3f91wkw6fg);
 
 1. **BASE TR, SAÍDA**
@@ -388,16 +395,30 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
 
 1. **CAT/CÉU**
    - Alvo: PORTA DO METAL;
-   - Posição: Posicione-se na parede direita do CAT;
-   - Mira: Mire no meio da inscrição no metal da passarela amarela;
-   - Execução: Ande para a frente + Arremesso longo;
+   - Posição: Posicione-se na parede direita do CAT próximo a mangueira enrolada. Alinhe a inscrição da passarela amarela com a quina da abertura do CAT;
+   - Mira: Agache e mire no canto da parede, na altura da base das janelas;
+   - Execução: Arremesso longo;
    - Ref. 162.6418: [YouTube](https://youtu.be/h4Ye2Ky6V5I);
 
-1. **PLATAFORMA DA CASINHA**
+1. **CAT/CÉU**
+   - Alvo: REATOR DO BOMB A;
+   - Posição: Posicione-se no canto da parede ao lado do quadro de distribuição de energia e da placa verde "Fire exit";
+   - Mira: Mire em direção a coluna da esquerda, rente ao chão;
+   - Execução: Ande pra a frente + Arremesso longo;
+   - Ref. 162.8433: [YouTube](https://youtu.be/--j0P1VNPDw);
+
+1. **METAL**
+   - Alvo: TETO DA CASINHA;
+   - Posição: Posicione-se no canto esquerdo das paredes do metal, ao lado da porta;
+   - Mira: Posicione a mire ao lado da canaleta um pouco acima de algumas tênues manchas na parede;
+   - Execução: Ande pra a frente + Arremesso longo;
+   - Ref. 162.4399: [YouTube](https://youtu.be/nbSLFzwLj74);
+
+1. **PLATAFORMA**
    - Alvo: BOBINA DO TELHADO TR;
    - Posição: Posicione-se no canto da parede com a coluna ao lado do quadro com botões;
    - Mira: Mire na junção superior direita da janela com a coluna de concreto;
-   - Execução: Necessário ter os vidros quebrados. Ande ligeiramente para a frente + Jumpthrow;
+   - Execução: Necessário ter os vidros quebrados. Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 162.6732: [YouTube](https://youtu.be/HbEudNxQUug);
 
 1. **RAMPA**
@@ -439,7 +460,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Alvo: REATOR DA A;
    - Posição: Posicione-se no lado esquerdo da bobina da esquerda (sem a mangueira enrolada);
    - Mira: Mire na terceira marcação escura, da Dir para a Esq, na altura do corrimão;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 162.9364: [YouTube](https://youtu.be/TY5ubZlLXRc);
 
 1. **TELHADO TR**
@@ -453,7 +474,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Alvo: PLATAFORMA DA CASINHA;
    - Posição: Posicione-se no duto de ventilação direito. Agache e posicione a mira sobre o parafuso da base;
    - Mira: Mire na borda da sombra da escada no meio da pequena parede branca de metal;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 162.6322: [YouTube](https://youtu.be/24wRSO0JIno);
 
 1. **TERRA, ENTRADA DO**
@@ -467,7 +488,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Alvo: CAT/CÉU;
    - Posição: Alinhe a alça esquerda do container com o gancho no teto;
    - Mira: Mire a esquerda da parte debaixo da junção alça com o container (lista branca);
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 162.8032: [YouTube](https://youtu.be/1y-VhQsoeJk);
 
 1. **VIDRO**
@@ -485,7 +506,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Alvo: BOMB A;
    - Posição: Posicione-se em frente a junção do muro, do lado direito da placa amarela "Danger";
    - Mira: Mire na quina superior direita da porta amarela;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 163.0854: [YouTube](https://youtu.be/eXgHspNV2sI);
 
 1. **BASE TR, SAÍDA**
@@ -499,7 +520,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Alvo: FORA; SEC-RT; PORTA DO TERRA; GALPÃO;
    - Posição: Posicione-se sobre a borda da cerca caída na saída da base TR;
    - Mira: Mire no canto inferior esquerdo da caixa azul ao lado da montanha;
-   - Execução: Ande para a frente + Jumpthrow;
+   - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 163.7345: [YouTube](https://youtu.be/SSCal5I9-2Q);
 
 1. **BASE TR, SAÍDA**
@@ -513,7 +534,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Alvo: CAT; REATOR; DUTO FALSO; PLATAFORMA; 
    - Posição: Quebre os vidros direito. Posicione-se no canto da cerca com a parede à direita da saída da base TR;
    - Mira: Mire na base do corrimão que está alinhado com a janela;
-   - Execução: Ande para a frente até a mira chegar no container azul + Jumpthrow;
+   - Execução: Ande para a frente até a mira chegar no container azul + Jumpthrow longo;
    - Ref. 163.8210: [YouTube](https://youtu.be/OZUXi4EfBSE);
 
 1. **MIOLO**
@@ -534,7 +555,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Alvo: TROFÉU;
    - Posição: Posiciona-se sobre a faixa amarela direita no topo da rampa. Agache para ajustar a posição;
    - Mira: Mire na base branca do corrimão amarelo;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 163.3891: [YouTube](https://youtu.be/B1DBHXQjVUY);
 
 1. **TROFÉU**
@@ -548,11 +569,18 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Alvo: SAÍDA DA BASE TR;
    - Posição: Posicione-se na quina da parede em frente a saída do Terra;
    - Mira: Mire a meia altura e a direita da porta pantográfica dentro do Terra;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 163.2201: [YouTube](https://youtu.be/Vs5fRl7VFCY);
 
 ## High explosive (HE)
 Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
+
+1. **AZUL**
+   - Alvo: MONTANHA;
+   - Posição: Posicione-se do lado esquerdo da placa indicativa de lugares na parede do galpão;
+   - Mira: Mire na saliência no container de metal (azul), na altura da base da alça do container;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
+   - Ref. 164.0255: [YouTube](https://youtu.be/4cSD43UQOYU);
 
 1. **ADM**
    - Alvo: CAT/CÉU;
@@ -582,18 +610,32 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande pra a frente + Arremesso longo;
    - Ref. 164.9047: [YouTube](https://youtu.be/cXgsXUlwW9c);
 
+1. **CAT/CÉU**
+   - Alvo: REATOR DO BOMB A;
+   - Posição: Posicione-se no canto da parede ao lado do quadro de distribuição de energia e da placa verde "Fire exit".
+   - Mira: Mire em direção a coluna da esquerda, rente ao chão;
+   - Execução: Ande pra a frente + Arremesso longo;
+   - Ref. 164.8433: [YouTube](https://youtu.be/4vP2UrmovjY);
+
 1. **PLATAFORMA**
    - Alvo: BOBINA DO TELHADO TR;
    - Posição: Posicione-se em frente ao quadro com botões;
    - Mira: Mire na junção superior direita da janela com a coluna de concreto;
-   - Execução: Necessário ter os vidros quebrados. Ande ligeiramente para a frente + Jumpthrow;
+   - Execução: Necessário ter os vidros quebrados. Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 164.7853: [YouTube](https://youtu.be/MJ5QQPZEk9c);
+
+1. **PLATAFORMA**
+   - Alvo: MONTANHA;
+   - Posição: Suba na plataforma no lado do CAT. Pare no canto próxima a ponte amarela;
+   - Mira: Mire na presilha da luminária que está na direção da janela;
+   - Execução: Quebre os vidros. Arremesso longo;
+   - Ref. 164.4002: [YouTube](https://youtu.be/sWeuVJwPYNE);
 
 1. **TELHADO TR**
    - Alvo: PLATAFORMA;
    - Posição: Posicione-se no duto de ventilação direito. Agache e posicione a mira sobre a marcação do parafuso;
    - Mira: Mire na borda da sombra da escada no meio da pequena parede branca de metal;
-   - Execução: O vidro deve estar quebrado. Jumpthrow;
+   - Execução: O vidro deve estar quebrado. Jumpthrow longo;
    - Ref. 164.6322: [YouTube](https://youtu.be/WxkmH-wT5pM);
 
 1. **RAMPA**
