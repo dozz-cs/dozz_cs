@@ -658,10 +658,10 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 1. **CARROÇA**
    - Alvo: JANELÃO;
-   - Posição: Posicione-se atrás da carroça e encostado na parede do fundo;
-   - Mira: Mire no topo da planta acima do janelão, alinhado com a antena; 
-   - Execução: Ande para a frente até chegar próximo a carroça + Arremesso longo;
-   - Ref. 132.0734: [YouTube](https://youtu.be/F9BLOeWn-bk)
+   - Posição: Posicione-se atrás da roda da carroça;
+   - Mira: Mire em uma caixa presa a haste da antena espinha de peixe; 
+   - Execução: Ande um pouco para trás sem movimentar a mira. Ande para a frente + Arremesso longo;
+   - Ref. 132.0734: [YouTube](https://youtu.be/0kbkjhhQ6Ys)
 
 1. **CAVERNA**
    - Alvo: AREIA;
@@ -726,12 +726,33 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 132.5333: [YouTube](https://youtu.be/oXSEcViwOoQ) 
 
+1. **JUNGLE**
+   - Alvo: NEWBA; DEFAULT;
+   - Posição: Posicione-se no canto da parede com as tábuas de madeira ao lado do buraco;
+   - Mira: Mire no topo horizontal do arco rente a parede esquerda;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 132.3522: [YouTube](https://youtu.be/40V337nMUtg)
+
+1. **L**
+   - Alvo: EDWARD (FECHADO);
+   - Posição: Posicione-se no início da região ensolarada próximo a sombra dos fios;
+   - Mira: Posicione a mire rente a parede esquerda, do Moscou, e um pouco abaixo do topo dos tijolos;
+   - Execução: Arremesso longo;
+   - Ref. 132.1003: [YouTube](https://youtu.be/xRcuCLMxNXo)
+
 1. **LIGAÇÃO**
    - Alvo: AREIA;
    - Posição: Posicione-se do lado esquerdo da porta da ligação;
    - Mira: Alinhe a mira com a madeira do andaime na frete da entrada do palácio. Mire na segunda linha horizontal do topo da escada;
    - Execução: Arremesso longo;
    - Ref. 132.7309: [YouTube](https://youtu.be/0enU7fK55SU)
+
+1. **LIGAÇÃO**
+   - Alvo: NEWBA; DEFAULT;
+   - Posição: Posicione-se na quina do batente da porta, mais próxima à escada;
+   - Mira: Mire na quina localizada no topo da escada;
+   - Execução: Arremesso longo;
+   - Ref. 132.2790: [YouTube](https://youtu.be/7baxYun56so)
 
 1. **MEIO (BANCO)**
    - Alvo: MOSCOW;
@@ -753,6 +774,13 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mire: Mire na linha de divisão da parede, no lado direito da lâmpada;
    - Execução: Arremesso longo;
    - Ref. 132.8702: [YouTube](https://youtu.be/9xO88amYE3k)
+
+1. **MERCADO**
+   - Alvo: NINJA;
+   - Posição: Posicione-se do lado esquerdo da caixa de passagem (semelhante ao interruptor) próximo a porta do mercado;
+   - Mire: Mire na quina da prateleira superior;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 132.9233: [YouTube](https://youtu.be/vReFc9UjFm4)
 
 1. **PASSAGEM CARROÇA**
    - Alvo: LIGAÇÃO BAIXO;
@@ -846,11 +874,25 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Ref. 132.0932: [YouTube](https://youtu.be/N3cBs6SbbhI)
 
 1. **TETRIS**
+   - Alvo: AREIA;
+   - Posição: Encoste no canto das caixas do tetris;
+   - Mira: Mire na junção da coluna com a viga de madeira acima da areia;
+   - Execução: Arremesso longo;
+   - Ref. 132.3453: [YouTube](https://youtu.be/-qgsv9OMmx4)
+
+1. **TETRIS**
    - Alvo: BOLTZ;
    - Posição: Encoste na parede e na frente da primeira caixa do tetris;
    - Mira: Mire na ponta superior direita do quadrado na parte inferior esquerda da caixa logo a sua frente;
    - Execução: Jumpthrow longo;
    - Ref. 132.9511: [YouTube](https://youtu.be/E3LXQdK_Cao)
+
+1. **TETRIS**
+   - Alvo: CAIXA FOGO;
+   - Posição: Encoste no canto da parede com a caixa do tetris;
+   - Mira: Mire no centro da caixa superior esquerda do tetris em uma pequena ponta de um tijolo;
+   - Execução: Arremesso longo;
+   - Ref. 132.8110: [YouTube](https://youtu.be/QZJTjG1f4uw)
 
 ## Flash
 
