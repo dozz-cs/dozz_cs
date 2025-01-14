@@ -7,6 +7,7 @@ dust2/dust2.pdf\
 inferno/inferno.pdf\
 mirage/mirage.pdf\
 nuke/nuke.pdf\
+overpass/overpass.pdf\
 vertigo/vertigo.pdf
 
 # UTILITÁRIAS
@@ -28,6 +29,9 @@ mirage/mirage.pdf: mirage/mirage.md
 
 nuke/nuke.pdf: nuke/nuke.md
 	$(PANDOC) -s -N nuke/nuke.md -o nuke/nuke.pdf
+
+overpass/overpass.pdf: overpass/overpass.md
+	$(PANDOC) -s -N overpass/overpass.md -o overpass/overpass.pdf
 
 vertigo/vertigo.pdf: vertigo/vertigo.md
 	$(PANDOC) -s -N vertigo/vertigo.md -o vertigo/vertigo.pdf
