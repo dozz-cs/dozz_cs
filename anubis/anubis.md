@@ -47,8 +47,15 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: PORTÃO;
    - Posição: Encoste no canto da coluna com a mureta;
    - Mira: Na parede saliente, ao lado direito da placa, mire ligeiramente a esquerda da junção entre o primeiro e o segundo tijolo saliente mais alto;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 141.0626: [YouTube](https://youtu.be/1dD9KorD-g4)
+
+1. **BASE TR**
+   - Alvo: CAVERNA;
+   - Posição: Suba na prateleiras com sacos de grãos no lado direito da saída da base TR;
+   - Mira: Mire na junção da lateral da janela com o muro;
+   - Execução: Jumpthrow longo;
+   - Ref. 141.4676: [YouTube](https://youtu.be/CXG90D7RWGc)
 
 1. **BASE TR**
    - Alvo: PONTE E JANELA;
@@ -239,6 +246,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow;
    - Ref. 141.1535: [YouTube](https://youtu.be/85-XmnRp05g)
 
+1. **FUNDO**
+   - Alvo: PORTÃO;
+   - Posição: Na saída da base TR. Encoste na quina da parede;
+   - Mira: Mire na pedra no início da parte curva do arco;
+   - Execução: Jumpthrow longo;
+   - Ref. 141.9456: [YouTube](https://youtu.be/1tLMgtlQ-G4)
+
 1. **FUNDO (1/3)**
    - Alvo: B BAIXO;
    - Posição: Na saída da base TR. Encoste no canto da parede esquerda ao lado da escada;
@@ -403,6 +417,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 ## Molotov
 
 Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+
+1. **BARCO**
+   - Alvo: CAVERNA;
+   - Posição: Encoste na parede dentro da água e atrás da caixa e dos cestos;
+   - Mira: Alinhe a quina da caixa com o início da coluna arredondada. Mire ligeiramente à direita da quina da caixa;
+   - Execução: Arremesso longo;
+   - Ref. 142.1745: [YouTube](https://youtu.be/aRtRx9NtqgA)
 
 1. **BARCO**
    - Alvo: CÉU;
@@ -599,6 +620,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Mira: Mire no chão, alinhado com o centro da janela;
    - Execução: Ande para a frente + Jumpthrow;
    - Ref. 142.4849: [YouTube](https://youtu.be/INIhMDve-zY)
+
+1. **PLATAFORMA**
+   - Alvo: ALTAR;
+   - Posição: Encoste na parede no topo da escada na sala de acesso a praia. Ande para a direita até o topo do muro se alinhar com a decoração arredondada;
+   - Mira: Mire entre a primeira e a segunda decoração arredondada no topo do muro;
+   - Execução: Arremesso longo;
+   - Ref. 142.4563: [YouTube](https://youtu.be/HwKTiW59A88)
 
 1. **RATO**
    - Alvo: ESCURO;
