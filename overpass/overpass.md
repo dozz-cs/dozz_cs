@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# OVERPASS (+10 utilitárias)
+# OVERPASS (+30 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/overpass/overpass.pdf)
 
@@ -43,6 +43,20 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 171.9123: [YouTube](https://youtu.be/9OPwo4rraOA);
    
+1. **BASE TR**
+   - Alvo: ESGOTO;
+   - Posição: Encoste no canto da parede com a lixeira em frente a escada de acesso a caverna;
+   - Mira: Localize a primeira barra vertical do corrimão próximo a parede. Mire no meio superior dessa barra vertical;
+   - Execução: W + Jumpthrow longo;
+   - Ref. 171.6744: [YouTube](https://youtu.be/ZdmmdiBJ71M);
+
+1. **BASE TR**
+   - Alvo: ESGOTO;
+   - Posição: Encoste no canto da parede com o carro coberto com a lona verde;
+   - Mira: Localize o topo da construção. Posicione a ponta da smoke em uma tênue mancha clara ao lado da janela. A mira ficará no céu azul;
+   - Execução: Jumpthrow longo;
+   - Ref. 171.2543: [YouTube](https://youtu.be/SG9zlZPdVuo);
+
 1. **BASE CT**
    - Alvo: CAVERNA;
    - Posição: Pare no canto da parede de concreto e do alambrado de metal em frente ao caminhão;
@@ -176,12 +190,12 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 171.8745: [YouTube](https://youtu.be/oPRbgsm81cE);
 
-1. **MEIO** (SUBSTITUIR VIDEO)
+1. **MEIO**
    - Alvo: BANCO;
    - Posição: Encoste no canto da parede com a direita do banco em frente a entrada da ligação;
-   - Mira: Localize o corrimão do lado direito da luminária. Mire na barra de ferro vertical do corrimão;
+   - Mira: Localize o corrimão do lado direito da luminária. Mire no topo da barra de ferro vertical do corrimão;
    - Execução: Jumpthrow longo;
-   - Ref. 171.4861: [YouTube](https://youtu.be/sFgubVGD2Wg);
+   - Ref. 171.4861: [YouTube](https://youtu.be/sPQez_FLEHk);
 
 1. **MEIO**
    - Alvo: LIXEIRA;
