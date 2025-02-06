@@ -700,10 +700,10 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 1. **EDWARD**
    - Alvo: VAN;
-   - Posição: Posicione-se próximo a coluna do Edward. Alinhe a ponta da coluna com a região entre a tubulação e a quina da parede;
-   - Mira: Mire na marcação do teto, acima da porta;
+   - Posição: Posicione-se próximo a coluna do Edward. Alinhe a ponta da coluna com o canto inferior esquerdo da abertura na região do tapete;
+   - Mira: Mire na marcação horizontal do teto acima da porta e alinhado com o tecido pendurado
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
-   - Ref. 132.7124: [YouTube](https://youtu.be/xeXvOEGxs_c)
+   - Ref. 132.7124: [YouTube](https://youtu.be/38jJo78EwSg)
 
 1. **JANELÃO**
    - Alvo: RATO;
@@ -711,6 +711,13 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira: Mire no meio da parede, alinhado com a região descascada na parede;
    - Execução: Arremesso longo;
    - Ref. 132.6492: [YouTube](https://youtu.be/FIDqk8gFOlc)
+
+1. **JANELÃO**
+   - Alvo: CARROÇA;
+   - Posição: Suba no cavalete ao lado do buraco;
+   - Mira: Mire na junção da viga com o teto de madeira;
+   - Execução: Desça do cavalete sem mexer a mira, ande até o janelão e encoste na parede do fundo. Ande para a frente + Arremesso longo;
+   - Ref. 132.7830: [YouTube](https://youtu.be/LO5jShVk31c)
 
 1. **JUNGLE**
    - Alvo: CAVERNA;
@@ -939,6 +946,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Mira: Mire no meio da sombra do pneu que aparece sobre a lona verde no teto;
    - Execução: Arremesso longo;
    - Ref. 133.2690: [YouTube](https://youtu.be/GDAsMpVA2yo)
+
+1. **BOLTZ**
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se no canto da parede com os mísseis, no lado oposto da guarita;
+   - Mira: Mire no lado direito da pequena torre branca esquerda acima da caverna;
+   - Execução: Arremesso longo;
+   - Ref. 133.4592: [YouTube](https://youtu.be/phCtWyBjfy8)
 
 1. **CARROÇA**
    - Alvo: LIGAÇÃO; RATO; JANELÃO; L;
@@ -1174,6 +1188,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Agache e alinhe a mira com a mancha próximo a quina da parede;
    - Execução: Agachado + Jumpthrow curto;
    - Ref. 134.8990: [YouTube](https://youtu.be/e6wY_XvJG-M)
+
+1. **JANELÃO**
+   - Alvo: JANELÃO (QUEBRA DE SMOKE);
+   - Posição: Posicione-se na pequena parede esquerda;
+   - Mira: Coloque a mira totalmente para cima, no teto de madeira;
+   - Execução: Arremesso longo. Pule rapidamente em cima do cavalete em frente ao janelão;
+   - Ref. 134.7455: [YouTube](https://youtu.be/LDPpFIy1R7k)
 
 1. **JUNGLE**
    - Alvo: CAVERNA;
