@@ -767,10 +767,17 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
 
 1. **BANANA**
    - Alvo: FALLEN; CIMENTO; CAIXÃO; CT;
-   - Posição: Posicione-se no meio da calçada, alinhado com a região da madeira;
+   - Posição: Posicione-se no meio da calçada, alinhado com a região da árvore;
    - Mira: Mire nas lâmpadas rente a parede vermelha acima do muro;
    - Execução: Arremesso longo;
    - Ref. 123.2833: [YouTube](https://youtu.be/218vI_8l_aI)
+
+1. **BANANA**
+   - Alvo: FALLEN; CIMENTO;
+   - Posição: Posicione-se em frente a uma mancha escura próximo a uma divisória no lado esquerdo do muro;
+   - Mira: Mire na ponta do telhado logo acima da mureta;
+   - Execução: Arremesso longo;
+   - Ref. 123.4567: [YouTube](https://youtu.be/mX2eANfMNok)
 
 1. **BANANA**
    - Alvo: PEZINHO CT; TRIPLA;
