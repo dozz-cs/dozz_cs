@@ -136,10 +136,17 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **ESCURO BAIXO**
    - Alvo: PORTA DO MEIO;
-   - Posição: Encoste no lado direito da saída. Alinhe a mira com a quina da porta;
+   - Posição: Encoste no lado direito da saída do escuro baixo. Alinhe a mira com a quina da porta;
    - Mira: Mire na parte superior esquerda da viga de madeira;
    - Execução: Arremesso médio;
    - Ref. 101.1510: [YouTube](https://youtu.be/h8qE6tN-BoU);
+
+1. **ESCURO BAIXO**
+   - Alvo: PORTA DO MEIO;
+   - Posição: Encoste no lado direito da saída do escuro baixo. Alinhe a mira com a quina da porta;
+   - Mira: Mire na altura de uma mancha escura próximo ao chão e ao lado da porta do meio;
+   - Execução: Arremesso médio;
+   - Ref. 101.4783: [YouTube](https://youtu.be/fwWSbq-jxJE);
 
 1. **ESCURO BAIXO**
    - Alvo: PORTA DO MEIO;
