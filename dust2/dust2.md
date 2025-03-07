@@ -61,7 +61,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: PORTA DO MEIO;
    - Posição: Encoste na marcação da mureta de acesso ao caminho da morte;
    - Mira: Mire em uma pequena mancha na parede no lado direito da janela;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.0603: [YouTube](https://youtu.be/iLouOtBUrH0);
 
 1. **BASE TR**
@@ -73,37 +73,44 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **BASE TR**
    - Alvo: XBOX;
-   - Posição: Posicione-se no canto da parede no fundo da base TR de frente para o caminho da morte;
+   - Posição: Posicione-se no canto da parede do fundo da base TR e de frente para o caminho da morte;
    - Mira: Mire no topo da construção alinhado com a quina da parede;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.4598: [YouTube](https://youtu.be/3WcxjGaRRyI);
+
+1. **BASE TR**
+   - Alvo: XBOX;
+   - Posição: Posicione-se no canto da parede em frente ao caminho da morte;
+   - Mira: Mire ligeiramente a esquerda do centro inferior da janela fechada;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.4302: [YouTube](https://youtu.be/e02w7bw80sM);
 
 1. **BASE TR**
    - Alvo: QUINA DO FUNDO;
    - Posição: Posicione-se na extremidade direita da mureta da base TR;
    - Mira: Mire na parte de baixo do ornamento horizontal acima da porta, alinhado com uma pequena cavidade superior;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.0622: [YouTube](https://youtu.be/7jRnl0cvoBE);
 
 1. **BASE TR**
    - Alvo: QUINA DO FUNDO;
    - Posição: Posicione-se no segundo degrau da mureta da base TR. Alinhe a mão que segura a smoke com a quina da mureta;
    - Mira: Mire na quina da parede à direita na altura da abraçadeira superior da antena;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.7492: [YouTube](https://youtu.be/TMBmL2Q2TKY);
 
 1. **BASE CT**
    - Alvo: ENTRADA DO ESCURO ALTO;
    - Posição: Posicione-se no canto da caixa com o número 14 com o caixilho da saída para o meio CT;
    - Mira: Localize o quebra-sol no topo da construção. Mire no lado direito da fresta esquerda do quebra-sol;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.6339: [YouTube](https://youtu.be/JkHOddz4kwU);
 
 1. **BUNKER**
    - Alvo: RAMPA DA BASE CT;
    - Posição: Encoste no lado direito do fundo do bunker;
    - Mira: Mire em na parte debaixo de uma mancha no chão alinhado com a primeira mancha na parede;
-   - Execução: W+Jumpthrow;
+   - Execução: W+Jumpthrow longo;
    - Ref. 101.0645: [YouTube](https://youtu.be/AoOCYwOcbtU);
 
 1. **BUNKER**
@@ -117,7 +124,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: CAVERNA;
    - Posição: Encoste em uma mancha na parede atrás do carro;
    - Mira: Mire na parte superior da mancha na parede entre a pantográfica e parede azul;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.0917: [YouTube](https://youtu.be/ZBt-ajhXBP4);
 
 1. **COQUEIRO**
@@ -131,7 +138,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: BASE CT;
    - Posição: Encoste na quina da parede;
    - Mira: Mire na quina da caixa a frente;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.0924: [YouTube](https://youtu.be/v9Hgu8S5MGs);
 
 1. **ESCURO BAIXO**
@@ -173,14 +180,14 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: JANELA/BURACO;
    - Posição: Encoste na quina do lado esquerdo da coluna do escuro;
    - Mira: Localize as ripas no teto com uma abertura maior. Mire na junção das ripas do lado direito, próximo a viga de madeira;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.1536: [YouTube](https://youtu.be/11gskU3JnYE);
 
 1. **ESCURO CIMA (2/2)**
    - Alvo: PORTA DA B;
    - Posição: Encoste na quina do lado esquerdo da coluna do escuro;
    - Mira: Localize a mancha escura nas ripas no teto. Mire na fresta entre as ripas, alinhado com a mancha escura;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.1537: [YouTube](https://youtu.be/i-4QB7IW9dA);
 
 1. **ESCURO CIMA**
@@ -201,28 +208,28 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: PORTA DA B;
    - Posição: Posicione-se no canto direito da parede com o muro, em frente a um nicho no alto da construção;
    - Mira: Mire na parede, em uma mancha acima e a direita da altura da janela;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.1563: [YouTube](https://youtu.be/5wwKgbRxCKE);
 
 1. **ESCURO FORA (2/2)**
    - Alvo: JANELA/BURACO;
    - Posição: Posicione-se no canto direito da parede com o muro, em frente a um nicho no alto da construção;
    - Mira: Mire em na pequena mancha inferior, localizada próximo a base do nicho;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.1551: [YouTube](https://youtu.be/UKXIbFykk-k);
 
 1. **ESCURO FORA**
    - Alvo: CAIXA DA BASE CT;
    - Posição: Pare de frente para as dobradiças do portão no lado esquerdo do escuro fora;
    - Mira: Mire à esquerda na região da decoração quadriculada superior. Alinhe a mira verticalmente com o canto esquerdo do vaso de barro;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.6345: [YouTube](https://youtu.be/3eo8xFyfXp4);
 
 1. **FUNDO TR**
    - Alvo: CAIXA DA BASE CT;
    - Posição: Encoste no canto do fundo atrás do carro TR;
    - Mira: Mire no topo da janela fechada em forma de arco à esquerda;
-   - Execução: Ande para a frente até a mira chegar na metade da janela e Jumpthrow;
+   - Execução: Ande para a frente até a mira chegar na metade da janela e Jumpthrow longo;
    - Ref. 101.1813: [YouTube](https://youtu.be/ddMnYe_q2XY);
 
 1. **FUNDO TR**
@@ -236,28 +243,28 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: XBOX;
    - Posição: Posicione-se na vista esquerda da porta pantográfica ao lado dos pneus empilhados;
    - Mira: Alinhe a mira na extremidade da cobertura do telhado ondulado. Mire na parede entre o telhado e o beiral;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.7453: [YouTube](https://youtu.be/RnTxIVTR4gU);
 
 1. **FUNDO (1/2)**
    - Alvo: PORTA DA B;
    - Posição: Encoste no canto direito do barril com a parede da caverna;
    - Mira: Mire na junção do poste de iluminação com o topo do telhado;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.6732: [YouTube](https://youtu.be/6pRODjfpIKQ);
 
 1. **FUNDO (2/2)**
    - Alvo: JANELA;
    - Posição: Encoste no canto direito do barril com a parede da caverna;
    - Mira: Mire no canto inferior esquerdo da janela acima do poste de iluminação;
-   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 101.6733: [YouTube](https://youtu.be/6pRODjfpIKQ);
 
 1. **FUNDO**
    - Alvo: RAMPA DA BASE CT;
    - Posição: Encoste no barril azul ao lado da porta da saída da caverna;
    - Mira: Mire na ponta da sombra da luminária no asfalto;
-   - Execução: Ande ligeiramente para a frente até a mira se aproximar do meio-fio + Jumpthrow;
+   - Execução: Ande ligeiramente para a frente até a mira se aproximar do meio-fio + Jumpthrow longo;
    - Ref. 101.0314: [YouTube](https://youtu.be/nSPIkk2gqdc);
 
 1. **FUNDO**
@@ -278,14 +285,14 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: XBOX;
    - Posição: Suba no barril e posicione-se no canto da parede;
    - Mira: Mire em uma mancha escura no topo e no lado esquerdo dos tijolos vazados;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.3854: [YouTube](https://youtu.be/0LfgErXMhmc);
 
 1. **MEIO CIMA**
    - Alvo: CAIXA DA BASE CT;
    - Posição: Posicione-se em frente a um quebrado na vista esquerda do portão de grade;
    - Mira: Mire na junção do arco da porta com um detalhe vertical de madeira;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.1549: [YouTube](https://youtu.be/NwgdM5ftrPs);
 
 1. **PORTA DO MEIO**
@@ -297,7 +304,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **RAMPA DA A**
    - Alvo: VARANDA;
-   - Posição: Posicione-se no atrás do muro, na rampa da A;
+   - Posição: Posicione-se atrás do muro, na rampa da A;
    - Mira: Mire na ponta da decoração esquerda no topo da parede na região da varanda;
    - Execução: Arremesso longo;
    - Ref. 101.9832: [YouTube](https://youtu.be/TEuZg9aGLo0);
@@ -309,11 +316,18 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 101.5398: [YouTube](https://youtu.be/x4omfefJUl0);
 
+1. **RAMPA DA B**
+   - Alvo: TÚNEL DO ESCURO;
+   - Posição: Posicione-se no canto da parede com o andaime, em frente a janela ;
+   - Mira: Mire na quina dos sarrafos direito e acima da construção do escuro;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.0831: [YouTube](https://youtu.be/9fPjLbYDtu0);
+
 1. **RAMPA CT**
    - Alvo: CAVERNA;
    - Posição: Encoste no canto das caixas da rampa com o número 14;
    - Mira: Mire no toldo azul alinhando a mira com o centro da janela do topo da construção;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.5423: [YouTube](https://youtu.be/SJviROxQwHc);
 
 1. **RAMPA CT**
@@ -327,7 +341,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: FUNDO DA CAVERNA;
    - Posição: Encoste no canto das caixas da rampa com o número 14;
    - Mira: No topo da construção, abaixo da janela. Mire na parte inferior direita da entrada de cabos e fios;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 101.9110: [YouTube](https://youtu.be/3Fz7IyGrd5g);
 
 1. **VARANDA, ESCADA DA**
@@ -362,7 +376,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: CAIXA DA BASE CT;
    - Posição: Agache atrás da caixa xbox;
    - Mira: Ainda agachado, alinhe a mira na altura dos pregos. Mire no lado direito da segunda tábua à esquerda da corda;
-   - Execução: Levante + Jumpthrow;
+   - Execução: Levante + Jumpthrow longo;
    - Ref. 101.6918: [YouTube](https://youtu.be/eep2Cp5AVDY);
 
 ## Molotov
@@ -387,14 +401,14 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Alvo: CARRO DA A;
    - Posição: Suba no barril azul ao lado da porta da saída da caverna;
    - Mira: Mire no relógio de eletricidade ao lado da porta;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 102.0312: [YouTube](https://youtu.be/qqFGRA0zNSg);
 
 1. **ALTAR DO BUNKER**
    - Alvo: BOMB A;
    - Posição: Pare no topo da escada encostado com o muro;
    - Mira: Mire no lado esquerdo da falha na parede;
-   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 102.7643: [YouTube](https://youtu.be/1VVLiPWqVqA);
 
 1. **CAMINHO DA MORTE**
@@ -415,7 +429,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Alvo: DIREITINHA;
    - Posição: Agache e posicione a mira do lado esquerdo de uma mancha clara no chão, próximo a uma pequena pedra cinza. O pé esquerdo deve ficar encostado na parede, não sendo possível andar para a frente;
    - Mira: Mire ligeiramente a esquerda de uma mancha escura no alto da parede;
-   - Execução: W + Jumpthrow;
+   - Execução: W + Jumpthrow longo;
    - Ref. 102.2755: [YouTube](https://youtu.be/XCcp-RepMis);
 
 1. **ESCURO BAIXO**
@@ -443,7 +457,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Alvo: FUNDO DO ALTAR;
    - Posição: Suba na caixa da rampa com o pano verde;
    - Mira: Mire no batente da porta alinhado com a ripa horizontal abaixo da decoração da porta;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 102.5407: [YouTube](https://youtu.be/-dDAqsPSatU);
 
 1. **VARANDA, ESCADA**
@@ -457,7 +471,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Alvo: CAIXA BAIXA DA VARANDA;
    - Posição: Posicione-se no canto esquerdo do sanduíche da varanda;
    - Mira: Mire na região do topo da janela;
-   - Execução: Corra até a mira chegar na parte inferior da janela + Jumpthrow;
+   - Execução: Corra até a mira chegar na parte inferior da janela + Jumpthrow longo;
    - Ref. 102.4823: [YouTube](https://youtu.be/v05qQJfHvQ0);
 
 ## Flash
@@ -468,7 +482,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Alvo: BOMB B; TÚNEL; CARRO;
    - Posição: Posicione-se no canto da parede próximo a janela;
    - Mira: Mire na altura do topo da madeira alinhado com a sombra abaixo;
-   - Execução: Agache + Jumpthrow;
+   - Execução: Agache + Jumpthrow longo;
    - Ref. 103.7633: [YouTube](https://youtu.be/yOLFO7df6Ek);
 
 1. **BOMB B**
@@ -482,14 +496,14 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Alvo: VARANDA;
    - Posição: Posicione-se na região da falha na pintura da parede, atrás das caixas;
    - Mira: Mire na altura do meio da caixa branca da direita, na junção com a caixa bege;
-   - Execução: Ande para a frente + Jumpthrow;
+   - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 103.2351: [YouTube](https://youtu.be/6JfkxhU4MW8);
 
 1. **CARRO DO A**
    - Alvo: CAVERNA; BUNKER; ALTAR DO FUNDO;
    - Posição: Posicione-se próximo a parede, mas encoste na porta lateral do carro;
    - Mira: Mire na parte superior da mancha na parede entre a pantográfica e parede azul;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 103.0901: [YouTube](https://youtu.be/TKKrGbOzaj8);
 
 1. **CAVERNA**
@@ -510,14 +524,14 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Alvo: SAÍDA DA CAVERNA;
    - Posição: Posicione-se na região da porta pantográfica;
    - Mira: Mire na luminária em direção ao bomb B;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 103.4833: [YouTube](https://youtu.be/MX5YexNtdZo);
 
 1. **FUNDO TR**
    - Alvo: QUINA DO FUNDO;
    - Posição: Posicione-se na quina da parede antes de chegar no carro TR;
    - Mira: Mire na junção esquerda da palmeira com o muro;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 103.1807: [YouTube](https://youtu.be/hoSGAlEwE3Y);
 
 1. **FUNDO TR**
@@ -538,21 +552,21 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Alvo: QUINA DO FUNDO; BUNKER; FUNDO; ALTAR;
    - Posição: Posicione-se na quina da parede antes de chegar no carro TR;
    - Mira: Mire no entre o topo do muro com a esquerda da placa da A;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 103.7822: [YouTube](https://youtu.be/ZshrXQoK1l4);
 
 1. **FUNDO**
    - Alvo: NEWBA; BOMB A; VARANDA;
    - Posição: Posicione-se na região próxima a quina do fundo;
    - Mira: Mire na quina de trás da construção bege, na altura das janelas;
-   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 103.9592: [YouTube](https://youtu.be/6yyF3RYRzVQ);
 
 1. **MEIO CIMA**
    - Alvo: VARANDA;
    - Posição: Posicione-se próximo a uma mancha na parede;
    - Mira: Mire na região de uma mancha horizontal alinhado com a janela semi-aberta;
-   - Execução: Ande para a frente + Jumpthrow;
+   - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 103.2309: [YouTube](https://youtu.be/PHGn4LpJ2T8);
 
 1. **NEWBA**
@@ -580,7 +594,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Alvo: CAVERNA; AZUL; BUNKER; ALTAR DO BUNKER;
    - Posição: Posicione-se em frente ao descascado da parede ao lado da porta no topo da rampa CT;
    - Mira: Mire um pouco abaixo do tubo de energia elétrica, alinhado ligeiramente a esquerda da parede do topo;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 103.5427: [YouTube](https://youtu.be/_OkBt8vYTUE);
 
 1. **XBOX**
