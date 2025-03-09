@@ -330,6 +330,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.2893: [YouTube](https://youtu.be/2bKNn9Dt8VI)
 
+1. **MEIO**
+   - Alvo: ARCO;
+   - Posição: Posicione-se em cima das lixeiras vermelhas na quina da parede;
+   - Mira: Mire no lado esquerdo e na parte superior da floreira alongada;
+   - Execução: Jumpthrow longo;
+   - Ref. 121.3021: [YouTube](https://youtu.be/zERQ7dnLxZ0)
+
 1. **MEIO (1/2)**
    - Alvo: ARCO;
    - Posição: Posicione-se à direita, no canto da parede com a mureta;
@@ -343,6 +350,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na junção da cumeeira do telhado com a haste da antena tipo espinha de peixe;
    - Execução: Jumpthrow longo;
    - Ref. 121.7634: [YouTube](https://youtu.be/1C2RJxjaQjw)
+
+1. **MEIO**
+   - Alvo: COLDZERA;
+   - Posição: Pare no pequeno canto da parede na região do banco;
+   - Mira: Localize o vaso de planta no telhado. Mire em uma folha mais escura localizado à direita do vaso e na região do parapeito;
+   - Execução: Arremesso longo;
+   - Ref. 121.2657: [YouTube](https://youtu.be/7nqX2Zz8BUQ)
 
 1. **MEIO**
    - Alvo: NIP;
@@ -727,6 +741,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Ref. 122.5320: [YouTube](https://youtu.be/NxtdS-F-azE)
 
 1. **TAPETE**
+   - Alvo: DEFAULT;
+   - Posição: Posicione-se no canto da parede na saída do tapete;
+   - Mira: Mire em uma tênue mancha escura no batente da porta, logo acima da pintura amarela na parede;
+   - Execução: Arremesso longo;
+   - Ref. 122.6399: [YouTube](https://youtu.be/0vfHwUmmV-Y)
+
+1. **TAPETE**
    - Alvo: AREIA;
    - Posição: No pilar com a placa verde de fire exit, mire na terceira grade a direita;
    - Mira: Mire na mancha que aparece na fresta da parede com a porta;
@@ -944,12 +965,26 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande para a frente até a mira chegar próxima a quina + Jumpthrow curto;
    - Ref. 124.8923: [YouTube](https://youtu.be/qalJ1c377ws)
 
+1. **FALLEN**
+   - Alvo: MURETA DA BANANA;
+   - Posição: Posicione-se próximo ao batente direito da porta. Alinhe a quina do telhado da construção amarela com a parede vermelha de modo a formar uma fresta;
+   - Mira: Mire na quina da parede em uma região um pouco acima do telhado na altura da mureta;
+   - Execução: Arremesso longo;
+   - Ref. 124.3597: [YouTube](https://youtu.be/4A9F86CR6AQ)
+
 1. **TAPETE**
    - Alvo: AREIA;
    - Posição: No pilar com a placa verde de fire exit, posicione-se na terceira grade à direita;
    - Mira: Mire na mancha no muro que aparece na fresta da parede com a porta;
    - Execução: Arremesso longo;
    - Ref. 124.9834: [YouTube](https://youtu.be/ALWErXTAyPo)
+
+1. **TAPETE**
+   - Alvo: DEFAULT;
+   - Posição: Posicione-se no canto da parede na saída do tapete;
+   - Mira: Mire em uma tênue mancha escura no batente da porta, logo acima da pintura amarela na parede;
+   - Execução: Arremesso longo;
+   - Ref. 124.6399: [YouTube](https://youtu.be/aSEA5YqBsUI)
 
 ## Referências
 
