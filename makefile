@@ -8,6 +8,7 @@ inferno/inferno.pdf\
 mirage/mirage.pdf\
 nuke/nuke.pdf\
 overpass/overpass.pdf\
+train/train.pdf\
 vertigo/vertigo.pdf
 
 # UTILITÁRIAS
@@ -32,6 +33,9 @@ nuke/nuke.pdf: nuke/nuke.md
 
 overpass/overpass.pdf: overpass/overpass.md
 	$(PANDOC) -s -N overpass/overpass.md -o overpass/overpass.pdf
+
+train/train.pdf: train/train.md
+	$(PANDOC) -s -N train/train.md -o train/train.pdf
 
 vertigo/vertigo.pdf: vertigo/vertigo.md
 	$(PANDOC) -s -N vertigo/vertigo.md -o vertigo/vertigo.pdf
