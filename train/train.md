@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# TRAIN (+1 utilitárias)
+# TRAIN (+5 utilitárias)
 
 Documento para impressão: [PDF](link)
 
