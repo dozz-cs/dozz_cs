@@ -38,23 +38,23 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **BASE TR**
    - Alvo: LIGA CT;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Jumpthrow longo;
+   - Posição: Localize a porta do penúltimo vagão acessível na base TR. Pare no canto do poste baixo amarelo com o vagão;
+   - Mira: Mire à esquerda e abaixo de uma tênua mancha escura na viga de madeira do lado esquerdo do relógio;
+   - Execução: W + Jumpthrow longo;
    - Ref. 111.6740: [YouTube](https://youtu.be/arXHI3eZJAg)
 
 1. **BASE TR**
    - Alvo: SANDUÍCHE;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Jumpthrow longo;
+   - Posição: Localize a porta do último vagão acessível na base TR. Pare no canto do vagão com o poste amarelo baixo;
+   - Mira: Mire na ponta do caibro logo acima do relógio;
+   - Execução: W + Jumpthrow longo;
    - Ref. 111.7644: [YouTube](https://youtu.be/S2FoMvCj2OY)
 
 1. **BASE TR**
    - Alvo: SANDUÍCHE;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Jumpthrow longo;
+   - Posição: Na saída da base TR, pare no canto da parede com o gerador de eletricidade;
+   - Mira: Localize a segunda coluna de elementos vazados da grade. Agache e mire no topo do gerador;
+   - Execução: Mantenha-se agachado + Jumpthrow longo;
    - Ref. 111.3420: [YouTube](https://youtu.be/dJq_vMEgShc)
 
 
@@ -68,15 +68,15 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 1. **BASE TR**
    - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Posicione-se em frente a coluna do muro em frente a entrada para a liga TR;
+   - Mira: Mire no topo da placa do bomb A na parede;
    - Execução: Jumpthrow longo;
    - Ref. 113.8733: [YouTube](https://youtu.be/Dh-MJdNsaE4)
 
 1. **TRILHOS**
    - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Pare em frente a lanterna do trem;
+   - Mira: Alinhe a mira com o lado direito de uma mancha escura na parede. Mire um pouco acima da altura da lixeira;
    - Execução: Jumpthrow longo;
    - Ref. 113.3522: [YouTube](https://youtu.be/o2tp_WvAO_A)
 
