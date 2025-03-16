@@ -36,17 +36,17 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 111.2845: [YouTube](https://youtu.be/lD1dMMfvmSU)
 
-1. **FUNDO TR**
+1. **BASE TR**
    - Alvo: MEIO A;
    - Posição: ;
    - Mira:;
    - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 111.6110: [YouTube](link)
+   - Ref. 111.6110: [YouTube](https://youtu.be/IMggK5JTX9A)
 
 1. **BASE TR**
    - Alvo: LIGA CT;
    - Posição: Localize a porta do penúltimo vagão acessível na base TR. Pare no canto do poste baixo amarelo com o vagão;
-   - Mira: Mire à esquerda e abaixo de uma tênua mancha escura na viga de madeira do lado esquerdo do relógio;
+   - Mira: Mire à esquerda e abaixo de uma tênue mancha escura na viga de madeira do lado esquerdo do relógio;
    - Execução: W + Jumpthrow longo;
    - Ref. 111.6740: [YouTube](https://youtu.be/arXHI3eZJAg)
 
@@ -69,7 +69,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Posição: ;
    - Mira:;
    - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 111.4563: [YouTube](link)
+   - Ref. 111.4563: [YouTube](https://youtu.be/wAfRvITU5ds)
 
 ## Molotov
 
@@ -80,7 +80,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Posição: ;
    - Mira: ;
    - Execução: Jumpthrow longo;
-   - Ref. 112.7488: [YouTube](link)
+   - Ref. 112.7488: [YouTube](https://youtu.be/o1CjkMQFt7g)
 
 ## Flash
 
@@ -98,14 +98,14 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Posição: ;
    - Mira: ;
    - Execução: Arremesso longo;
-   - Ref. 113.1827: [YouTube](link)
+   - Ref. 113.1827: [YouTube](https://youtu.be/GP3tFZ8rZ-8)
 
 1. **LIXÃO**
    - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
    - Posição: ;
    - Mira: ;
    - Execução: Arremesso longo;
-   - Ref. 113.4022: [YouTube](link)
+   - Ref. 113.4022: [YouTube](https://youtu.be/m-14oKYOlYg)
 
 1. **TRILHOS**
    - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
