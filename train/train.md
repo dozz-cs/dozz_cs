@@ -31,9 +31,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **BASE TR**
    - Alvo: MEIO A;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Jumpthrow longo;
+   - Posição: Localize a porta do último vagão acessível na base TR. Pare no canto do vagão com o poste amarelo baixo;
+   - Mira: Mire na junção do caibro com o beiral de madeira acima do relógio;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 111.2845: [YouTube](https://youtu.be/lD1dMMfvmSU)
 
 1. **BASE TR**
