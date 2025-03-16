@@ -36,6 +36,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 111.2845: [YouTube](https://youtu.be/lD1dMMfvmSU)
 
+1. **FUNDO TR**
+   - Alvo: MEIO A;
+   - Posição: ;
+   - Mira:;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 111.6110: [YouTube](link)
+
 1. **BASE TR**
    - Alvo: LIGA CT;
    - Posição: Localize a porta do penúltimo vagão acessível na base TR. Pare no canto do poste baixo amarelo com o vagão;
@@ -57,10 +64,23 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Mantenha-se agachado + Jumpthrow longo;
    - Ref. 111.3420: [YouTube](https://youtu.be/dJq_vMEgShc)
 
+1. **FUNDO TR**
+   - Alvo: MEIO A;
+   - Posição: ;
+   - Mira:;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 111.4563: [YouTube](link)
 
 ## Molotov
 
 Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+
+1. **LIGA TR** (REGRAVAR)
+   - Alvo: CÉU;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 112.7488: [YouTube](link)
 
 ## Flash
 
@@ -72,6 +92,20 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Mira: Mire no topo da placa do bomb A na parede;
    - Execução: Jumpthrow longo;
    - Ref. 113.8733: [YouTube](https://youtu.be/Dh-MJdNsaE4)
+
+1. **LIGA TR**
+   - Alvo: MEIO A; BOMB A;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Arremesso longo;
+   - Ref. 113.1827: [YouTube](link)
+
+1. **LIXÃO**
+   - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Arremesso longo;
+   - Ref. 113.4022: [YouTube](link)
 
 1. **TRILHOS**
    - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
