@@ -66,8 +66,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **FUNDO TR**
    - Alvo: MEIO A;
-   - Posição: ;
-   - Mira:;
+   - Posição: Posicione-se na quina da lixeira do fundo. Alinhe o batente da porta com o canto esquerdo da segunda janela no corredor do fundo;
+   - Mira: Mire na marcação horizontal entre a corrente pendurada e o batente da porta;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 111.4563: [YouTube](https://youtu.be/wAfRvITU5ds)
 
@@ -77,9 +77,9 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 1. **LIGA TR** (REGRAVAR)
    - Alvo: CÉU;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Jumpthrow longo;
+   - Posição: Posicione-se no canto da parede com o hidrômetro;
+   - Mira: Mire em uma no meio da mancha vertical na parte superior esquerda do barril. Ande rente a parede até a mira ficar na direção da roda do vagão;
+   - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 112.7488: [YouTube](https://youtu.be/o1CjkMQFt7g)
 
 ## Flash
@@ -95,15 +95,15 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 1. **LIGA TR**
    - Alvo: MEIO A; BOMB A;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Posicione-se na quina da parede no interior da liga TR;
+   - Mira: Localize a viga de ferro amarela na parte superior. Mire na parte superior da marcação vertical da viga alinhada com uma região desgastada;
    - Execução: Arremesso longo;
    - Ref. 113.1827: [YouTube](https://youtu.be/GP3tFZ8rZ-8)
 
 1. **LIXÃO**
    - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Suba no lixão e alinhe o pé com a tubulação da cerca próximo a borda da lixeira;
+   - Mira: Mire em um isolador elétrico no alto da construção;
    - Execução: Arremesso longo;
    - Ref. 113.4022: [YouTube](https://youtu.be/m-14oKYOlYg)
 
