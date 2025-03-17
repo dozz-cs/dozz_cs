@@ -75,7 +75,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-1. **LIGA TR** (REGRAVAR)
+1. **LIGA TR**
    - Alvo: CÉU;
    - Posição: Posicione-se no canto da parede com o hidrômetro;
    - Mira: Mire em uma no meio da mancha vertical na parte superior esquerda do barril. Ande rente a parede até a mira ficar na direção da roda do vagão;
