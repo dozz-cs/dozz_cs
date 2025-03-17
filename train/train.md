@@ -21,9 +21,9 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# TRAIN (+5 utilitárias)
+# TRAIN (+15 utilitárias)
 
-Documento para impressão: [PDF](link)
+Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/train/train.pdf)
 
 ## Smokes
 
@@ -41,7 +41,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Posição: ;
    - Mira:;
    - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 111.6110: [YouTube](https://youtu.be/IMggK5JTX9A)
+   - Ref. 111.6110: [YouTube](https://youtu.be/5-XrrsLSauQ)
 
 1. **BASE TR**
    - Alvo: LIGA CT;
@@ -64,12 +64,26 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Mantenha-se agachado + Jumpthrow longo;
    - Ref. 111.3420: [YouTube](https://youtu.be/dJq_vMEgShc)
 
+1. **BASE TR**
+   - Alvo: VERMELHO A;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 111.6743: [YouTube](link)
+
 1. **FUNDO TR**
    - Alvo: MEIO A;
    - Posição: Posicione-se na quina da lixeira do fundo. Alinhe o batente da porta com o canto esquerdo da segunda janela no corredor do fundo;
    - Mira: Mire na marcação horizontal entre a corrente pendurada e o batente da porta;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 111.4563: [YouTube](https://youtu.be/wAfRvITU5ds)
+
+1. **TRILHOS**
+   - Alvo: BOMBEIRO;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 111.3522: [YouTube](https://youtu.be/3uqR3up-11I)
 
 ## Molotov
 
@@ -81,6 +95,13 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira: Mire em uma no meio da mancha vertical na parte superior esquerda do barril. Ande rente a parede até a mira ficar na direção da roda do vagão;
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 112.7488: [YouTube](https://youtu.be/o1CjkMQFt7g)
+
+1. **LIGA TR**
+   - Alvo: GELADEIRA;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 112.8734: [YouTube](https://youtu.be/FPSzymsmM8Q)
 
 ## Flash
 
@@ -117,6 +138,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 ## High Explosive (HE)
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
+
+1. **LIGA TR**
+   - Alvo: GELADEIRA;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 114.8734: [YouTube](https://youtu.be/Ccjz2Qok1AU)
 
 ## Referências
 
