@@ -32,9 +32,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **BASE CT**
    - Alvo: CAVERNA;
    - Posição: Encoste no canto da mureta próximo a escada para a praia;
-   - Mira: Na coluna quebrada em forma de arco, localize a segunda fileira de tijolos. Mire próximo a quina esquerda do tijolo;
-   - Execução: Jumpthrow;
-   - Ref. 141.0603: [YouTube](https://youtu.be/1WZpOAJ5YGA)
+   - Mira: Na coluna quebrada em forma de arco, localize a terceira fileira de tijolos. Mire verticalmente no meio do tijolo alinhado com o tijolo da segunda fileira;
+   - Execução: Jumpthrow longo;
+   - Ref. 141.0603: [YouTube](https://youtu.be/CpzuyuF9qbM)
 
 1. **BASE CT**
    - Alvo: BURACO;
@@ -288,6 +288,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 141.1841: [YouTube](https://youtu.be/1LYpz-B4RMw)
 
+1. **FUNDO**
+   - Alvo: PASSAGEM NEWBA;
+   - Posição: Posicione-se no canta da caixa com degrau elevado da calçada;
+   - Mira: Mire na pedra quadrada da base na região interna da porta;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
+   - Ref. 141.3099: [YouTube](https://youtu.be/xQNTmTE9_P4)
+
 1. **FUNDO (1/3)**
    - Alvo: PASSAGEM NEWBA;
    - Posição: Posicione-se no canto da parede próximo a uma pequena escada;
@@ -402,10 +409,10 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **VARANDA**
    - Alvo: PORTA DO MEIO;
-   - Posição: Posicione-se no canto direito da parede próxima a porta de grade;
-   - Mira: Mire no canto superior esquerdo interno da torre com janelas em formato de fechadura;
-   - Execução: Jumpthrow;
-   - Ref. 141.6617: [YouTube](https://youtu.be/tCKW7Mw8SKI)
+   - Posição: Posicione-se no canto do tapete com a parede;
+   - Mira: Mire no canto inferior esquerdo da uma pedra abaixo das janelas em forma de fechadura;
+   - Execução: Jumpthrow longo;
+   - Ref. 141.6617: [YouTube](https://youtu.be/rW_I837sf70)
 
 1. **VARANDA**
    - Alvo: LIGAÇÃO;
@@ -601,11 +608,11 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Ref. 142.1755: [YouTube](https://youtu.be/liuAKtz8OM0)
 
 1. **PAREDÃO**
-   - Alvo: ENTRADA DA CAVERNA;
+   - Alvo: CAVERNA;
    - Posição:  Posicione-se na parte superior da escada e próximo a parede;
    - Mira: Mire no meio da parede da janela, no início do arco e na altura da parte inferior da decoração à direita;
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
-   - Ref. 142.1999: [YouTube](link)
+   - Ref. 142.1999: [YouTube](https://youtu.be/52b2AMfxDm4)
 
 1. **PILAR**
    - Alvo: FUNDO;
