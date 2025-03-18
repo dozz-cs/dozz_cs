@@ -37,13 +37,6 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 111.2845: [YouTube](https://youtu.be/lD1dMMfvmSU)
 
 1. **BASE TR**
-   - Alvo: MEIO A;
-   - Posição: ;
-   - Mira:;
-   - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 111.6110: [YouTube](https://youtu.be/5-XrrsLSauQ)
-
-1. **BASE TR**
    - Alvo: LIGA CT;
    - Posição: Localize a porta do penúltimo vagão acessível na base TR. Pare no canto do poste baixo amarelo com o vagão;
    - Mira: Mire à esquerda e abaixo de uma tênue mancha escura na viga de madeira do lado esquerdo do relógio;
@@ -66,10 +59,10 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **BASE TR**
    - Alvo: VERMELHO A;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Posicione-se ao lado do lixão. Alinhe a mira com o centro de uma pedra no chão;
+   - Mira: Mire na vegetação à direita do poste e no alto da construção;
    - Execução: Jumpthrow longo;
-   - Ref. 111.6743: [YouTube](link)
+   - Ref. 111.6110: [YouTube](https://youtu.be/5-XrrsLSauQ)
 
 1. **FUNDO TR**
    - Alvo: MEIO A;
@@ -80,8 +73,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **TRILHOS**
    - Alvo: BOMBEIRO;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Posicione-se no canto dos trens;
+   - Mira: Mire no lado direito área retangular escura acima do lixão;
    - Execução: Jumpthrow longo;
    - Ref. 111.3522: [YouTube](https://youtu.be/3uqR3up-11I)
 
@@ -98,8 +91,8 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 1. **LIGA TR**
    - Alvo: GELADEIRA;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Posicione-se no canto do contêiner laranja com o vagão;
+   - Mira: Localize a caixa de madeira superior. Mire no meio da ripa de madeira inferior e alinhado com a cinta metálica direita;
    - Execução: Jumpthrow longo;
    - Ref. 112.8734: [YouTube](https://youtu.be/FPSzymsmM8Q)
 
@@ -139,10 +132,11 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
+
 1. **LIGA TR**
    - Alvo: GELADEIRA;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Posicione-se no canto do contêiner laranja com o vagão;
+   - Mira: Localize a caixa de madeira superior. Mire no meio da ripa de madeira inferior e alinhado com a cinta metálica direita;
    - Execução: Jumpthrow longo;
    - Ref. 114.8734: [YouTube](https://youtu.be/Ccjz2Qok1AU)
 
