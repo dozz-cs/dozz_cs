@@ -96,6 +96,13 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Jumpthrow longo;
    - Ref. 112.8734: [YouTube](https://youtu.be/FPSzymsmM8Q)
 
+1. **LIGA TR**
+   - Alvo: ENTRADA PARA O BOMBEIRO;
+   - Posição: Encoste próximo as letras na parede verde claro. Alinhe a quina da parede com a alça da caixa de madeira;
+   - Mira: Mire na junção da viga de ferro à esquerda;
+   - Execução: Arremesso longo;
+   - Ref. 112.7826: [YouTube](https://youtu.be/ZW1EYaRGL3I)
+
 ## Flash
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
@@ -113,6 +120,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Mira: Localize a viga de ferro amarela na parte superior. Mire na parte superior da marcação vertical da viga alinhada com uma região desgastada;
    - Execução: Arremesso longo;
    - Ref. 113.1827: [YouTube](https://youtu.be/GP3tFZ8rZ-8)
+
+1. **LIGA TR**
+   - Alvo: BOMBEIRO; GELADEIRA; LIGA CT;
+   - Posição: Encoste próximo as letras na parede verde claro. Alinhe a quina da parede com a quina da caixa de madeira;
+   - Mira: Mire na junção da viga de ferro à esquerda;
+   - Execução: Arremesso longo;
+   - Ref. 113.2433: [YouTube](https://youtu.be/ESyqPiyJKkw)
 
 1. **LIXÃO**
    - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
@@ -139,6 +153,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Localize a caixa de madeira superior. Mire no meio da ripa de madeira inferior e alinhado com a cinta metálica direita;
    - Execução: Jumpthrow longo;
    - Ref. 114.8734: [YouTube](https://youtu.be/Ccjz2Qok1AU)
+
+1. **LIGA TR**
+   - Alvo: ENTRADA PARA O BOMBEIRO;
+   - Posição: Encoste próximo as letras na parede verde claro. Alinhe a quina da parede com a alça da caixa de madeira;
+   - Mira: Mire na junção da viga de ferro à esquerda;
+   - Execução: Arremesso longo;
+   - Ref. 114.7826: [YouTube](https://youtu.be/SC4Rye5NKIc)
 
 ## Referências
 
