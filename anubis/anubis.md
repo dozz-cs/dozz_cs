@@ -600,6 +600,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 142.1755: [YouTube](https://youtu.be/liuAKtz8OM0)
 
+1. **PAREDÃO**
+   - Alvo: ENTRADA DA CAVERNA;
+   - Posição:  Posicione-se na parte superior da escada e próximo a parede;
+   - Mira: Mire no meio da parede da janela, no início do arco e na altura da parte inferior da decoração à direita;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
+   - Ref. 142.1999: [YouTube](link)
+
 1. **PILAR**
    - Alvo: FUNDO;
    - Posição: Encoste ao lado do pilar, posicionando o pé esquerdo sobre a linha no chão;
