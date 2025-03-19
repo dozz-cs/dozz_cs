@@ -82,6 +82,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
+1. **CAMINHO DA MORTE**
+   - Alvo: B BAIXO;
+   - Posição: Pare em frente a segunda janela próxima a queda;
+   - Mira:  Mire sobre a lâmpada que aparece à esquerda, sobre a entrada para o B baixo;
+   - Execução: Arremesso longo;
+   - Ref. 112.1940: [YouTube](https://youtu.be/ffDLi34G9pA)
+
 1. **LIGA TR**
    - Alvo: CÉU;
    - Posição: Posicione-se no canto da parede com o hidrômetro;
@@ -102,6 +109,13 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira: Mire na junção da viga de ferro à esquerda;
    - Execução: Arremesso longo;
    - Ref. 112.7826: [YouTube](https://youtu.be/ZW1EYaRGL3I)
+
+1. **QUEDA**
+   - Alvo: ENTRADA DO BOMBEIRO;
+   - Posição: Posicione no meio da escada de acesso aos servidores. Alinhe a mira com esquerda da segunda ripa do assoalho;
+   - Mira: Quebre o vidro da janela esquerda. Mire na região do céu próximo ao canto superior esquerdo da janela;
+   - Execução: Arremesso longo;
+   - Ref. 112.0922: [YouTube](https://youtu.be/YN5-4nCpCRE)
 
 ## Flash
 
@@ -146,6 +160,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
+
+1. **CAMINHO DA MORTE**
+   - Alvo: B BAIXO;
+   - Posição: Pare um pouco antes de chegar na pequena escada de acesso ao caminho da morte;
+   - Mira: Mire na junção da tubulação de ar no teto mais próxima da região da queda;
+   - Execução: Corra até passar a porta + Arremesso médio;
+   - Ref. 114.3899: [YouTube](https://youtu.be/e18izrFd0mo)
 
 1. **LIGA TR**
    - Alvo: GELADEIRA;
