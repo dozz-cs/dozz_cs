@@ -64,6 +64,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 111.6110: [YouTube](https://youtu.be/5-XrrsLSauQ)
 
+1. **CAMINHO DA MORTE**
+   - Alvo: GAULES;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Arremesso longo;
+   - Ref. 111.9035: [YouTube](https://youtu.be/nsUz38fgYzQ)
+
 1. **FUNDO TR**
    - Alvo: MEIO A;
    - Posição: Posicione-se na quina da lixeira do fundo. Alinhe o batente da porta com o canto esquerdo da segunda janela no corredor do fundo;
@@ -88,6 +95,13 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira:  Mire sobre a lâmpada que aparece à esquerda, sobre a entrada para o B baixo;
    - Execução: Arremesso longo;
    - Ref. 112.1940: [YouTube](https://youtu.be/ffDLi34G9pA)
+
+1. **CAMINHO DA MORTE**
+   - Alvo: B BAIXO;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Arremesso longo;
+   - Ref. 112.9035: [YouTube](https://youtu.be/OXIorX0lPX4)
 
 1. **LIGA TR**
    - Alvo: CÉU;
@@ -128,6 +142,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Jumpthrow longo;
    - Ref. 113.8733: [YouTube](https://youtu.be/Dh-MJdNsaE4)
 
+1. **B BAIXO**
+   - Alvo: QUEDA;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Corra até chegar próximo a escada + Arremesso longo;
+   - Ref. 113.7001: [YouTube](https://youtu.be/Yofehxb_uUM)
+
 1. **LIGA TR**
    - Alvo: MEIO A; BOMB A;
    - Posição: Posicione-se na quina da parede no interior da liga TR;
@@ -160,13 +181,19 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
-
 1. **CAMINHO DA MORTE**
    - Alvo: B BAIXO;
    - Posição: Pare um pouco antes de chegar na pequena escada de acesso ao caminho da morte;
    - Mira: Mire na junção da tubulação de ar no teto mais próxima da região da queda;
    - Execução: Corra até passar a porta + Arremesso médio;
    - Ref. 114.3899: [YouTube](https://youtu.be/e18izrFd0mo)
+
+1. **CAMINHO DA MORTE**
+   - Alvo: B BAIXO;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 114.9035: [YouTube](https://youtu.be/02otU5l41nw)
 
 1. **LIGA TR**
    - Alvo: GELADEIRA;
