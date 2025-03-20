@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# DUST 2 (+75 utilitárias)
+# DUST 2 (+85 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/dust2/dust2.pdf)
 
@@ -344,12 +344,26 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.9110: [YouTube](https://youtu.be/3Fz7IyGrd5g);
 
+1. **RAMPA CT**
+   - Alvo: FUNDO;
+   - Posição: Encoste na quina da parede na parte superior da rampa CT;
+   - Mira: Mire na ponta da haste da antena parabólica logo abaixo da placa verde;
+   - Execução: Arremesso longo;
+   - Ref. 101.6821: [YouTube](https://youtu.be/PJhzc6XdyqU);
+
 1. **VARANDA, ESCADA DA**
    - Alvo: VARANDA;
    - Posição: Encoste na frente da porta de grade;
    - Mira: Alinhe a mira verticalmente com o centro da janela em uma mancha muito fraca na parede;
    - Execução: Arremesso longo;
    - Ref. 101.6614: [YouTube](https://youtu.be/KsNeVSPiIzc);
+
+1. **VARANDA, CAIXA DA**
+   - Alvo: VARANDA;
+   - Posição: Posicione-se no canto da caixa alta da varanda com a parede;
+   - Mira: Mire no vão formado pela caixa baixa e a parede, na altura da mureta;
+   - Execução: Arremesso longo;
+   - Ref. 101.4001: [YouTube](https://youtu.be/c4oMtScP7mE);
 
 1. **VARANDA, CAIXA ALTA DA (1/2)**
    - Alvo: VARANDA;
@@ -459,6 +473,13 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Mira: Mire no batente da porta alinhado com a ripa horizontal abaixo da decoração da porta;
    - Execução: Jumpthrow longo;
    - Ref. 102.5407: [YouTube](https://youtu.be/-dDAqsPSatU);
+
+1. **VARANDA, ESCADA**
+   - Alvo: RAMPA DO BOMB A;
+   - Posição: Posicione-se na quina da pequena parede no topo da escada;
+   - Mira: Alinhe a mira com a placa no alto da construção na rampa do bomb. Mire um pouco acima do topo da construção;
+   - Execução: Arremesso longo;
+   - Ref. 102.9310: [YouTube](https://youtu.be/IwoUsdhRK7M);
 
 1. **VARANDA, ESCADA**
    - Alvo: NEWBA;
@@ -582,6 +603,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Mira: Mire na lateral da ponta da coluna no topo da construção;
    - Execução: Arremesso longo;
    - Ref. 103.8922: [YouTube](https://youtu.be/mMonrfuEPQQ);
+
+1. **RAMPA CT**
+   - Alvo: FUNDO;
+   - Posição: Posicione-se próximo a quina da parede no topo da rampa CT;
+   - Mira: Mire na pequena parede em direção a base CT e na altura da haste de metal próximo a base da janela;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 103.2994: [YouTube](https://youtu.be/L_IMXRzgUJc);
 
 1. **RAMPA CT**
    - Alvo: CAVERNA; AZUL; BUNKER; ALTAR DO BUNKER;
