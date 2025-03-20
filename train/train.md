@@ -66,9 +66,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **CAMINHO DA MORTE**
    - Alvo: GAULES;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Arremesso longo;
+   - Posição: Posicione-se no canto esquerdo da primeira janela de acesso ao corredor da morte, perto da escada TR;
+   - Mira: Mire no topo e a direita da abertura da parede na região da queda;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 111.9035: [YouTube](https://youtu.be/nsUz38fgYzQ)
 
 1. **FUNDO TR**
@@ -98,8 +98,8 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 1. **CAMINHO DA MORTE**
    - Alvo: B BAIXO;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Posicione-se no canto esquerdo da primeira janela de acesso ao corredor da morte, perto da escada TR;
+   - Mira: Mire à esquerda na região iluminada acima da abertura da região da queda;
    - Execução: Arremesso longo;
    - Ref. 112.9035: [YouTube](https://youtu.be/OXIorX0lPX4)
 
@@ -144,8 +144,8 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 1. **B BAIXO**
    - Alvo: QUEDA;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Posicione-se em frente a entrada do B Baixo de forma a visualizar o madeirite;
+   - Mira: Mire próximo a lateral direita e na altura central do madeirite;
    - Execução: Corra até chegar próximo a escada + Arremesso longo;
    - Ref. 113.7001: [YouTube](https://youtu.be/Yofehxb_uUM)
 
@@ -190,9 +190,9 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 1. **CAMINHO DA MORTE**
    - Alvo: B BAIXO;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Posição: Posicione-se no canto esquerdo da primeira janela de acesso ao corredor da morte, perto da escada TR;
+   - Mira: Mire no topo e na região central da abertura na região da queda;
+   - Execução: Ande para a frente + Arremesso longo;
    - Ref. 114.9035: [YouTube](https://youtu.be/02otU5l41nw)
 
 1. **LIGA TR**
