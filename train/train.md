@@ -64,6 +64,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 111.6110: [YouTube](https://youtu.be/5-XrrsLSauQ)
 
+1. **BURACO**
+   - Alvo: LIGA CT;
+   - Posição: Posicione-se sobre a divisória da escada no degrau inferior;
+   - Mira: Mire entre o canto direito e a torre no região central da janela;
+   - Execução: Quebre o vidro.  Agache + Arremesso longo;
+   - Ref. 111.2398: [YouTube](https://youtu.be/x0AI8-uGCbg)
+
 1. **CAMINHO DA MORTE**
    - Alvo: GAULES;
    - Posição: Posicione-se no canto esquerdo da primeira janela de acesso ao corredor da morte, perto da escada TR;
@@ -84,6 +91,27 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na região descascada da parede à esquerda e acima da janela;
    - Execução: Arremesso longo;
    - Ref. 111.7939: [YouTube](https://youtu.be/zjAOXIbN9_8)
+
+1. **PLATAFORMA (1/2)**
+   - Alvo: BOMB B;
+   - Posição: Pare no canto direito da viga de madeira com a parede próxima a Escada Baixo;
+   - Mira: Mire na lateral esquerda do vidro inferior esquerdo da janela;
+   - Execução: Jumpthrow médio;
+   - Ref. 111.7532: [YouTube](https://youtu.be/qXdSNCDYYCw)
+
+1. **PLATAFORMA (2/2)**
+   - Alvo: AZUL;
+   - Posição: Pare no canto direito da viga de madeira com a parede próxima a Escada Baixo;
+   - Mira: Mire próximo ao canto inferior direito da abertura na Escada Baixo;
+   - Execução: Arremesso longo;
+   - Ref. 111.7533: [YouTube](https://youtu.be/qXdSNCDYYCw)
+
+1. **PLATAFORMA**
+   - Alvo: LIGA CT;
+   - Posição: Pare no canto direito da viga de madeira e da parede na região central da plataforma;
+   - Mira: Alinhe a mira com um sarrafo vertical na parede quebrada. Mire na altura do topo da janela ao fundo;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 111.8301: [YouTube](https://youtu.be/FXec4hlc3dE)
 
 1. **TRILHOS**
    - Alvo: BOMBEIRO;
@@ -144,6 +172,20 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira: Alinhe a mira com uma madeira quebrada e vertical que aparece à direita da parede quebrada. Mire próximo ao teto;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 112.2230: [YouTube](https://youtu.be/rvnW-X8lOKk)
+
+1. **PLATAFORMA**
+   - Alvo: LIGA CT;
+   - Posição: Pare em frente a lateral esquerda da janela próxima a Escada Baixo;
+   - Mira: Mire na junção do corrimão da plataforma com a lateral direita da janela;
+   - Execução: Ande para a frente + Jumpthrow longo;
+   - Ref. 112.9917: [YouTube](https://youtu.be/mjTTkvvy8wI)
+
+1. **PLATAFORMA**
+   - Alvo: BOMB B; AZUL;
+   - Posição: Posicione-se no canto esquerdo da viga de madeira com a parede próxima ao B Baixo;
+   - Mira: Alinhe a mira com uma marcação horizontal abaixo e ao lado da lâmpada na parede quebrada;
+   - Execução: Arremesso longo;
+   - Ref. 112.5641: [YouTube](https://youtu.be/rp9QoWgMLJc)
 
 1. **QUEDA**
    - Alvo: ENTRADA DO BOMBEIRO;
@@ -211,6 +253,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Mira: Alinhe a mira com a parte superior da janela esquerda que aparece na parede quebrada;
    - Execução: Arremesso longo;
    - Ref. 113.2929: [YouTube](https://youtu.be/v5i5RaORUp8)
+
+1. **PLATAFORMA**
+   - Alvo: AZUL; BOMB B; LIGA CT;
+   - Posição: Pare em frente a lateral esquerda da janela próxima ao B Baixo;
+   - Mira: Alinhe a mira na junção inferior direita dos sarrafos das divisórias dos vidros da janela esquerda. Não é na lateral da janela;
+   - Execução: Jumpthrow médio;
+   - Ref. 113.8631: [YouTube](https://youtu.be/Zk3kTxzAXzo)
 
 ## High Explosive (HE)
 
