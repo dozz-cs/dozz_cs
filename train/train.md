@@ -78,6 +78,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 111.4563: [YouTube](https://youtu.be/wAfRvITU5ds)
 
+1. **PLATAFORMA**
+   - Alvo: AZUL;
+   - Posição: Pare em frente ao lado direito da janela próxima ao B baixo;
+   - Mira: Mire na região descascada da parede à esquerda e acima da janela;
+   - Execução: Arremesso longo;
+   - Ref. 111.7939: [YouTube](https://youtu.be/zjAOXIbN9_8)
+
 1. **TRILHOS**
    - Alvo: BOMBEIRO;
    - Posição: Posicione-se no canto dos trens;
@@ -103,6 +110,13 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Arremesso longo;
    - Ref. 112.9035: [YouTube](https://youtu.be/OXIorX0lPX4)
 
+1. **CAMINHO DA MORTE**
+   - Alvo: B BAIXO;
+   - Posição:;
+   - Mira: ;
+   - Execução: Corra até passar a porta à esquerda + Arremesso médio;
+   - Ref. 112.7810: [YouTube](https://youtu.be/qYNNz34jV1s)
+
 1. **LIGA TR**
    - Alvo: CÉU;
    - Posição: Posicione-se no canto da parede com o hidrômetro;
@@ -124,12 +138,26 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Arremesso longo;
    - Ref. 112.7826: [YouTube](https://youtu.be/ZW1EYaRGL3I)
 
+1. **PLATAFORMA**
+   - Alvo: LIGA CT;
+   - Posição: Posicione-se em frente a viga de madeira próxima a região central da plataforma;
+   - Mira: Alinhe a mira com uma madeira quebrada e vertical que aparece à direita da parede quebrada. Mire próximo ao teto;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 112.2230: [YouTube](https://youtu.be/rvnW-X8lOKk)
+
 1. **QUEDA**
    - Alvo: ENTRADA DO BOMBEIRO;
    - Posição: Posicione no meio da escada de acesso aos servidores. Alinhe a mira com esquerda da segunda ripa do assoalho;
    - Mira: Quebre o vidro da janela esquerda. Mire na região do céu próximo ao canto superior esquerdo da janela;
    - Execução: Arremesso longo;
    - Ref. 112.0922: [YouTube](https://youtu.be/YN5-4nCpCRE)
+
+1. **QUEDA**
+   - Alvo: ESCADA PARA O BOMBEIRO;
+   - Posição: Posicione-se em frente ao buraco na parede. Alinhe o lado esquerdo do buraco com a parte superior do pilar na região da plataforma;
+   - Mira: Mire na parte superior direita do pilar;
+   - Execução: Arremesso longo;
+   - Ref. 112.0766: [YouTube](https://youtu.be/1P1odpeeZrw)
 
 ## Flash
 
@@ -176,6 +204,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Mira: Alinhe a mira com o lado direito de uma mancha escura na parede. Mire um pouco acima da altura da lixeira;
    - Execução: Jumpthrow longo;
    - Ref. 113.3522: [YouTube](https://youtu.be/o2tp_WvAO_A)
+
+1. **PLATAFORMA**
+   - Alvo: AZUL; LIGA CT; MEGA RAMPA;
+   - Posição: Pare em frente a viga de madeira próximo ao centro da região da plataforma;
+   - Mira: Alinhe a mira com a parte superior da janela esquerda que aparece na parede quebrada;
+   - Execução: Arremesso longo;
+   - Ref. 113.2929: [YouTube](https://youtu.be/v5i5RaORUp8)
 
 ## High Explosive (HE)
 
