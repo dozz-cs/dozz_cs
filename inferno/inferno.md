@@ -267,6 +267,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 121.4923: [YouTube](https://youtu.be/w_bzAR39sfA)
 
+1. **CAIXÃO**
+   - Alvo: BANANA;
+   - Posição: Posicione-se em cima dos sacos de cimento na região do caixão;
+   - Mira: Localize uma pedra saliente na região do BTT. Mire na parte inferior dessa pedra;
+   - Execução: Jumpthrow longo;
+   - Ref. 121.5309: [YouTube](https://youtu.be/ZzgJSbVewEw)
+
 1. **CARRO**
    - Alvo: CAIXÃO;
    - Posição: Encoste no canto direito da mureta;
@@ -607,6 +614,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo;
    - Ref. 122.8741: [YouTube](https://youtu.be/_UzZLPGo2k4)
 
+1. **CAIXÃO**
+   - Alvo: MURETA DA BANANA;
+   - Posição: Posicione-se em cima dos sacos de cimento na região do caixão;
+   - Mira: Localize uma pedra saliente na região do BTT. Mire à esquerda e abaixo dessa pedra, na fileira de pedras próxima ao chão;
+   - Execução: Jumpthrow longo;
+   - Ref. 122.3766: [YouTube](https://youtu.be/7CgXmpO1G0U)
+
 1. **CAMPANÁRIO**
    - Alvo: HEAD SHOT;
    - Posição: Encoste no batente esquerdo da porta do campanário;
@@ -915,7 +929,14 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire um pouco acima do topo da antena, alinhado com a porta da região do tapete;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 124.3900: [YouTube](https://youtu.be/ynMEdJ2J2xk)
-  
+
+1. **CAIXÃO**
+   - Alvo: MURETA DA BANANA;
+   - Posição: Posicione-se em cima do madeirite na região do caixão;
+   - Mira: Mire na abraçadeira de metal na quina da caixa do BTT direito;
+   - Execução: Ande para a frente + Jumpthrow longo;
+   - Ref. 124.6930: [YouTube](https://youtu.be/ki8M4X3I75c)
+
 1. **CARRO**
    - Alvo: CAVERNA;
    - Posição: Encoste na parede atrás das placas de madeira;
@@ -950,6 +971,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire na extremidade do peitoril da janela;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 124.6433: [YouTube](https://youtu.be/cGgrpjDFpfs)
+
+1. **CT**
+   - Alvo: MURETA DA BANANA;
+   - Posição: Posicione-se próximo uma marcação horizontal de pedra no chão. Alinhe as quinas das paredes das construções;
+   - Mira: Localize algumas pedras soltas na região do Fallen. Mire um uma mancha escura no chão e na região de sombra, próxima a uma marcação horizontal de pedras;
+   - Execução: Jumpthrow longo;
+   - Ref. 124.0352: [YouTube](https://youtu.be/4T-7aIbOIwc)
 
 1. **FALLEN**
    - Alvo: MURETA DA BANANA;
