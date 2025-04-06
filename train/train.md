@@ -29,6 +29,13 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/tr
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
+1. **BASE CT**
+   - Alvo: LIGA TR;
+   - Posição: Posicione-se no canto do muro com a parede, próximo a escada CT;
+   - Mira: Mire na tubulação da calha próximo ao telhado da construção;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
+   - Ref. 111.0254: [YouTube](https://youtu.be/_KAhu0q48Jo)
+
 1. **BASE TR**
    - Alvo: MEIO A;
    - Posição: Localize a porta do último vagão acessível na base TR. Pare no canto do vagão com o poste amarelo baixo;
@@ -63,6 +70,20 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na vegetação à direita do poste e no alto da construção;
    - Execução: Jumpthrow longo;
    - Ref. 111.6110: [YouTube](https://youtu.be/5-XrrsLSauQ)
+
+1. **BANANA**
+   - Alvo: LIGA CT;
+   - Posição: Posicione-se à direita da caixa, no canto da caixa com a plataforma;
+   - Mira: Mire em um pequena mancha na parede, próximo ao canto inferior direito da janela;
+   - Execução: Jumpthrow longo;
+   - Ref. 111.5820: [YouTube](https://youtu.be/HKpU4_5xf5c)
+
+1. **BANANA**
+   - Alvo: GAULES;
+   - Posição: Posicione-se na quina esquerda da passagem para o Gaules;
+   - Mira: Agache e mire ligeiramente acima de uma marcação horizontal a meia altura da abertura em forma de arco;
+   - Execução: Arremesso longo;
+   - Ref. 111.9433: [YouTube](https://youtu.be/33CjgtIDq1c)
 
 1. **BURACO**
    - Alvo: LIGA CT;
