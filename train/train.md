@@ -175,8 +175,8 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 1. **LIGA CT**
    - Alvo: LIGA TR;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Posicione-se na quina da parede do lado direito da guarita;
+   - Mira: Localize a perna à frente na pintura da parede. Mire no topo da divisória do vidro da janela que está alinhado com a ponta do pé à frente e não visível;
    - Execução: Arremesso longo;
    - Ref. 112.5099: [YouTube](https://youtu.be/2qWmcyVgblM)
 
@@ -187,11 +187,11 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Jumpthrow longo;
    - Ref. 112.2670: [YouTube](link)
 
-1. **LIGA CT**
+1. **LIGA CT** (regravado)
    - Alvo: LIGA TR;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Jumpthrow longo;
+   - Posição: Posicione-se no meio do corredor da Liga CT. Alinhe a quina da parede com a quina do vagão do trem do bomb A.
+   - Mira: Mire na viga superior de metal acima da guarita;
+   - Execução: Ande para a frente + Arremesso longo;
    - Ref. 112.2548: [YouTube](https://youtu.be/rAr2cDaMSi8)
 
 1. **LIGA TR**
@@ -270,8 +270,8 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 1. **LIGA CT**
    - Alvo: LIGA TR;
-   - Posição: ;
-   - Mira: ;
+   - Posição: Pare entre as marcações do portão de metal ao lado do vagão amarelo do bomb A e próximo ao céu;
+   - Mira: Mire um pouco à direita do rebite inferior direito do vagão amarelo do bomb A;
    - Execução: Jumpthrow longo;
    - Ref. 113.2670: [YouTube](https://youtu.be/hZ1TiCf2xUs)
 
@@ -335,11 +335,11 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 114.9035: [YouTube](https://youtu.be/02otU5l41nw)
 
-1. **LIGA CT**
+1. **LIGA CT** (regravado)
    - Alvo: LIGA TR;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Jumpthrow longo;
+   - Posição: Posicione-se em frente a guarita;
+   - Mira: Mire na linha do trilho entre o vagão e a geladeira;
+   - Execução: Arremesso longo;
    - Ref. 114.1029: [YouTube](https://youtu.be/pwDaJy-P6zw)
 
 1. **LIGA CT**
