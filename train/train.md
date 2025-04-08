@@ -99,6 +99,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 111.9035: [YouTube](https://youtu.be/nsUz38fgYzQ)
 
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 111.2670: [YouTube](link)
+
 1. **FUNDO TR**
    - Alvo: MEIO A;
    - Posição: Posicione-se na quina da lixeira do fundo. Alinhe o batente da porta com o canto esquerdo da segunda janela no corredor do fundo;
@@ -165,6 +172,27 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira: ;
    - Execução: Corra até passar a porta à esquerda + Arremesso médio;
    - Ref. 112.7810: [YouTube](https://youtu.be/qYNNz34jV1s)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Arremesso longo;
+   - Ref. 112.5099: [YouTube](https://youtu.be/2qWmcyVgblM)
+
+1. **LIGA CT** (Gravar)
+   - Alvo: LIGA TR;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 112.2670: [YouTube](link)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 112.2548: [YouTube](https://youtu.be/rAr2cDaMSi8)
 
 1. **LIGA TR**
    - Alvo: CÉU;
@@ -240,6 +268,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Corra até chegar próximo a escada + Arremesso longo;
    - Ref. 113.7001: [YouTube](https://youtu.be/Yofehxb_uUM)
 
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 113.2670: [YouTube](https://youtu.be/hZ1TiCf2xUs)
+
 1. **LIGA TR**
    - Alvo: MEIO A; BOMB A;
    - Posição: Posicione-se na quina da parede no interior da liga TR;
@@ -299,6 +334,20 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire no topo e na região central da abertura na região da queda;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 114.9035: [YouTube](https://youtu.be/02otU5l41nw)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 114.1029: [YouTube](https://youtu.be/pwDaJy-P6zw)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Arremesso longo;
+   - Ref. 114.8188: [YouTube](https://youtu.be/JQW5zKP0Fj0)
 
 1. **LIGA TR**
    - Alvo: GELADEIRA;
