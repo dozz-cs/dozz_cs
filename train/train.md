@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# TRAIN (+25 utilitárias)
+# TRAIN (+40 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/train/train.pdf)
 
@@ -194,6 +194,20 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 112.2548: [YouTube](https://youtu.be/rAr2cDaMSi8)
 
+1. **LIGA CT**
+   - Alvo: OLOF;
+   - Posição: Posicione-se em frente a caixa da guarita;
+   - Mira: Mire no topo, entre os ares-condicionados;
+   - Execução: Arremesso longo;
+   - Ref. 112.1818: [YouTube](https://youtu.be/1hRpi1H6AYw)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: Pare no meio do corredor próximo a quina da parede. Alinhe a quina da parede com a quina do vagão amarelo;
+   - Mira: Mire na viga acima da região da caixa da guarita;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 112.3940: [YouTube](https://youtu.be/epcIJFA59JE)
+
 1. **LIGA TR**
    - Alvo: CÉU;
    - Posição: Posicione-se no canto da parede com o hidrômetro;
@@ -274,6 +288,20 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Mira: Mire um pouco à direita do rebite inferior direito do vagão amarelo do bomb A;
    - Execução: Jumpthrow longo;
    - Ref. 113.2670: [YouTube](https://youtu.be/hZ1TiCf2xUs)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: Pare no meio do corredor. Alinhe a quina na parede com a quina do vagão amarelo;
+   - Mira: Mire na viga de ferro acima da região da guarita;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 113.7502: [YouTube](https://youtu.be/POyfdHnOgv4)
+
+1. **LIGA CT**
+   - Alvo: VERMELHO; LIGA TR; OLOF;
+   - Posição: Posicione-se em frente a caixa da guarita;
+   - Mira: Alinhe a mira com a marcação horizontal alinhado com o Vermelho;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 113.4676: [YouTube](https://youtu.be/rW2m61M2130)
 
 1. **LIGA TR**
    - Alvo: MEIO A; BOMB A;
