@@ -372,9 +372,9 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 1. **LIGA CT**
    - Alvo: LIGA TR;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Arremesso longo;
+   - Posição: Posicione-se próximo a quina da parede;
+   - Mira: Mire na viga de ferro acima da guarita e próximo ao canto superior esquerdo;
+   - Execução: Ande para a frente + Arremesso longo;
    - Ref. 114.8188: [YouTube](https://youtu.be/JQW5zKP0Fj0)
 
 1. **LIGA TR**
