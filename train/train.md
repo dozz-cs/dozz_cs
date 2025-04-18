@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# TRAIN (+25 utilitárias)
+# TRAIN (+40 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/train/train.pdf)
 
@@ -99,6 +99,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 111.9035: [YouTube](https://youtu.be/nsUz38fgYzQ)
 
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 111.2670: [YouTube](link)
+
 1. **FUNDO TR**
    - Alvo: MEIO A;
    - Posição: Posicione-se na quina da lixeira do fundo. Alinhe o batente da porta com o canto esquerdo da segunda janela no corredor do fundo;
@@ -165,6 +172,41 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira: ;
    - Execução: Corra até passar a porta à esquerda + Arremesso médio;
    - Ref. 112.7810: [YouTube](https://youtu.be/qYNNz34jV1s)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: Posicione-se na quina da parede do lado direito da guarita;
+   - Mira: Localize a perna à frente na pintura da parede. Mire no topo da divisória do vidro da janela que está alinhado com a ponta do pé à frente e não visível;
+   - Execução: Arremesso longo;
+   - Ref. 112.5099: [YouTube](https://youtu.be/2qWmcyVgblM)
+
+1. **LIGA CT** (Gravar)
+   - Alvo: LIGA TR;
+   - Posição: ;
+   - Mira: ;
+   - Execução: Jumpthrow longo;
+   - Ref. 112.2670: [YouTube](link)
+
+1. **LIGA CT** (regravado)
+   - Alvo: LIGA TR;
+   - Posição: Posicione-se no meio do corredor da Liga CT. Alinhe a quina da parede com a quina do vagão do trem do bomb A.
+   - Mira: Mire na viga superior de metal acima da guarita;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 112.2548: [YouTube](https://youtu.be/rAr2cDaMSi8)
+
+1. **LIGA CT**
+   - Alvo: OLOF;
+   - Posição: Posicione-se em frente a caixa da guarita;
+   - Mira: Mire no topo, entre os ares-condicionados;
+   - Execução: Arremesso longo;
+   - Ref. 112.1818: [YouTube](https://youtu.be/1hRpi1H6AYw)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: Pare no meio do corredor próximo a quina da parede. Alinhe a quina da parede com a quina do vagão amarelo;
+   - Mira: Mire na viga acima da região da caixa da guarita;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 112.3940: [YouTube](https://youtu.be/epcIJFA59JE)
 
 1. **LIGA TR**
    - Alvo: CÉU;
@@ -240,6 +282,27 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Corra até chegar próximo a escada + Arremesso longo;
    - Ref. 113.7001: [YouTube](https://youtu.be/Yofehxb_uUM)
 
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: Pare entre as marcações do portão de metal ao lado do vagão amarelo do bomb A e próximo ao céu;
+   - Mira: Mire um pouco à direita do rebite inferior direito do vagão amarelo do bomb A;
+   - Execução: Jumpthrow longo;
+   - Ref. 113.2670: [YouTube](https://youtu.be/hZ1TiCf2xUs)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: Pare no meio do corredor. Alinhe a quina na parede com a quina do vagão amarelo;
+   - Mira: Mire na viga de ferro acima da região da guarita;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 113.7502: [YouTube](https://youtu.be/POyfdHnOgv4)
+
+1. **LIGA CT**
+   - Alvo: VERMELHO; LIGA TR; OLOF;
+   - Posição: Posicione-se em frente a caixa da guarita;
+   - Mira: Alinhe a mira com a marcação horizontal alinhado com o Vermelho;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 113.4676: [YouTube](https://youtu.be/rW2m61M2130)
+
 1. **LIGA TR**
    - Alvo: MEIO A; BOMB A;
    - Posição: Posicione-se na quina da parede no interior da liga TR;
@@ -299,6 +362,20 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire no topo e na região central da abertura na região da queda;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 114.9035: [YouTube](https://youtu.be/02otU5l41nw)
+
+1. **LIGA CT** (regravado)
+   - Alvo: LIGA TR;
+   - Posição: Posicione-se em frente a guarita;
+   - Mira: Mire na linha do trilho entre o vagão e a geladeira;
+   - Execução: Arremesso longo;
+   - Ref. 114.1029: [YouTube](https://youtu.be/pwDaJy-P6zw)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR;
+   - Posição: Posicione-se próximo a quina da parede;
+   - Mira: Mire na viga de ferro acima da guarita e próximo ao canto superior esquerdo;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 114.8188: [YouTube](https://youtu.be/JQW5zKP0Fj0)
 
 1. **LIGA TR**
    - Alvo: GELADEIRA;
