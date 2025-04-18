@@ -7,7 +7,7 @@ Olá, seja bem vindo ao meu manual de utilitárias. O objetivo desse documento c
 
 ## Uso
 
-- Assistir os videos demonstrativos de cada utilitária;
+- Você pode assistir os videos demonstrativos de cada utilitária;
 - Ler a descrição da origem, alvo, posicionamento, mira e execução;
 - Fazer o download do pdf do manual;
 
