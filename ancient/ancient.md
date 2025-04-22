@@ -401,6 +401,13 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Jumpthrow;
    - Ref. 152.7872: [YouTube](https://youtu.be/tR05yAW7O4E);
 
+1. **CT DA B**
+   - Alvo: BANANA;
+   - Posição: Posicione-se na região da quina da parede direita próximo ao corredor;
+   - Mira: Localize o madeirite azul próximo ao chão e rente a parede direita do escuro;
+   - Execução: Ande para a frente até chegar na quina de um nicho na parede + Jumpthrow médio;
+   - Ref. 152.6390: [YouTube](https://youtu.be/j-tkPyMxYwI);
+
 1. **L**
    - Alvo: PILAR;
    - Posição: Encoste na quina da parede do fundo;
@@ -490,6 +497,13 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 153.9854: [YouTube](https://youtu.be/aTCxlq47Zb0);
 
+1. **L**
+   - Alvo: ESCURO;
+   - Posição: Posicione-se no canto do muro;
+   - Mira: Mire em uma marcação na base da quina do grande quadrado da B;
+   - Execução: Jumpthrow longo;
+   - Ref. 153.9155: [YouTube](https://youtu.be/9aLg-qwzQKw);
+
 1. **LIGAÇÃO (DONUTS)**
    - Alvo: ENTRADA DA LIGAÇÃO; SEM SAÍDA;
    - Posição: Na parede oposta à entrada da ligação;
@@ -535,6 +549,14 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
 
 ## High explosive (HE)
 Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**Flash**](#flash)   
+
+
+1. **CT DA B**
+   - Alvo: BANANA;
+   - Posição: Posicione-se próximo a quina da parede próximo a entrada do escuro;
+   - Mira: Mire na quina da construção ao fundo, à esquerda de uma grande árvore;
+   - Execução: Arremesso longo;
+   - Ref. 154.7829: [YouTube](https://youtu.be/T-NWcSkU1TY);
 
 
 ## Referências
