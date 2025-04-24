@@ -282,12 +282,47 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Corra até chegar próximo a escada + Arremesso longo;
    - Ref. 113.7001: [YouTube](https://youtu.be/Yofehxb_uUM)
 
+1. **BOMB A**
+   - Alvo: LIGA TR;
+   - Posição: Posicione-se próximo a quina direita e ao fundo do vagão amarelo do bomb A;
+   - Mira: Localize um retângulo no alto da parede que fica acima da janela na saída da Liga TR. Mira na parte inferior desse retângulo;
+   - Execução: Arremesso longo;
+   - Ref. 113.0587: [YouTube](https://youtu.be/kIKPYKLbBHs)
+
+1. **BOMB A**
+   - Alvo: SAÍDA DA LIGA TR;
+   - Posição: Posicione-se próximo a quina direita e ao fundo do vagão amarelo do bomb A;
+   - Mira: Mire rente ao topo da janela e à esquerda da figura da pessoa na parede;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 113.9376: [YouTube](https://youtu.be/NKj4_nCJ9n4)
+
+1. **GUARITA**
+   - Alvo: LIGA TR;
+   - Posição: Posicione-se em frente a caixa;
+   - Mira: Mire na altura do joelho da perna direita do figura pintada na parede;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 113.1818: [YouTube](https://youtu.be/ckQebsBUG5E)
+
 1. **LIGA CT**
    - Alvo: LIGA TR;
    - Posição: Pare entre as marcações do portão de metal ao lado do vagão amarelo do bomb A e próximo ao céu;
    - Mira: Mire um pouco à direita do rebite inferior direito do vagão amarelo do bomb A;
    - Execução: Jumpthrow longo;
    - Ref. 113.2670: [YouTube](https://youtu.be/hZ1TiCf2xUs)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR; OLOF;
+   - Posição: Posicione-se próximo a quina da parede na região interna da Liga CT;
+   - Mira: Mire na região da roda do vagão amarelo do bomb A;
+   - Execução: Jumpthrow longo;
+   - Ref. 113.3700: [YouTube](https://youtu.be/52BJdqP7JGk)
+
+1. **LIGA CT**
+   - Alvo: LIGA TR; OLOF;
+   - Posição: Posicione-se próximo a quina da parede na região interna da Liga CT;
+   - Mira: Mire na marcação horizontal da parede rente ao motor sobre o vagão do bomb A;
+   - Execução: Arremesso longo;
+   - Ref. 113.7923: [YouTube](https://youtu.be/EozccQPgmR4)
 
 1. **LIGA CT**
    - Alvo: LIGA TR;
