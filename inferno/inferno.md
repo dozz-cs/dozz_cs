@@ -21,7 +21,7 @@ hyperrefoptions:
 - pdfwindowui
 ---
 
-# INFERNO (+120 utilitárias)
+# INFERNO (+135 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
 
