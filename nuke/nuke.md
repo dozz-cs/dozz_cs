@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# NUKE (+80 utilitárias)
+# NUKE (+85 utilitárias)
 
 ## Smoke
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
