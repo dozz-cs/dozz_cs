@@ -21,7 +21,7 @@ hyperrefoptions:
 - pdfwindowui
 ---
 
-# ANUBIS (+120 utilitárias)
+# ANUBIS (+125 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.pdf)
 
