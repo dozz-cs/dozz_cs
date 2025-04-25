@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# TRAIN (+40 utilitárias)
+# TRAIN (+55 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/train/train.pdf)
 
@@ -100,11 +100,11 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 111.9035: [YouTube](https://youtu.be/nsUz38fgYzQ)
 
 1. **LIGA CT**
-   - Alvo: LIGA TR;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Jumpthrow longo;
-   - Ref. 111.2670: [YouTube](link)
+   - Alvo: ESCADA DO SERVIDOR;
+   - Posição: Posicione-se em frente as caixas no interior da Liga CT com a numeração verde 8790;
+   - Mira: Mire na marcação horizontal na parede e alinhado o lado direito da janela na parte superior;
+   - Execução: Quebre o vidro. Jumpthrow longo;
+   - Ref. 111.2670: [YouTube](https://youtu.be/h3hmavKbZ7M)
 
 1. **FUNDO TR**
    - Alvo: MEIO A;
@@ -180,12 +180,12 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Arremesso longo;
    - Ref. 112.5099: [YouTube](https://youtu.be/2qWmcyVgblM)
 
-1. **LIGA CT** (Gravar)
-   - Alvo: LIGA TR;
-   - Posição: ;
-   - Mira: ;
-   - Execução: Jumpthrow longo;
-   - Ref. 112.2670: [YouTube](link)
+1. **LIGA CT**
+   - Alvo: ESCADA DO SERVIDOR;
+   - Posição: Posicione-se próximo a quina das chapas de metal à esquerda;
+   - Mira: Mire na marcação horizontal na parede e alinhado o lado direito da janela na parte superior;
+   - Execução: Não quebre o vidro. Ande ligeiramente para a frente + Jumpthrow longo;
+   - Ref. 112.2670: [YouTube](https://youtu.be/Oc8RzQg07D4)
 
 1. **LIGA CT** (regravado)
    - Alvo: LIGA TR;
@@ -338,6 +338,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 113.4676: [YouTube](https://youtu.be/rW2m61M2130)
 
+1. **LIGA CT**
+   - Alvo: FUNDO TR; CORREDOR DO FUNDO;
+   - Posição: Posicione-se na quina do portão da saída da liga CT;
+   - Mira: Alinhe a mira à direita da quina parede na região do Forest. Agache e mire no topo da porta;
+   - Execução: Mantenha-se agachado + Jumpthrow longo;
+   - Ref. 113.3209: [YouTube](https://youtu.be/q9w5_XQw7tA)
+
 1. **LIGA TR**
    - Alvo: MEIO A; BOMB A;
    - Posição: Posicione-se na quina da parede no interior da liga TR;
@@ -380,9 +387,23 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Jumpthrow médio;
    - Ref. 113.8631: [YouTube](https://youtu.be/Zk3kTxzAXzo)
 
+1. **RUA**
+   - Alvo: PLATAFORMA; BANANA; BURACO;
+   - Posição: Posicione-se ao lado de uma chapa de aço tripla encostada na parede;
+   - Mira: Mire à direita e na altura do centro do número 3 pintado na porta;
+   - Execução: Jumpthrow longo;
+   - Ref. 113.8610: [YouTube](https://youtu.be/sW6_6sCA6Zg)
+
 ## High Explosive (HE)
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
+
+1. **AZUL**
+   - Alvo: PLATAFORMA;
+   - Posição: Suba no teto do vagão azul e posicionando-se na parte traseira;
+   - Mira: Mire em uma marcação na parte central e superior da porta de madeira;
+   - Execução: Jumpthrow longo;
+   - Ref. 114.2035: [YouTube](https://youtu.be/ZWmu3p9lz_U)
 
 1. **CAMINHO DA MORTE**
    - Alvo: B BAIXO;
