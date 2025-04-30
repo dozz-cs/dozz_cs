@@ -100,6 +100,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 131.5629: [YouTube](https://youtu.be/CbVUCljo8NU)
 
 1. **BASE TR**
+   - Alvo: JANELÃO;
+   - Posição: Encoste no canto da parede com a pequena escada;
+   - Mira: Localize a segunda decoração, da esquerda para a direita, no interior do tapete;
+   - Execução: Jumpthrow longo;
+   - Ref. 131.6492: [YouTube](https://youtu.be/x2Pz56QzhwE)
+
+1. **BASE TR**
    - Alvo: PASSAGEM EDWARD;
    - Posição: Encostado na frente da lixeira;
    - Mira: Mire na ponta da folha central no topo da construção;
@@ -627,16 +634,23 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **VAN**
    - Alvo: PORTA DO MERCADO;
    - Posição: Encoste no canto do barril com a parede, atrás da van;
-   - Mira: Mire a direita de uma região horizontal de ferrugem. Desça a mira até a marcação horizontal da lataria;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.9122: [YouTube](https://youtu.be/s0ekRlPff7s)
+   - Mira: Localize à direita, na construção, uma marcação horizontal da base da janela. Você terá uma visão lateral dessa marcação;
+   - Execução: Arremesso longo;
+   - Ref. 131.9122: [YouTube](https://youtu.be/nKzpF-u2L9c)
 
 1. **VAN**
    - Alvo: JANELA DO MERCADO;
-   - Posição: Encoste em qualquer posição na parede do fundo atrás da van;
-   - Mira: Mire em uma linha de marcação horizontal na lataria da van. Alinhe a mira no centro da janela dupla;
-   - Execução: Jumpthrow médio;
-   - Ref. 131.2677: [YouTube](https://youtu.be/Ptmi8iuJnOk)
+   - Posição: Encoste no canto do barril com a parede, atrás da van;
+   - Mira: Localize duas marcações no beiral da construção vermelha logo acima da janela do mercado;
+   - Execução: Arremesso longo;
+   - Ref. 131.2677: [YouTube](https://youtu.be/zTEEvQy9U8U)
+
+1. **VAN**
+   - Alvo: PASSAGEM EDWARD;
+   - Posição: Encoste no canto do barril com a parede, atrás da van;
+   - Mira: Mire na ponta direita da torre ao fundo;
+   - Execução: Arremesso longo;
+   - Ref. 131.8902: [YouTube](https://youtu.be/fDRJI3bQfoo)
 
 ## Molotov
 
