@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# DUST 2 (+85 utilitárias)
+# DUST 2 (+95 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/dust2/dust2.pdf)
 
@@ -63,6 +63,20 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire entre a quina da parede e a haste da antena tipo espinha de peixe, ligeiramente abaixo do topo do telhado;
    - Execução: Jumpthrow longo;
    - Ref. 101.0023: [YouTube](https://youtu.be/B4Z5i_gJiMo);
+
+1. **BASE TR (1/2)**
+   - Alvo: JANELA/BURACO;
+   - Posição: Encoste no canto da parede com o carro. Posicione a mira no canto inferior direito do elemento vazado. Ande para o lado sem mexer a mira até visualizar o aparelho de ar-condicionado;
+   - Mira: Mire no topo do ar condicionado;
+   - Execução: Ande para a frente (shift) até a mira chegar no topo da construção + Jumpthrow longo;
+   - Ref. 101.7645: [YouTube](https://youtu.be/hOLVJ5doFSI);
+
+1. **BASE TR (2/2)**
+   - Alvo: PORTA DA B;
+   - Posição: Encoste no canto da parede com o carro. Posicione a mira no canto inferior direito do elemento vazado. Ande para o lado sem mexer a mira até visualizar o aparelho de ar-condicionado;
+   - Mira: Mire no topo do ar condicionado;
+   - Execução: Corra para a frente até a mira chegar no topo da construção + Jumpthrow longo;
+   - Ref. 101.7646: [YouTube](https://youtu.be/hOLVJ5doFSI);
 
 1. **BASE TR**
    - Alvo: PORTA DO MEIO;
@@ -119,6 +133,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Localize o quebra-sol no topo da construção. Mire no lado direito da fresta esquerda do quebra-sol;
    - Execução: Jumpthrow longo;
    - Ref. 101.6339: [YouTube](https://youtu.be/JkHOddz4kwU);
+
+1. **BOMB B**
+   - Alvo: TÚNEL DO ESCURO ALTO;
+   - Posição: Posicione-se no canto do bomb B próximo a rampa do bomb;
+   - Mira: Mire na ponta do caibro no alto da construção amarela;
+   - Execução: Ande para a frente + Jumpthrow longo;
+   - Ref. 101.8306: [YouTube](https://youtu.be/3gDOVQtVmtE);
 
 1. **BUNKER**
    - Alvo: RAMPA DA BASE CT;
@@ -260,6 +281,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.7453: [YouTube](https://youtu.be/RnTxIVTR4gU);
 
+1. **FUNDO TR**
+   - Alvo: XBOX;
+   - Posição: Encoste no canto chanfrado na passagem para o meio. Pare em frente a uma mancha na parede;
+   - Mira: Localize o quebra-sol na parede superior do meio. Mire à direita e alinhado com o quebra-sol;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 101.1449: [YouTube](https://youtu.be/x7aOR07iIMs);
+
 1. **FUNDO (1/2)**
    - Alvo: PORTA DA B;
    - Posição: Encoste no canto direito do barril com a parede da caverna;
@@ -357,6 +385,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire no topo da construção, junção dos elementos vazados com a parede bege;
    - Execução: Jumpthrow longo;
    - Ref. 101.5662: [YouTube](https://youtu.be/A7XXTRWiyvw);
+
+1. **RAMPA CT**
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se no canto da parede na região do elevador;
+   - Mira: Mire no tubo de ventilação na parede lateral da construção;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.5836: [YouTube](https://youtu.be/RFmxK0lqoJ4);
 
 1. **RAMPA CT**
    - Alvo: FUNDO DA CAVERNA;
