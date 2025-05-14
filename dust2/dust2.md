@@ -36,6 +36,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 101.8774: [YouTube](https://youtu.be/KYaQ1bo62wQ);
 
+1. **AZUL**
+   - Alvo: RAMPA DA BASE CT;
+   - Posição: Posicione-se no canto do azul com a caixa baixa;
+   - Mira: Mire na caixa na tubulação de energia elétrica;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.9347: [YouTube](https://youtu.be/h253fwn2j3Y);
+
 1. **AZUL, FRENTE DO**
    - Alvo: ESCADA DA VARANDA;
    - Posição: Encoste no canto da porta esquerda na saída da caverna;
@@ -70,6 +77,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire no canto superior esquerdo da caixa cinza na parede da região do caminho da morte;
    - Execução: Jumpthrow longo;
    - Ref. 101.8755: [YouTube](https://youtu.be/rl1Sa2bJDLw);
+
+1. **BASE TR**
+   - Alvo: PORTA DO MEIO;
+   - Posição: Posicione-se na divisória da mureta próximo ao caminho da morte;
+   - Mira: Mire em uma tênue mancha na parede próximo à quina esquerda;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.1238: [YouTube](https://youtu.be/rhx7Ioq5lYg);
 
 1. **BASE TR**
    - Alvo: XBOX;
@@ -261,6 +275,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 101.6733: [YouTube](https://youtu.be/6pRODjfpIKQ);
 
 1. **FUNDO**
+   - Alvo: VARANDA;
+   - Posição: Encoste no canto da parede à esquerda da saída da caverna com o muro;
+   - Mira: Mire na ponta do suporte em forma de arco da luminária no alto;
+   - Execução: W + Jumpthrow médio;
+   - Ref. 101.8700: [YouTube](https://youtu.be/NLO7nVdIFTA);
+
+1. **FUNDO**
    - Alvo: RAMPA DA BASE CT;
    - Posição: Encoste no barril azul ao lado da porta da saída da caverna;
    - Mira: Mire na ponta da sombra da luminária no asfalto;
@@ -446,6 +467,13 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: W + Jumpthrow longo;
    - Ref. 102.2755: [YouTube](https://youtu.be/XCcp-RepMis);
 
+1. **ESCURO ALTO**
+   - Alvo: ESQUERDINHA;
+   - Posição: Posicione-se na quina da parede na região da coluna do escuro alto;
+   - Mira: Mire em um destaque no arco na saída do túnel;
+   - Execução: Arremesso longo;
+   - Ref. 102.0782: [YouTube](https://youtu.be/JBLVH3FMQdM);
+
 1. **ESCURO BAIXO**
    - Alvo: PORTA DO MEIO;
    - Posição: Encoste no canto da parede direita com a caixa;
@@ -459,6 +487,13 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Mira: Localize um mancha escura no topo da abertura de saída em forma de arco. Mire na extremidade esquerda da mancha;
    - Execução: Agache + Arremesso médio;
    - Ref. 102.2380: [YouTube](https://youtu.be/54ZFZqgpITw);
+
+1. **FUNDO**
+   - Alvo: BOMB A;
+   - Posição: Posicione-se em frente ao desenho da xícara de café na porta pantográfica em frente a entrada para o bunker;
+   - Mira: Mire no relógio ao lado da porta de grade;
+   - Execução: Jumpthrow longo;
+   - Ref. 102.7293: [YouTube](https://youtu.be/OMRuhy1YUUM);
 
 1. **FUNDO, QUINA DO**
    - Alvo: MAROTE DO AZUL;
@@ -541,6 +576,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 103.6410: [YouTube](https://youtu.be/xTmHjCsvXl8);
 
+1. **ESCURO ALTO**
+   - Alvo: ESQUERDINHA; DIREITINHA; GRADE; BOMB B; ALTAR;
+   - Posição: Posicione-se na quina da parede do fundo que fica em frente ao túnel do escuro;
+   - Mira: Localize uma decoração à esquerda na saída do túnel. Mire na parede próximo a uma pequena mancha;
+   - Execução: Arremesso longo;
+   - Ref. 103.5692: [YouTube](https://youtu.be/RocMFAD2zNM);
+
 1. **FUNDO, QUINA DO**
    - Alvo: SAÍDA DA CAVERNA;
    - Posição: Posicione-se na região da porta pantográfica;
@@ -589,6 +631,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Mira: Mire na região de uma mancha horizontal alinhado com a janela semi-aberta;
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 103.2309: [YouTube](https://youtu.be/PHGn4LpJ2T8);
+
+1. **MEIO  CT**
+   - Alvo: ESCURO BAIXO;
+   - Posição: Posicione-se no canto da parede no nicho do lado esquerdo e próximo a porta dupla;
+   - Mira: Mire no lado direito de uma falha de tijolos na quina do nicho;
+   - Execução: Jumpthrow longo;
+   - Ref. 103.2586: [YouTube](https://youtu.be/CKn_u3ZiVHs);
 
 1. **NEWBA**
    - Alvo: VARANDA; RAMPA CT; CAIXA BRANCA; FUNDO;
