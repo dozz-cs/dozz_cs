@@ -44,6 +44,20 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 111.2845: [YouTube](https://youtu.be/lD1dMMfvmSU)
 
 1. **BASE TR**
+   - Alvo: MEIO A;
+   - Posição: Posicione-se no segundo poste amarelo próximo a saída da base TR e em frente a uma inscrição "358 5" na lateral do trem;
+   - Mira: Mire na ponta do sarrafo na ponta do telhado da estação de trem;
+   - Execução: Jumpthrow longo;
+   - Ref. 111.8463: [YouTube](https://youtu.be/Vj2gAO4Nlh8)
+
+1. **BASE TR**
+   - Alvo: LIGA CT;
+   - Posição: Posicione-se no segundo poste amarelo próximo a saída da base TR e em frente a uma inscrição "358 5" na lateral do trem;
+   - Mira: Mire na ponta da terceira ripa de madeira a partir da ponta do telhado da estação de trem;
+   - Execução: Jumpthrow longo;
+   - Ref. 111.4027: [YouTube](https://youtu.be/ZVeLz5yZ3Ho)
+
+1. **BASE TR**
    - Alvo: LIGA CT;
    - Posição: Localize a porta do penúltimo vagão acessível na base TR. Pare no canto do poste baixo amarelo com o vagão;
    - Mira: Mire à esquerda e abaixo de uma tênue mancha escura na viga de madeira do lado esquerdo do relógio;
@@ -228,6 +242,13 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira: Mire na junção da viga de ferro à esquerda;
    - Execução: Arremesso longo;
    - Ref. 112.7826: [YouTube](https://youtu.be/ZW1EYaRGL3I)
+
+1. **LIGA TR**
+   - Alvo: ENTRADA PARA O BOMBEIRO;
+   - Posição: Posicione-se em frente a placa cinza próximo ao canto da parede no interior da Liga TR;
+   - Mira: Mire na junção do sarrafo com a viga de madeira próximo a quina da parede;
+   - Execução: Agache + Arremesso longo;
+   - Ref. 112.4290: [YouTube](https://youtu.be/92-EF4mxXCo)
 
 1. **PLATAFORMA**
    - Alvo: LIGA CT;
@@ -439,6 +460,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Localize a caixa de madeira superior. Mire no meio da ripa de madeira inferior e alinhado com a cinta metálica direita;
    - Execução: Jumpthrow longo;
    - Ref. 114.8734: [YouTube](https://youtu.be/Ccjz2Qok1AU)
+
+1. **LIGA TR**
+   - Alvo: GELADEIRA;
+   - Posição: Posicione-se próximo ao canto da parede no interior da Liga TR;
+   - Mira: Mire no topo da pequena abertura entre o vagão e a parede;
+   - Execução: Arremesso longo;
+   - Ref. 114.4004: [YouTube](https://youtu.be/QTgFUX8GmqU)
 
 1. **LIGA TR**
    - Alvo: ENTRADA PARA O BOMBEIRO;
