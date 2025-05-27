@@ -113,6 +113,27 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 111.9035: [YouTube](https://youtu.be/nsUz38fgYzQ)
 
+1. **FUNDO TR**
+   - Alvo: MEIO A;
+   - Posição: Posicione-se na quina da lixeira do fundo. Alinhe o batente da porta com o canto esquerdo da segunda janela no corredor do fundo;
+   - Mira: Mire na marcação horizontal entre a corrente pendurada e o batente da porta;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 111.4563: [YouTube](https://youtu.be/wAfRvITU5ds)
+
+1. **GUARITA**
+   - Alvo: LIGA TR;
+   - Posição: Posicione-se em frente a caixa (guarita). Alinhe a quina da caixa com a quina da geladeira;
+   - Mira: Mire próximo ao canto inferior direito da janela superior acima da liga TR;
+   - Execução: Arremesso longo;
+   - Ref. 111.4672: [YouTube](https://youtu.be/RlgLiRvorMY)
+
+1. **LIXÃO**
+   - Alvo: LIGA CT;
+   - Posição: Posicione-se no canto da lixeira verde com a amarela. Não suba na lixeira;
+   - Mira: Localize a junção da marcação horizontal com a vertical da lixeira amarela. Mire na região de uma tênue mancha de desgaste da pintura;
+   - Execução: Jumpthrow longo;
+   - Ref. 111.8201: [YouTube](https://youtu.be/e5s5RwlXTr0)
+
 1. **LIGA CT**
    - Alvo: ESCADA DO SERVIDOR;
    - Posição: Posicione-se em frente as caixas no interior da Liga CT com a numeração verde 8790;
@@ -120,12 +141,12 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Quebre o vidro. Jumpthrow longo;
    - Ref. 111.2670: [YouTube](https://youtu.be/h3hmavKbZ7M)
 
-1. **FUNDO TR**
-   - Alvo: MEIO A;
-   - Posição: Posicione-se na quina da lixeira do fundo. Alinhe o batente da porta com o canto esquerdo da segunda janela no corredor do fundo;
-   - Mira: Mire na marcação horizontal entre a corrente pendurada e o batente da porta;
-   - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 111.4563: [YouTube](https://youtu.be/wAfRvITU5ds)
+1. **PLATAFORMA**
+   - Alvo: RUA;
+   - Posição: Posicione-se no canto da coluna com a plataforma em frente ao B baixo.;
+   - Mira: Mire na parte superior do para-choque listrado do trem;
+   - Execução: Arremesso longo;
+   - Ref. 111.2057: [YouTube](https://youtu.be/G1J1Mzm5Y8Y)
 
 1. **PLATAFORMA**
    - Alvo: AZUL;
@@ -317,6 +338,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 113.9376: [YouTube](https://youtu.be/NKj4_nCJ9n4)
 
+1. **FUNDO CT**
+   - Alvo: CORREDOR FUNDO; FUNDO TR;
+   - Posição: Posicione-se no canto do container com a porta aberta;
+   - Mira: Mire um uma tênue mancha na região inferior da quina do container vermelho;
+   - Execução: Jumpthrow curto;
+   - Ref. 113.2241: [YouTube](https://youtu.be/dnu8ZZ6TkM4)
+
 1. **GUARITA**
    - Alvo: LIGA TR;
    - Posição: Posicione-se em frente a caixa;
@@ -387,13 +415,6 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Arremesso longo;
    - Ref. 113.4022: [YouTube](https://youtu.be/m-14oKYOlYg)
 
-1. **TRILHOS**
-   - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
-   - Posição: Pare em frente a lanterna do trem;
-   - Mira: Alinhe a mira com o lado direito de uma mancha escura na parede. Mire um pouco acima da altura da lixeira;
-   - Execução: Jumpthrow longo;
-   - Ref. 113.3522: [YouTube](https://youtu.be/o2tp_WvAO_A)
-
 1. **PLATAFORMA**
    - Alvo: AZUL; LIGA CT; MEGA RAMPA;
    - Posição: Pare em frente a viga de madeira próximo ao centro da região da plataforma;
@@ -415,6 +436,20 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Jumpthrow longo;
    - Ref. 113.8610: [YouTube](https://youtu.be/sW6_6sCA6Zg)
 
+1. **SANDUÍCHE**
+   - Alvo: BOMBEIRO;
+   - Posição: Posicione-se na quina do vagão vermelho. Alinhe a quina do vagão com a quina da geladeira;
+   - Mira: Mire no topo direito da porta do bombeiro;
+   - Execução: Arremesso longo;
+   - Ref. 113.0932: [YouTube](https://youtu.be/OO6tQ2gbpXQ)
+
+1. **TRILHOS**
+   - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
+   - Posição: Pare em frente a lanterna do trem;
+   - Mira: Alinhe a mira com o lado direito de uma mancha escura na parede. Mire um pouco acima da altura da lixeira;
+   - Execução: Jumpthrow longo;
+   - Ref. 113.3522: [YouTube](https://youtu.be/o2tp_WvAO_A)
+
 ## High Explosive (HE)
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
@@ -425,6 +460,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire em uma marcação na parte central e superior da porta de madeira;
    - Execução: Jumpthrow longo;
    - Ref. 114.2035: [YouTube](https://youtu.be/ZWmu3p9lz_U)
+
+1. **BOMB A**
+   - Alvo: LIGA TR;
+   - Posição: Posicione-se no canto de uma coluna de ferro no canto da parede próximo a liga CT;
+   - Mira: Mire no chão um pouco a esquerda da geladeira. Alinhe a mira com vão entre o vagão e teto na liga TR;
+   - Execução: Jumpthrow longo;
+   - Ref. 114.9701: [YouTube](link)
 
 1. **CAMINHO DA MORTE**
    - Alvo: B BAIXO;
