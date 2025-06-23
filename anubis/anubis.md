@@ -537,6 +537,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo;
    - Ref. 142.0928: [YouTube](https://youtu.be/CrlcqOVvdx0)
 
+1. **CÉU**
+   - Alvo: REDONDO;
+   - Posição: Encoste no canto da coluna redonda com a parede;
+   - Mira: Mire no parafuso saliente do andaime;
+   - Execução: Arremesso longo;
+   - Ref. 142.7328: [YouTube](https://youtu.be/SxTWUP6IgfQ)
+
 1. **ESQUINA**
    - Alvo: PORTAS;
    - Posição: Pare na quina da mesa, próximo ao acesso a ponte;
@@ -649,12 +656,19 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande para a frente + Jumpthrow;
    - Ref. 142.5423: [YouTube](https://youtu.be/x15L8nJuyI0)
 
-1. **RATO**
+1. **RATO** (RETIRAR)
    - Alvo: ESCURO;
    - Posição: Suba na escada e pare em frente a porta. Alinhe o lado esquerdo do topo cúbico do pilar com lado esquerdo da porta;
    - Mira: Alinhe a mira com a linha azul do desenho a direita do pilar. Mire no topo da coluna, na região cúbica;
    - Execução: Corra para a frente + Arremesso longo;
    - Ref. 142.5437: [YouTube](https://youtu.be/ufoJ7kCXFV0)
+
+1. **RATO**
+   - Alvo: ESCURO;
+   - Posição: Posicione-se próximo ao canto superior da escada. Alinhe a quina superior esquerda da coluna com a lateral esquerda da porta;
+   - Mira: Localize a linha horizontal inferior na coluna. Mire em uma pequena rachadura na coluna localizada à direita;
+   - Execução: Ande para a frente + Jumpthrow longo;
+   - Ref. 142.2310: [YouTube](https://youtu.be/TveB3WL4yeU)
 
 1. **TETRIS**
    - Alvo: CÉU;
@@ -922,6 +936,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire no chão, alinhado próximo ao centro da janela;
    - Execução: Ande para a frente + Jumpthrow;
    - Ref. 144.4836: [YouTube](https://youtu.be/1WBA6eLCwpw)
+
+1. **RATO**
+   - Alvo: ESCURO;
+   - Posição: Posicione-se próximo ao canto superior da escada. Alinhe a quina superior esquerda da coluna com a lateral esquerda da porta;
+   - Mira: Localize a linha horizontal inferior na coluna. Mire em uma pequena rachadura na coluna localizada à direita;
+   - Execução: Ande para a frente + Jumpthrow longo;
+   - Ref. 144.2310: [YouTube](https://youtu.be/bO0isken2rI)
 
 ## Referências
 
