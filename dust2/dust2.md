@@ -145,7 +145,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: RAMPA DA BASE CT;
    - Posição: Encoste no lado direito do fundo do bunker;
    - Mira: Mire em na parte debaixo de uma mancha no chão alinhado com a primeira mancha na parede;
-   - Execução: W+Jumpthrow longo;
+   - Execução: W + Jumpthrow longo;
    - Ref. 101.0645: [YouTube](https://youtu.be/AoOCYwOcbtU);
 
 1. **BUNKER**
