@@ -201,13 +201,6 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Não quebre o vidro. Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 112.2670: [YouTube](https://youtu.be/Oc8RzQg07D4)
 
-1. **LIGA CT** (regravado)
-   - Alvo: LIGA TR;
-   - Posição: Posicione-se no meio do corredor da Liga CT. Alinhe a quina da parede com a quina do vagão do trem do bomb A.
-   - Mira: Mire na viga superior de metal acima da guarita;
-   - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 112.2548: [YouTube](https://youtu.be/rAr2cDaMSi8)
-
 1. **LIGA CT**
    - Alvo: OLOF;
    - Posição: Posicione-se em frente a caixa da guarita;
