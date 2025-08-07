@@ -31,70 +31,70 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Alvo: ESQUINA;
    - Posição: Encoste na quina à esquerda da escada;
    - Mira: Mire na divisão entre o primeiro e o segundo tijolo logo acima das pedras com pontos;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 151.8341: [YouTube](https://youtu.be/m6Lqq7OCM_o);
 
 1. **BASE CT**
    - Alvo: ESQUINA;
    - Posição: Encoste na quina à esquerda da escada;
    - Mira: Mire na divisão entre o segundo e o terceiro tijolo logo acima das pedras em formato de pontos;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 151.4768: [YouTube](https://youtu.be/uy11sijOT3s);
 
 1. **BASE CT**
    - Alvo: RAMPA;
    - Posição: Encoste na quina à esquerda da escada;
    - Mira: Mire na junção das pedras na região central da parede de pedras à esquerda;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 151.9045: [YouTube](https://youtu.be/I17xaYwZ3Q0);
 
 1. **BASE CT**
    - Alvo: BOCA DO FUNDO;
    - Posição: Encoste na quina à esquerda da escada;
    - Mira: Localize a placa amarela do bomb A, à direita. Mire na pedra em formato de ponto no canto superior esquerdo;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 151.0743: [YouTube](https://youtu.be/yCRy6bXNyX4);
 
 1. **BASE CT**
    - Alvo: VARANDA;
    - Posição: Encoste na quina à esquerda da escada;
    - Mira: Localize as pedras em formato de argola na parte superior. Mire acima dessas pedras, em uma tênue marcação nas pedras que formam uma marcação horizontal;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 151.2643: [YouTube](https://youtu.be/wZ1hDJUSNqo);
 
 1. **BASE TR**
    - Alvo: JANELÃO;
    - Posição: Posicione-se do lado direito, atrás da coluna da ponte. A ponta da primeira folha deve tocar a pedra em formato de arco;
    - Mira: Mire na ponta de baixo da segunda folhagem, de baixo para cima, do tipo costela de Adão;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 151.1744: [YouTube](https://youtu.be/F7qO_upeiA8);
 
 1. **BASE TR**
    - Alvo: JANELÃO;
    - Posição: Posicione-se no lado esquerdo da coluna da ponte, alinhe-se com a quina da coluna;
    - Mira: Mire na junção das pedras superiores esquerdas do arco da porta alinhado com a marcação horizontal à esquerda;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow longo;
    - Ref. 151.6498: [YouTube](https://youtu.be/6t9p1H95KCs);
 
 1. **BASE TR**
    - Alvo: ENTRADA DA LIGAÇÃO;
    - Posição: Posicione-se no canto da pedra com a parede esquerda da base TR
    - Mira: Mire no meio do retângulo escuro a frente e acima da decoração da parede;
-   - Execução: W + Jumpthrow;
+   - Execução: W + Jumpthrow longo;
    - Ref. 151.0235: [YouTube](https://youtu.be/hhEfS8QQuhY);
 
 1. **BASE TR**
    - Alvo: ENTRADA DO CHITA;
    - Posição: Posicione-se no lado esquerdo da coluna da ponte alinhado com uma junção das pedras;
    - Mira: Mire na extremidade esquerda da tábua mais larga da ponte, logo abaixo das folhas da árvore;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.1063: [YouTube](https://youtu.be/Fx3EqPQ-EeE);
 
 1. **BASE TR**
    - Alvo: ENTRADA DO CHITA;
    - Posição: Posicione-se no canto da pedra com a parede esquerda da base TR; 
    - Mira: Mire no topo da construção abaixo da árvore. Alinhe a mira com o meio da coluna no topo da construção;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.7320: [YouTube](https://youtu.be/8iLGYXp5qu0);
 
 1. **BANANA**
@@ -150,28 +150,28 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Alvo: PORTA;
    - Posição: Encoste na parede oposta a caixa do corredor;
    - Mire: Mire no lado direito da coluna no CT da B, na altura da marcação quebrada;
-   - Execução: Ande ligeiramente para a frente e Jumpthrow;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow  longo;
    - Ref. 151.9320: [YouTube](https://youtu.be/EGVchbYrR-o);
 
 1. **CORREDOR**
    - Alvo: ENTRADA DA LIGAÇÃO;
    - Posição: Próximo a saída da porta da caverna, encoste no canto da parede;
    - Mire: Mire na junção das pedras acima das pontas de madeira;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.9843: [YouTube](https://youtu.be/VPdB2iyXho8);
 
 1. **CORREDOR**
    - Alvo: BOCA DO FUNDO;
    - Posição: Posicione o pé esquerdo ao lado de uma pedra no chão na região iluminada pelo sol;
    - Mire: Mire na junção das pedras acima das pontas de madeira;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.8701: [YouTube](https://youtu.be/rz6DJKI5zrc);
 
 1. **CT DA B**
    - Alvo: PORTA;
    - Posição: Posicione-se na quina da parede à direita, perto da saída do escuro;
    - Mira: Mire na região da parede de pedra a esquerda da madeira azul do pilar na altura da segunda linha horizontal;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.4377: [YouTube](https://youtu.be/dwFST0fZtpE);
 
 1. **ESQUINA**
@@ -255,98 +255,98 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Alvo: CORREDOR;
    - Posição: Na porta esquerda, posicione-se em frente a uma marcação triangular;
    - Mira: Localize a pedra retangular acima da grande pedra quadrada. Mire próximo a parte de baixo e à direita de uma mancha difusa mais escura;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.8220: [YouTube](https://youtu.be/ISiuEd54TI4);
 
 1. **QUADRADO DA B**
    - Alvo: CT DA B;
    - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
    - Mira: Mire na mancha clara no meio e na parte superior da porta;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.9007: [YouTube](https://youtu.be/I_zliudzSLI);
 
 1. **QUADRADO DA B**
    - Alvo: CORREDOR;
    - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
    - Mira: Acima da porta, mire entre as decorações em forma de cone à direita e próxima do centro;
-   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow  longo;
    - Ref. 151.4308: [YouTube](https://youtu.be/voh1XOR9Wu0);
 
 1. **QUADRADO DA B**
    - Alvo: SOL;
    - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
    - Mira: Mire a direita da porta, na linha do topo, na parte superior da segunda pedra em formato de cone;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.9107: [YouTube](https://youtu.be/U1r16Uu89ms);
    
 1. **QUADRADO DA B**
    - Alvo: SOL;
    - Posição: Encoste no lado da caixa com o número 14;
    - Mira: Localize uma pedra quadrada entre as portas e à direita. Mire no canto inferior esquerdo dessa pedra quadrada;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.8743: [YouTube](https://youtu.be/tJbYmq_cLY0);
 
 1. **QUADRADO DA B**
    - Alvo: SAÍDA DO ESCURO;
    - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
    - Mira: Mire na pedra inferior em formato de argola, à esquerda da mancha clara no meio e na parte superior da porta;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.9417: [YouTube](https://youtu.be/MWFbEZDhEAU);
 
 1. **QUADRADO DO FUNDO**
    - Alvo: JANELÃO;
    - Posição: Encoste na parte de trás da quina esquerda do quadrado do fundo;
    - Mira: Mire no meio do caule de uma folhagem do tipo costela de Adão localizado à esquerda;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.7731: [YouTube](https://youtu.be/fyBDe62dixQ);
  
 1. **QUADRADO DO FUNDO**
    - Alvo: VARANDA;
    - Posição: No fundo, posicione-se em cima de uma samambaia em frente a uma pedra;
    - Mira: Mire no topo da janela, na região central, em uma pequena mancha escura;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.2066: [YouTube](https://youtu.be/4GPEhcbaHlM);
 
 1. **QUADRADO DO FUNDO**
    - Alvo: CT;
    - Posição: Posicione-se na quina da construção de acesso a base TR;
    - Mira: Mire ligeiramente à direita da quina do topo da construção ao fundo;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.3093: [YouTube](https://youtu.be/dmweYh2KItk);
 
 1. **RAMPA DO FUNDO (SMOKE 1/3)**
    - Alvo: CT;
    - Posição: Posicione-se no canto esquerdo da entrada da rampa do fundo;
    - Mira: Agache e mire na ponta da folha do tipo costela de Adão;
-   - Execução: Mantenha-se agachado + Jumpthrow;
+   - Execução: Mantenha-se agachado + Jumpthrow  longo;
    - Ref. 151.8632: [YouTube](https://youtu.be/I2ItKLmRyy8);
 
 1. **RAMPA DO FUNDO (SMOKE 2/3)**
    - Alvo: LIGAÇÃO;
    - Posição: Posicione-se no canto esquerdo da entrada da rampa do fundo;
    - Mira: No topo da construção, agache e mire entre as folhas finas, à esquerda, da planta no topo da construção;
-   - Execução: Mantenha-se agachado + w Jumpthrow;
+   - Execução: Mantenha-se agachado + w Jumpthrow  longo;
    - Ref. 151.5326: [YouTube](https://youtu.be/_9tDZCuSLlI);
 
 1. **RAMPA DO FUNDO (SMOKE 3/3)**
    - Alvo: TEMPLO;
    - Posição: Posicione-se no canto esquerdo da entrada da rampa do fundo;
    - Mira: Agache e mire na região marrom, na parte superior e à direita, da folha do tipo costela de Adão;
-   - Execução: Mantenha-se agachado + Jumpthrow;
+   - Execução: Mantenha-se agachado + Jumpthrow  longo;
    - Ref. 151.7498: [YouTube](https://youtu.be/xbyKqdZHF7c);
 
 1. **RAMPA DO FUNDO**
    - Alvo: LIGAÇÃO;
    - Posição: Posicione o pé esquerdo na quina esquerda da escada de acesso ao fundo;
    - Mira: No topo esquerdo da parede de elementos vazados, mire no meio do elemento vazado;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.0275: [YouTube](https://youtu.be/15YLLn0jh50);
 
 1. **TÚNEL, SAÍDA**
    - Alvo: ESCURO;
    - Posição: Antes de chegar no quadrado da B, posicione-se sobre a mureta em ruínas no lado esquerdo;
    - Mire: Mire no topo direito da construção de blocos, na altura de uma parede horizontal; 
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.0911: [YouTube](https://youtu.be/FhteJxHEZzI);
 
 1. **TÚNEL, SAÍDA**
@@ -360,7 +360,7 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Alvo: CT;
    - Posição: Posicione-se atrás do xbox;
    - Mire: Mire ligeiramente à direita da costura da lona na altura dos dois pontos pretos no topo da caixa; 
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 151.8452: [YouTube](https://youtu.be/VSynGMF8U0E);
 
 ## Molotov
@@ -398,7 +398,7 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Alvo: RAMPA;
    - Posição: Posicione-se no corredor até que a quina da parede se alinhe com o madeira da B;
    - Mira: Mire na pedra do chão, na coluna do centro da parede;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 152.7872: [YouTube](https://youtu.be/tR05yAW7O4E);
 
 1. **CT DA B**
@@ -440,7 +440,7 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Alvo: AREIA;
    - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
    - Mira: Alinhe a mira um pouco acima da decoração da porta. Mire no centro da pedra decorativa à esquerda da parede; 
-   - Execução: W + Jumpthrow;
+   - Execução: W + Jumpthrow  longo;
    - Ref. 152.2845: [YouTube](https://youtu.be/9DyYvLfCJ9I);
 
 1. **SOL**
@@ -466,14 +466,7 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Alvo: MEIO; COM SAÍDA; SEM SAÍDA; VARANDA; JANELÃO;
    - Posição: Pare próximo a quina da parede de passagem para o quadrado do fundo, ao lado da ponte; 
    - Mira: Mire no centro da parede lisa entre a árvore e a parede de pedras;
-   - Execução: Jumpthrow;
-   - Ref. 153.4390: [YouTube](https://youtu.be/1U5KYiJI-d0);
-
-1. **BASE TR**
-   - Alvo: MEIO; COM SAÍDA; SEM SAÍDA; VARANDA; JANELÃO;
-   - Posição: Pare próximo a quina da parede de passagem para o quadrado do fundo, ao lado da ponte; 
-   - Mira: Mire no centro da parede lisa entre a árvore e a parede de pedras;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 153.4390: [YouTube](https://youtu.be/1U5KYiJI-d0);
 
 1. **BOCA DO FUNDO**
@@ -515,21 +508,21 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Alvo: CT DA B; SOL; SOMBRA;
    - Posição: Na porta esquerda, posicione-se em frente a uma marcação triangular;
    - Mira: Alinhe a mira com uma marcação na junção superior esquerda da grande pedra quadrada. Mire um pouco abaixo dessa marcação;
-   - Execução: W + Jumpthrow;
+   - Execução: W + Jumpthrow  longo;
    - Ref. 153.1825: [YouTube](https://youtu.be/5nIWwiPzqt0);
 
 1. **QUADRADO DA B**
    - Alvo: SOL; SOMBRA; CT DA B; CORREDOR;
    - Posição: Encoste no canto do fundo em cima das pedras, atrás da caixa;
    - Mira: Localize a porta esquerda. Mire na região das dobradiças, acima da decoração central da porta;
-   - Execução: Ande ligeiramente para a frente + Jumpthrow;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow  longo;
    - Ref. 153.9643: [YouTube](https://youtu.be/STItdjwAu8s);
 
 1. **QUADRADO DA B**
    - Alvo: SOL; SOMBRA; PILAR; AREIA;
    - Posição: Encoste no lado da caixa com o número 14;
    - Mira: Mire no canto superior direto da placa azul de indicação do bomb B;
-   - Execução: Jumpthrow;
+   - Execução: Jumpthrow  longo;
    - Ref. 153.7623: [YouTube](https://youtu.be/zEAGIyFWKwQ);
 
 1. **QUADRADO DO FUNDO**
