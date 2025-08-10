@@ -442,6 +442,20 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 101.7634: [YouTube](https://youtu.be/RsqvhKQ-mG8);
 
+1. **VARANDA (1/2)**
+   - Alvo: VARANDA e CT;
+   - Posição: Posicione-se em frente a uma pequena mancha localizada à esquerda da marcação horizontal na região da lateral da escada da varanda;
+   - Mira: Agache e mire na ponta do quebra-sol localizado no alto da construção;
+   - Execução: Levante-se + Arremesso longo;
+   - Ref. 101.2274: [YouTube](https://youtu.be/-1fwobPyHGY);
+
+1. **VARANDA (2/2)**
+   - Alvo: VARANDA e CT;
+   - Posição: Posicione-se em frente a uma pequena mancha localizada à esquerda da marcação horizontal na região da lateral da escada da varanda;
+   - Mira: Agache e mire na região da mancha na lateral esquerda inferior da janela;
+   - Execução: Mantenha-se agachado + Arremesso longo;
+   - Ref. 101.2275: [YouTube](https://youtu.be/-1fwobPyHGY);
+
 1. **VARANDA**
    - Alvo: BASE CT;
    - Posição: Posicione-se no canto da caixa baixa da varanda com a parede;
@@ -488,12 +502,26 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Jumpthrow longo;
    - Ref. 102.0312: [YouTube](https://youtu.be/qqFGRA0zNSg);
 
+1. **AZUL, FRENTE DO**
+   - Alvo: VARANDA;
+   - Posição: Encoste no canto do barril com a parede;
+   - Mira: Localize o canto da parede logo acima do muro. Mire ligeiramente à esquerda e entre o topo do muro e a marcação horizontal;
+   - Execução: Jumpthrow longo;
+   - Ref. 102.8699: [YouTube](https://youtu.be/IT02QfanKxA);
+
 1. **ALTAR DO BUNKER**
    - Alvo: BOMB A;
    - Posição: Pare no topo da escada encostado com o muro;
    - Mira: Mire no lado esquerdo da falha na parede;
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 102.7643: [YouTube](https://youtu.be/1VVLiPWqVqA);
+
+1. **ALTAR DO BUNKER**
+   - Alvo: BOMB A;
+   - Posição: Pare no topo da escada encostado com o muro;
+   - Mira: Mire em uma mancha na parede localizada próxima a tubulação de eletricidade;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
+   - Ref. 102.1830: [YouTube](https://youtu.be/r91yIufkyyU);
 
 1. **CAMINHO DA MORTE**
    - Alvo: PORTA DO MEIO;
@@ -522,6 +550,13 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Mira: Mire em um destaque no arco na saída do túnel;
    - Execução: Arremesso longo;
    - Ref. 102.0782: [YouTube](https://youtu.be/JBLVH3FMQdM);
+
+1. **ESCURO ALTO**
+   - Alvo: ESQUERDINHA;
+   - Posição: Posicione-se no canto da parede ao lado da coluna na parede da porta;
+   - Mira: Localize a região da seta azul na caixa inferior. Mire ligeiramente acima da tênue letra R;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 102.3821: [YouTube](https://youtu.be/Vm52fSjHFb4);
 
 1. **ESCURO BAIXO**
    - Alvo: PORTA DO MEIO;
@@ -722,6 +757,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Mira: Mire na lateral da ponta da coluna no topo da construção;
    - Execução: Arremesso longo;
    - Ref. 103.8922: [YouTube](https://youtu.be/mMonrfuEPQQ);
+
+1. **RAMPA DA B, CAIXA DA**
+   - Alvo: BOMB B; CARRO; DIREITINHA; FUNDO DO BOMB; ALTAR DO FUNDO;
+   - Posição: Posicione-se no canto das caixas próximo a porta do bomb B;
+   - Mira: Mire na junção da lateral direita da alça com a quina da caixa;
+   - Execução: Jumpthrow médio;
+   - Ref. 103.1414: [YouTube](https://youtu.be/b-uE1H2ho_4);
 
 1. **RAMPA CT**
    - Alvo: FUNDO;
