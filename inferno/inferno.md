@@ -82,7 +82,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 <a name="s-banana"></a>
 
-1. **BANANA**
+1. **BANANA** (REFAZER)
    - Alvo: PEZINHO CT;
    - Posição: Posicione-se em frente ao carrinho de cargas vermelho próximo aos barris;
    - Mira: Alinhe a mira com a quina da torre da igreja. Levante a mira na altura do arco.
@@ -124,21 +124,21 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.7632: [YouTube](https://youtu.be/9UWWYLjSvjc)
 
-1. **BANANA**
+1. **BANANA** (Obsoleto devido a atualização do CS2)
    - Alvo: CAIXÃO;
    - Posição: Encoste em frente a placa cinza ao lado da placa GAS;
    - Mira: Mire na mancha escura próximo a quina esquerda do madeirite;
    - Execução: Jumpthrow longo;
    - Ref. 121.8521: [YouTube](https://youtu.be/orAIC0mroO8)
 
-1. **BANANA**
+1. **BANANA** (Obsoleto devido a atualização do CS2)
    - Alvo: CAIXÃO;
    - Posição: Encoste na pequena parede atrás do muro do carro;
    - Mira: Ache e mire na lâmpada do topo, alinhado com a escada no telhado;
    - Execução: Mantenha-se agachado + Arremesso longo;
    - Ref. 121.1244: [YouTube](https://youtu.be/x6rnl5iPaPA)
 
-1. **BANANA**
+1. **BANANA** (Obsoleto devido a atualização do CS2)
    - Alvo: CAIXÃO;
    - Posição: Encoste na pequena parede atrás do muro do carro;
    - Mira: Mire na ponta de ferro central do andaime;
