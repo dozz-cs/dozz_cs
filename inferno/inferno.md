@@ -21,13 +21,15 @@ hyperrefoptions:
 - pdfwindowui
 ---
 
-# INFERNO (+135 utilitárias)
+# INFERNO (+136 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
 
 ## Smokes
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+
+Ir para: [**Banana**](#banana)
 
 1. **ARCO**
    - Alvo: VARANDA; HEAD SHOT;
@@ -70,6 +72,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na quina direita do telhado da construção branca;
    - Execução: Jumpthrow longo;
    - Ref. 121.7401: [YouTube](https://youtu.be/Mz7STU_3-xg)
+
+<a name="banana"></a>
 
 1. **BANANA**
    - Alvo: PEZINHO CT;
