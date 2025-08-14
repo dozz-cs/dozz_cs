@@ -445,16 +445,16 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **VARANDA (1/2)**
    - Alvo: VARANDA e CT;
    - Posição: Posicione-se em frente a uma pequena mancha localizada à esquerda da marcação horizontal na região da lateral da escada da varanda;
-   - Mira: Agache e mire na ponta do quebra-sol localizado no alto da construção;
-   - Execução: Levante-se + Arremesso longo;
-   - Ref. 101.2274: [YouTube](https://youtu.be/-1fwobPyHGY);
+   - Mira: Mire na terceira madeira e na ponta do quebra-sol localizado no alto da construção;
+   - Execução: Arremesso médio;
+   - Ref. 101.2274: [YouTube](https://youtu.be/pY_woM_YlJw);
 
 1. **VARANDA (2/2)**
    - Alvo: VARANDA e CT;
    - Posição: Posicione-se em frente a uma pequena mancha localizada à esquerda da marcação horizontal na região da lateral da escada da varanda;
-   - Mira: Agache e mire na região da mancha na lateral esquerda inferior da janela;
-   - Execução: Mantenha-se agachado + Arremesso longo;
-   - Ref. 101.2275: [YouTube](https://youtu.be/-1fwobPyHGY);
+   - Mira: Mire na região da mancha na lateral esquerda inferior da janela;
+   - Execução: Arremesso longo;
+   - Ref. 101.2275: [YouTube](https://youtu.be/pY_woM_YlJw);
 
 1. **VARANDA**
    - Alvo: BASE CT;
