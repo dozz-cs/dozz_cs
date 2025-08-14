@@ -29,7 +29,10 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/in
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-Ir para: [**Banana**](#banana)
+[**Arco**](#s-arco) - [**Areia**](#s-areia) - [**Areia 2**](#s-areia2)- [**Banana**](#s-banana) - [**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Bomb B**](#s-bombb) - [**Corredor CT**](#s-corredorct) - [**CT**](#s-ct) - [**Caixão**](#s-caixao) - [**Carro**](#s-carro) - [**Caverna**](#s-caverna) - [**Cogu**](#s-cogu) - [**Head Shot**](#s-headshot) - [**Meio**](#s-meio) - [**Meio falso**](#s-meiofalso) - [**Nip**](#s-nip) - [**Piscina**](#s-piscina) - [**Sanduíche**](#s-sanduiche) - [**Tapete**](#s-tapete)
+
+
+<a name="s-arco"></a>
 
 1. **ARCO**
    - Alvo: VARANDA; HEAD SHOT;
@@ -59,12 +62,16 @@ Ir para: [**Banana**](#banana)
    - Execução: Arremesso longo;
    - Ref. 121.6532: [YouTube](https://youtu.be/jDhw6_M19I8)
 
+<a name="s-areia"></a>
+
 1. **AREIA**
    - Alvo: FALLEN;
    - Posição: Pare no canto da coluna à direita do barril com a parede do fundo da região da areia;
    - Mira: Mire na junção do telhado com uma viga de madeira acima da região do bomb A;
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 121.1099: [YouTube](https://youtu.be/6UysNmzSLDw)
+
+<a name="s-areia2"></a>
 
 1. **AREIA 2**
    - Alvo: FALLEN;
@@ -73,7 +80,7 @@ Ir para: [**Banana**](#banana)
    - Execução: Jumpthrow longo;
    - Ref. 121.7401: [YouTube](https://youtu.be/Mz7STU_3-xg)
 
-<a name="banana"></a>
+<a name="s-banana"></a>
 
 1. **BANANA**
    - Alvo: PEZINHO CT;
@@ -138,6 +145,8 @@ Ir para: [**Banana**](#banana)
    - Execução: Ande até encostar no canto da mureta com a parede. Jumpthrow longo;
    - Ref. 121.4509: [YouTube](https://youtu.be/69Dwt2pgS20)
 
+<a name="s-basect"></a>
+
 1. **BASE CT**
    - Alvo: CAVERNA;
    - Posição: Posicione-se no caminho formado na areia e em frente ao vaso de flor;
@@ -186,6 +195,8 @@ Ir para: [**Banana**](#banana)
    - Mira: Mire em uma pequena saliência à esquerda da viga de madeira do beiral próximo do canto esquerdo da sacada com os barris;
    - Execução: W + Jumpthrow longo;
    - Ref. 121.6534: [YouTube](https://youtu.be/WX2EI8hSpGA)
+
+<a name="s-basetr"></a>
 
 1. **BASE TR**
    - Alvo: BANANA;
@@ -243,6 +254,8 @@ Ir para: [**Banana**](#banana)
    - Execução: Ande (shift) até a mira chegar na tubulação da calha + Jumpthrow longo;
    - Ref. 121.8453: [YouTube](https://youtu.be/kjfuxRuBcMw)
 
+<a name="s-bombb"></a>
+
 1. **BOMB B**
    - Alvo: CARRO;
    - Posição: Encoste no canto da parede na região frontal do chafariz;
@@ -250,12 +263,16 @@ Ir para: [**Banana**](#banana)
    - Execução: Jumpthrow longo;
    - Ref. 121.7011: [YouTube](https://youtu.be/hQ0VL-3E2kk)
 
+<a name="s-corredorct"></a>
+
 1. **CORREDOR CT**
    - Alvo: CT;
    - Posição: Pare na região da escada próximo a coluna à direita;
    - Mira: Mire na junção do arco (laranjado) com a calha abaixo da janela;
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 121.2255: [YouTube](https://youtu.be/ImxW5o9fl88)
+
+<a name="s-ct"></a>
 
 1. **CT**
    - Alvo: BANANA;
@@ -271,12 +288,16 @@ Ir para: [**Banana**](#banana)
    - Execução: Arremesso longo;
    - Ref. 121.4923: [YouTube](https://youtu.be/w_bzAR39sfA)
 
+<a name="s-caixao"></a>
+
 1. **CAIXÃO**
    - Alvo: BANANA;
    - Posição: Posicione-se em cima dos sacos de cimento na região do caixão;
    - Mira: Localize uma pedra saliente na região do BTT. Mire na parte inferior dessa pedra;
    - Execução: Jumpthrow longo;
    - Ref. 121.5309: [YouTube](https://youtu.be/ZzgJSbVewEw)
+
+<a name="s-carro"></a>
 
 1. **CARRO**
    - Alvo: CAIXÃO;
@@ -313,12 +334,16 @@ Ir para: [**Banana**](#banana)
    - Execução: Jumpthrow longo;
    - Ref. 121.5430: [YouTube](https://youtu.be/H1rlywQeiLs)
 
+<a name="s-caverna"></a>
+
 1. **CAVERNA**
    - Alvo: NIP;
    - Posição: Encoste no canto do muro com a calçada elevada;
    - Mira: Mire na junção da vista esquerda da janela com o topo do arco na região da caverna;
    - Execução: Jumpthrow longo;
    - Ref. 121.4779: [YouTube](https://youtu.be/6Qc2qOKsf-E)
+
+<a name="s-cogu"></a>
 
 1. **COGU**
    - Alvo: TELHADO DO COGU;
@@ -327,12 +352,16 @@ Ir para: [**Banana**](#banana)
    - Execução: Arremesso curto;
    - Ref. 121.1003: [YouTube](https://youtu.be/HtUwmwLRLFw)
 
+<a name="s-headshot"></a>
+
 1. **HEAD SHOT, FRENTE**
    - Alvo: FALLEN;
    - Posição: Na frente do Head Shot, encoste na canto na frente do muro com a caminhonete azul;
    - Mira: Mire no centro da parede de madeira no alto da construção do bomb A;
    - Execução: W + Jumpthrow longo;
    - Ref. 121.2384: [YouTube](https://youtu.be/XB3eBEELZ0g)
+
+<a name="s-meio"></a>
 
 1. **MEIO**
    - Alvo: AREIA 2;
@@ -382,6 +411,8 @@ Ir para: [**Banana**](#banana)
    - Mira: Mire na junção inferior esquerda de uma pedra no alto da parede;
    - Execução: Arremesso longo;
    - Ref. 121.4063: [YouTube](https://youtu.be/MGM5siQkg5E)
+
+<a name="s-meiofalso"></a>
 
 1. **MEIO FALSO**
    - Alvo: ADEGA;
@@ -453,12 +484,16 @@ Ir para: [**Banana**](#banana)
    - Execução: Jumpthrow longo;
    - Ref. 121.5102: [YouTube](https://youtu.be/7l6gAK6RKIY)
 
+<a name="s-nip"></a>
+
 1. **NIP**
    - Alvo: FALLEN;
    - Posição: Encoste em um pequeno canto com um saco de lixo no chão, próximo do arco;
    - Mira: Alinhe a mira com a cumeeira da casa. Desloque a mira acima desse telhado;
    - Execução: Arremesso longo;
    - Ref. 121.6499: [YouTube](https://youtu.be/DPF3Q5YDF64)
+
+<a name="s-piscina"></a>
 
 1. **PISCINA**
    - Alvo: CAVERNA;
@@ -467,12 +502,16 @@ Ir para: [**Banana**](#banana)
    - Execução: Jumpthrow longo;
    - Ref. 121.7310: [YouTube](https://youtu.be/vduq72HcWas)
    
+   <a name="s-sanduiche"></a>
+
 1. **SANDUÍCHE**
    - Alvo: BANANA;
    - Posição: Suba na caixa do sanduíche sem a lona azul. Posicione a mira sobre o buraco no lado direito e no centro da caixa;
    - Mira: Mire na ponta da ferragem esquerda do andaime;
    - Execução: Arremesso médio; (Complementar com a molotov 122.5320)
    - Ref. 121.5320: [YouTube](https://youtu.be/6qG6OSwGrQE)
+
+<a name="s-tapete"></a>
 
 1. **TAPETE**
    - Alvo: AREIA 2;
