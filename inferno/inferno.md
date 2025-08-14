@@ -31,6 +31,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 Ir para: [**Banana**](#banana)
 
+<a href="#banana">banana</a>
+
 1. **ARCO**
    - Alvo: VARANDA; HEAD SHOT;
    - Posição: Posicione-se com o pé esquerdo no jardim, ao lado da caixa de correio vermelha;
@@ -73,7 +75,7 @@ Ir para: [**Banana**](#banana)
    - Execução: Jumpthrow longo;
    - Ref. 121.7401: [YouTube](https://youtu.be/Mz7STU_3-xg)
 
-<a name="banana"></a>
+<a id="banana">banana</a>
 
 1. **BANANA**
    - Alvo: PEZINHO CT;
