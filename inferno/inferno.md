@@ -156,7 +156,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Corra até a mira chegar no beiral inferior + Jumpthrow;
    - Ref. 121.1201: [YouTube](https://youtu.be/53CtryHF1YI)
 
-1. **BASE CT** [(Top)](#s-top)
+1. **BASE CT** [(Top)](#s-top) (Obsoleto devido a atualização do cs2)
    - Alvo: CAVERNA; BANANA;
    - Posição: Encoste no canto da cadeira com a parede da construção em frente a porta da adega;
    - Mira: Alinhe a mira com o telhado à esquerda. Mire entre o telhado uma mancha vertical na parede vermelha do lado esquerdo da janela;
@@ -249,7 +249,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.0977: [YouTube](https://youtu.be/hF04CE9pYBo)
 
-1. **BASE TR, SAÍDA** [(Top)](#s-top)
+1. **BASE TR, SAÍDA** [(Top)](#s-top) (Obsoleto devido a atualização do cs2)
    - Alvo: ADEGA;
    - Posição: Posicione-se no lado esquerdo da porta de rolo;
    - Mira: Mire na quina direita do telhado da construção bege;
@@ -260,14 +260,14 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **BOMB B** [(Top)](#s-top)
    - Alvo: CARRO;
-   - Posição: Encoste no canto da parede na região frontal do chafariz;
+   - Posição: Encoste no canto da fonte na região frontal do chafariz;
    - Mira: Alinhe a mira com o canto superior esquerdo da janela da construção amarela na região do fallen;
    - Execução: Jumpthrow longo;
    - Ref. 121.7011: [YouTube](https://youtu.be/hQ0VL-3E2kk)
 
 <a name="s-corredorct"></a>
 
-1. **CORREDOR CT** [(Top)](#s-top)
+1. **CORREDOR CT** [(Top)](#s-top) (REGRAVADO)
    - Alvo: CT;
    - Posição: Pare na região da escada próximo a coluna à direita;
    - Mira: Mire na junção do arco (laranjado) com a calha abaixo da janela;
@@ -301,14 +301,14 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 <a name="s-carro"></a>
 
-1. **CARRO** [(Top)](#s-top)
+1. **CARRO** [(Top)](#s-top) (Mofificado)
    - Alvo: CAIXÃO;
    - Posição: Encoste no canto direito da mureta;
-   - Mira: Mire no alto da região do vale do telhado logo a esquerda da luminária;
+   - Mira: Mire à esquerda na base da luminária fixa na parede;
    - Execução: Jumpthrow longo;
    - Ref. 121.7981: [YouTube](https://youtu.be/ynRSQmbeKmU)
 
-1. **CARRO** [(Top)](#s-top)
+1. **CARRO** [(Top)](#s-top) (Obsoleto devido a atualização do cs2)
    - Alvo: CAIXÃO;
    - Posição: Encoste em frente ao carrinho de carga vermelho;
    - Mira: Mire na borda esquerda branca do desenho na parede, em uma região com uma mancha escura;
@@ -338,7 +338,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 <a name="s-caverna"></a>
 
-1. **CAVERNA** [(Top)](#s-top)
+1. **CAVERNA** [(Top)](#s-top) (Regravado)
    - Alvo: NIP;
    - Posição: Encoste no canto do muro com a calçada elevada;
    - Mira: Mire na junção da vista esquerda da janela com o topo do arco na região da caverna;
@@ -376,7 +376,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Alvo: ARCO;
    - Posição: Posicione-se em cima das lixeiras vermelhas na quina da parede;
    - Mira: Mire no lado esquerdo e na parte superior da floreira alongada;
-   - Execução: Jumpthrow longo;
+   - Execução: Jumpthrow médio;
    - Ref. 121.3021: [YouTube](https://youtu.be/zERQ7dnLxZ0)
 
 1. **MEIO (1/2)** [(Top)](#s-top)
@@ -407,10 +407,10 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.1104: [YouTube](https://youtu.be/yZZCIrohrkI)
 
-1. **MEIO** [(Top)](#s-top)
+1. **MEIO** [(Top)](#s-top) (regravado)
    - Alvo: NIP;
    - Posição: Posicione-se em frente a junção das placas de madeira com a caminhonete verde;
-   - Mira: Mire na junção inferior esquerda de uma pedra no alto da parede;
+   - Mira: Mire no meio da parede abaixo da janela;
    - Execução: Arremesso longo;
    - Ref. 121.4063: [YouTube](https://youtu.be/MGM5siQkg5E)
 
@@ -461,7 +461,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **MEIO FALSO** [(Top)](#s-top)
    - Alvo: NIP;
    - Posição: Posicione-se no canto da mureta de pedra perto da ponte;
-   - Mira: Mire na parte inferior central da janela veneziana na construção vermelha;
+   - Mira: Mire na região central inferior da janela veneziana na construção vermelha;
    - Execução: Jumpthrow longo;
    - Ref. 121.5421: [YouTube](https://youtu.be/QoUVpMk6UAg)
 
@@ -474,7 +474,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **MEIO FALSO** [(Top)](#s-top)
    - Alvo: NIP;
-   - Posição: Encoste no canto da escada, embaixo da sacada do janelão, em frente à porta vermelha, mas não suba na escada;
+   - Posição: Encoste no canto da escada embaixo da sacada do janelão, em frente à porta vermelha, mas não suba na escada;
    - Mira: Mire na abraçadeira da calha entre os dois caibros localizados à esquerda;
    - Execução: Jumpthrow longo;
    - Ref. 121.4902: [YouTube](https://youtu.be/dqy_bh7PQXQ)
@@ -490,7 +490,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **NIP** [(Top)](#s-top)
    - Alvo: FALLEN;
-   - Posição: Encoste em um pequeno canto com um saco de lixo no chão, próximo do arco;
+   - Posição: Encoste no canto de um pequeno nicho próximo a quina da parede;
    - Mira: Alinhe a mira com a cumeeira da casa. Desloque a mira acima desse telhado;
    - Execução: Arremesso longo;
    - Ref. 121.6499: [YouTube](https://youtu.be/DPF3Q5YDF64)
@@ -499,7 +499,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **PISCINA** [(Top)](#s-top)
    - Alvo: CAVERNA;
-   - Posição: Encoste no canto da mureta com a parede da igreja, em cima do vaso de flor;
+   - Posição: Encoste no canto da mureta com a parede da igreja;
    - Mira: Mire na junção do telhado com a haste da antena parabólica;
    - Execução: Jumpthrow longo;
    - Ref. 121.7310: [YouTube](https://youtu.be/vduq72HcWas)
@@ -595,13 +595,6 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Mira: Mire na parte debaixo da decoração da janela na região do Fallen;
    - Execução: Jumpthrow longo;
    - Ref. 122.7011: [YouTube](https://youtu.be/w6-oqJuAlH4)
-
-1. **CT**
-   - Alvo: ESCURO;
-   - Posição: Posicione-se próximo ao início da sombra da construção. Alinhe o topo da coluna arredondada com a quina da parede;
-   - Mira: Mire na decoração circular no topo direito da coluna arredondada; 
-   - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 122.9203: [YouTube](https://youtu.be/9AyMkow8W8M)
 
 1. **CT**
    - Alvo: ESCURO;
@@ -722,10 +715,10 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo;
    - Ref. 122.0991: [YouTube](https://youtu.be/yRHEgIuOARU)
 
-1. **CARRO**
+1. **CARRO** (RETIRAR)
    - Alvo: ESCURO;
    - Posição: Suba na mureta e pare em frente a telha;
-   - Mira: Mire na parede no lado direito da janela e na altura dos círculos na grade;
+   - Mira: Localize o centro da parede no lado direito da janela de grade. Mire na altura entre as decorações da grade;
    - Execução: Jumpthrow longo;
    - Ref. 122.7224: [YouTube](https://youtu.be/pI8fNHhWyHw)
 
@@ -751,7 +744,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Ref. 122.8740: [YouTube](https://youtu.be/ZfSRdo4tQLg)
 
 1. **CIMENTO**
-   - Alvo: BANANA (MADEIRA INVERTIDA)
+   - Alvo: BANANA (Tavares)
    - Posição: Pare em frente aos sacos de cimento;
    - Mira: Mire no topo de uma coluna no muro na região da banana;
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
@@ -764,14 +757,14 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Jumpthrow longo;
    - Ref. 122.9377: [YouTube](https://youtu.be/EGUK3b8sUnE)
 
-1. **IGREJA**
+1. **IGREJA** (Refeita)
    - Alvo: CIMENTO DO BOMB B;
    - Posição: Encoste no canto da parede atrás do púlpito;
-   - Mira: Mire na parte inferior direita de uma pedra saliente na abertura em forma de arco;
-   - Execução: Jumpthrow longo;
-   - Ref. 122.0933: [YouTube](https://youtu.be/qoEm7urM2dk)
+   - Mira: Mire na região superior da janela em forma de arco, próximo ao céu azul;
+   - Execução: Arremesso longo;
+   - Ref. 122.0933: [YouTube](link)
 
-1. **IGREJA**
+1. **IGREJA** (Obsoleto devido a atualização do cs2)
    - Alvo: CIMENTO DO BOMB B;
    - Posição: Posicione-se sobre uma marcação do piso atrás do púlpito;
    - Mira: Mire em uma tênue junção de duas pedras que formam a abertura em forma de arco;
@@ -799,10 +792,10 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo; (Complementar com a smoke 121.5320)
    - Ref. 122.5320: [YouTube](https://youtu.be/NxtdS-F-azE)
 
-1. **TAPETE**
+1. **TAPETE** (regravado)
    - Alvo: DEFAULT;
    - Posição: Posicione-se no canto da parede na saída do tapete;
-   - Mira: Mire em uma tênue mancha escura no batente da porta, logo acima da pintura amarela na parede;
+   - Mira: Mire em uma tênue mancha escura no batente da porta, abaixo da linha da pintura amarela;
    - Execução: Arremesso longo;
    - Ref. 122.6399: [YouTube](https://youtu.be/0vfHwUmmV-Y)
 
@@ -832,48 +825,48 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Ref. 123.8330: [YouTube](https://youtu.be/PVktQpmIROw)
 
 1. **ARCO**
-   - Alvo: PASSAGEM AREIA;
+   - Alvo: COLDZERA; BOMB B; CEMITÉRIO; HEAD SHOT;
    - Posição: Pare no canto da parede com a caixa de correio vermelha;
    - Mira: Mire no centro da árvore, alinhado com a ponta esquerda do vaso no telhado da construção;
    - Execução: Arremesso longo;
    - Ref. 123.6532: [YouTube](https://youtu.be/p2XTrCmmVqE)
 
-1. **BANANA**
+1. **BANANA** (regravado)
    - Alvo: BOMB B; TRIPLA; CAIXÃO; ESCURO; CT;
    - Posição: Encoste na pequena parede atrás do muro do carro;
-   - Mira: Mire na quinta lâmpada, da Dir para a Esq;
+   - Mira: Alinhe a mira na altura do telhado com o ferro do andaime na região do bomb;
    - Execução: Arremesso longo;
-   - Ref. 123.9723: [YouTube](https://youtu.be/R3uNhH_9prE)
+   - Ref. 123.9723: [YouTube](link)
 
-1. **BANANA**
+1. **BANANA** (regravado)
    - Alvo: FALLEN; CIMENTO; CAIXÃO; CT;
-   - Posição: Posicione-se no meio da calçada, alinhado com a região da árvore;
-   - Mira: Mire nas lâmpadas rente a parede vermelha acima do muro;
+   - Posição: Posicione-se no meio da calçada, alinhado com os barris de madeira;
+   - Mira: Mire na ponta do caibro logo abaixo do telhado acima da mureta da banana;
    - Execução: Arremesso longo;
-   - Ref. 123.2833: [YouTube](https://youtu.be/218vI_8l_aI)
+   - Ref. 123.2833: [YouTube](link)
 
-1. **BANANA**
+1. **BANANA** (ok)
    - Alvo: FALLEN; CIMENTO;
    - Posição: Posicione-se em frente a uma mancha escura próximo a uma divisória no lado esquerdo do muro;
-   - Mira: Mire na ponta do telhado logo acima da mureta;
+   - Mira: Mire na ponta da decoração logo acima da janela próxima a mureta;
    - Execução: Arremesso longo;
    - Ref. 123.4567: [YouTube](https://youtu.be/mX2eANfMNok)
 
-1. **BANANA**
+1. **BANANA** (regravado e modificado)
    - Alvo: PEZINHO CT; TRIPLA;
    - Posição: Encoste as costas no barril de madeira;
-   - Mira: Mire na junção esquerda do barril com o carrinho de carga vermelho.
-   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
-   - Ref. 123.2649: [YouTube](https://youtu.be/U6Wu8TelQAY)
+   - Mira: Localize a ponta do telhado na torre da igreja. Mire ligeiramente abaixo do telhado.
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 123.2649: [YouTube](link)
 
-1. **BANANA**
+1. **BANANA** (Ok)
    - Alvo: CAIXÃO; TRIPLA; CT;
    - Posição: Encoste as costas no barril de madeira;
    - Mira: Mire na junção dos barris localizados à esquerda do carro, na altura da cinta metálica mais alta.
    - Execução: Jumpthrow longo;
    - Ref. 123.0943: [YouTube](https://youtu.be/DyHKgt2Yj8Y)
 
-1. **BASE TR, SAÍDA**
+1. **BASE TR, SAÍDA** (Ok)
    - Alvo: BANANA; CARRO;
    - Posição: Encoste na quina da parede direita da escada de acesso a cozinha;
    - Mira: Mire acima de uma mancha na parede na região do arco;
@@ -883,7 +876,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
 1. **BASE TR, SAÍDA**
    - Alvo: BANANA; CARRO;
    - Posição: Encoste na frente do corrimão de acesso ao apartamento;
-   - Mira: Alinhe a mira verticalmente com a placa vermelha. Mire entre os beirais dos telhados, na parede branca;
+   - Mira: Alinhe a mira verticalmente com a placa vermelha. Mire entre os beirais dos telhados, na parede vermelha;
    - Execução: Arremesso longo;
    - Ref. 123.7443: [YouTube](https://youtu.be/Tf5qjyP4Jvk)
 
@@ -896,61 +889,61 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
 
 1. **BOMB B**
    - Alvo: BANANA;
-   - Posição: Encoste na coluna na frente do escuro;
-   - Mira: Mire no conto superior esquerdo da janela verde;
+   - Posição: Encoste na lateral da coluna cilindrica ao lado da tripla;
+   - Mira: Mire no canto superior esquerdo da janela verde;
    - Execução: Arremesso longo;
    - Ref. 123.4771: [YouTube](https://youtu.be/VR9qRwp4ANs)
 
-1. **CAIXÃO**
+1. **CAIXÃO** (ok)
    - Alvo: CARRO; BANANA;
-   - Posição: Posicione-se em cima dos madeirites em frente a placa com o desenho do caixão;
+   - Posição: Posicione-se em cima do cimento na região do caixão;
    - Mira: Mire na ponta esquerda do telhado mais alto;
    - Execução: Arremesso longo;
    - Ref. 123.0905: [YouTube](https://youtu.be/Vzp1m26BPDg)
 
-1. **CAIXÃO**
+1. **CAIXÃO** (ok)
    - Alvo: BANANA;
-   - Posição: Posicione-se em cima dos madeirites em frente a placa com o desenho do caixão;
-   - Mira: Mire na peça de metal na quina da caixa direita do sanduíche;
+   - Posição: Posicione-se em cima do cimento na região do caixão;
+   - Mira: Mire na peça de metal do meio na quina da caixa direita do sanduíche;
    - Execução: Jumpthrow longo;
    - Ref. 123.8700: [YouTube](https://youtu.be/wHsxgFBbIWs)
 
-1. **CARRO**
+1. **CARRO** (ok)
    - Alvo: BOMB B; TRIPLA; CAIXÃO; ESCURO; CT;
    - Posição: Encoste no canto da parede com a mureta;
-   - Mira: Mire na ponta inferior da letra C;
+   - Mira: Mire na ponta inferior da letra C da direita;
    - Execução: Jumpthrow médio;
    - Ref. 123.3894: [YouTube](https://youtu.be/D8r1MZQFAUQ)
 
-1. **CARRO**
+1. **CARRO** (ok)
    - Alvo: ESCURO; TRIPLA; CAIXÃO; IGREJA;
    - Posição: Suba na mureta e encoste na parede atrás do telhado;
    - Mira: Mire no vão entre o andaime e a escada que está em cima do telhado;
    - Execução: Arremesso longo;
    - Ref. 123.7323: [YouTube](https://youtu.be/eKz8aw7_-m8)
 
-1. **CT**
+1. **CT** (ok)
    - Alvo: BANANA;
-   - Posição: Encoste na coluna da parede da igreja;
-   - Mira: Mire na junção do telhado com a torre branca;
-   - Execução: Jumpthrow longo;
+   - Posição: Encoste na coluna da parede da igreja em frenta ao pezinho;
+   - Mira: Mire na junção do telhado com a torre branca acima da região da banana;
+   - Execução: Arremesso longo;
    - Ref. 123.9088: [YouTube](https://youtu.be/tpLzGsnNh9U)
 
-1. **TAPETE**
+1. **TAPETE** (ok)
    - Alvo: AREIA; BOMB A; ADEGA;
    - Posição: No pilar com a placa verde de fire exit, mire na terceira grade a direita;
    - Mira: Mire na mancha no muro que aparece na fresta da parede com a porta;
    - Execução: Arremesso médio;
    - Ref. 123.1699: [YouTube](https://youtu.be/CxkcAM1Gfg0)
 
-1. **TAPETE**
+1. **TAPETE** (ok)
    - Alvo: HEAD SHOT; AREIA; CEMITÉRIO; BOMB; AREIA 2;
    - Posição: No pilar com a placa verde de fire exit, posicione-se na terceira grade a direita;
    - Mira: Agache, mire no topo das janelas à esquerda na torre que aparece ao lado da placa verde;
    - Execução: Agachado + Arremesso longo;
    - Ref. 123.4960: [YouTube](https://youtu.be/hjklJef6PPY)
 
-1. **TAPETE**
+1. **TAPETE** (Ok)
    - Alvo: AREIA; BOMB A; CEMITÉRIO;
    - Posição: Encoste no canto do aquecedor;
    - Mira: Localize o canto superior direito interno do nicho com o vaso de flor. Mire um pouco acima, na altura da vista do nicho;
@@ -975,35 +968,35 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 124.3900: [YouTube](https://youtu.be/ynMEdJ2J2xk)
 
-1. **CAIXÃO**
+1. **CAIXÃO** (ok)
    - Alvo: MURETA DA BANANA;
    - Posição: Posicione-se em cima do madeirite na região do caixão;
    - Mira: Mire na abraçadeira de metal na quina da caixa do BTT direito;
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 124.6930: [YouTube](https://youtu.be/ki8M4X3I75c)
 
-1. **CARRO**
+1. **CARRO** (ok)
    - Alvo: CAVERNA;
    - Posição: Encoste na parede atrás das placas de madeira;
    - Mira: Mire ligeiramente à direita do início da tubulação da calha;
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 124.7611: [YouTube](https://youtu.be/88b-Ks1R4-4)
 
-1. **CARRO**
+1. **CARRO** (ok)
    - Alvo: SAÍDA DA CAVERNA;
    - Posição: Posicione-se próximo a sombra da luminária;
    - Mira: Mire à direita do início da tubulação da calha;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 124.9724: [YouTube](https://youtu.be/_b2ag-5qAXo)
 
-1. **CARRO**
+1. **CARRO** (ok)
    - Alvo: CT;
    - Posição: Suba na mureta e encoste atrás do telhado;
    - Mira: Mire na parte superior do número 1 na pintura da parede;
    - Execução: Jumpthrow longo;
    - Ref. 124.6490: [YouTube](https://youtu.be/TPCYAD3QcH4)
 
-1. **CT**
+1. **CT** (ok)
    - Alvo: TRIPLA;
    - Posição: Encoste na coluna da grade próxima a pequena escada para o corredor CT;
    - Mira: Mire na altura do rodapé, próximo a mancha branca na parede vermelha;
@@ -1011,13 +1004,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Ref. 124.1955: [YouTube](https://youtu.be/xSs0JruXy1U)
 
 1. **CT**
-   - Alvo: TRIPLA;
+   - Alvo: TRIPLA; (ok)
    - Posição: Encoste no canto da pequena parede da construção oposta à igreja;
    - Mira: Mire na extremidade do peitoril da janela;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 124.6433: [YouTube](https://youtu.be/cGgrpjDFpfs)
 
-1. **CT**
+1. **CT** (ok)
    - Alvo: MURETA DA BANANA;
    - Posição: Posicione-se próximo uma marcação horizontal de pedra no chão. Alinhe as quinas das paredes das construções;
    - Mira: Localize algumas pedras soltas na região do Fallen. Mire um uma mancha escura no chão e na região de sombra, próxima a uma marcação horizontal de pedras;
@@ -1052,10 +1045,10 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Arremesso longo;
    - Ref. 124.9834: [YouTube](https://youtu.be/ALWErXTAyPo)
 
-1. **TAPETE**
+1. **TAPETE** (regravado)
    - Alvo: DEFAULT;
    - Posição: Posicione-se no canto da parede na saída do tapete;
-   - Mira: Mire em uma tênue mancha escura no batente da porta, logo acima da pintura amarela na parede;
+   - Mira: Mire em uma tênue mancha escura no batente da porta, abaixo da linha da pintura amarela;
    - Execução: Arremesso longo;
    - Ref. 124.6399: [YouTube](https://youtu.be/aSEA5YqBsUI)
 
