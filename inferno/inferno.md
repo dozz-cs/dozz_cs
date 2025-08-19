@@ -792,6 +792,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Ref. 122.4301: [YouTube](https://youtu.be/sxUFyTXN2Nc)
 
 ## Flash
+<a name="f-top"></a>
 
 Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
@@ -965,6 +966,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Ref. 123.3548: [YouTube](https://youtu.be/Yv8IOUb1q90)
 
 ## High Explosive (HE)
+<a name="h-top"></a>
 
 Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
