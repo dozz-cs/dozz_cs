@@ -25,9 +25,9 @@ hyperrefoptions:
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
 
+<a name="s-top"></a>
 
 ## Smokes
-<a name="s-top"></a>
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
@@ -487,8 +487,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 121.5299: [YouTube](https://youtu.be/twLrqsxHqPU)
 
-## Molotov
 <a name="m-top"></a>
+
+## Molotov
 
 Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
@@ -791,8 +792,9 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 122.4301: [YouTube](https://youtu.be/sxUFyTXN2Nc)
 
-## Flash
 <a name="f-top"></a>
+
+## Flash
 
 Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
@@ -965,8 +967,9 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 123.3548: [YouTube](https://youtu.be/Yv8IOUb1q90)
 
-## High Explosive (HE)
 <a name="h-top"></a>
+
+## High Explosive (HE)
 
 Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
