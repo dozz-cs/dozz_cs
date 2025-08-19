@@ -21,11 +21,17 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
+<a name="s-top"></a>
 
 # ANCIENT (+70 utilitárias)
 
 ## Smoke
+
 Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
+
+[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Banana**](#s-banana) - [**Boca do Fundo**](#s-bocadofundo) - [**Caverna**](#s-caverna) - [**Corredor**](#s-corredor) - [**CT da B**](#s-ctdab) - [**Esquina**](#s-esquina) - [**Escuro**](#s-escuro) - [**L**](#s-l) - [**Ligação**](#s-ligacao) - [**Porta**](#s-porta) - [**Quadrado da B**](#s-quadradodab) - [**Quadrado do Fundo**](#s-quadradodofundo) - [**Rampa do Fundo**](#s-rampadofundo) - [**Túnel**](#s-tunel) - [**Xbox**](#s-xbox)
+
+<a name="s-basect"></a>
 
 1. **BASE CT**
    - Alvo: ESQUINA;
@@ -62,6 +68,8 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Jumpthrow longo;
    - Ref. 151.2643: [YouTube](https://youtu.be/wZ1hDJUSNqo);
 
+<a name="s-basetr"></a>
+
 1. **BASE TR**
    - Alvo: JANELÃO;
    - Posição: Posicione-se do lado direito, atrás da coluna da ponte. A ponta da primeira folha deve tocar a pedra em formato de arco;
@@ -97,6 +105,8 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Jumpthrow  longo;
    - Ref. 151.7320: [YouTube](https://youtu.be/8iLGYXp5qu0);
 
+<a name="s-banana"></a>
+
 1. **BANANA**
    - Alvo: CT DA B;
    - Posição: Posiciona-se no lado direito da porta, em frente a pedra com mais argamassa em volta;
@@ -110,6 +120,8 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Mira: Mire na região do vale formado pelas montanhas ao fundo, à direita do madeirite amarelo;
    - Execução: Arremesso longo;
    - Ref. 151.7691: [YouTube](https://youtu.be/5DHNPd05cA4);
+
+<a name="s-bocadofundo"></a>
 
 1. **BOCA DO FUNDO**
    - Alvo: LIGAÇÃO;
@@ -125,12 +137,16 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Arremesso longo;
    - Ref. 151.2345: [YouTube](https://youtu.be/Jc3O0173ap0);
 
+<a name="s-caverna"></a>
+
 1. **CAVERNA**
    - Alvo: JANELÃO;
    - Posição: Posicione-se à esquerda da porta de acesso para o janelão de modo que seja possível ver o batente direito do janelão;
    - Mire: Mire no batente direito do janelão na altura da decoração central da porta;
    - Execução: Arremesso longo;
    - Ref. 151.8643: [YouTube](https://youtu.be/TNz5BfApVk4);
+
+<a name="s-corredor"></a>
 
 1. **CORREDOR**
    - Alvo: RAMPA;
@@ -167,12 +183,16 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Jumpthrow  longo;
    - Ref. 151.8701: [YouTube](https://youtu.be/rz6DJKI5zrc);
 
+<a name="s-ctdab"></a>
+
 1. **CT DA B**
    - Alvo: PORTA;
    - Posição: Posicione-se na quina da parede à direita, perto da saída do escuro;
    - Mira: Mire na região da parede de pedra a esquerda da madeira azul do pilar na altura da segunda linha horizontal;
    - Execução: Jumpthrow  longo;
    - Ref. 151.4377: [YouTube](https://youtu.be/dwFST0fZtpE);
+
+<a name="s-esquina"></a>
 
 1. **ESQUINA**
    - Alvo: JANELÃO;
@@ -188,6 +208,8 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 151.3967: [YouTube](https://youtu.be/Wb80Kud4kgA);
 
+<a name="s-escuro"></a>
+
 1. **ESCURO**
    - Alvo: SOL;
    - Posição: Posicione-se na frente da pá encostada na parede do escuro;
@@ -195,6 +217,7 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 151.7091: [YouTube](https://youtu.be/q_wsKMyIwZ0);
 
+<a name="s-l"></a>
 1. **L**
    - Alvo: FUNDO RAMPA;
    - Posição: Encoste no canto de uma pequena parede com a parede do fundo;
@@ -216,12 +239,16 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Jumpthrow médio;
    - Ref. 151.6423: [YouTube](https://youtu.be/C11q6qNw7ec);
 
+<a name="s-ligacao"></a>
+
 1. **LIGAÇÃO, ENTRADA**
    - Alvo: CT;
    - Posição: Posicione-se no canto da parede na entrada esquerda da ligação;
    - Mira: Mire em um vão formado pelo canto do muro com a parede;
    - Execução: Arremesso longo;
    - Ref. 151.7243: [YouTube](https://youtu.be/EFqcs6Spxr0);
+
+<a name="s-porta"></a>
 
 1. **PORTA**
    - Alvo: SOL;
@@ -258,6 +285,8 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Jumpthrow  longo;
    - Ref. 151.8220: [YouTube](https://youtu.be/ISiuEd54TI4);
 
+<a name="s-quadradodab"></a>
+
 1. **QUADRADO DA B**
    - Alvo: CT DA B;
    - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
@@ -293,6 +322,8 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Jumpthrow  longo;
    - Ref. 151.9417: [YouTube](https://youtu.be/MWFbEZDhEAU);
 
+<a name="s-quadradodofundo"></a>
+
 1. **QUADRADO DO FUNDO**
    - Alvo: JANELÃO;
    - Posição: Encoste na parte de trás da quina esquerda do quadrado do fundo;
@@ -313,6 +344,8 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Mira: Mire ligeiramente à direita da quina do topo da construção ao fundo;
    - Execução: Jumpthrow  longo;
    - Ref. 151.3093: [YouTube](https://youtu.be/dmweYh2KItk);
+
+<a name="s-rampadofundo"></a>
 
 1. **RAMPA DO FUNDO (SMOKE 1/3)**
    - Alvo: CT;
@@ -342,6 +375,8 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Jumpthrow  longo;
    - Ref. 151.0275: [YouTube](https://youtu.be/15YLLn0jh50);
 
+<a name="s-tunel"></a>
+
 1. **TÚNEL, SAÍDA**
    - Alvo: ESCURO;
    - Posição: Antes de chegar no quadrado da B, posicione-se sobre a mureta em ruínas no lado esquerdo;
@@ -356,6 +391,8 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Arremesso longo;
    - Ref. 151.5003: [YouTube](https://youtu.be/8883sNq8iOI);
 
+<a name="s-xbox"></a>
+
 1. **XBOX**
    - Alvo: CT;
    - Posição: Posicione-se atrás do xbox;
@@ -363,8 +400,15 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: Jumpthrow  longo;
    - Ref. 151.8452: [YouTube](https://youtu.be/VSynGMF8U0E);
 
+<a name="m-top"></a>
+
 ## Molotov
+
 Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
+
+[**Banana**](#m-banana) - [**Boca do Fundo**](#m-bocadofundo) - [**Corredor**](#m-corredor) - [**CT da B**](#m-ctdab) -  [**L**](#m-l) - [**Ligação**](#m-ligacao) - [**Porta**](#m-porta) - [**Quadrado da B**](#m-quadradodab) - [**Sol**](#m-sol) - [**Sombra**](#m-sombra)
+
+<a name="m-banana"></a>
 
 1. **BANANA**
    - Alvo: AREIA;
@@ -380,6 +424,8 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 152.0925: [YouTube](https://youtu.be/gdD8UlHLgY0);
 
+<a name="m-bocadofundo"></a>
+
 1. **BOCA DO FUNDO**
    - Alvo: TEMPLO;
    - Posição: Posiciona-se no lado direito da boca do fundo;
@@ -394,12 +440,16 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande ligeiramente para a frente + arremesso longo;
    - Ref. 152.8623: [YouTube](https://youtu.be/h3o5DJwbrH4);
 
+<a name="m-corredor"></a>
+
 1. **CORREDOR**
    - Alvo: RAMPA;
    - Posição: Posicione-se no corredor até que a quina da parede se alinhe com o madeira da B;
    - Mira: Mire na pedra do chão, na coluna do centro da parede;
    - Execução: Jumpthrow  longo;
    - Ref. 152.7872: [YouTube](https://youtu.be/tR05yAW7O4E);
+
+<a name="m-ctdab"></a>
 
 1. **CT DA B**
    - Alvo: BANANA;
@@ -408,6 +458,8 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande para a frente até chegar na quina de um nicho na parede + Jumpthrow médio;
    - Ref. 152.6390: [YouTube](https://youtu.be/j-tkPyMxYwI);
 
+<a name="m-l"></a>
+
 1. **L**
    - Alvo: PILAR;
    - Posição: Encoste na quina da parede do fundo;
@@ -415,12 +467,16 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Jumpthrow médio;
    - Ref. 152.8422: [YouTube](https://youtu.be/xCNL2Iu7w4k);
 
+<a name="m-ligacao"></a>
+
 1. **LIGAÇÃO, ENTRADA**
    - Alvo: LIGAÇÃO (DONUTS);
    - Posição: Na entrada esquerda do donuts;
    - Mira: Mire na região do topo e no meio da parede diagonal;
    - Execução: Ande para a frente + arremesso longo;
    - Ref. 152.8452: [YouTube](https://youtu.be/vClN7X5_gd4);
+
+<a name="m-porta"></a>
 
 1. **PORTA**
    - Alvo: ENTRADA DO ESCURO;
@@ -436,12 +492,16 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 152.9643: [YouTube](https://youtu.be/mE5F4cpIQ8E);
 
+<a name="m-quadradodab"></a>
+
 1. **QUADRADO DA B**
    - Alvo: AREIA;
    - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
    - Mira: Alinhe a mira um pouco acima da decoração da porta. Mire no centro da pedra decorativa à esquerda da parede; 
    - Execução: W + Jumpthrow  longo;
    - Ref. 152.2845: [YouTube](https://youtu.be/9DyYvLfCJ9I);
+
+<a name="m-sol"></a>
 
 1. **SOL**
    - Alvo: PORTA;
@@ -450,6 +510,8 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 152.2720: [YouTube](https://youtu.be/s-PFopbyyQ8);
 
+<a name="m-sombra"></a>
+
 1. **SOMBRA**
    - Alvo: ESCURO;
    - Posição: Posiciona-se na atrás da parede do grande quadrado em cima de uma mancha branca no chão;
@@ -457,10 +519,15 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande ligeiramente para a frente e arremesso longo; Arremesso longo;
    - Ref. 152.8963: [YouTube](https://youtu.be/Fowmw6HmWns);
 
+<a name="f-top"></a>
 
 ## Flash
+
 Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosive-he)   
 
+[**Base TR**](#f-basetr) - [**Boca do fundo**](#f-bocadofundo) - [**CT da B**](#f-ctdab) - [**L**](#f-l) - [**Ligação**](#f-ligacao) - [**Porta**](#f-porta) - [**Quadrado da B**](#f-quadradodab) - [**Quadrado do fundo**](#f-quadradodofundo) - [**Sombra**](#f-sombra)
+
+<a name="f-basetr"></a>
 
 1. **BASE TR**
    - Alvo: MEIO; COM SAÍDA; SEM SAÍDA; VARANDA; JANELÃO;
@@ -468,6 +535,8 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Mira: Mire no centro da parede lisa entre a árvore e a parede de pedras;
    - Execução: Jumpthrow  longo;
    - Ref. 153.4390: [YouTube](https://youtu.be/1U5KYiJI-d0);
+
+<a name="f-bocadofundo"></a>
 
 1. **BOCA DO FUNDO**
    - Alvo: LIGAÇÃO; TEMPLO; ÁRVORE; CT;
@@ -483,12 +552,16 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 153.6392: [YouTube](https://youtu.be/pceW77rYZgs);
 
+<a name="f-ctdab"></a>
+
 1. **CT DA B, INÍCIO**
    - Alvo: RAMPA;
    - Posição: Posicione-se no corredor até que a quina da parede se alinhe com a madeira azul no bomb B;
    - Mira: Mire no topo do pilar;
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 153.9854: [YouTube](https://youtu.be/aTCxlq47Zb0);
+
+<a name="f-l"></a>
 
 1. **L**
    - Alvo: ESCURO;
@@ -497,6 +570,8 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Execução: Jumpthrow longo;
    - Ref. 153.9155: [YouTube](https://youtu.be/9aLg-qwzQKw);
 
+<a name="f-ligacao"></a>
+
 1. **LIGAÇÃO (DONUTS)**
    - Alvo: ENTRADA DA LIGAÇÃO; SEM SAÍDA;
    - Posição: Na parede oposta à entrada da ligação;
@@ -504,12 +579,16 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Execução: Arremesso longo;
    - Ref. 153.0329: [YouTube](https://youtu.be/u7uv0zM21vw);
 
+<a name="f-porta"></a>
+
 1. **PORTA**
    - Alvo: CT DA B; SOL; SOMBRA;
    - Posição: Na porta esquerda, posicione-se em frente a uma marcação triangular;
    - Mira: Alinhe a mira com uma marcação na junção superior esquerda da grande pedra quadrada. Mire um pouco abaixo dessa marcação;
    - Execução: W + Jumpthrow  longo;
    - Ref. 153.1825: [YouTube](https://youtu.be/5nIWwiPzqt0);
+
+<a name="f-quadradodab"></a>
 
 1. **QUADRADO DA B**
    - Alvo: SOL; SOMBRA; CT DA B; CORREDOR;
@@ -525,12 +604,16 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Execução: Jumpthrow  longo;
    - Ref. 153.7623: [YouTube](https://youtu.be/zEAGIyFWKwQ);
 
+<a name="f-quadradodofundo"></a>
+
 1. **QUADRADO DO FUNDO**
    - Alvo: MEIO; SEM SAÍDA; LIGAÇÃO; JANELÃO;
    - Posição: Posicione-se na parede ao lado da placa da B;
    - Mira: Mire na ponta da folha de bananeira;
    - Execução: Arremesso longo;
    - Ref. 153.1962: [YouTube](https://youtu.be/IK_zmwED-fI);
+
+<a name="f-sombra"></a>
 
 1. **SOMBRA**
    - Alvo: RAMPA; PORTAS;
@@ -539,10 +622,15 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Execução: Jumpthrow médio;
    - Ref. 153.5390: [YouTube](https://youtu.be/f77NW67nVxc);
 
+<a name="h-top"></a>
 
 ## High explosive (HE)
+
 Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**Flash**](#flash)   
 
+[**CT da B**](#f-ctdab)
+
+<a name="h-ctdab"></a>
 
 1. **CT DA B**
    - Alvo: BANANA;
