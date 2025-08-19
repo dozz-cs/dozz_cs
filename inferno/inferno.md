@@ -972,7 +972,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
 
 Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
-[**Arco**](#f-arco) - [**Areia 2**](#f-areia2)- [**BTT**](#f-btt) - [**Caixão**](#f-caixao) - [**Carro**](#f-carro) - [**CT**](#f-ct) - [**Fallen**](#f-fallen) - [**Tapete**](#f-tapete)
+[**Arco**](#h-arco) - [**Areia 2**](#h-areia2)- [**BTT**](#h-btt) - [**Caixão**](#h-caixao) - [**Carro**](#h-carro) - [**CT**](#h-ct) - [**Fallen**](#h-fallen) - [**Tapete**](#h-tapete)
 
 <a name="h-arco"></a>
 
