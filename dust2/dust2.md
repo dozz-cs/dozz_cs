@@ -687,6 +687,13 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Corra até a mira chegar na parte inferior da janela + Jumpthrow longo;
    - Ref. 102.4823: [YouTube](https://youtu.be/v05qQJfHvQ0);
 
+1. **XBOX** [(Top)](#m-top)
+   - Alvo: MEIO CT;
+   - Posição: Posicione-se no canto da parede com a caixa do xbox;
+   - Mira: Mire à esquerda de uma mancha clara localizada no topo da lona verde que cobre a caixa;
+   - Execução: Arremesso longo;
+   - Ref. 102.0034: [YouTube](https://youtu.be/KOiDEo5H5zE);
+
 <a name="f-top"></a>
 
 ## Flash
