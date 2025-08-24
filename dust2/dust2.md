@@ -520,7 +520,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Andaime**](#m-andaime) - [**Azul**](#m-azul) - [**Altar do bunker**](#m-altardobunker) - [**Caminho da morte**](#m-caminhodamorte) - [**Escuro alto**](#m-escuroalto) - [**Escuro baixo**](#m-escurobaixo) - [**Fundo**](#m-fundo) - [**Rampa da B**](#m-rampadab) - [**Varanda**](#m-varanda)
+[**Andaime**](#m-andaime) - [**Azul**](#m-azul) - [**Altar do bunker**](#m-altardobunker) - [**Caminho da morte**](#m-caminhodamorte) - [**Escuro alto**](#m-escuroalto) - [**Escuro baixo**](#m-escurobaixo) - [**Fundo**](#m-fundo) - [**Rampa da B**](#m-rampadab) - [**Varanda**](#m-varanda) -  [**Xbox**](#m-xbox)
 
 <a name="m-andaime"></a>
 
@@ -686,6 +686,8 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Mira: Mire na região do topo da janela;
    - Execução: Corra até a mira chegar na parte inferior da janela + Jumpthrow longo;
    - Ref. 102.4823: [YouTube](https://youtu.be/v05qQJfHvQ0);
+
+<a name="m-xbox"></a>
 
 1. **XBOX** [(Top)](#m-top)
    - Alvo: MEIO CT;
