@@ -33,9 +33,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 [**Azul**](#s-azul) - [**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Bomb B**](#s-bombb) - [**Bunker**](#s-bunker) - [**Carro da A**](#s-carrodaa) - [**Caverna**](#s-caverna) - [**Coqueiro**](#s-coqueiro) - [**Escuro baixo**](#s-escurobaixo) - [**Escuro cima**](#s-escurocima) - [**Escuro Fora**](#s-escurofora) - [**Fundo TR**](#s-fundotr) - [**Fundo**](#s-fundo) - [**Meio cima**](#s-meiocima) - [**Porta do meio**](#s-portadomeio) - [**Rampa da A**](#s-rampadaa) - [**Rampa da B**](#s-rampadab) - [**Rampa CT**](#s-rampact) - [**Varanda**](#s-varanda) - [**Xbox**](#s-xbox)
 
-<a name="s-azul"></a>
-
-1. **AZUL** [(Top)](#s-top)
+1. **AZUL** [(Top)](#s-top) <a name="s-azul"></a>
    - Alvo: RAMPA DA BASE CT;
    - Posição: Posicione-se na quina do azul;
    - Mira: Mire no topo da construção, no canto da parede esquerda com o telhado;
@@ -63,9 +61,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 101.8702: [YouTube](https://youtu.be/XkEA5zuEygs);
 
-<a name="s-basetr"></a>
-
-1. **BASE TR** [(Top)](#s-top)
+1. **BASE TR** [(Top)](#s-top) <a name="s-basetr"></a>
    - Alvo: BASE CT;
    - Posição: Pare no canto direito do barril com a mureta de descida para o escuro fora;
    - Mira: Mire entre a quina da parede e a haste da antena tipo espinha de peixe, ligeiramente abaixo do topo do telhado;
@@ -135,27 +131,21 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.7492: [YouTube](https://youtu.be/W2QPXOglRFM);
 
-<a name="s-basect"></a>
-
-1. **BASE CT** [(Top)](#s-top)
+1. **BASE CT** [(Top)](#s-top) <a name="s-basect"></a>
    - Alvo: ENTRADA DO ESCURO ALTO;
    - Posição: Posicione-se no canto da caixa com o número 14 com o caixilho da saída para o meio CT;
    - Mira: Localize o quebra-sol no topo da construção. Mire no lado direito da fresta esquerda do quebra-sol;
    - Execução: Jumpthrow longo;
    - Ref. 101.6339: [YouTube](https://youtu.be/JkHOddz4kwU);
 
-<a name="s-bombb"></a>
-
-1. **BOMB B** [(Top)](#s-top)
+1. **BOMB B** [(Top)](#s-top) <a name="s-bombb"></a>
    - Alvo: TÚNEL DO ESCURO ALTO;
    - Posição: Posicione-se no canto do bomb B próximo a rampa do bomb;
    - Mira: Mire na ponta do caibro no alto da construção amarela;
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 101.8306: [YouTube](https://youtu.be/3gDOVQtVmtE);
 
-<a name="s-bunker"></a>
-
-1. **BUNKER** [(Top)](#s-top)
+1. **BUNKER** [(Top)](#s-top) <a name="s-bunker"></a>
    - Alvo: RAMPA DA BASE CT;
    - Posição: Encoste no lado direito do fundo do bunker;
    - Mira: Mire em na parte debaixo de uma mancha no chão alinhado com a primeira mancha na parede;
