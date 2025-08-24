@@ -22,7 +22,6 @@ hyperrefoptions:
 ---
 
 # ANUBIS (+125 utilitárias)
-*DozZ*
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.pdf)
 
@@ -35,7 +34,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 [**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Barco**](#s-barco) - [**B baixo**](#s-bbaixo) - [**Buraco**](#s-buraco) - [**Canal**](#s-canal) - [**Esquina**](#s-esquina) - [**Fundo**](#s-fundo) - [**Janelão**](#s-janelao) - [**Ligação**](#s-ligacao) - [**Meio**](#s-meio) - [**Paredão**](#s-paredao) - [**Rato**](#s-rato) - [**Tetris**](#s-tetris)
 [**Varanda**](#s-varanda)
 
-<a name="s-basect"></a>
+   <a name="s-basect"></a>
 
 1. **BASE CT** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -58,7 +57,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 141.0626: [YouTube](https://youtu.be/1dD9KorD-g4)
 
-<a name="s-basetr"></a>
+   <a name="s-basetr"></a>
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -116,7 +115,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 141.4386: [YouTube](https://youtu.be/bq7BryROXek)
 
-<a name="s-barco"></a>
+   <a name="s-barco"></a>
 
 1. **BARCO** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -167,7 +166,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 141.8522: [YouTube](https://youtu.be/27U5twTYDLE)
 
-<a name="s-bbaixo"></a>
+   <a name="s-bbaixo"></a>
 
 1. **B BAIXO** [(Top)](#s-top)
    - Alvo: PORTÃO;
@@ -183,7 +182,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 141.6734: [YouTube](https://youtu.be/21WxoMN-uvs)
 
-<a name="s-buraco"></a>
+   <a name="s-buraco"></a>
 
 1. **BURACO** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -213,7 +212,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 141.0693: [YouTube](https://youtu.be/BrUTKGkn-MM)
 
-<a name="s-canal"></a>
+   <a name="s-canal"></a>
 
 1. **CANAL** [(Top)](#s-top)
    - Alvo: TUMBA;
@@ -243,7 +242,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow médio;
    - Ref. 141.0957: [YouTube](https://youtu.be/2RyRzeWzm-4)
 
-<a name="s-esquina"></a>
+   <a name="s-esquina"></a>
 
 1. **ESQUINA** [(Top)](#s-top)
    - Alvo: JANELÃO;
@@ -266,7 +265,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 141.1535: [YouTube](https://youtu.be/85-XmnRp05g)
 
-<a name="s-fundo"></a>
+   <a name="s-fundo"></a>
 
 1. **FUNDO** [(Top)](#s-top)
    - Alvo: PORTÃO;
@@ -352,7 +351,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 141.1838: [YouTube](https://youtu.be/VGdVbKuHBbo)
 
-<a name="s-janelao"></a>
+   <a name="s-janelao"></a>
 
 1. **JANELÃO** [(Top)](#s-top)
    - Alvo: PORTA DO MEIO;
@@ -361,7 +360,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente até chegar próximo a escada + Arremesso longo;
    - Ref. 141.3019: [YouTube](https://youtu.be/IqoQsa_a7IE)
 
-<a name="s-ligacao"></a>
+   <a name="s-ligacao"></a>
 
 1. **LIGAÇÃO** [(Top)](#s-top)
    - Alvo: ENTRADA DA CAVERNA;
@@ -370,7 +369,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow médio;
    - Ref. 141.3649: [YouTube](https://youtu.be/EFA1SktNFkk)
 
-<a name="s-meio"></a>
+   <a name="s-meio"></a>
 
 1. **MEIO** [(Top)](#s-top)
    - Alvo: PONTE;
@@ -400,7 +399,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 141.3947: [YouTube](https://youtu.be/-99OCt51epM)
 
-<a name="s-paredao"></a>
+   <a name="s-paredao"></a>
 
 1. **PAREDÃO** [(Top)](#s-top)
    - Alvo: VARANDA;
@@ -409,7 +408,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 141.4815: [YouTube](https://youtu.be/ai0EBhURowc)
 
-<a name="s-rato"></a>
+   <a name="s-rato"></a>
 
 1. **RATO** [(Top)](#s-top)
    - Alvo: TUMBA;
@@ -418,7 +417,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 141.5417: [YouTube](https://youtu.be/KoZb09kxOyI)
 
-<a name="s-tetris"></a>
+   <a name="s-tetris"></a>
 
 1. **TETRIS** [(Top)](#s-top)
    - Alvo: LIGAÇÃO;
@@ -441,7 +440,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 141.0945: [YouTube](https://youtu.be/nCACkhXT8HI)
 
-<a name="s-varanda"></a>
+   <a name="s-varanda"></a>
 
 1. **VARANDA** [(Top)](#s-top)
    - Alvo: PORTA DO MEIO;
@@ -465,7 +464,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
 
 [**Barco**](#m-barco) - [**B baixo**](#m-bbaixo) - [**Buraco**](#m-buraco) - [**Canal**](#m-canal) - [**Caverna**](#m-caverna) - [**Céu**](#m-ceu) - [**Esquina**](#m-esquina) - [**Fundo**](#m-fundo) - [**Ligação**](#m-ligacao) - [**Newba**](#m-newba) - [**Paredão**](#m-paredao) - [**Pilar**](#m-pilar) - [**Plataforma**](#m-plataforma) - [**Rato**](#m-rato) - [**Tetris**](#m-tetris) - [**Varanda**](#m-varanda)
 
-<a name="m-=barco"></a>
+   <a name="m-=barco"></a>
 
 1. **BARCO** [(Top)](#m-top)
    - Alvo: CAVERNA;
@@ -509,7 +508,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Jumpthrow longo;
    - Ref. 142.6492: [YouTube](https://youtu.be/Jrpthhw6oG8)
 
-<a name="m-bbaixo"></a>
+   <a name="m-bbaixo"></a>
 
 1. **B BAIXO** [(Top)](#m-top)
    - Alvo: PILAR;
@@ -532,7 +531,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 142.1827: [YouTube](https://youtu.be/JLGOH2JYuM4)
 
-<a name="m-buraco"></a>
+   <a name="m-buraco"></a>
 
 1. **BURACO** [(Top)](#m-top)
    - Alvo: PORTAS;
@@ -541,7 +540,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande para a frente até a mira chegar no guindaste + Arremesso longo;
    - Ref. 142.3677: [YouTube](https://youtu.be/-eFOXtLavBw)
 
-<a name="m-canal"></a>
+   <a name="m-canal"></a>
 
 1. **CANAL** [(Top)](#m-top)
    - Alvo: RATO;
@@ -550,7 +549,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 142.0905: [YouTube](https://youtu.be/sg6u7stgfv0)
 
-<a name="m-caverna"></a>
+   <a name="m-caverna"></a>
 
 1. **CAVERNA, ENTRADA** [(Top)](#m-top)
    - Alvo: CAVERNA;
@@ -587,7 +586,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo;
    - Ref. 142.0928: [YouTube](https://youtu.be/CrlcqOVvdx0)
 
-<a name="m-ceu"></a>
+   <a name="m-ceu"></a>
 
 1. **CÉU** [(Top)](#m-top)
    - Alvo: REDONDO;
@@ -596,7 +595,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo;
    - Ref. 142.7328: [YouTube](https://youtu.be/SxTWUP6IgfQ)
 
-<a name="m-esquina"></a>
+   <a name="m-esquina"></a>
 
 1. **ESQUINA** [(Top)](#m-top)
    - Alvo: PORTAS;
@@ -612,7 +611,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo;
    - Ref. 142.1523: [YouTube](https://youtu.be/H5jXV-FnGF0)
 
-<a name="m-fundo"></a>
+   <a name="m-fundo"></a>
 
 1. **FUNDO** [(Top)](#m-top)
    - Alvo: B BAIXO;
@@ -656,7 +655,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 142.9054: [YouTube](https://youtu.be/2wtLES6z9oE)
 
-<a name="m-ligacao"></a>
+   <a name="m-ligacao"></a>
 
 1. **LIGAÇÃO** [(Top)](#m-top)
    - Alvo: ENTRADA DA CAVERNA;
@@ -665,7 +664,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Jumpthrow médio;
    - Ref. 142.3485: [YouTube](https://youtu.be/v_ktssvD0vs)
 
-<a name="m-newba"></a>
+   <a name="m-newba"></a>
 
 1. **NEWBA** [(Top)](#m-top)
    - Alvo: FUNDO;
@@ -674,7 +673,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 142.1755: [YouTube](https://youtu.be/liuAKtz8OM0)
 
-<a name="m-paredao"></a>
+   <a name="m-paredao"></a>
 
 1. **PAREDÃO** [(Top)](#m-top)
    - Alvo: CAVERNA;
@@ -683,7 +682,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 142.1999: [YouTube](https://youtu.be/52b2AMfxDm4)
 
-<a name="m-pilar"></a>
+   <a name="m-pilar"></a>
 
 1. **PILAR** [(Top)](#m-top)
    - Alvo: FUNDO;
@@ -692,7 +691,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Jumpthrow longo;
    - Ref. 142.6403: [YouTube](https://youtu.be/geGbHZl8Zfo)
 
-<a name="m-plataforma"></a>
+   <a name="m-plataforma"></a>
 
 1. **PLATAFORMA** [(Top)](#m-top)
    - Alvo: BURACO;
@@ -715,7 +714,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo;
    - Ref. 142.4563: [YouTube](https://youtu.be/HwKTiW59A88)
 
-<a name="m-rato"></a>
+   <a name="m-rato"></a>
 
 1. **RATO** [(Top)](#m-top)
    - Alvo: ESCURO;
@@ -731,7 +730,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 142.2310: [YouTube](https://youtu.be/TveB3WL4yeU)
 
-<a name="m-tetris"></a>
+   <a name="m-tetris"></a>
 
 1. **TETRIS** [(Top)](#m-top)
    - Alvo: CÉU;
@@ -754,7 +753,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Jumpthrow longo;
    - Ref. 142.6025: [YouTube](https://youtu.be/jQl8SOPwoXI)
 
-<a name="m-varanda"></a>
+   <a name="m-varanda"></a>
 
 1. **VARANDA** [(Top)](#m-top)
    - Alvo: LIGAÇÃO;
@@ -776,9 +775,9 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
 
 Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
-[**Barco**](#f-barco) - [**B baixo**](#f-bbaixo) - [**Buraco**](#f-buraco) - [**Canal**](#f-canal) - [**Default**](#f-default) - [**Esquina**](#f-esquina) - [**Fundo**](#f-fundo) - [**Janelão**](#f-janelao) - [**Meio**](#f-meio) - [**Newba**](#f-newba) - [**Portas**](#f-portas) - [**Varanda**](#f-varanda)
+[**Barco**](#f-barco) - [**B baixo**](#f-bbaixo) - [**Buraco**](#f-buraco) - [**Canal**](#f-canal) - [**Caverna**](#f-caverna) - [**Default**](#f-default) - [**Esquina**](#f-esquina) - [**Fundo**](#f-fundo) - [**Janelão**](#f-janelao) - [**Meio**](#f-meio) - [**Newba**](#f-newba) - [**Portas**](#f-portas) - [**Varanda**](#f-varanda)
 
-<a name="f-barco"></a>
+   <a name="f-barco"></a>
 
 1. **BARCO** [(Top)](#f-top)
    - Alvo: PAREDÃO; LIGAÇÃO; ALTAR; CÉU; REDONDO;
@@ -801,7 +800,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 143.0623: [YouTube](https://youtu.be/ks83R8xu2U0)
 
-<a name="f-bbaixo"></a>
+   <a name="f-bbaixo"></a>
 
 1. **B BAIXO** [(Top)](#f-top)
    - Alvo: PORTÃO; RATO; FUNDO;
@@ -817,7 +816,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 143.7320: [YouTube](https://youtu.be/6jP4OEzzOV0)
 
-<a name="f-buraco"></a>
+   <a name="f-buraco"></a>
 
 1. **BURACO** [(Top)](#f-top)
    - Alvo: MEIO;
@@ -826,7 +825,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: W + Jumpthrow longo;
    - Ref. 143.0687: [YouTube](https://youtu.be/nljAb3bPpew)
 
-<a name="f-canal"></a>
+   <a name="f-canal"></a>
 
 1. **CANAL** [(Top)](#f-top)
    - Alvo: RATO;
@@ -835,6 +834,8 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Ande para a frente + arremesso longo;
    - Ref. 143.0927: [YouTube](https://youtu.be/uY-nZ6E0P6Y)
 
+   <a name="f-caverna"></a>
+
 1. **CAVERNA** [(Top)](#f-top)
    - Alvo: REDONDO; CÉU; PLATAFORMA;
    - Posição: Dentro da caverna se posicione no lado dos cestos de forma a visualizar a coluna arredondada na parede direita do altar;
@@ -842,7 +843,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 143.0953: [YouTube](https://youtu.be/FkSLt8f59A0)
 
-<a name="f-default"></a>
+   <a name="f-default"></a>
 
 1. **DEFAULT** [(Top)](#f-top)
    - Alvo: RATO;
@@ -851,7 +852,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Jumpthrow longo;
    - Ref. 143.3456: [YouTube](https://youtu.be/OmhtS2mdxvw)
 
-<a name="f-esquina"></a>
+   <a name="f-esquina"></a>
 
 1. **ESQUINA** [(Top)](#f-top)
    - Alvo: JANELÃO; PORTAS;
@@ -874,7 +875,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 143.6449: [YouTube](https://youtu.be/uAxaiK_xeuY)
 
-<a name="f-fundo"></a>
+   <a name="f-fundo"></a>
 
 1. **FUNDO** [(Top)](#f-top)
    - Alvo: TUMBA; NEWBA; RATO; PILAR;
@@ -883,7 +884,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 143.1823: [YouTube](https://youtu.be/8eBercwJINY)
 
-<a name="f-janelao"></a>
+   <a name="f-janelao"></a>
 
 1. **JANELÃO** [(Top)](#f-top)
    - Alvo: PORTA DO MEIO; TUMBA;
@@ -899,7 +900,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: W + Arremesso longo;
    - Ref. 143.7456: [YouTube](https://youtu.be/YTHBqrk2fEc)
 
-<a name="f-meio"></a>
+   <a name="f-meio"></a>
 
 1. **MEIO** [(Top)](#f-top)
    - Alvo: PONTE;
@@ -908,7 +909,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 143.7662: [YouTube](https://youtu.be/wrBoHFjx0FA)
 
-<a name="f-newba"></a>
+   <a name="f-newba"></a>
 
 1. **NEWBA** [(Top)](#f-top)
    - Alvo: FUNDO;
@@ -924,7 +925,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Jumpthrow longo;
    - Ref. 143.4229: [YouTube](https://youtu.be/N4yqSx1unjM)
 
-<a name="f-portas"></a>
+   <a name="f-portas"></a>
 
 1. **PORTAS** [(Top)](#f-top)
    - Alvo: ESQUINA; PALMEIRA;
@@ -961,7 +962,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 143.4862: [YouTube](https://youtu.be/CtYNBBf_mNc)
 
-<a name="f-varanda"></a>
+   <a name="f-varanda"></a>
 
 1. **VARANDA** [(Top)](#f-top)
    - Alvo: CAVERNA;
@@ -985,7 +986,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 [**B baixo**](#h-bbaixo) - [**Caverna**](#h-caverna) - [**Fundo**](#h-fundo) - [**Plataforma**](#h-plataforma) - [**Rato**](#h-rato)
 
-<a name="h-bbaixo"></a>
+   <a name="h-bbaixo"></a>
 
 1. **B BAIXO** [(Top)](#h-top)
    - Alvo: PILAR;
@@ -1001,7 +1002,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 144.4598: [YouTube](https://youtu.be/o1zcSX-is7A)
 
-<a name="h-caverna"></a>
+   <a name="h-caverna"></a>
 
 1. **CAVERNA** [(Top)](#h-top)
    - Alvo: ALTAR;
@@ -1010,7 +1011,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Arremesso longo;
    - Ref. 144.4956: [YouTube](https://youtu.be/65w-JcR9cCc)
 
-<a name="h-fundo"></a>
+   <a name="h-fundo"></a>
 
 1. **FUNDO** [(Top)](#h-top)
    - Alvo: B BAIXO;
@@ -1033,7 +1034,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Jumpthrow longo;
    - Ref. 144.6432: [YouTube](https://youtu.be/bna85uOzO2g)
 
-<a name="h-plataforma"></a>
+   <a name="h-plataforma"></a>
 
 1. **PLATAFORMA** [(Top)](#h-top)
    - Alvo: BURACO;
@@ -1042,7 +1043,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 144.4836: [YouTube](https://youtu.be/1WBA6eLCwpw)
 
-<a name="h-rato"></a>
+   <a name="h-rato"></a>
 
 1. **RATO** [(Top)](#h-top)
    - Alvo: ESCURO;
