@@ -31,7 +31,7 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Beco**](#s-beco) - [**Boltz**](#s-boltz) - [**Bomb b**](#s-bombb) - [**Cabecinha**](#s-cabecinha) - [**Caverna**](#s-caverna) - [**Caverna TR**](#s-cavernatr) - [**Carroça**](#s-carroca) - [**Jungle**](#s-jungle) - [**Meio**](#s-meio) - [**Meio falso**](#s-meiofalso) - [**Mercado**](#s-mercado) - [**Palácio**](#s-palacio) - [**Passagem carroça**](#s-passagemcarroca) - [**Plataforma**](#s-plataforma) - [**Rato**](#s-rato) - [**TV**](#s-tv) - [**Taco**](#s-taco) - [**Tetris**](#s-tetris) - [**Van**](#s-van)
+[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Beco**](#s-beco) - [**Boltz**](#s-boltz) - [**Bomb b**](#s-bombb) - [**Cabecinha**](#s-cabecinha) - [**Caverna**](#s-caverna) - [**Caverna TR**](#s-cavernatr) - [**Carroça**](#s-carroca) - [**Jungle**](#s-jungle) - [**L**](#s-l) - [**Meio**](#s-meio) - [**Meio falso**](#s-meiofalso) - [**Mercado**](#s-mercado) - [**Palácio**](#s-palacio) - [**Passagem carroça**](#s-passagemcarroca) - [**Plataforma**](#s-plataforma) - [**Rato**](#s-rato) - [**TV**](#s-tv) - [**Taco**](#s-taco) - [**Tetris**](#s-tetris) - [**Van**](#s-van)
 
 <a name="s-basect"></a>
 
@@ -115,6 +115,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 131.6492: [YouTube](https://youtu.be/x2Pz56QzhwE)
 
 1. **BASE TR** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: Posicione-se próximo a quina de uma pequena parede na saída para a caverna TR;
+   - Mira: Alinhe a mira verticalmente com a quina do telhado e horizontalmente com uma tênue mancha escura na parede;
+   - Execução: W + Jumpthrow;
+   - Ref. 131.6220: [YouTube](https://youtu.be/ebUX55AarB0)
+
+1. **BASE TR** [(Top)](#s-top)
    - Alvo: PASSAGEM EDWARD;
    - Posição: Encostado na frente da lixeira;
    - Mira: Mire na ponta da folha central no topo da construção;
@@ -141,6 +148,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire no terceiro losango, da Dir para a Esq. na parte inferior do tapete;
    - Execução: Jumpthrow longo;
    - Ref. 131.2544: [YouTube](https://youtu.be/Uqlj_ydElrQ)
+
+1. **BASE TR** [(Top)](#s-top)
+   - Alvo: LIGAÇÃO BAIXO;
+   - Posição: Suba na lixeira encostada no canto da parede;
+   - Mira: Mire na junção direita do tapete com a base do parapeito;
+   - Execução: Agache + Jumpthrow;
+   - Ref. 131.4533: [YouTube](https://youtu.be/NuNusxVSbd0)
 
 1. **BASE TR (1/2)** [(Top)](#s-top)
    - Alvo: JUNGLE;
@@ -466,6 +480,15 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 131.6520: [YouTube](https://youtu.be/ZP6d6BfEubo)
 
+<a name="s-l"></a>
+
+1. **L** [(Top)](#s-top)
+   - Alvo: PALÁCIO;
+   - Posição: Posicione-se no canto da parede com a pilha de tijolos próximo a porta do Moscou;
+   - Mira: Mire em qualquer região entre a ponta da folha de coqueiro e a antena do tipo espinha de peixe;
+   - Execução: Jumpthrow longo;
+   - Ref. 131.8701: [YouTube](https://youtu.be/cvd6pCh-UHM)
+
 <a name="s-meio"></a>
 
 1. **MEIO** [(Top)](#s-top)
@@ -704,7 +727,16 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Bomb B**](#m-bombb) - [**Carroça**](#m-carroca) - [**Caverna**](#m-caverna) - [**Cozinha**](#m-cozinha) - [**Edward**](#m-edward) - [**Janelão**](#m-janelao) - [**Jungle**](#m-jungle) - [**L**](#m-l) - [**Ligação**](#m-ligacao) - [**Meio**](#m-meio) - [**Mercado**](#m-mercado) - [**Passagem carroça**](#m-passagemcarroca) - [**Palácio**](#m-palacio) - [**Plataforma**](#m-plataforma) - [**Rato**](#m-rato) - [**Taco**](#m-taco) - [**Tapete**](#m-tapete) - [**Tetris**](#m-tetris)
+[**Boltz**](#m-boltz) - [**Bomb B**](#m-bombb) - [**Carroça**](#m-carroca) - [**Caverna**](#m-caverna) - [**Cozinha**](#m-cozinha) - [**Edward**](#m-edward) - [**Janelão**](#m-janelao) - [**Jungle**](#m-jungle) - [**L**](#m-l) - [**Ligação**](#m-ligacao) - [**Meio**](#m-meio) - [**Mercado**](#m-mercado) - [**Passagem carroça**](#m-passagemcarroca) - [**Palácio**](#m-palacio) - [**Plataforma**](#m-plataforma) - [**Rato**](#m-rato) - [**Taco**](#m-taco) - [**Tapete**](#m-tapete) - [**Tetris**](#m-tetris)
+
+<a name="m-boltz"></a>
+
+1. **Boltz** [(Top)](#m-top)
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se na região atrás da caixa Boltz;
+   - Mira: Mire na ponta branca da torre acima da entrada da caverna;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 132.6432: [YouTube](https://youtu.be/EqGtUuJhlXM)
 
 <a name="m-bombb"></a>
 
