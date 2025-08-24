@@ -966,6 +966,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 123.3548: [YouTube](https://youtu.be/Yv8IOUb1q90)
 
+1. **TAPETE, ESCADA DO** [(Top)](#f-top)
+   - Alvo: TAPETE;
+   - Posição: Posicione-se na quina da parede antes de subir a escada para o tapete da B;
+   - Mira: No lance de escada na altura do corrimão, localize a segunda divisória do piso. Agache e mire ligeiramente à direita dessa divisória e no meio do espelho da escada;
+   - Execução: Arremesso longo;
+   - Ref. 143.2110: [YouTube](https://youtu.be/vyp0-sELKEo)
+
 <a name="h-top"></a>
 
 ## High Explosive (HE)
