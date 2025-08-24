@@ -21,7 +21,7 @@ hyperrefoptions:
 - pdfwindowui
 ---
 
-# INFERNO (+136 utilitárias)
+# INFERNO (+130 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
 
@@ -33,9 +33,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 [**Arco**](#s-arco) - [**Areia**](#s-areia) - [**Areia 2**](#s-areia2)- [**Banana**](#s-banana) - [**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Bomb B**](#s-bombb) - [**Corredor CT**](#s-corredorct) - [**CT**](#s-ct) - [**Caixão**](#s-caixao) - [**Carro**](#s-carro) - [**Caverna**](#s-caverna) - [**Cogu**](#s-cogu) - [**Head Shot**](#s-headshot) - [**Meio**](#s-meio) - [**Meio falso**](#s-meiofalso) - [**Nip**](#s-nip) - [**Piscina**](#s-piscina) - [**Sanduíche**](#s-sanduiche) - [**Tapete**](#s-tapete)
 
-<a href="#s-arco"></a>
+   <a href="#s-arco"></a>
 
-1. **ARCO**
+1. **ARCO** [(Top)](#s-top) 
    - Alvo: VARANDA; HEAD SHOT;
    - Posição: Posicione-se com o pé esquerdo no jardim, ao lado da caixa de correio vermelha;
    - Mira: Mire na parte de baixo do círculo, alinhado com a fina rachadura;
@@ -63,16 +63,16 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 121.6532: [YouTube](https://youtu.be/jDhw6_M19I8)
 
-<a name="s-areia"></a>
+   <a name="s-areia"></a>
 
-1. **AREIA** [(Top)](#s-top)
+1. **AREIA** [(Top)](#s-top) 
    - Alvo: FALLEN;
    - Posição: Pare no canto da coluna à direita do barril com a parede do fundo da região da areia;
    - Mira: Mire na junção do telhado com uma viga de madeira acima da região do bomb A;
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 121.1099: [YouTube](https://youtu.be/6UysNmzSLDw)
 
-<a name="s-areia2"></a>
+   <a name="s-areia2"></a>
 
 1. **AREIA 2** [(Top)](#s-top)
    - Alvo: FALLEN;
@@ -81,7 +81,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.7401: [YouTube](https://youtu.be/Mz7STU_3-xg)
 
-<a name="s-banana"></a>
+   <a name="s-banana"></a>
 
 1. **BANANA** [(Top)](#s-top)
    - Alvo: PEZINHO CT;
@@ -125,7 +125,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.8459: [YouTube](https://youtu.be/wE_fPWN3vTo)
 
-<a name="s-basect"></a>
+   <a name="s-basect"></a>
 
 1. **BASE CT** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -169,7 +169,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: W + Jumpthrow longo;
    - Ref. 121.6534: [YouTube](https://youtu.be/WX2EI8hSpGA)
 
-<a name="s-basetr"></a>
+   <a name="s-basetr"></a>
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: BANANA;
@@ -220,7 +220,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.0977: [YouTube](https://youtu.be/hF04CE9pYBo)
 
-<a name="s-bombb"></a>
+   <a name="s-bombb"></a>
 
 1. **BOMB B** [(Top)](#s-top)
    - Alvo: CARRO;
@@ -229,7 +229,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.7011: [YouTube](https://youtu.be/hQ0VL-3E2kk)
 
-<a name="s-corredorct"></a>
+   <a name="s-corredorct"></a>
 
 1. **CORREDOR CT** [(Top)](#s-top)
    - Alvo: CT;
@@ -238,7 +238,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 121.2255: [YouTube](https://youtu.be/eFMO97SMzs4)
 
-<a name="s-ct"></a>
+   <a name="s-ct"></a>
 
 1. **CT** [(Top)](#s-top)
    - Alvo: BANANA;
@@ -254,7 +254,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 121.4923: [YouTube](https://youtu.be/w_bzAR39sfA)
 
-<a name="s-caixao"></a>
+   <a name="s-caixao"></a>
 
 1. **CAIXÃO** [(Top)](#s-top)
    - Alvo: BANANA;
@@ -263,7 +263,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.5309: [YouTube](https://youtu.be/ZGKxxcDwcho)
 
-<a name="s-carro"></a>
+   <a name="s-carro"></a>
 
 1. **CARRO** [(Top)](#s-top)
    - Alvo: CAIXÃO;
@@ -293,7 +293,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.5430: [YouTube](https://youtu.be/H1rlywQeiLs)
 
-<a name="s-caverna"></a>
+   <a name="s-caverna"></a>
 
 1. **CAVERNA** [(Top)](#s-top)
    - Alvo: NIP;
@@ -302,7 +302,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.4779: [YouTube](https://youtu.be/GNhWQTlA-ys)
 
-<a name="s-cogu"></a>
+   <a name="s-cogu"></a>
 
 1. **COGU** [(Top)](#s-top)
    - Alvo: TELHADO DO COGU;
@@ -311,7 +311,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso curto;
    - Ref. 121.1003: [YouTube](https://youtu.be/HtUwmwLRLFw)
 
-<a name="s-headshot"></a>
+   <a name="s-headshot"></a>
 
 1. **HEAD SHOT, FRENTE** [(Top)](#s-top)
    - Alvo: FALLEN;
@@ -320,7 +320,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: W + Jumpthrow longo;
    - Ref. 121.2384: [YouTube](https://youtu.be/XB3eBEELZ0g)
 
-<a name="s-meio"></a>
+   <a name="s-meio"></a>
 
 1. **MEIO** [(Top)](#s-top)
    - Alvo: AREIA 2;
@@ -371,7 +371,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 121.4063: [YouTube](https://youtu.be/9fFmofRrChA)
 
-<a name="s-meiofalso"></a>
+   <a name="s-meiofalso"></a>
 
 1. **MEIO FALSO** [(Top)](#s-top)
    - Alvo: ADEGA/BIBLIOTECA;
@@ -443,7 +443,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.5102: [YouTube](https://youtu.be/7l6gAK6RKIY)
 
-<a name="s-nip"></a>
+   <a name="s-nip"></a>
 
 1. **NIP** [(Top)](#s-top)
    - Alvo: FALLEN;
@@ -452,7 +452,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 121.6499: [YouTube](https://youtu.be/DPF3Q5YDF64)
 
-<a name="s-piscina"></a>
+   <a name="s-piscina"></a>
 
 1. **PISCINA** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -470,7 +470,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso médio; (Complementar com a molotov 122.5320)
    - Ref. 121.5320: [YouTube](https://youtu.be/6qG6OSwGrQE)
 
-<a name="s-tapete"></a>
+   <a name="s-tapete"></a>
 
 1. **TAPETE** [(Top)](#s-top)
    - Alvo: AREIA 2;
@@ -495,7 +495,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
 [**Arco**](#m-arco) - [**Areia 2**](#m-areia2)- [**Banana**](#m-banana) - [**Bomb B**](#m-bombb) - [**CT**](#m-ct) - [**Caixão**](#m-caixao) - [**Campanário**](#m-campanário) - [**Carro**](#m-carro) - [**Cimento**](#m-cimento) - [**Fallen**](#m-fallen) - [**Igreja**](#m-igreja) - [**Meio**](#m-meio) - [**Meio falso**](#m-meiofalso) - [**Sanduíche**](#m-sanduiche) - [**Tapete**](#m-tapete)
 
 
-<a name="m-arco"></a>
+   <a name="m-arco"></a>
 
 1. **ARCO** [(Top)](#m-top)
    - Alvo: ESCURO DA A;
@@ -525,7 +525,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: W + Jumpthrow longo;
    - Ref. 122.0034: [YouTube](https://youtu.be/If3MXcM9SLY)
 
-<a name="m-areia2"></a>
+   <a name="m-areia2"></a>
 
 1. **AREIA 2** [(Top)](#m-top)
    - Alvo: TAPETE DA A;
@@ -534,7 +534,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 122.3940: [YouTube](https://youtu.be/XmBYUCLHK-U)
 
-<a name="m-banana"></a>
+   <a name="m-banana"></a>
 
 1. **BANANA** [(Top)](#m-top)
    - Alvo: CAIXÃO;
@@ -557,7 +557,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 122.1824: [YouTube](https://youtu.be/x7TMhtrXzoY)
 
-<a name="m-bombb"></a>
+   <a name="m-bombb"></a>
 
 1. **BOMB B** [(Top)](#m-top)
    - Alvo: CARRO;
@@ -566,7 +566,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Jumpthrow longo;
    - Ref. 122.7011: [YouTube](https://youtu.be/w6-oqJuAlH4)
 
-<a name="m-ct"></a>
+   <a name="m-ct"></a>
 
 1. **CT** [(Top)](#m-top)
    - Alvo: ESCURO;
@@ -617,7 +617,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 122.2587: [YouTube](https://youtu.be/Le_Hss3fwsM)
 
-<a name="m-caixao"></a>
+   <a name="m-caixao"></a>
 
 1. **CAIXÃO** [(Top)](#m-top)
    - Alvo: ESCURO;
@@ -633,7 +633,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Jumpthrow longo;
    - Ref. 122.3766: [YouTube](https://youtu.be/7CgXmpO1G0U)
 
-<a name="m-campanario"></a>
+   <a name="m-campanario"></a>
 
 1. **CAMPANÁRIO** [(Top)](#m-top)
    - Alvo: HEAD SHOT;
@@ -656,7 +656,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 122.4577: [YouTube](https://youtu.be/Hgn5uyIyPaQ)
 
-<a name="m-carro"></a>
+   <a name="m-carro"></a>
 
 1. **CARRO** [(Top)](#m-top)
    - Alvo: BTT;
@@ -707,7 +707,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo;
    - Ref. 122.8730: [YouTube](https://youtu.be/NjQmNrbSuro)
 
-<a name="m-cimento"></a>
+   <a name="m-cimento"></a>
 
 1. **CIMENTO** [(Top)](#m-top)
    - Alvo: ESCURO;
@@ -723,7 +723,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 122.2845: [YouTube](https://youtu.be/qwxd_NY-sa4)
 
-<a name="m-fallen"></a>
+   <a name="m-fallen"></a>
 
 1. **FALLEN** [(Top)](#m-top)
    - Alvo: BANANA (MADEIRA)
@@ -732,7 +732,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Jumpthrow longo;
    - Ref. 122.9377: [YouTube](https://youtu.be/EGUK3b8sUnE)
 
-<a name="m-igreja"></a>
+   <a name="m-igreja"></a>
 
 1. **IGREJA**
    - Alvo: CIMENTO DO BOMB B;
@@ -741,7 +741,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo;
    - Ref. 122.0933: [YouTube](https://youtu.be/eYM7z2vZjoc)
 
-<a name="m-meio"></a>
+   <a name="m-meio"></a>
 
 1. **MEIO** [(Top)](#m-top)
    - Alvo: COGU;
@@ -750,7 +750,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 122.3222: [YouTube](https://youtu.be/ZWHtVL0Uvvk)
 
-<a name="m-meiofalso"></a>
+   <a name="m-meiofalso"></a>
 
 1. **MEIO FALSO** [(Top)](#m-top)
    - Alvo: JANELÃO;
@@ -759,7 +759,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Corra até passar a ponte + Jumpthrow longo;
    - Ref. 122.0027: [YouTube](https://youtu.be/eY1kh1v_0Pg)
 
-<a name="m-sanduiche"></a>
+   <a name="m-sanduiche"></a>
 
 1. **SANDUÍCHE** [(Top)](#m-top)
    - Alvo: CARRO;
@@ -768,7 +768,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo; (Complementar com a smoke 121.5320)
    - Ref. 122.5320: [YouTube](https://youtu.be/NxtdS-F-azE)
 
-<a name="m-tapete"></a>
+   <a name="m-tapete"></a>
 
 1. **TAPETE** [(Top)](#m-top)
    - Alvo: DEFAULT;
@@ -799,7 +799,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
 
 [**Arco**](#f-arco) - [**Areia 2**](#f-areia2)- [**Banana**](#f-banana) - [**Base TR**](#f-basetr) - [**Bomb B**](#f-bombb) - [**Caixão**](#f-caixao) - [**Carro**](#f-carro) - [**Cimento**](#f-cimento) - [**CT**](#f-ct) - [**Tapete**](#f-tapete)
 
-<a name="f-arco"></a>
+   <a name="f-arco"></a>
 
 1. **ARCO** [(Top)](#f-top)
    - Alvo: XUXA; TAPETE; CEMITÉRIO; HEAD SHOT;
@@ -815,7 +815,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 123.6532: [YouTube](https://youtu.be/p2XTrCmmVqE)
 
-<a name="f-areia2"></a>
+   <a name="f-areia2"></a>
 
 1. **AREIA 2** [(Top)](#f-top)
    - Alvo: TAPETE;
@@ -824,7 +824,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 123.1169: [YouTube](https://youtu.be/fMoL4DIC54g)
 
-<a name="f-banana"></a>
+   <a name="f-banana"></a>
 
 1. **BANANA** [(Top)](#f-top)
    - Alvo: BOMB B; TRIPLA; CAIXÃO; ESCURO; CT;
@@ -861,7 +861,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Jumpthrow longo;
    - Ref. 123.0943: [YouTube](https://youtu.be/DyHKgt2Yj8Y)
 
-<a name="f-basetr"></a>
+   <a name="f-basetr"></a>
 
 1. **BASE TR, SAÍDA** [(Top)](#f-top)
    - Alvo: BANANA; CARRO;
@@ -884,7 +884,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Jumpthrow longo;
    - Ref. 123.2559: [YouTube](https://youtu.be/ICdLE5_1P5A)
 
-<a name="f-bombb"></a>
+   <a name="f-bombb"></a>
 
 1. **BOMB B** [(Top)](#f-top)
    - Alvo: BANANA;
@@ -893,7 +893,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 123.4771: [YouTube](https://youtu.be/VR9qRwp4ANs)
 
-<a name="f-caixao"></a>
+   <a name="f-caixao"></a>
 
 1. **CAIXÃO** [(Top)](#f-top)
    - Alvo: CARRO; BANANA;
@@ -909,7 +909,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Jumpthrow longo;
    - Ref. 123.8700: [YouTube](https://youtu.be/wHsxgFBbIWs)
 
-<a name="f-carro"></a>
+   <a name="f-carro"></a>
 
 1. **CARRO** [(Top)](#f-top)
    - Alvo: BOMB B; TRIPLA; CAIXÃO; ESCURO; CT;
@@ -925,7 +925,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 123.7323: [YouTube](https://youtu.be/eKz8aw7_-m8)
 
-<a name="f-cimento"></a>
+   <a name="f-cimento"></a>
 
 1. **CIMENTO** [(Top)](#f-top)
    - Alvo: BANANA;
@@ -934,7 +934,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso médio;
    - Ref. 123.6740: [YouTube](https://youtu.be/dqrCO1vPA7Q)
 
-<a name="f-ct"></a>
+   <a name="f-ct"></a>
 
 1. **CT** [(Top)](#f-top)
    - Alvo: BANANA;
@@ -943,7 +943,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 123.9088: [YouTube](https://youtu.be/tpLzGsnNh9U)
 
-<a name="f-tapete"></a>
+   <a name="f-tapete"></a>
 
 1. **TAPETE** [(Top)](#f-top)
    - Alvo: AREIA; BOMB A; ADEGA;
@@ -981,7 +981,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 [**Arco**](#h-arco) - [**Areia 2**](#h-areia2)- [**BTT**](#h-btt) - [**Caixão**](#h-caixao) - [**Carro**](#h-carro) - [**CT**](#h-ct) - [**Fallen**](#h-fallen) - [**Tapete**](#h-tapete)
 
-<a name="h-arco"></a>
+   <a name="h-arco"></a>
 
 1. **ARCO** [(Top)](#h-top)
    - Alvo: DEFAULT;
@@ -990,7 +990,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Jumpthrow longo;
    - Ref. 124.2751: [YouTube](https://youtu.be/s2aTiUCDeco)
 
-<a name="h-areia2"></a>
+   <a name="h-areia2"></a>
 
 1. **AREIA 2** [(Top)](#h-top)
    - Alvo: TAPETE;
@@ -999,7 +999,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 124.3900: [YouTube](https://youtu.be/ynMEdJ2J2xk)
 
-<a name="h-btt"></a>
+   <a name="h-btt"></a>
 
 1. **BTT** [(Top)](#h-top)
    - Alvo: MURETA DA BANANA;
@@ -1008,7 +1008,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Jumpthrow longo;
    - Ref. 124.7008: [YouTube](https://youtu.be/MKSDAlMH7T0)
 
-<a name="h-caixao"></a>
+   <a name="h-caixao"></a>
 
 1. **CAIXÃO** [(Top)](#h-top)
    - Alvo: MURETA DA BANANA;
@@ -1017,7 +1017,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 124.6930: [YouTube](https://youtu.be/ki8M4X3I75c)
 
-<a name="h-carro"></a>
+   <a name="h-carro"></a>
 
 1. **CARRO** [(Top)](#h-top)
    - Alvo: CAVERNA;
@@ -1040,7 +1040,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Jumpthrow longo;
    - Ref. 124.6490: [YouTube](https://youtu.be/TPCYAD3QcH4)
 
-<a name="h-ct"></a>
+   <a name="h-ct"></a>
 
 1. **CT** [(Top)](#h-top)
    - Alvo: TRIPLA;
@@ -1063,7 +1063,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Jumpthrow longo;
    - Ref. 124.0352: [YouTube](https://youtu.be/4T-7aIbOIwc)
 
-<a name="h-fallen"></a>
+   <a name="h-fallen"></a>
 
 1. **FALLEN** [(Top)](#h-top)
    - Alvo: MURETA DA BANANA;
@@ -1086,7 +1086,7 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Arremesso longo;
    - Ref. 124.3597: [YouTube](https://youtu.be/4A9F86CR6AQ)
 
-<a name="h-tapete"></a>
+   <a name="h-tapete"></a>
 
 1. **TAPETE** [(Top)](#h-top)
    - Alvo: AREIA;
