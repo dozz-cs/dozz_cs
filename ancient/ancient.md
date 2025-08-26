@@ -629,10 +629,18 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
 
 Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**Flash**](#flash)   
 
-[**CT da B**](#f-ctdab)
+[**Banana**](#h-banana) - [**CT da B**](#h-ctdab) - [**L**](#h-l)
+
+   <a name="h-banana"></a>
+
+1. **BANANA** [(Top)](#h-top)
+   - Alvo: PILAR;
+   - Posição: Encoste na parede do fundo e de frente para a coluna de pedras na região do quebrado;
+   - Mira: Mire à direita da coluna de pedra e um pouco acima da base da coluna, em uma pequena região lascada;
+   - Execução: Jumpthrow longo;
+   - Ref. 154.2093: [YouTube](https://youtu.be/DXmHm_YCngE);
 
    <a name="h-ctdab"></a>
-
 1. **CT DA B** [(Top)](#h-top)
    - Alvo: BANANA;
    - Posição: Posicione-se próximo a quina da parede próximo a entrada do escuro;
@@ -640,6 +648,13 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**Flash**](#flash)
    - Execução: Arremesso longo;
    - Ref. 154.7829: [YouTube](https://youtu.be/T-NWcSkU1TY);
 
+   <a name="h-l"></a>
+1. **L** [(Top)](#h-top)
+   - Alvo: PILAR;
+   - Posição: Posicione-se no meio do corredor de modo a visualizar a parede antes da entrada para o escuro;
+   - Mira: Mire no topo dessa parede, próximo a marcação horizontal;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 154.0477: [YouTube](https://youtu.be/ZMMFaaHDRs4);
 
 ## Referências
  
