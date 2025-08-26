@@ -86,7 +86,7 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: JANELÃO;
-   - Posição: No canto do muro com a pedra localizada à esquerda da ponte;
+   - Posição: Posicione-se no canto do muro com a pedra localizada à esquerda da ponte;
    - Mira: Mire em uma tênue mancha escura no galho direito da árvore logo acima da marcação horizontal na parede;
    - Execução: W + Jumpthrow longo;
    - Ref. 151.5346: [YouTube](https://youtu.be/m9Jfnj6lIKg);
