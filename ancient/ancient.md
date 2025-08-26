@@ -85,6 +85,13 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Ref. 151.6498: [YouTube](https://youtu.be/6t9p1H95KCs);
 
 1. **BASE TR** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: No canto do muro com a pedra localizada à esquerda da ponte;
+   - Mira: Mire em uma tênue mancha escura no galho direito da árvore logo acima da marcação horizontal na parede;
+   - Execução: W + Jumpthrow longo;
+   - Ref. 151.5346: [YouTube](https://youtu.be/m9Jfnj6lIKg);
+
+1. **BASE TR** [(Top)](#s-top)
    - Alvo: ENTRADA DA LIGAÇÃO;
    - Posição: Posicione-se no canto da pedra com a parede esquerda da base TR
    - Mira: Mire no meio do retângulo escuro a frente e acima da decoração da parede;
@@ -407,7 +414,7 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
 
 Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
 
-[**Banana**](#m-banana) - [**Boca do Fundo**](#m-bocadofundo) - [**Corredor**](#m-corredor) - [**CT da B**](#m-ctdab) -  [**L**](#m-l) - [**Ligação**](#m-ligacao) - [**Porta**](#m-porta) - [**Quadrado da B**](#m-quadradodab) - [**Sol**](#m-sol) - [**Sombra**](#m-sombra)
+[**Banana**](#m-banana) - [**Boca do Fundo**](#m-bocadofundo) - [**Caverna**](#m-caverna) - [**Corredor**](#m-corredor) - [**CT da B**](#m-ctdab) -  [**L**](#m-l) - [**Ligação**](#m-ligacao) - [**Porta**](#m-porta) - [**Quadrado da B**](#m-quadradodab) - [**Sol**](#m-sol) - [**Sombra**](#m-sombra)
 
    <a name="m-banana"></a>
 
@@ -425,6 +432,16 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 152.0925: [YouTube](https://youtu.be/gdD8UlHLgY0);
 
+
+   <a name="m-caverna"></a>
+
+1. **CAVERNA** [(Top)](#m-top)
+   - Alvo: ESQUINA;
+   - Posição: Posicione-se na região antes de subir a escada;
+   - Mira: Mire no canto superior direito do janelão;
+   - Execução: Ande para a frente até chegar no meio da escada + Arremesso longo;
+   - Ref. 152.8634: [YouTube](https://youtu.be/jIT1osNUt_w);
+
    <a name="m-bocadofundo"></a>
 
 1. **BOCA DO FUNDO** [(Top)](#m-top)
@@ -440,6 +457,20 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Mira: Mire no meio e na linha horizontal da decoração no alto da construção;
    - Execução: Ande ligeiramente para a frente + arremesso longo;
    - Ref. 152.8623: [YouTube](https://youtu.be/h3o5DJwbrH4);
+
+1. **BOCA DO FUNDO** [(Top)](#m-top)
+   - Alvo: CAIXA FOGO;
+   - Posição: Posicione-se à direita da saída da boca do fundo de frente para a região da árvore;
+   - Mira: Mire na decoração no telhado na direção da caixa-fogo;
+   - Execução: Arremesso longo;
+   - Ref. 152.6002: [YouTube](https://youtu.be/4CfuOYy3glc);
+
+1. **BOCA DO FUNDO** [(Top)](#m-top)
+   - Alvo: CT;
+   - Posição: Posicione-se à direita da saída da boca do fundo de frente para a região da árvore;
+   - Mira: Mire entre as quinas das construções na direção do CT;
+   - Execução: Arremesso longo;
+   - Ref. 152.2744: [YouTube](https://youtu.be/09qIrIJ--Rk);
 
    <a name="m-corredor"></a>
 
