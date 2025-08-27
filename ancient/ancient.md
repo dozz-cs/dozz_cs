@@ -427,11 +427,17 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
 
 1. **BANANA** [(Top)](#m-top)
    - Alvo: ENTRADA DO ESCURO;
-   - Posição: Posiciona-se no lado direito da porta, em frente a pedra com mais argamassa em volta;
+   - Posição: Posiciona-se no lado direito da porta, em frente a pedra cercada por argamassa, próximo a porta;
    - Mira: Mire na parede do fundo à direita do tecido azul;
    - Execução: Arremesso longo;
    - Ref. 152.0925: [YouTube](https://youtu.be/gdD8UlHLgY0);
 
+1. **BANANA** [(Top)](#h-top)
+   - Alvo: PILAR;
+   - Posição: Encoste na parede do fundo e de frente para a coluna de pedras na região do quebrado;
+   - Mira: Mire à direita da coluna de pedra na altura da junção das pedras;
+   - Execução: Jumpthrow médio;
+   - Ref. 152.4563: [YouTube](https://youtu.be/jh3llXRvFJc);
 
    <a name="m-caverna"></a>
 
@@ -494,10 +500,17 @@ Ir para: [**Smoke**](#Smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
 
 1. **L** [(Top)](#m-top)
    - Alvo: PILAR;
-   - Posição: Encoste na quina da parede do fundo;
+   - Posição: Encoste na canto da parede do fundo;
    - Mira: Mire à esquerda da primeira marcação vertical da coluna central do grande quadrado;
    - Execução: Jumpthrow médio;
    - Ref. 152.8422: [YouTube](https://youtu.be/xCNL2Iu7w4k);
+
+1. **L** [(Top)](#m-top)
+   - Alvo: PILAR;
+   - Posição: Pare próximo a quina direita do grande quadrado de forma que seja possível visualizar a parede próximo a entrada para o escuro;
+   - Mira: Mire na parede na altura do topo da porta para o escuro;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 152.8734: [YouTube](https://youtu.be/elQ7hfzqbGE);
 
    <a name="m-ligacao"></a>
 
