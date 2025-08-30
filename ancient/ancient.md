@@ -72,17 +72,17 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: JANELÃO;
-   - Posição: Posicione-se do lado direito, atrás da coluna da ponte de forma a visualizar as pedras no topo da construção;
+   - Posição: Posicione-se do lado direito e atrás da coluna da ponte de forma a visualizar as pedras no topo da construção;
    - Mira: Mire no topo da construção próximo as folhas da árvore;
    - Execução: Jumpthrow longo;
    - Ref. 151.1744: [YouTube](https://youtu.be/MR-ADW1XJek);
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: JANELÃO;
-   - Posição: Posicione-se no lado esquerdo da coluna da ponte, alinhe-se com a quina da coluna;
-   - Mira: Mire na junção das pedras superiores esquerdas do arco da porta alinhado com a marcação horizontal à esquerda;
+   - Posição: Posicione-se do lado esquerdo e atrás da coluna da ponte de forma a visualizar as pedras no topo da construção;
+   - Mira: Mire no topo da construção encoberto pelas folhas da árvore;
    - Execução: Jumpthrow longo;
-   - Ref. 151.6498: [YouTube](https://youtu.be/6t9p1H95KCs);
+   - Ref. 151.6498: [YouTube](https://youtu.be/R3sdMaIOPZA);
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: JANELÃO;
