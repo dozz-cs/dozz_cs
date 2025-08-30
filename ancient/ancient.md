@@ -595,6 +595,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Execução: Jumpthrow  longo;
    - Ref. 153.4390: [YouTube](https://youtu.be/1U5KYiJI-d0);
 
+1. **BASE TR** [(Top)](#f-top)
+   - Alvo: MEIO; COM SAÍDA; VARANDA; JANELÃO;
+   - Posição: Pare em frente a placa azul de indicativo do bomb B, próximo a saída do túnel; 
+   - Mira: Mire na ponta da folha da helicônia logo a frente;
+   - Execução: W + Jumpthrow longo;
+   - Ref. 153.0551: [YouTube](https://youtu.be/am2lODBcTZg);
+
    <a name="f-bocadofundo"></a>
 
 1. **BOCA DO FUNDO** [(Top)](#f-top)
