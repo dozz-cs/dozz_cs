@@ -23,7 +23,7 @@ hyperLinkoptions:
 
 <a name="s-top"></a>
 
-# ANCIENT (+80 utilitárias)
+# ANCIENT (+85 utilitárias)
 
 ## Smoke
 
@@ -439,12 +439,19 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 152.0925: [YouTube](https://youtu.be/gdD8UlHLgY0);
 
-1. **BANANA** [(Top)](#h-top)
+1. **BANANA** [(Top)](#m-top)
    - Alvo: PILAR;
    - Posição: Encoste na parede do fundo e de frente para a coluna de pedras na região do quebrado;
    - Mira: Mire à direita da coluna de pedra na altura da junção das pedras;
    - Execução: Jumpthrow médio;
    - Ref. 152.4563: [YouTube](https://youtu.be/jh3llXRvFJc);
+
+1. **BANANA** [(Top)](#m-top)
+   - Alvo: SOL; SOMBRA;
+   - Posição: Posicione-se no canto dos compensados amarelos próximo a região do quebrado;
+   - Mira: Mire em uma mancha escura no canto da parede do quebrado e próximo ao chão;
+   - Execução: Jumpthrow longo;
+   - Ref. 152.0670: [YouTube](https://youtu.be/qs7Ti74bHVc);
 
    <a name="m-caverna"></a>
 
@@ -551,6 +558,13 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 152.9643: [YouTube](https://youtu.be/mE5F4cpIQ8E);
 
+1. **PORTA** [(Top)](#m-top)
+   - Alvo: SOL; SOMBRA;
+   - Posição: Posicione-se no canto da porta de frente para a caixa da rampa;
+   - Mira: Mire no canto superior direito da bandeira na região inferior da caixa;
+   - Execução: Jumpthrow longo;
+   - Ref. 152.8293: [YouTube](https://youtu.be/-7LhPx_yr0A);
+
    <a name="m-quadradodab"></a>
 
 1. **QUADRADO DA B** [(Top)](#m-top)
@@ -645,6 +659,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Execução: Arremesso longo;
    - Ref. 153.0329: [YouTube](https://youtu.be/u7uv0zM21vw);
 
+1. **LIGAÇÃO, ENTRADA DA** [(Top)](#f-top)
+   - Alvo: CT; CAIXA GORDA; BOCA DO FUNDO;
+   - Posição: Pare no canto da parede esquerda da entrada da ligação;
+   - Mira: Localize uma pequena abertura no topo do muro. Mire na pedra no topo desse muro rente a parede;
+   - Execução: Arremesso longo;
+   - Ref. 153.6992: [YouTube](https://youtu.be/42efRcenqag);
+
    <a name="f-porta"></a>
 
 1. **PORTA** [(Top)](#f-top)
@@ -670,6 +691,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Execução: Jumpthrow  longo;
    - Ref. 153.7623: [YouTube](https://youtu.be/zEAGIyFWKwQ);
 
+1. **QUADRADO DA B** [(Top)](#f-top)
+   - Alvo: PILAR; CT DA B; SOL; SOMBRA;
+   - Posição: Encoste no canto do fundo em cima das pedras, atrás do quadrado da B;
+   - Mira: Mire na região da dobradiça da porta esquerda na altura da decoração da porta;
+   - Execução: W + Jumpthrow longo;
+   - Ref. 153.1193: [YouTube](https://youtu.be/VNEUq7sEb3A);
+
    <a name="f-quadradodofundo"></a>
 
 1. **QUADRADO DO FUNDO** [(Top)](#f-top)
@@ -678,6 +706,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Mira: Mire na ponta da folha de bananeira;
    - Execução: Arremesso longo;
    - Ref. 153.1962: [YouTube](https://youtu.be/IK_zmwED-fI);
+
+1. **QUADRADO DO FUNDO** [(Top)](#f-top)
+   - Alvo: MEIO; VARANDA; LIGAÇÃO; JANELÃO;
+   - Posição: Posicione-se próximo a quina da parede ao lado da placa da B;
+   - Mira: Mire no topo da parede alinhado com a folha de bananeira;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 153.6302: [YouTube](https://youtu.be/xJzwrK9Furg);
 
    <a name="f-sombra"></a>
 
