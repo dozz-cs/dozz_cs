@@ -21,7 +21,7 @@ hyperrefoptions:
 - pdfwindowui
 ---
 
-# INFERNO (+130 utilitárias)
+# INFERNO (+140 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.pdf)
 
@@ -680,6 +680,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Ref. 122.7611: [YouTube](https://youtu.be/6XlSxaxdtyY)
 
 1. **CARRO** [(Top)](#m-top)
+   - Alvo: CHAFARIZ;
+   - Posição: Encoste no canto da mureta com a parede;
+   - Mira: Alinhe a mira com a divisória dos madeirites. Mire em uma tênue mancha na parede amarela;
+   - Execução: Jumpthrow longo;
+   - Ref. 122.0366: [YouTube](https://youtu.be/Ya2bMsASlq4)
+
+1. **CARRO** [(Top)](#m-top)
    - Alvo: SAÍDA DA CAVERNA;
    - Posição: Posicione-se próximo a sombra da luminária;
    - Mira: Mire à direita do início da tubulação da calha;
@@ -925,6 +932,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Arremesso longo;
    - Ref. 123.7323: [YouTube](https://youtu.be/eKz8aw7_-m8)
 
+1. **CARRO** [(Top)](#f-top)
+   - Alvo: SANDUÍCHE; ESCURO; TRIPLA; CAIXÃO;
+   - Posição: Encoste no canto do barril com o madeirite;
+   - Mira: Mire entre o bulbo da lâmpada e a luminária;
+   - Execução: Arremesso longo;
+   - Ref. 123.6385: [YouTube](https://youtu.be/l8aHNZj1mJE)
+
    <a name="f-cimento"></a>
 
 1. **CIMENTO** [(Top)](#f-top)
@@ -942,6 +956,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Mira: Mire na junção do telhado com a torre branca acima da região da banana;
    - Execução: Arremesso longo;
    - Ref. 123.9088: [YouTube](https://youtu.be/tpLzGsnNh9U)
+
+1. **CT** [(Top)](#f-top)
+   - Alvo: FALLEN;
+   - Posição: Encoste na quina à esquerda próximo a escada do corredor CT;
+   - Mira: Mire na quina do telhado da igreja;
+   - Execução: Arremesso longo;
+   - Ref. 123.7630: [YouTube](https://youtu.be/fv8tpcfzorM)
 
    <a name="f-tapete"></a>
 
@@ -1025,6 +1046,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire ligeiramente à direita do início da tubulação da calha;
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 124.7611: [YouTube](https://youtu.be/88b-Ks1R4-4)
+
+1. **CARRO** [(Top)](#h-top)
+   - Alvo: CHAFARIZ;
+   - Posição: Encoste no canto da mureta com a parede;
+   - Mira: Alinhe a mira com a divisória dos madeirites. Mire em uma tênue mancha na parede amarela;
+   - Execução: Jumpthrow longo;
+   - Ref. 124.0366: [YouTube](https://youtu.be/7qctBO6XoNU)
 
 1. **CARRO** [(Top)](#h-top)
    - Alvo: SAÍDA DA CAVERNA;
