@@ -58,8 +58,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: ESGOTO;
-   - Posição: Encoste no canto da parede com o carro coberto com a lona verde;
-   - Mira: Localize o topo da construção. Posicione a ponta da smoke em uma tênue mancha clara ao lado da janela. A mira ficará no céu azul;
+   - Posição: Encoste no canto da parede com o traseira do carro coberto com a lona verde;
+   - Mira: Localize uma janela escura no topo da construção. Posicione a ponta da smoke no canto superior esquerdo dessa janela. A mira ficará no céu azul;
    - Execução: Jumpthrow longo;
    - Ref. 171.2543: [YouTube](https://youtu.be/SG9zlZPdVuo);
 
@@ -185,7 +185,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **FUNDO** [(Top)](#s-top)
    - Alvo: LIXEIRA;
    - Posição: Posiciona-se em cima de uma grama verde escura mais saliente perto do muro e da sombra do poste;
-   - Mira: Mire na junção superior do muro marrom com a coluna de concreto à esquerda;
+   - Mira: Mire na junção superior do muro marrom com a coluna de concreto, abaixo da luminária;
    - Execução: Jumpthrow longo;
    - Ref. 171.8210: [YouTube](https://youtu.be/CehLS0X1ODA);
 
@@ -193,14 +193,14 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **HEAD SHOT ESQUERDO** [(Top)](#s-top)
    - Alvo: CAVERNA;
-   - Posição: Encoste na coluna de concreto no head shot esquerdo;
+   - Posição: Encoste na coluna de concreto da parede em cima do head shot;
    - Mira: Mire no meio da haste horizontal da luminária.
    - Execução: Jumpthrow longo;
    - Ref. 171.0173: [YouTube](https://youtu.be/l-JDxXjSBTw);
 
 1. **HEAD SHOT ESQUERDO** [(Top)](#s-top)
    - Alvo: ESCADA DA FONTE;
-   - Posição: Encoste no lado direito do sistema de exaustão;
+   - Posição: Encoste no canto ao lado do sistema de exaustão, de frente para a rua;
    - Mira: Mire no meio da coluna do canto, na altura da emenda da calha;
    - Execução: Jumpthrow longo;
    - Ref. 171.3219: [YouTube](https://youtu.be/QBci0KCKGj0);
