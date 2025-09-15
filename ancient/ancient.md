@@ -236,7 +236,7 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
 1. **L** [(Top)](#s-top)
    - Alvo: ESCURO;
    - Posição: Encoste no canto de uma pequena parede com a parede do fundo;
-   - Mira: Alinhe a mira com a marcação horizontal da coluna. Mire à direita da coluna, em uma pedra alongada localizada na parede;
+   - Mira: Alinhe a mira com a marcação horizontal da coluna. Mire à direita da coluna na região do meio da parede;
    - Execução: Jumpthrow médio;
    - Ref. 151.6423: [YouTube](https://youtu.be/C11q6qNw7ec);
 
@@ -568,7 +568,7 @@ Ir para: [**Smoke**](#Smoke) - [**Molotov**](#molotov) - [**HE**](#high-explosiv
    - Alvo: ESCURO;
    - Posição: Posicione-se no canto do muro;
    - Mira: Mire em uma marcação na base da quina do grande quadrado da B;
-   - Execução: Jumpthrow longo;
+   - Execução: W + Jumpthrow longo;
    - Ref. 153.9155: [YouTube](https://youtu.be/9aLg-qwzQKw);
 
 <a name="f-ligacao"></a>
