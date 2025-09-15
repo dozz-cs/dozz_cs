@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# DUST 2 (+100 utilitárias)
+# DUST 2 (+110 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/dust2/dust2.pdf)
 
@@ -33,7 +33,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 [**Azul**](#s-azul) - [**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Bomb B**](#s-bombb) - [**Bunker**](#s-bunker) - [**Carro da A**](#s-carrodaa) - [**Caverna**](#s-caverna) - [**Coqueiro**](#s-coqueiro) - [**Escuro baixo**](#s-escurobaixo) - [**Escuro cima**](#s-escurocima) - [**Escuro Fora**](#s-escurofora) - [**Fundo TR**](#s-fundotr) - [**Fundo**](#s-fundo) - [**Meio cima**](#s-meiocima) - [**Porta do meio**](#s-portadomeio) - [**Rampa da A**](#s-rampadaa) - [**Rampa da B**](#s-rampadab) - [**Rampa CT**](#s-rampact) - [**Varanda**](#s-varanda) - [**Xbox**](#s-xbox)
 
-<a name="s-azul"></a>
+   <a name="s-azul"></a>
 
 1. **AZUL** [(Top)](#s-top)
    - Alvo: RAMPA DA BASE CT;
@@ -63,7 +63,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 101.8702: [YouTube](https://youtu.be/XkEA5zuEygs);
 
-<a name="s-basetr"></a>
+   <a name="s-basetr"></a>
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: BASE CT;
@@ -135,7 +135,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.7492: [YouTube](https://youtu.be/W2QPXOglRFM);
 
-<a name="s-basect"></a>
+   <a name="s-basect"></a>
 
 1. **BASE CT** [(Top)](#s-top)
    - Alvo: ENTRADA DO ESCURO ALTO;
@@ -144,7 +144,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.6339: [YouTube](https://youtu.be/JkHOddz4kwU);
 
-<a name="s-bombb"></a>
+   <a name="s-bombb"></a>
 
 1. **BOMB B** [(Top)](#s-top)
    - Alvo: TÚNEL DO ESCURO ALTO;
@@ -153,7 +153,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 101.8306: [YouTube](https://youtu.be/3gDOVQtVmtE);
 
-<a name="s-bunker"></a>
+   <a name="s-bunker"></a>
 
 1. **BUNKER** [(Top)](#s-top)
    - Alvo: RAMPA DA BASE CT;
@@ -169,7 +169,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente e arremesso longo;
    - Ref. 101.0657: [YouTube](https://youtu.be/b_thDd9Ah9U);
 
-<a name="s-carrodaa"></a>
+   <a name="s-carrodaa"></a>
 
 1. **CARRO DA A** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -178,7 +178,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.0917: [YouTube](https://youtu.be/ZBt-ajhXBP4);
 
-<a name="s-caverna"></a>
+   <a name="s-caverna"></a>
 
 1. **CAVERNA** [(Top)](#s-top)
    - Alvo: RAMPA DA BASE;
@@ -187,7 +187,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.4295: [YouTube](https://youtu.be/80iUsML5ChQ);
 
-<a name="s-coqueiro"></a>
+   <a name="s-coqueiro"></a>
 
 1. **COQUEIRO** [(Top)](#s-top)
    - Alvo: XBOX;
@@ -203,7 +203,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.0924: [YouTube](https://youtu.be/v9Hgu8S5MGs);
 
-<a name="s-escurobaixo"></a>
+   <a name="s-escurobaixo"></a>
 
 1. **ESCURO BAIXO** [(Top)](#s-top)
    - Alvo: PORTA DO MEIO;
@@ -226,7 +226,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 101.5345: [YouTube](https://youtu.be/US2KamRcMdE);
 
-<a name="s-escurocima"></a>
+   <a name="s-escurocima"></a>
 
 1. **ESCURO CIMA** [(Top)](#s-top)
    - Alvo: PORTA DA B;
@@ -270,7 +270,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 101.8965: [YouTube](https://youtu.be/dziWpfDEuXY);
 
-<a name="s-escurofora"></a>
+   <a name="s-escurofora"></a>
 
 1. **ESCURO FORA (1/2)** [(Top)](#s-top)
    - Alvo: PORTA DA B;
@@ -293,7 +293,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.6345: [YouTube](https://youtu.be/3eo8xFyfXp4);
 
-<a name="s-fundotr"></a>
+   <a name="s-fundotr"></a>
 
 1. **FUNDO TR** [(Top)](#s-top)
    - Alvo: CAIXA DA BASE CT;
@@ -323,7 +323,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 101.1449: [YouTube](https://youtu.be/x7aOR07iIMs);
 
-<a name="s-fundo"></a>
+   <a name="s-fundo"></a>
 
 1. **FUNDO (1/2)** [(Top)](#s-top)
    - Alvo: PORTA DA B;
@@ -374,7 +374,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.3854: [YouTube](https://youtu.be/0LfgErXMhmc);
 
-<a name="s-meiocima"></a>
+   <a name="s-meiocima"></a>
 
 1. **MEIO CIMA** [(Top)](#s-top)
    - Alvo: CAIXA DA BASE CT;
@@ -383,16 +383,16 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.1549: [YouTube](https://youtu.be/NwgdM5ftrPs);
 
-<a name="s-portadomeio"></a>
+   <a name="s-portadomeio"></a>
 
-1. **PORTA DO MEIO** [(Top)](#s-top)
+1. **PORTA DO MEIO** [(Top)](#s-top) 
    - Alvo: PORTA DO MEIO;
    - Posição: Encoste atrás da porta esquerda;
    - Mira: Mire entre uma pequena saliência esférica e o batente superior da porta;
    - Execução: Arremesso médio;
    - Ref. 101.4816: [YouTube](https://youtu.be/CNym8TM7wvE);
 
-<a name="s-rampadaa"></a>
+   <a name="s-rampadaa"></a>
 
 1. **RAMPA DA A** [(Top)](#s-top)
    - Alvo: VARANDA;
@@ -401,7 +401,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 101.9832: [YouTube](https://youtu.be/TEuZg9aGLo0);
 
-<a name="s-rampadab"></a>
+   <a name="s-rampadab"></a>
 
 1. **RAMPA DA B** [(Top)](#s-top)
    - Alvo: TÚNEL DO ESCURO;
@@ -417,7 +417,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.0831: [YouTube](https://youtu.be/9fPjLbYDtu0);
 
-<a name="s-rampact"></a>
+   <a name="s-rampact"></a>
 
 1. **RAMPA CT** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -454,7 +454,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 101.6821: [YouTube](https://youtu.be/PJhzc6XdyqU);
 
-<a name="s-varanda"></a>
+   <a name="s-varanda"></a>
 
 1. **VARANDA, ESCADA DA** [(Top)](#s-top)
    - Alvo: VARANDA;
@@ -505,7 +505,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 101.0942: [YouTube](https://youtu.be/GSOSSVo-_AE);
 
-<a name="s-xbox"></a>
+   <a name="s-xbox"></a>
 
 1. **XBOX** [(Top)](#s-top)
    - Alvo: CAIXA DA BASE CT;
@@ -520,9 +520,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Andaime**](#m-andaime) - [**Azul**](#m-azul) - [**Altar do bunker**](#m-altardobunker) - [**Caminho da morte**](#m-caminhodamorte) - [**Escuro alto**](#m-escuroalto) - [**Escuro baixo**](#m-escurobaixo) - [**Fundo**](#m-fundo) - [**Rampa da B**](#m-rampadab) - [**Varanda**](#m-varanda)
+[**Andaime**](#m-andaime) - [**Azul**](#m-azul) - [**Altar do bunker**](#m-altardobunker) - [**Caminho da morte**](#m-caminhodamorte) - [**Escuro alto**](#m-escuroalto) - [**Escuro baixo**](#m-escurobaixo) - [**Fundo**](#m-fundo) - [**Rampa da B**](#m-rampadab) - [**Varanda**](#m-varanda) -  [**Xbox**](#m-xbox)
 
-<a name="m-andaime"></a>
+   <a name="m-andaime"></a>
 
 1. **ANDAIME** [(Top)](#m-top)
    - Alvo: BOMB B;
@@ -545,7 +545,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Jumpthrow curto;
    - Ref. 102.3422: [YouTube](https://youtu.be/TY1-hP9LHuA);
 
-<a name="m-azul"></a>
+   <a name="m-azul"></a>
 
 1. **AZUL, FRENTE DO** [(Top)](#m-top)
    - Alvo: CARRO DA A;
@@ -561,7 +561,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Jumpthrow longo;
    - Ref. 102.8699: [YouTube](https://youtu.be/IT02QfanKxA);
 
-<a name="m-altardobunker"></a>
+   <a name="m-altardobunker"></a>
 
 1. **ALTAR DO BUNKER** [(Top)](#m-top)
    - Alvo: BOMB A;
@@ -577,7 +577,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 102.1830: [YouTube](https://youtu.be/r91yIufkyyU);
 
-<a name="m-caminhodamorte"></a>
+   <a name="m-caminhodamorte"></a>
 
 1. **CAMINHO DA MORTE** [(Top)](#m-top)
    - Alvo: PORTA DO MEIO;
@@ -586,7 +586,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 102.0603: [YouTube](https://youtu.be/mqeHe4IsRHE);
 
-<a name="m-escuroalto"></a>
+   <a name="m-escuroalto"></a>
 
 1. **ESCURO ALTO** [(Top)](#m-top)
    - Alvo: ALTAR DO FUNDO;
@@ -616,7 +616,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 102.3821: [YouTube](https://youtu.be/Vm52fSjHFb4);
 
-<a name="m-escurobaixo"></a>
+   <a name="m-escurobaixo"></a>
 
 1. **ESCURO BAIXO** [(Top)](#m-top)
    - Alvo: PORTA DO MEIO;
@@ -632,9 +632,9 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Agache + Arremesso médio;
    - Ref. 102.2380: [YouTube](https://youtu.be/54ZFZqgpITw);
 
-<a name="m-fundo"></a>
+   <a name="m-fundo"></a>
 
-1. **FUNDO** [(Top)](#m-top)
+1. **FUNDO** [(Top)](#m-top) 
    - Alvo: BOMB A;
    - Posição: Posicione-se em frente ao desenho da xícara de café na porta pantográfica em frente a entrada para o bunker;
    - Mira: Mire no relógio ao lado da porta de grade;
@@ -648,18 +648,18 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande ligeiramente para a frente e arremesso longo;
    - Ref. 102.1804: [YouTube](https://youtu.be/B1Ko9p7RJi8);
 
-<a name="m-rampadab"></a>
+   <a name="m-rampadab"></a>
 
-1. **RAMPA DA B, CAIXA DA** [(Top)](#m-top)
+1. **RAMPA DA B, CAIXA DA** [(Top)](#m-top) 
    - Alvo: FUNDO DO ALTAR;
    - Posição: Suba na caixa da rampa com o pano verde;
    - Mira: Mire no batente da porta alinhado com a ripa horizontal abaixo da decoração da porta;
    - Execução: Jumpthrow longo;
    - Ref. 102.5407: [YouTube](https://youtu.be/-dDAqsPSatU);
 
-<a name="m-varanda"></a>
+   <a name="m-varanda"></a>
 
-1. **VARANDA** [(Top)](#m-top)
+1. **VARANDA** [(Top)](#m-top) 
    - Alvo: RAMPA DO BOMB A;
    - Posição: Posicione-se na quina da pequena parede no topo da escada;
    - Mira: Alinhe a mira com a placa no alto da construção na rampa do bomb. Mire um pouco acima do topo da construção;
@@ -687,6 +687,15 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Corra até a mira chegar na parte inferior da janela + Jumpthrow longo;
    - Ref. 102.4823: [YouTube](https://youtu.be/v05qQJfHvQ0);
 
+   <a name="m-xbox"></a>
+
+1. **XBOX** [(Top)](#m-top) 
+   - Alvo: MEIO CT;
+   - Posição: Posicione-se no canto da parede com a caixa do xbox;
+   - Mira: Mire à esquerda de uma mancha clara localizada no topo da lona verde que cobre a caixa;
+   - Execução: Arremesso longo;
+   - Ref. 102.0034: [YouTube](https://youtu.be/KOiDEo5H5zE);
+
 <a name="f-top"></a>
 
 ## Flash
@@ -696,45 +705,45 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
 [**Andaime**](#f-andaime) - [**Bomb B**](#f-bombb) - [**Caminho da morte**](#f-caminhodamorte) - [**Carro da A**](#f-carrodaa) - [**Caverna**](#f-caverna) - [**Direitinha**](#f-direitinha) - [**Escuro alto**](#f-escuroalto) - [**Fundo TR**](#f-fundotr) - [**Fundo**](#f-fundo) - [**Meio**](#f-meio) - [**Meio CT**](#f-meioct) - [**Meio TR**](#f-meiotr) - 
 [**Newba**](#f-newba) - [**Rampa da B**](#f-rampadab) - [**Rampa CT**](#f-rampact) - [**Xbox**](#f-xbox)
 
-<a name="f-andaime"></a>
+   <a name="f-andaime"></a>
 
-1. **ANDAIME** [(Top)](#f-top)
+1. **ANDAIME** [(Top)](#f-top) 
    - Alvo: BOMB B; TÚNEL; CARRO;
    - Posição: Posicione-se no canto da parede próximo a janela;
    - Mira: Mire na altura do topo da madeira alinhado com a sombra abaixo;
    - Execução: Agache + Jumpthrow longo;
    - Ref. 103.7633: [YouTube](https://youtu.be/yOLFO7df6Ek);
 
-<a name="f-bombb"></a>
+   <a name="f-bombb"></a>
 
-1. **BOMB B** [(Top)](#f-top)
+1. **BOMB B** [(Top)](#f-top) 
    - Alvo: ESCURO ALTO;
    - Posição: Atrás da caixa com a lona verde na região do altar. Posicione-se no canto esquerdo;
    - Mira: Alinhe a mira com a coluna traseira do teto do carro. Mire na marcação horizontal na lateral do carro;
    - Execução: Ande ligeiramente para a frente + arremesso longo;
    - Ref. 103.8733: [YouTube](https://youtu.be/5piRWetdS3A);
 
-<a name="f-caminhodamorte"></a>
+   <a name="f-caminhodamorte"></a>
 
-1. **CAMINHO DA MORTE** [(Top)](#f-top)
+1. **CAMINHO DA MORTE** [(Top)](#f-top) 
    - Alvo: VARANDA;
    - Posição: Posicione-se na região da falha na pintura da parede, atrás das caixas;
    - Mira: Mire na altura do meio da caixa branca da direita, na junção com a caixa bege;
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 103.2351: [YouTube](https://youtu.be/6JfkxhU4MW8);
 
-<a name="f-carrodaa"></a>
+   <a name="f-carrodaa"></a>
 
-1. **CARRO DO A** [(Top)](#f-top)
+1. **CARRO DO A** [(Top)](#f-top) 
    - Alvo: CAVERNA; BUNKER; ALTAR DO FUNDO;
    - Posição: Posicione-se próximo a parede, mas encoste na porta lateral do carro;
    - Mira: Mire na parte superior da mancha na parede entre a pantográfica e parede azul;
    - Execução: Jumpthrow longo;
    - Ref. 103.0901: [YouTube](https://youtu.be/TKKrGbOzaj8);
 
-<a name="f-caverna"></a>
+   <a name="f-caverna"></a>
 
-1. **CAVERNA** [(Top)](#f-top)
+1. **CAVERNA** [(Top)](#f-top) 
    - Alvo: QUINA DO FUNDO;
    - Posição: Posicione-se atrás da caixa localizada dentro da caverna;
    - Mira: Mire na extremidade direita da porta, na altura da dobradiça superior dela;
@@ -748,27 +757,27 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 103.6410: [YouTube](https://youtu.be/xTmHjCsvXl8);
 
-<a name="f-direitinha"></a>
+   <a name="f-direitinha"></a>
 
-1. **DIREITINHA** [(Top)](#f-top)
+1. **DIREITINHA** [(Top)](#f-top) 
    - Alvo: TÚNEL;
    - Posição: Posicione-se no canto da parede com a caixa localizada próximo ao carro;
    - Mira: Mire na junção da coluna de madeira com a chapa metálica;
    - Execução: Jumpthrow longo;
    - Ref. 103.1032: [YouTube](https://youtu.be/yRkk10NXO1Y);
 
-<a name="f-escuroalto"></a>
+   <a name="f-escuroalto"></a>
 
-1. **ESCURO ALTO** [(Top)](#f-top)
+1. **ESCURO ALTO** [(Top)](#f-top) 
    - Alvo: ESQUERDINHA; DIREITINHA; GRADE; BOMB B; ALTAR;
    - Posição: Posicione-se na quina da parede do fundo que fica em frente ao túnel do escuro;
    - Mira: Localize uma decoração à esquerda na saída do túnel. Mire na parede próximo a uma pequena mancha;
    - Execução: Arremesso longo;
    - Ref. 103.5692: [YouTube](https://youtu.be/RocMFAD2zNM);
 
-<a name="f-fundotr"></a>
+   <a name="f-fundotr"></a>
 
-1. **FUNDO TR** [(Top)](#f-top)
+1. **FUNDO TR** [(Top)](#f-top) 
    - Alvo: QUINA DO FUNDO;
    - Posição: Posicione-se na quina da parede antes de chegar no carro TR;
    - Mira: Mire na junção esquerda da palmeira com o muro;
@@ -796,9 +805,9 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 103.7822: [YouTube](https://youtu.be/ZshrXQoK1l4);
 
-<a name="f-fundo"></a>
+   <a name="f-fundo"></a>
 
-1. **FUNDO, QUINA DO** [(Top)](#f-top)
+1. **FUNDO, QUINA DO** [(Top)](#f-top) 
    - Alvo: SAÍDA DA CAVERNA;
    - Posição: Posicione-se na região da porta pantográfica;
    - Mira: Mire na luminária em direção ao bomb B;
@@ -812,45 +821,45 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 103.9592: [YouTube](https://youtu.be/6yyF3RYRzVQ);
 
-<a name="f-meio"></a>
+   <a name="f-meio"></a>
 
-1. **MEIO (CIMA)** [(Top)](#f-top)
+1. **MEIO (CIMA)** [(Top)](#f-top) 
    - Alvo: VARANDA;
    - Posição: Posicione-se próximo a uma mancha na parede;
    - Mira: Mire na região de uma mancha horizontal alinhado com a janela semi-aberta;
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 103.2309: [YouTube](https://youtu.be/PHGn4LpJ2T8);
 
-<a name="f-meioct"></a>
+   <a name="f-meioct"></a>
 
-1. **MEIO  CT** [(Top)](#f-top)
+1. **MEIO  CT** [(Top)](#f-top) 
    - Alvo: ESCURO BAIXO;
    - Posição: Posicione-se no canto da parede no nicho do lado esquerdo e próximo a porta dupla;
    - Mira: Mire no lado direito de uma falha de tijolos na quina do nicho;
    - Execução: Jumpthrow longo;
    - Ref. 103.2586: [YouTube](https://youtu.be/CKn_u3ZiVHs);
 
-<a name="f-meiotr"></a>
+   <a name="f-meiotr"></a>
 
-1. **MEIO  TR** [(Top)](#f-top)
+1. **MEIO  TR** [(Top)](#f-top) 
    - Alvo: MEIO CT;
    - Posição: Posicione-se em frente a marcação da porta de entrada para o escuto baixo;
    - Mira: Localize a marcação horizontal inferior da porta esquerda. Mire próximo ao canto dessa marcação; 
    - Execução: Jumpthrow curto;
    - Ref. 103.5583: [YouTube](https://youtu.be/oZHwzsplXrE);
 
-<a name="f-newba"></a>
+   <a name="f-newba"></a>
 
-1. **NEWBA** [(Top)](#f-top)
+1. **NEWBA** [(Top)](#f-top) 
    - Alvo: VARANDA; RAMPA CT; CAIXA BRANCA; FUNDO;
    - Posição: Posicione-se próximo ao canto da parede, próximo a uma madeira no chão;
    - Mira: Mire nas folhas do coqueiro, na região do topo;
    - Execução: Jumpthrow médio;
    - Ref. 103.0932: [YouTube](https://youtu.be/HlbwD4Ab8j0);
 
-<a name="f-rampadab"></a>
+   <a name="f-rampadab"></a>
 
-1. **RAMPA DA B** [(Top)](#f-top)
+1. **RAMPA DA B** [(Top)](#f-top) 
    - Alvo: BOMB B;
    - Posição: Posicione-se no canto de uma pequena parede na lateral esquerda da rampa da B;
    - Mira: Mire na lateral da ponta da coluna no topo da construção;
@@ -864,9 +873,9 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Jumpthrow médio;
    - Ref. 103.1414: [YouTube](https://youtu.be/b-uE1H2ho_4);
 
-<a name="f-rampact"></a>
+   <a name="f-rampact"></a>
 
-1. **RAMPA CT** [(Top)](#f-top)
+1. **RAMPA CT** [(Top)](#f-top) 
    - Alvo: FUNDO;
    - Posição: Posicione-se próximo a quina da parede no topo da rampa CT;
    - Mira: Mire na pequena parede em direção a base CT e na altura da haste de metal próximo a base da janela;
@@ -887,9 +896,9 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 103.5427: [YouTube](https://youtu.be/_OkBt8vYTUE);
 
-<a name="f-xbox"></a>
+   <a name="f-xbox"></a>
 
-1. **XBOX** [(Top)](#f-top)
+1. **XBOX** [(Top)](#f-top) 
    - Alvo: MEIO CT;
    - Posição: Posicione-se no canto da caixa com a parede; 
    - Mira: Mire ligeiramente acima do canto superior direito, na região de uma mancha na parede;
@@ -904,27 +913,27 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 [**Escuro baixo**](#h-escurobaixo) - [**Rampa CT**](#h-rampact) - [**Rampa da B**](#h-rampadab)
 
-<a name="h-escurobaixo"></a>
+   <a name="h-escurobaixo"></a>
 
-1. **ESCURO BAIXO** [(Top)](#h-top)
+1. **ESCURO BAIXO** [(Top)](#h-top) 
    - Alvo: COLUNA DO ESCURO;
    - Posição: Posicione-se na frente das caixas brancas;
    - Mira: Mire próximo ao topo do arco da porta;
    - Execução: Ande para a frente e arremesso longo;
    - Ref. 104.1525: [YouTube](https://youtu.be/Q45gSZrTpYw);
 
-<a name="h-rampact"></a>
+   <a name="h-rampact"></a>
 
-1. **RAMPA CT** [(Top)](#h-top)
+1. **RAMPA CT** [(Top)](#h-top) 
    - Alvo: RAMPA DA VARANDA;
    - Posição: Suba nas caixas da rampa CT e encoste no canto da parede com uma das caixas;
    - Mira: Mire rente a parede com o topo da mureta da varanda localizada próximo a caixa baixa da varanda;
    - Execução: Arremesso longo;
    - Ref. 104.3589: [YouTube](https://youtu.be/BHWCqzH0-vE);
 
-<a name="h-rampadab"></a>
+   <a name="h-rampadab"></a>
 
-1. **RAMPA DA B** [(Top)](#h-top)
+1. **RAMPA DA B** [(Top)](#h-top) 
    - Alvo: PORTA;
    - Posição: Posicione-se no canto da parede com o caminhão azul;
    - Mira: Agache e mire na parte superior da lanterna do caminhão;

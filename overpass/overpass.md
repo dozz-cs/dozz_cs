@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# OVERPASS (+30 utilitárias)
+# OVERPASS (+40 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/overpass/overpass.pdf)
 
@@ -33,7 +33,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 [**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Balada**](#s-balada) - [**Bifurcação**](#s-bifurcacao) - [**Cimento**](#s-cimento) - [**Com saída**](#s-comsaida) - [**Esgoto**](#s-esgoto) - [**Fundo**](#s-fundo) - [**Head Shot**](#s-headshot) - [**Meio**](#s-meio) - [**Rua**](#s-rua)
 
-<a name="s-basetr"></a>
+   <a name="s-basetr"></a>
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: BANHEIRO;
@@ -63,7 +63,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 171.2543: [YouTube](https://youtu.be/SG9zlZPdVuo);
 
-<a name="s-basect"></a>
+   <a name="s-basect"></a>
 
 1. **BASE CT** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -79,7 +79,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 171.4711: [YouTube](https://youtu.be/UJQgsm7lEXg);
 
-<a name="s-balada"></a>
+   <a name="s-balada"></a>
 
 1. **BALADA** [(Top)](#s-top)
    - Alvo: REDONDO DO BOMB B;
@@ -88,7 +88,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: W + Jumpthrow longo;
    - Ref. 171.7943: [YouTube](https://youtu.be/gNn93wYYR64);
 
-<a name="s-bifurcacao"></a>
+   <a name="s-bifurcacao"></a>
 
 1. **BIFURCAÇÃO** [(Top)](#s-top)
    - Alvo: COM SAÍDA;
@@ -125,7 +125,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso médio;
    - Ref. 171.7850: [YouTube](https://youtu.be/UhVPvG38EME);
 
-<a name="s-cimento"></a>
+   <a name="s-cimento"></a>
 
 1. **CIMENTO** [(Top)](#s-top)
    - Alvo: CÉU;
@@ -141,7 +141,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 171.4309: [YouTube](https://youtu.be/A_0hsZJNSqQ);
 
-<a name="s-comsaida"></a>
+   <a name="s-comsaida"></a>
 
 1. **COM SAÍDA** [(Top)](#s-top)
    - Alvo: CIMENTO;
@@ -150,7 +150,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 171.0869: [YouTube](https://youtu.be/D38vDqLlfgs);
 
-<a name="s-esgoto"></a>
+   <a name="s-esgoto"></a>
 
 1. **ESGOTO** [(Top)](#s-top)
    - Alvo: CÉU;
@@ -173,7 +173,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 171.2733: [YouTube](https://youtu.be/wfJluOIVc80);
 
-<a name="s-fundo"></a>
+   <a name="s-fundo"></a>
 
 1. **FUNDO** [(Top)](#s-top)
    - Alvo: BANCO;
@@ -189,7 +189,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 171.8210: [YouTube](https://youtu.be/CehLS0X1ODA);
 
-<a name="s-headshot"></a>
+   <a name="s-headshot"></a>
 
 1. **HEAD SHOT ESQUERDO** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -205,7 +205,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 171.3219: [YouTube](https://youtu.be/QBci0KCKGj0);
 
-<a name="s-meio"></a>
+   <a name="s-meio"></a>
 
 1. **MEIO** [(Top)](#s-top)
    - Alvo: BANCO;
@@ -228,7 +228,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 171.2190: [YouTube](https://youtu.be/c9yCdvD5uRc);
 
-<a name="s-rua"></a>
+   <a name="s-rua"></a>
 
 1. **RUA** [(Top)](#s-top)
    - Alvo: LIXEIRA;
@@ -245,7 +245,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 [**Bifurcação**](#m-bifurcacao) - [**Com saída**](#m-comsaida) - [**Esgoto**](#m-esgoto) - [**Fonte**](#m-fonte) - [**Fundo**](#m-fundo)
 
-<a name="m-bifurcacao"></a>
+   <a name="m-bifurcacao"></a>
 
 1. **BIFURCAÇÃO, ESCADA DA** [(Top)](#m-top)
    - Alvo: TÓXICO;
@@ -254,7 +254,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Corra para a frente + Jumpthrow longo;
    - Ref. 172.4976: [YouTube](https://youtu.be/xN4xewrU00I);
 
-<a name="m-comsaida"></a>
+   <a name="m-comsaida"></a>
 
 1. **COM SAÍDA** [(Top)](#m-top)
    - Alvo: CIMENTO;
@@ -263,7 +263,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Arremesso longo;
    - Ref. 172.3971: [YouTube](https://youtu.be/yZDWAJAZ7vk);
 
-<a name="m-esgoto"></a>
+   <a name="m-esgoto"></a>
 
 1. **ESGOTO** [(Top)](#m-top)
    - Alvo: TÓXICO;
@@ -286,7 +286,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Jumpthrow longo;
    - Ref. 172.2390: [YouTube](https://youtu.be/1aJA5a3UEgQ);
 
-<a name="m-fonte"></a>
+   <a name="m-fonte"></a>
 
 1. **FONTE** [(Top)](#m-top)
    - Alvo: RUA;
@@ -295,7 +295,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 172.7881: [YouTube](https://youtu.be/TuS6VPNLEVY);
 
-<a name="m-fundo"></a>
+   <a name="m-fundo"></a>
 
 1. **FUNDO** [(Top)](#m-top)
    - Alvo: NEWBA DO CAMINHÃO;
@@ -319,7 +319,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 [**Bifurcação**](#m-bifurcacao)
 
-<a name="m-bifurcacao"></a>
+   <a name="m-bifurcacao"></a>
 
 1. **BIFURCAÇÃO** [(Top)](#f-top)
    - Alvo: ABERTO; TÓXICO;

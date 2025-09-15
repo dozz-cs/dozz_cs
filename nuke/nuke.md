@@ -23,7 +23,7 @@ hyperLinkoptions:
 
 <a name="s-top"></a>
 
-# NUKE (+85 utilitárias)
+# NUKE (+90 utilitárias)
 
 ## Smoke
 
@@ -32,7 +32,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 [**Adm**](#s-adm) - [**Azul**](#s-azul) - [**Base TR**](#s-basetr) - [**Bomb A**](#s-bomba) - [**Breaking bad**](#s-breakingbad) - [**CAT**](#s-cat) - [**Caixa CT**](#s-caixact) - [**Caminhão**](#s-caminhao) - [**Galpão**](#s-galpao)
 [**Metal**](#s-metal) - [**Miolo**](#s-miolo) - [**Montanha**](#s-montanha) - [**Rampa**](#s-rampa) - [**Telhado TR**](#s-telhadotr) - [**Terra**](#s-terra) - [**Tetris**](#s-tetris) - [**Vidro**](#s-vidro)
 
-<a name="s-adm"></a>
+   <a name="s-adm"></a>
 
 1. **ADM** [(Top)](#s-top)
    - Alvo: TROFÉU;
@@ -41,7 +41,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 161.9473: [YouTube](https://youtu.be/E_TVDUz_QsI);
 
-<a name="s-azul"></a>
+   <a name="s-azul"></a>
 
 1. **AZUL** [(Top)](#s-top)
    - Alvo: VERMELHO (FORA);
@@ -50,7 +50,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso médio;
    - Ref. 161.8391: [YouTube](https://youtu.be/l2oLB9WSfwA);
 
-<a name="s-basetr"></a>
+   <a name="s-basetr"></a>
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: CAT/CÉU;
@@ -115,7 +115,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 161.7343: [YouTube](https://youtu.be/bJLMezAy1so);
 
-<a name="s-bomba"></a>
+   <a name="s-bomba"></a>
 
 1. **BOMB A** [(Top)](#s-top)
    - Alvo: PORTA DO METAL; 
@@ -138,7 +138,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 161.6777: [YouTube](https://youtu.be/s8r9NXMV2XU);
 
-<a name="s-breakingbad"></a>
+   <a name="s-breakingbad"></a>
 
 1. **BREAKING BAD** [(Top)](#s-top)
    - Alvo: PASSAGEM DO BOMB B; 
@@ -147,7 +147,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Levante + Arremesso longo;
    - Ref. 161.7211: [YouTube](https://youtu.be/8jjbPe19FiY);
 
-<a name="s-cat"></a>
+   <a name="s-cat"></a>
 
 1. **CAT/CÉU** [(Top)](#s-top)
    - Alvo: METAL;
@@ -163,7 +163,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 161.6704: [YouTube](https://youtu.be/yFZFeySjHrQ);
 
-<a name="s-caixact"></a>
+   <a name="s-caixact"></a>
 
 1. **CAIXA CT** [(Top)](#s-top)
    - Alvo: FORA;
@@ -186,7 +186,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 161.2390: [YouTube](https://youtu.be/ED7VaUp9TX4);
 
-<a name="s-caminhao"></a>
+   <a name="s-caminhao"></a>
 
 1. **CAMINHÃO (1/2)** [(Top)](#s-top)
    - Alvo: FRENTE DO VERMELHO;
@@ -230,7 +230,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande até a mira chegar na altura do teto do telhado + Jumpthrow longo;
    - Ref. 161.2877: [YouTube](https://youtu.be/Y9hasTULV-A);
 
-<a name="s-galpao"></a>
+   <a name="s-galpao"></a>
 
 1. **GALPÃO, FRENTE** [(Top)](#s-top)
    - Alvo: PORTA DO METAL;
@@ -239,7 +239,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 161.8067: [YouTube](https://youtu.be/K8g1JMEqPDE);
 
-<a name="s-metal"></a>
+   <a name="s-metal"></a>
 
 1. **METAL** [(Top)](#s-top)
    - Alvo: PORTA INTERNA DO TERRA;
@@ -248,7 +248,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Abra a porta + arremesso longo;
    - Ref. 161.8309: [YouTube](https://youtu.be/za2P3mFOTgo);
 
-<a name="s-miolo"></a>
+   <a name="s-miolo"></a>
 
 1. **MIOLO** [(Top)](#s-top)
    - Alvo: PORTA INTERNA DO TERRA;
@@ -264,7 +264,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente + arremesso longo;
    - Ref. 161.9239: [YouTube](https://youtu.be/XeC9KUJ95m4);
 
-<a name="s-montanha"></a>
+   <a name="s-montanha"></a>
 
 1. **MONTANHA** [(Top)](#s-top)
    - Alvo: CAT/CÉU;
@@ -273,7 +273,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 161.6662: [YouTube](https://youtu.be/uhUbZQX7xLQ);
 
-<a name="s-rampa"></a>
+   <a name="s-rampa"></a>
 
 1. **RAMPA** [(Top)](#s-top)
    - Alvo: VIDRO;
@@ -303,7 +303,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + arremesso longo;
    - Ref. 161.9833: [YouTube](https://youtu.be/hjzRNaJPRxw);
 
-<a name="s-telhadotr"></a>
+   <a name="s-telhadotr"></a>
 
 1. **TELHADO TR** [(Top)](#s-top)
    - Alvo: PORTA INTERNA DO TERRA;
@@ -326,7 +326,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Atenção! Quebre o vidro com uma decoy. Arremesso longo;
    - Ref. 161.6743: [YouTube](https://youtu.be/k6Ui4MjlGMU);
 
-<a name="s-terra"></a>
+   <a name="s-terra"></a>
 
 1. **TERRA, PORTA INTERNA** [(Top)](#s-top)
    - Alvo: CÉU; 
@@ -335,7 +335,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 161.1818: [YouTube](https://youtu.be/NZEyFWtMYy0);
 
-<a name="s-tetris"></a>
+   <a name="s-tetris"></a>
 
 1. **TETRIS** [(Top)](#s-top)
    - Alvo: CAT/CÉU;
@@ -344,7 +344,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 161.6429: [YouTube](https://youtu.be/vIxysnWoNY8);
 
-<a name="s-vidro"></a>
+   <a name="s-vidro"></a>
 
 1. **VIDRO (1/2)** [(Top)](#s-top)
    - Alvo: PORTA DIREITA DO BOMB B;
@@ -375,7 +375,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
 
 [**Adm**](#m-adm) - [**Base CT**](#m-basect) - [**Base TR**](#m-basetr) - [**Banana**](#m-banana) - [**Bomb B**](#m-bombb) - [**Casinha**](#m-casinha) - [**Cat**](#m-cat) - [**Metal**](#m-metal) - [**Plataforma**](#m-plataforma) - [**Rampa**](#m-rampa) - [**Telhado TR**](#m-telhadotr) - [**Terra**](#m-terra) - [**Tetris**](#m-tetris) - [**Vidro**](#m-vidro)
 
-<a name="m-adm"></a>
+   <a name="m-adm"></a>
 
 1. **ADM** [(Top)](#m-top)
    - Alvo: CAT/CÉU;
@@ -384,7 +384,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 162.7214: [YouTube](https://youtu.be/zRJia9ctzpk);
 
-<a name="m-basect"></a>
+   <a name="m-basect"></a>
 
 1. **BASE CT, SAÍDA** [(Top)](#m-top)
    - Alvo: CAIXA DA MONTANHA; 
@@ -393,7 +393,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 162.6222: [YouTube](https://youtu.be/7Askhb5P8Pw);
 
-<a name="m-basetr"></a>
+   <a name="m-basetr"></a>
 
 1. **BASE TR, SAÍDA** [(Top)](#m-top)
    - Alvo: VERMELHO; 
@@ -416,7 +416,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 162.4583: [YouTube](https://youtu.be/ZhCV5Zh-b-U);
 
-<a name="m-banana"></a>
+   <a name="m-banana"></a>
 
 1. **BANANA** [(Top)](#m-top)
    - Alvo: ESCADA DA PORTA DUPLA;
@@ -425,7 +425,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande para a frente + arremesso longo;
    - Ref. 162.7403: [YouTube](https://youtu.be/jfEHMfwmifw);
 
-<a name="m-bombb"></a>
+   <a name="m-bombb"></a>
 
 1. **BOMB B** [(Top)](#m-top)
    - Alvo: ESCADA DA PORTA DUPLA;
@@ -434,7 +434,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Quebre os vidros. Ande para a frente + arremesso longo;
    - Ref. 162.7634: [YouTube](https://youtu.be/CPWrv12StUQ);
 
-<a name="m-casinha"></a>
+   <a name="m-casinha"></a>
 
 1. **CASINHA, PORTA DA** [(Top)](#m-top)
    - Alvo: CAT/CÉU;
@@ -450,7 +450,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 162.9502: [YouTube](https://youtu.be/DsFP4Iw_OdI);
 
-<a name="m-cat"></a>
+   <a name="m-cat"></a>
 
 1. **CAT/CÉU** [(Top)](#m-top)
    - Alvo: PORTA DO METAL;
@@ -466,7 +466,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande pra a frente + Arremesso longo;
    - Ref. 162.8433: [YouTube](https://youtu.be/--j0P1VNPDw);
 
-<a name="m-metal"></a>
+   <a name="m-metal"></a>
 
 1. **METAL** [(Top)](#m-top)
    - Alvo: TETO DA CASINHA;
@@ -475,7 +475,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande pra a frente + Arremesso longo;
    - Ref. 162.4399: [YouTube](https://youtu.be/nbSLFzwLj74);
 
-<a name="m-plataforma"></a>
+   <a name="m-plataforma"></a>
 
 1. **PLATAFORMA** [(Top)](#m-top)
    - Alvo: BOBINA DO TELHADO TR;
@@ -484,7 +484,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Necessário ter os vidros quebrados. Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 162.6732: [YouTube](https://youtu.be/HbEudNxQUug);
 
-<a name="m-rampa"></a>
+   <a name="m-rampa"></a>
 
 1. **RAMPA** [(Top)](#m-top)
    - Alvo: ESCURO;
@@ -500,8 +500,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 162.7492: [YouTube](https://youtu.be/YiLVZ24bviM);
 
-
-<a name="m-telhadotr"></a>
+   <a name="m-telhadotr"></a>
 
 1. **TELHADO TR** [(Top)](#m-top)
    - Alvo: TETO DA CASINHA;
@@ -538,7 +537,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Jumpthrow longo;
    - Ref. 162.6322: [YouTube](https://youtu.be/24wRSO0JIno);
 
-<a name="m-terra"></a>
+   <a name="m-terra"></a>
 
 1. **TERRA, PORTA INTERNA** [(Top)](#m-top)
    - Alvo: CAT/CÉU;
@@ -554,7 +553,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Arremesso longo;
    - Ref. 162.6452: [YouTube](https://youtu.be/vTAEkFa9LUw);
 
-<a name="m-tetris"></a>
+   <a name="m-tetris"></a>
 
 1. **TETRIS** [(Top)](#m-top)
    - Alvo: CAT/CÉU;
@@ -563,7 +562,7 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Execução: Jumpthrow longo;
    - Ref. 162.8032: [YouTube](https://youtu.be/1y-VhQsoeJk);
 
-<a name="m-vidro"></a>
+   <a name="m-vidro"></a>
 
 1. **VIDRO** [(Top)](#m-top)
    - Alvo: ESCURO;
@@ -580,7 +579,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
 
 [**Base CT**](#f-basect) - [**Base TR**](#f-basetr) - [**Miolo**](#f-miolo) - [**Rampa**](#f-rampa) - [**Troféu**](#f-trofeu) - [**Terra**](#f-terra)
 
-<a name="f-basect"></a>
+   <a name="f-basect"></a>
 
 1. **BASE CT, SAÍDA** [(Top)](#f-top)
    - Alvo: BOMB A;
@@ -589,7 +588,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 163.0854: [YouTube](https://youtu.be/eXgHspNV2sI);
 
-<a name="f-basetr"></a>
+   <a name="f-basetr"></a>
 
 1. **BASE TR, SAÍDA** [(Top)](#f-top)
    - Alvo: PORTA DO TERRA; FORA; AZUL;
@@ -619,7 +618,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Ande para a frente até a mira chegar no container azul + Jumpthrow longo;
    - Ref. 163.8210: [YouTube](https://youtu.be/OZUXi4EfBSE);
 
-<a name="f-miolo"></a>
+   <a name="f-miolo"></a>
 
 1. **MIOLO** [(Top)](#f-top)
    - Alvo: CAT; REATOR; DUTO FALSO;
@@ -628,7 +627,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 163.5632: [YouTube](https://youtu.be/2uHKIxf0lLA);
 
-<a name="f-rampa"></a>
+   <a name="f-rampa"></a>
 
 1. **RAMPA** [(Top)](#f-top)
    - Alvo: TROFÉU;
@@ -644,7 +643,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 163.3891: [YouTube](https://youtu.be/B1DBHXQjVUY);
 
-<a name="f-trofeu"></a>
+   <a name="f-trofeu"></a>
 
 1. **TROFÉU** [(Top)](#f-top)
    - Alvo: RAMPA; FUNDO DA RAMPA;
@@ -653,7 +652,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 163.8374: [YouTube](https://youtu.be/G5AtcXF080U);
 
-<a name="f-terra"></a>
+   <a name="f-terra"></a>
 
 1. **TERRA, FRENTE** [(Top)](#f-top)
    - Alvo: SAÍDA DA BASE TR;
@@ -670,7 +669,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 [**Azul**](#f-azul) - [**Adm**](#f-adm) - [**Bomb A**](#f-bomba) - [**Breaking bad**](#f-breakingbad) - [**Cat**](#f-cat) - [**Plataforma**](#f-plataforma) - [**Telhado TR**](#f-telhadotr) - [**Rampa**](#f-rampa) - [**Terra**](#f-terra) - [**Vidro**](#f-vidro)
 
-<a name="f-azul"></a>
+   <a name="f-azul"></a>
 
 1. **AZUL** [(Top)](#h-top)
    - Alvo: MONTANHA;
@@ -679,7 +678,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 164.0255: [YouTube](https://youtu.be/4cSD43UQOYU);
 
-<a name="f-adm"></a>
+   <a name="f-adm"></a>
 
 1. **ADM** [(Top)](#h-top)
    - Alvo: CAT/CÉU;
@@ -688,7 +687,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Arremesso longo;
    - Ref. 164.7214: [YouTube](https://youtu.be/uKu7K9DpuCw);
 
-<a name="f-bomba"></a>
+   <a name="f-bomba"></a>
 
 1. **BOMB A** [(Top)](#h-top)
    - Alvo: CAT/CÉU;
@@ -704,7 +703,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 164.0722: [YouTube](https://youtu.be/ksQ2P61v2fQ);
 
-<a name="f-breakingbad"></a>
+   <a name="f-breakingbad"></a>
 
 1. **BREAKING BAD** [(Top)](#h-top)
    - Alvo: ESCURO;
@@ -713,7 +712,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande pra a frente + Arremesso longo;
    - Ref. 164.9047: [YouTube](https://youtu.be/cXgsXUlwW9c);
 
-<a name="f-cat"></a>
+   <a name="f-cat"></a>
 
 1. **CAT/CÉU** [(Top)](#h-top)
    - Alvo: REATOR DO BOMB A;
@@ -722,7 +721,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande pra a frente + Arremesso longo;
    - Ref. 164.8433: [YouTube](https://youtu.be/4vP2UrmovjY);
 
-<a name="f-plataforma"></a>
+   <a name="f-plataforma"></a>
 
 1. **PLATAFORMA** [(Top)](#h-top)
    - Alvo: BOBINA DO TELHADO TR;
@@ -738,7 +737,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Quebre os vidros. Arremesso longo;
    - Ref. 164.4002: [YouTube](https://youtu.be/sWeuVJwPYNE);
 
-<a name="f-telhadotr"></a>
+   <a name="f-telhadotr"></a>
 
 1. **TELHADO TR** [(Top)](#h-top)
    - Alvo: PLATAFORMA;
@@ -747,7 +746,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: O vidro deve estar quebrado. Jumpthrow longo;
    - Ref. 164.6322: [YouTube](https://youtu.be/WxkmH-wT5pM);
 
-<a name="f-rampa"></a>
+   <a name="f-rampa"></a>
 
 1. **RAMPA** [(Top)](#h-top)
    - Alvo: REATOR DO BOMB B;
@@ -756,7 +755,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 164.8229: [YouTube](https://youtu.be/SK59fShHMS0);
 
-<a name="f-terra"></a>
+   <a name="f-terra"></a>
 
 1. **TERRA, ENTRADA DO** [(Top)](#h-top)
    - Alvo: MONTANHA;
@@ -765,7 +764,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Arremesso longo;
    - Ref. 164.9662: [YouTube](https://youtu.be/25L3Y8FYqQk);
 
-<a name="f-vidro"></a>
+   <a name="f-vidro"></a>
 
 1. **VIDRO, ESCADA DO** [(Top)](#h-top)
    - Alvo: CAIXA DA B;

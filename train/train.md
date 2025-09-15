@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# TRAIN (+55 utilitárias)
+# TRAIN (+65 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/train/train.pdf)
 
@@ -33,7 +33,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 [**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Banana**](#s-banana) - [**Buraco**](#s-buraco) - [**Caminho da Morte**](#s-caminhodamorte) - [**Fundo TR**](#s-fundotr) - [**Guarita**](#s-guarita) - [**Lixão**](#s-lixao) - [**Liga CT**](#s-ligact) - [**Plataforma**](#s-plataforma) - [**Trilhos**](#s-trilhos)
 
-<a name="s-basect"></a>
+   <a name="s-basect"></a>
 
 1. **BASE CT** [(Top)](#s-top)
    - Alvo: LIGA TR;
@@ -42,7 +42,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
    - Ref. 111.0254: [YouTube](https://youtu.be/_KAhu0q48Jo)
 
-<a name="s-basetr"></a>
+   <a name="s-basetr"></a>
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: MEIO A;
@@ -93,7 +93,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 111.6110: [YouTube](https://youtu.be/5-XrrsLSauQ)
 
-<a name="s-banana"></a>
+   <a name="s-banana"></a>
 
 1. **BANANA** [(Top)](#s-top)
    - Alvo: LIGA CT;
@@ -109,7 +109,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 111.9433: [YouTube](https://youtu.be/33CjgtIDq1c)
 
-<a name="s-buraco"></a>
+   <a name="s-buraco"></a>
 
 1. **BURACO** [(Top)](#s-top)
    - Alvo: LIGA CT;
@@ -118,7 +118,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Quebre o vidro.  Agache + Arremesso longo;
    - Ref. 111.2398: [YouTube](https://youtu.be/x0AI8-uGCbg)
 
-<a name="s-caminhodamorte"></a>
+   <a name="s-caminhodamorte"></a>
 
 1. **CAMINHO DA MORTE** [(Top)](#s-top)
    - Alvo: GAULES;
@@ -127,7 +127,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 111.9035: [YouTube](https://youtu.be/nsUz38fgYzQ)
 
-<a name="s-fundotr"></a>
+   <a name="s-fundotr"></a>
 
 1. **FUNDO TR** [(Top)](#s-top)
    - Alvo: MEIO A;
@@ -136,7 +136,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 111.4563: [YouTube](https://youtu.be/wAfRvITU5ds)
 
-<a name="s-guarita"></a>
+   <a name="s-guarita"></a>
 
 1. **GUARITA** [(Top)](#s-top)
    - Alvo: LIGA TR;
@@ -145,7 +145,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 111.4672: [YouTube](https://youtu.be/RlgLiRvorMY)
 
-<a name="s-lixao"></a>
+   <a name="s-lixao"></a>
 
 1. **LIXÃO** [(Top)](#s-top)
    - Alvo: LIGA CT;
@@ -154,7 +154,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 111.8201: [YouTube](https://youtu.be/e5s5RwlXTr0)
 
-<a name="s-ligact"></a>
+   <a name="s-ligact"></a>
 
 1. **LIGA CT** [(Top)](#s-top)
    - Alvo: ESCADA DO SERVIDOR;
@@ -163,7 +163,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Quebre o vidro. Jumpthrow longo;
    - Ref. 111.2670: [YouTube](https://youtu.be/h3hmavKbZ7M)
 
-<a name="s-plataforma"></a>
+   <a name="s-plataforma"></a>
 
 1. **PLATAFORMA** [(Top)](#s-top)
    - Alvo: RUA;
@@ -200,7 +200,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 111.8301: [YouTube](https://youtu.be/FXec4hlc3dE)
 
-<a name="s-trilhos"></a>
+   <a name="s-trilhos"></a>
 
 1. **TRILHOS** [(Top)](#s-top)
    - Alvo: BOMBEIRO;
@@ -209,7 +209,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 111.3522: [YouTube](https://youtu.be/3uqR3up-11I)
 
-<a name="h-top"></a>
+<a name="m-top"></a>
 
 ## Molotov
 
@@ -217,7 +217,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 [**Caminho da Morte**](#m-caminhodamorte) - [**Liga CT**](#m-ligact) - [**Liga TR**](#m-ligatr) - [**Plataforma**](#m-plataforma) - [**Queda**](#m-queda)
 
-<a name="m-caminhodamorte"></a>
+   <a name="m-caminhodamorte"></a>
 
 1. **CAMINHO DA MORTE** [(Top)](#m-top)
    - Alvo: B BAIXO;
@@ -240,7 +240,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Corra até passar a porta à esquerda + Arremesso médio;
    - Ref. 112.7810: [YouTube](https://youtu.be/qYNNz34jV1s)
 
-<a name="m-ligact"></a>
+   <a name="m-ligact"></a>
 
 1. **LIGA CT** [(Top)](#m-top)
    - Alvo: LIGA TR;
@@ -270,7 +270,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 112.3940: [YouTube](https://youtu.be/epcIJFA59JE)
 
-<a name="m-ligatr"></a>
+   <a name="m-ligatr"></a>
 
 1. **LIGA TR** [(Top)](#m-top)
    - Alvo: CÉU;
@@ -300,7 +300,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Agache + Arremesso longo;
    - Ref. 112.4290: [YouTube](https://youtu.be/92-EF4mxXCo)
 
-<a name="m-plataforma"></a>
+   <a name="m-plataforma"></a>
 
 1. **PLATAFORMA** [(Top)](#m-top)
    - Alvo: LIGA CT;
@@ -323,7 +323,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Arremesso longo;
    - Ref. 112.5641: [YouTube](https://youtu.be/rp9QoWgMLJc)
 
-<a name="m-queda"></a>
+   <a name="m-queda"></a>
 
 1. **QUEDA** [(Top)](#m-top)
    - Alvo: ENTRADA DO BOMBEIRO;
@@ -347,7 +347,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 [**Base TR**](#f-basetr) - [**B baixo**](#f-bbaixo) - [**Bomb A**](#f-bomba) - [**Fundo CT**](#f-fundoct) - [**Guarita**](#f-guarita) - [**Liga CT**](#f-ligact) - [**Liga TR**](#f-ligatr) - [**Lixão**](#f-lixao) - [**Plataforma**](#f-plataforma) - [**Rua**](#f-rua) - [**Sanduíche**](#f-sanduiche) - [**Trilhos**](#f-trilhos)
 
-<a name="f-basetr"></a>
+   <a name="f-basetr"></a>
 
 1. **BASE TR** [(Top)](#f-top)
    - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
@@ -356,7 +356,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Jumpthrow longo;
    - Ref. 113.8733: [YouTube](https://youtu.be/Dh-MJdNsaE4)
 
-<a name="f-bbaixo"></a>
+   <a name="f-bbaixo"></a>
 
 1. **B BAIXO** [(Top)](#f-top)
    - Alvo: QUEDA;
@@ -365,7 +365,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Corra até chegar próximo a escada + Arremesso longo;
    - Ref. 113.7001: [YouTube](https://youtu.be/Yofehxb_uUM)
 
-<a name="f-bomba"></a>
+   <a name="f-bomba"></a>
 
 1. **BOMB A** [(Top)](#f-top)
    - Alvo: LIGA TR;
@@ -381,7 +381,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 113.9376: [YouTube](https://youtu.be/NKj4_nCJ9n4)
 
-<a name="f-fundoct"></a>
+   <a name="f-fundoct"></a>
 
 1. **FUNDO CT** [(Top)](#f-top)
    - Alvo: CORREDOR FUNDO; FUNDO TR;
@@ -390,7 +390,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Jumpthrow curto;
    - Ref. 113.2241: [YouTube](https://youtu.be/dnu8ZZ6TkM4)
 
-<a name="f-guarita"></a>
+   <a name="f-guarita"></a>
 
 1. **GUARITA** [(Top)](#f-top)
    - Alvo: LIGA TR;
@@ -399,7 +399,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 113.1818: [YouTube](https://youtu.be/ckQebsBUG5E)
 
-<a name="f-ligact"></a>
+   <a name="f-ligact"></a>
 
 1. **LIGA CT** [(Top)](#f-top)
    - Alvo: LIGA TR;
@@ -443,7 +443,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Mantenha-se agachado + Jumpthrow longo;
    - Ref. 113.3209: [YouTube](https://youtu.be/q9w5_XQw7tA)
 
-<a name="f-ligatr"></a>
+   <a name="f-ligatr"></a>
 
 1. **LIGA TR** [(Top)](#f-top)
    - Alvo: MEIO A; BOMB A;
@@ -459,7 +459,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Arremesso longo;
    - Ref. 113.2433: [YouTube](https://youtu.be/ESyqPiyJKkw)
 
-<a name="f-lixao"></a>
+   <a name="f-lixao"></a>
 
 1. **LIXÃO** [(Top)](#f-top)
    - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
@@ -468,7 +468,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Arremesso longo;
    - Ref. 113.4022: [YouTube](https://youtu.be/m-14oKYOlYg)
 
-<a name="f-plataforma"></a>
+   <a name="f-plataforma"></a>
 
 1. **PLATAFORMA** [(Top)](#f-top)
    - Alvo: AZUL; LIGA CT; MEGA RAMPA;
@@ -484,7 +484,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Jumpthrow médio;
    - Ref. 113.8631: [YouTube](https://youtu.be/Zk3kTxzAXzo)
 
-<a name="f-rua"></a>
+   <a name="f-rua"></a>
 
 1. **RUA** [(Top)](#f-top)
    - Alvo: PLATAFORMA; BANANA; BURACO;
@@ -493,7 +493,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Jumpthrow longo;
    - Ref. 113.8610: [YouTube](https://youtu.be/sW6_6sCA6Zg)
 
-<a name="f-sanduiche"></a>
+   <a name="f-sanduiche"></a>
 
 1. **SANDUÍCHE** [(Top)](#f-top)
    - Alvo: BOMBEIRO;
@@ -502,7 +502,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Arremesso longo;
    - Ref. 113.0932: [YouTube](https://youtu.be/OO6tQ2gbpXQ)
 
-<a name="f-trilhos"></a>
+   <a name="f-trilhos"></a>
 
 1. **TRILHOS** [(Top)](#f-top)
    - Alvo: INFERNO; VERMELHO A; GELADEIRA; BOMBEIRO; LIGA CT;
@@ -519,7 +519,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 [**Azul**](#h-azul) - [**Bomb A**](#h-bomba) - [**Caminho da Morte**](#h-caminhodamorte) - [**Liga CT**](#h-ligact) - [**Liga TR**](#h-ligatr)
 
-<a name="h-azul"></a>
+   <a name="h-azul"></a>
 
 1. **AZUL** [(Top)](#h-top)
    - Alvo: PLATAFORMA;
@@ -528,7 +528,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Jumpthrow longo;
    - Ref. 114.2035: [YouTube](https://youtu.be/ZWmu3p9lz_U)
 
-<a name="h-bomba"></a>
+   <a name="h-bomba"></a>
 
 1. **BOMB A** [(Top)](#h-top)
    - Alvo: LIGA TR;
@@ -537,7 +537,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Jumpthrow longo;
    - Ref. 114.9701: [YouTube](link)
 
-<a name="h-caminhodamorte"></a>
+   <a name="h-caminhodamorte"></a>
 
 1. **CAMINHO DA MORTE** [(Top)](#h-top)
    - Alvo: B BAIXO;
@@ -553,7 +553,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 114.9035: [YouTube](https://youtu.be/02otU5l41nw)
 
-<a name="h-ligact"></a>
+   <a name="h-ligact"></a>
 
 1. **LIGA CT** [(Top)](#h-top)
    - Alvo: LIGA TR;
@@ -569,7 +569,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 114.8188: [YouTube](https://youtu.be/JQW5zKP0Fj0)
 
-<a name="h-ligatr"></a>
+   <a name="h-ligatr"></a>
 
 1. **LIGA TR** [(Top)](#h-top)
    - Alvo: GELADEIRA;
