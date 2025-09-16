@@ -59,9 +59,16 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: ESGOTO;
    - Posição: Encoste no canto da parede com o traseira do carro coberto com a lona verde;
-   - Mira: Localize uma janela escura no topo da construção. Posicione a ponta da smoke no canto superior esquerdo dessa janela. A mira ficará no céu azul;
+   - Mira: Localize uma janela escura no topo da construção. Posicione a quina de trás da smoke no canto superior esquerdo dessa janela. A mira ficará no céu azul;
    - Execução: Jumpthrow longo;
-   - Ref. 171.2543: [YouTube](https://youtu.be/SG9zlZPdVuo);
+   - Ref. 171.2543: [YouTube](link);
+
+1. **BASE TR** [(Top)](#s-top)
+   - Alvo: PORTA DO ESGOTO;
+   - Posição: Encoste no canto da parede com a lixeira azul próximo a escada de acesso;
+   - Mira: Mire na junção direita da torre com o topo da parede;
+   - Execução: Jumpthrow longo;
+   - Ref. 171.2866: [YouTube](link);
 
    <a name="s-basect"></a>
 
@@ -173,6 +180,15 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 171.2733: [YouTube](https://youtu.be/wfJluOIVc80);
 
+   <a name="s-fonte"></a>
+
+1. **FONTE** [(Top)](#s-top)
+   - Alvo: BANHEIRO;
+   - Posição: Posicione-se na marcação do chão próximo ao banco e em frente a coluna do portão;
+   - Mira: Mire na quina direita do muro com a árvore na região do balão;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 171.8823: [YouTube](link);
+
    <a name="s-fundo"></a>
 
 1. **FUNDO** [(Top)](#s-top)
@@ -263,6 +279,13 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Execução: Arremesso longo;
    - Ref. 172.3971: [YouTube](https://youtu.be/yZDWAJAZ7vk);
 
+1. **COM SAÍDA** [(Top)](#m-top)
+   - Alvo: CANUDO;
+   - Posição: Posicione-se em frente a parede próximo da porta vermelha no sem saída;
+   - Mira: Na segunda janela inferior e a esquerda da quina do prédio ao fundo;
+   - Execução: Arremesso longo;
+   - Ref. 172.2663: [YouTube](link);
+
    <a name="m-esgoto"></a>
 
 1. **ESGOTO** [(Top)](#m-top)
@@ -319,7 +342,16 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 [**Bifurcação**](#m-bifurcacao)
 
-   <a name="m-bifurcacao"></a>
+   <a name="f-esgoto"></a>
+
+1. **ESGOTO** [(Top)](#f-top)
+   - Alvo: TÓXICO; COM SAÍDA; SEM SAÍDA; CÉU;
+   - Posição: Pare sobre o morro de terra no lado esquerdo da placa da B;
+   - Mira: Mire na ponta direita da coluna de concreto de sustentação do viaduto;
+   - Execução: Arremesso longo;
+   - Ref. 173.7201: [YouTube](link);
+
+   <a name="f-bifurcacao"></a>
 
 1. **BIFURCAÇÃO** [(Top)](#f-top)
    - Alvo: ABERTO; TÓXICO;
@@ -334,7 +366,28 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
+   <a name="h-comsaida"></a>
 
+1. **COM SAÍDA** [(Top)](#h-top)
+   - Alvo: PORTA DA LIGAÇÃO;
+   - Posição: Encoste no canto da madeira em a parede de concreto de frente para o cimento do sem saída;
+   - Mira: Mire no centro do palete localizado no chão do cimento;
+   - Execução: Jumpthrow longo;
+   - Ref. 174.8201: [YouTube](link);
+
+1. **SEM SAÍDA** [(Top)](#h-top)
+   - Alvo: PORTA DA LIGAÇÃO;
+   - Posição: Suba nos sacos de cimento próximo ao sem saída;
+   - Mira: Localize uma região um pouco mais escura do grafite na madeira. Mire acima um pouco acima desse região, na região da madeira;
+   - Execução: Salto + Arremesso longo;
+   - Ref. 174.0290: [YouTube](link);
+
+1. **SEM SAÍDA** [(Top)](#h-top)
+   - Alvo: CANUDO;
+   - Posição: Suba nos sacos de cimento próximo ao sem saída;
+   - Mira: Localize uma pequena mancha na madeira acima da região do vermelha do grafite. Desça a mira um pouco abaixo da borda do grafite, na região vermelha;
+   - Execução: Salto + Arremesso longo;
+   - Ref. 174.8245: [YouTube](link);
 
 ## Referências
 
