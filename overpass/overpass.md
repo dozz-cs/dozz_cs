@@ -31,7 +31,8 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/ov
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Balada**](#s-balada) - [**Bifurcação**](#s-bifurcacao) - [**Cimento**](#s-cimento) - [**Com saída**](#s-comsaida) - [**Esgoto**](#s-esgoto) - [**Fundo**](#s-fundo) - [**Head Shot**](#s-headshot) - [**Meio**](#s-meio) - [**Rua**](#s-rua)
+[**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Balada**](#s-balada) - [**Bifurcação**](#s-bifurcacao) - [**Cimento**](#s-cimento) - [**Com saída**](#s-comsaida) - [**Esgoto**](#s-esgoto) - [**Fonte**](#s-fonte) - [**Fundo**](#s-fundo) - [**Head Shot**](#s-headshot) - [**Meio**](#s-meio) - [**Rua**](#s-rua)
+
 
    <a name="s-basetr"></a>
 
@@ -340,16 +341,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
-[**Bifurcação**](#m-bifurcacao)
-
-   <a name="f-esgoto"></a>
-
-1. **ESGOTO** [(Top)](#f-top)
-   - Alvo: TÓXICO; COM SAÍDA; SEM SAÍDA; CÉU;
-   - Posição: Pare sobre o morro de terra no lado esquerdo da placa da B;
-   - Mira: Mire na ponta direita da coluna de concreto de sustentação do viaduto;
-   - Execução: Arremesso longo;
-   - Ref. 173.7201: [YouTube](https://youtu.be/7duDH3nO7J8);
+[**Bifurcação**](#f-bifurcacao) - [**Esgoto**](#f-esgoto)
 
    <a name="f-bifurcacao"></a>
 
@@ -360,11 +352,22 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Arremesso longo;
    - Ref. 173.9844: [YouTube](https://youtu.be/305w4by70H8);
 
+   <a name="f-esgoto"></a>
+
+1. **ESGOTO** [(Top)](#f-top)
+   - Alvo: TÓXICO; COM SAÍDA; SEM SAÍDA; CÉU;
+   - Posição: Pare sobre o morro de terra no lado esquerdo da placa da B;
+   - Mira: Mire na ponta direita da coluna de concreto de sustentação do viaduto;
+   - Execução: Arremesso longo;
+   - Ref. 173.7201: [YouTube](https://youtu.be/7duDH3nO7J8);
+
 <a name="h-top"></a>
 
 ## High Explosive (HE)
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
+
+[**Com saída**](#h-comsaida) - [**Sem saída**](#h-semsaida)
 
    <a name="h-comsaida"></a>
 
@@ -374,6 +377,8 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire no centro do palete localizado no chão do cimento;
    - Execução: Jumpthrow longo;
    - Ref. 174.8201: [YouTube](https://youtu.be/ogNIIixZxyg);
+
+   <a name="h-semsaida"></a>
 
 1. **SEM SAÍDA** [(Top)](#h-top)
    - Alvo: PORTA DA LIGAÇÃO;
