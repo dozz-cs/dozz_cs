@@ -260,7 +260,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Bifurcação**](#m-bifurcacao) - [**Com saída**](#m-comsaida) - [**Esgoto**](#m-esgoto) - [**Fonte**](#m-fonte) - [**Fundo**](#m-fundo)
+[**Bifurcação**](#m-bifurcacao) - [**Céu**](#m-ceu) - [**Com saída**](#m-comsaida) - [**Esgoto**](#m-esgoto) - [**Fonte**](#m-fonte) - [**Fundo**](#m-fundo)
 
    <a name="m-bifurcacao"></a>
 
@@ -270,6 +270,15 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira: Mire na junção do sapão verde, na região de cor amarela, com a parede e a grade redonda;
    - Execução: Corra para a frente + Jumpthrow longo;
    - Ref. 172.4976: [YouTube](https://youtu.be/xN4xewrU00I);
+
+   <a name="m-ceu"></a>
+
+1. **CÉU** [(Top)](#m-top)
+   - Alvo: ESGOTO;
+   - Posição: Suba no parapeito e encoste no canto da parede à direita do janelão;
+   - Mira: Mire em uma coluna no topo do alambrado verde alinhado com a junção da cerca de tela;
+   - Execução: Arremesso longo;
+   - Ref. 172.5392: [YouTube](https://youtu.be/VMIBN_yfPHQ);
 
    <a name="m-comsaida"></a>
 
@@ -367,7 +376,16 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
-[**Com saída**](#h-comsaida) - [**Sem saída**](#h-semsaida)
+[**Céu**](#h-ceu) - [**Com saída**](#h-comsaida) - [**Sem saída**](#h-semsaida)
+
+   <a name="h-ceu"></a>
+
+1. **CÉU** [(Top)](#h-top)
+   - Alvo: ESGOTO;
+   - Posição: Suba no parapeito e encoste no canto da parede à direita do janelão;
+   - Mira: Mire em uma coluna no topo do alambrado verde alinhado com a junção da cerca de tela;
+   - Execução: Arremesso longo;
+   - Ref. 174.8442: [YouTube](https://youtu.be/pZVh_V5StiI);
 
    <a name="h-comsaida"></a>
 
@@ -396,5 +414,4 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
 ## Referências
 
-1. [https://app.scope.gg/strategy](https://app.scope.gg/strategy)
-1. [NartOutHere](https://www.youtube.com/@nartouthere)
+1. [YouTube - Dozz CS](https://www.youtube.com/@dozzcs)
