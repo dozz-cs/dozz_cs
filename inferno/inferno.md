@@ -249,10 +249,10 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **CT** [(Top)](#s-top)
    - Alvo: FALLEN;
-   - Posição: Pare no canto da parede da igreja ao lado do vaso de planta;
-   - Mira: Localize a decoração horizontal abaixo da janela. Mire ligeiramente à direita da quina da construção;
+   - Posição: Pare próximo a quina da parede da igreja;
+   - Mira: Mire no balde no topo da região do BTT;
    - Execução: Arremesso longo;
-   - Ref. 121.4923: [YouTube](https://youtu.be/w_bzAR39sfA)
+   - Ref. 121.4923: [YouTube](https://youtu.be/Q_pRTQRJuoA)
 
    <a name="s-caixao"></a>
 
@@ -733,11 +733,25 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    <a name="m-fallen"></a>
 
 1. **FALLEN** [(Top)](#m-top)
-   - Alvo: BANANA (MADEIRA)
+   - Alvo: BANANA (MADEIRA);
    - Posição: Posicione-se na vista direita da porta na região do Fallen;
    - Mira: Mire na quina da parede em uma junção das pedras próximas ao chão;
    - Execução: Jumpthrow longo;
    - Ref. 122.9377: [YouTube](https://youtu.be/EGUK3b8sUnE)
+
+1. **FALLEN** [(Top)](#m-top)
+   - Alvo: ESCURO;
+   - Posição: Posicione-se na quina da parede no início da mureta de subida para o BTT;
+   - Mira: Mire na árvore à direita da coluna da fonte;
+   - Execução: Arremesso longo;
+   - Ref. 122.6023: [YouTube](https://youtu.be/TgS0ZaEVavw)
+
+1. **FALLEN** [(Top)](#m-top)
+   - Alvo: TRIPLA;
+   - Posição: Posicione-se na quina da parede no início da mureta de subida para o BTT;
+   - Mira: Mire na junção das pedras da mureta de subida para o BTT;
+   - Execução: Jumpthrow médio;
+   - Ref. 122.3819: [YouTube](https://youtu.be/dFSXg-CJ3u0)
 
    <a name="m-igreja"></a>
 
@@ -1113,6 +1127,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire na quina da parede em uma região um pouco acima do telhado na altura da mureta;
    - Execução: Arremesso longo;
    - Ref. 124.3597: [YouTube](https://youtu.be/4A9F86CR6AQ)
+
+1. **FALLEN** [(Top)](#h-top)
+   - Alvo: TRIPLA;
+   - Posição: Posicione-se na quina da parede no início da mureta de subida para o BTT;
+   - Mira: Mire na junção das pedras da mureta de subida para o BTT;
+   - Execução: Jumpthrow médio;
+   - Ref. 124.3819: [YouTube](https://youtu.be/5a3vP0sJAiU)
 
    <a name="h-tapete"></a>
 
