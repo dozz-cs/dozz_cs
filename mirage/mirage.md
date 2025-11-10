@@ -121,39 +121,39 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: W + Jumpthrow;
    - Ref. 131.6220: [YouTube](https://youtu.be/ebUX55AarB0)
 
-1. **BASE TR (RESPAWN 1)** [(Top)](#s-top)
+1. **BASE TR (SPAWN 1)** [(Top)](#s-top)
    - Alvo: JANELÃO;
-   - Posição: ;
-   - Mira: ;
-   - Execução: ;
+   - Posição: Próximo a saída para o meio falso (setpos 1296.000000 32.000000 -103.968750);
+   - Mira: Mire na quina branca abaixo do parapeito da sacada;
+   - Execução: W + Jumpthrow;
    - Ref. 131.4671: [YouTube](https://youtu.be/7mBnKYhtno8)
 
-1. **BASE TR (RESPAWN 2)** [(Top)](#s-top)
+1. **BASE TR (SPAWN 2)** [(Top)](#s-top)
    - Alvo: JANELÃO;
-   - Posição: ;
-   - Mira: ;
-   - Execução: ;
+   - Posição: Próximo a saída para o meio falso (setpos 1216.000000 -16.000000 -102.950439);
+   - Mira: Mire na junção do chão com o lado direito da porta na região da sacada;
+   - Execução: W + Jumpthrow;
    - Ref. 131.4672: [YouTube](https://youtu.be/9dS0-YCiC3k)
 
-1. **BASE TR (RESPAWN 3)** [(Top)](#s-top)
+1. **BASE TR (SPAWN 3)** [(Top)](#s-top)
    - Alvo: JANELÃO;
-   - Posição: ;
-   - Mira: ;
-   - Execução: ;
+   - Posição: Em frente a pequena janela próxima a saída para a caverna tr (setpos 1296.000000 -352.000000 -103.968750);
+   - Mira: Localize uma tênue mancha branca à esquerda da janela. Mire em uma tênue sombra em volta da janela na altura da mancha branca;
+   - Execução: W + Jumpthrow;
    - Ref. 131.4673: [YouTube](https://youtu.be/n18xonyfNDI)
 
-1. **BASE TR (RESPAWN 4)** [(Top)](#s-top)
+1. **BASE TR (SPAWN 4)** [(Top)](#s-top)
    - Alvo: JANELÃO;
-   - Posição: ;
-   - Mira: ;
-   - Execução: ;
+   - Posição: Em frente ao tapete (setpos 1216.000000 -115.000000 -102.950439);
+   - Mira: Localize o terceiro losango na parte inferior do tapete. Agache e mire na ponta esquerda do desenho do losango;
+   - Execução: Agachado. W + Jumpthrow;
    - Ref. 131.4674: [YouTube](https://youtu.be/Zqgu9S1p_tE)
 
-1. **BASE TR (RESPAWN 5)** [(Top)](#s-top)
+1. **BASE TR (SPAWN 5)** [(Top)](#s-top)
    - Alvo: JANELÃO;
-   - Posição: ;
-   - Mira: ;
-   - Execução: ;
+   - Posição: Em frente a janela dupla (setpos 1216.000000 -211.000000 -100.611038);
+   - Mira: Mire ligeiramente à esquerda da cadeira branca que está na sacada no centro do desenho do parapeito próximo ao chão;
+   - Execução: W + Jumpthrow;
    - Ref. 131.4675: [YouTube](https://youtu.be/ZQpSzmS2ojQ)
 
 1. **BASE TR** [(Top)](#s-top)
