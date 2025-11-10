@@ -121,6 +121,41 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: W + Jumpthrow;
    - Ref. 131.6220: [YouTube](https://youtu.be/ebUX55AarB0)
 
+1. **BASE TR (RESPAWN 1)** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: ;
+   - Mira: ;
+   - Execução: ;
+   - Ref. 131.4671: [YouTube](https://youtu.be/7mBnKYhtno8)
+
+1. **BASE TR (RESPAWN 2)** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: ;
+   - Mira: ;
+   - Execução: ;
+   - Ref. 131.4672: [YouTube](https://youtu.be/9dS0-YCiC3k)
+
+1. **BASE TR (RESPAWN 3)** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: ;
+   - Mira: ;
+   - Execução: ;
+   - Ref. 131.4673: [YouTube](https://youtu.be/n18xonyfNDI)
+
+1. **BASE TR (RESPAWN 4)** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: ;
+   - Mira: ;
+   - Execução: ;
+   - Ref. 131.4674: [YouTube](https://youtu.be/Zqgu9S1p_tE)
+
+1. **BASE TR (RESPAWN 5)** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: ;
+   - Mira: ;
+   - Execução: ;
+   - Ref. 131.4675: [YouTube](https://youtu.be/ZQpSzmS2ojQ)
+
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: PASSAGEM EDWARD;
    - Posição: Encostado na frente da lixeira;
