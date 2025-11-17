@@ -202,6 +202,27 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 161.8072: [YouTube](https://youtu.be/cGF4xZ3Hbak);
 
+1. **CAMINHÃO (1/3)** [(Top)](#s-top)
+   - Alvo: FRENTE DO VERMELHO;
+   - Posição: Posicione-se no vão entre a cabine e o contêiner vermelho na carroceria do caminhão;
+   - Mira: Mire na junção direita superior do poste de iluminação;
+   - Execução: Jumpthrow longo;
+   - Ref. 161.7431: [YouTube](https://youtu.be/moge73ulxA4);
+
+1. **CAMINHÃO (2/3)** [(Top)](#s-top)
+   - Alvo: FRENTE DO SECRET;
+   - Posição: Posicione-se no vão entre a cabine e o contêiner vermelho na carroceria do caminhão;
+   - Mira: Mire na junção direita inferior do poste de iluminação com o parapeito;
+   - Execução: Jumpthrow longo;
+   - Ref. 161.7432: [YouTube](https://youtu.be/moge73ulxA4);
+
+1. **CAMINHÃO (3/3)** [(Top)](#s-top)
+   - Alvo: FORA;
+   - Posição: Posicione-se no vão entre a cabine e o contêiner vermelho na carroceria do caminhão;
+   - Mira: Mire na junção do fio de iluminação com a parede;
+   - Execução: Jumpthrow longo;
+   - Ref. 161.7433: [YouTube](https://youtu.be/moge73ulxA4);
+
 1. **CAMINHÃO** [(Top)](#s-top)
    - Alvo: FRENTE DO GALPÃO;
    - Posição: Encoste na traseira esquerda do caminhão;
@@ -229,6 +250,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na região superior e ao lado do duto de metal em cima do telhado TR;
    - Execução: Ande até a mira chegar na altura do teto do telhado + Jumpthrow longo;
    - Ref. 161.2877: [YouTube](https://youtu.be/Y9hasTULV-A);
+
+1. **CAMINHÃO** [(Top)](#s-top)
+   - Alvo: VIDRO/VESTIÁRIO;
+   - Posição: Posicione-se no canto da parede em cima da caixa amarela próxima a saída da base tr;
+   - Mira: Localize o lado direito de uma mancha na parte superior do muro. Mire na junção superior horizontal com marcação vertical do muro;  
+   - Execução: Jumpthrow longo;
+   - Ref. 161.9482: [YouTube](https://youtu.be/QKNYQU9DR94);
 
    <a name="s-galpao"></a>
 
@@ -260,9 +288,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **MIOLO** [(Top)](#s-top)
    - Alvo: DUTO;
    - Posição: Com a porta do metal aberta (destruída), fique na passagem próximo a entrada do metal;
-   - Mira: Mire na parede do lado direito da placa de vermelha;
-   - Execução: Ande para a frente + arremesso longo;
-   - Ref. 161.9239: [YouTube](https://youtu.be/XeC9KUJ95m4);
+   - Mira: Mire na parede do lado esquerdo da placa azul clara de localização;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 161.9239: [YouTube](https://youtu.be/z1onFVSyPLA);
 
    <a name="s-montanha"></a>
 
@@ -451,6 +479,20 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Ref. 162.9502: [YouTube](https://youtu.be/DsFP4Iw_OdI);
 
    <a name="m-cat"></a>
+
+1. **CAT/CÉU** [(Top)](#m-top)
+   - Alvo: CASINHA;
+   - Posição: Posicione-se na quina direita da abertura de saída para o bomb A, próximo a mangueira no chão;
+   - Mira: Mire na mão francesa logo acima a porta da casinha;
+   - Execução: Arremesso longo;
+   - Ref. 162.5309: [YouTube](https://youtu.be/5IJtw0_JLGg);
+
+1. **CAT/CÉU** [(Top)](#m-top)
+   - Alvo: PORTA DO METAL;
+   - Posição: Posicione-se próximo a quina esquerda da abertura de saída para o bomb A;
+   - Mira: Mire no topo da viga de ferro amarela e alinhado com o centro da inscrição branca;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 162.1833: [YouTube](https://youtu.be/94k_G1_sc2s);
 
 1. **CAT/CÉU** [(Top)](#m-top)
    - Alvo: PORTA DO METAL;
