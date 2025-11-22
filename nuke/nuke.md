@@ -115,6 +115,27 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 161.7343: [YouTube](https://youtu.be/bJLMezAy1so);
 
+1. **BASE TR, SAÍDA (1/2)** [(Top)](#s-top)
+   - Alvo: FRENTE DO TERRA;
+   - Posição: Posicione-se na cerca à direita da saída da base tr, de frente para a montanha;
+   - Mira: Mire na junção da tubulação na região esquerda da montanha;
+   - Execução: Jumpthrow longo;
+   - Ref. 161.5656: [YouTube](https://youtu.be/TC_p49G9ohA);
+
+1. **BASE TR, SAÍDA (2/2)** [(Top)](#s-top)
+   - Alvo: FRENTE DO GALPÃO;
+   - Posição: Posicione-se na cerca à direita da saída da base tr, de frente para a montanha;
+   - Mira: Alinhe a mira com a direita de um retângulo metálico na parte superior da montanha. Mire ligeiramente abaixo da marcação horizontal na parede da montanha;
+   - Execução: Jumpthrow longo;
+   - Ref. 161.5657: [YouTube](https://youtu.be/TC_p49G9ohA);
+
+1. **BASE TR, SAÍDA** [(Top)](#s-top)
+   - Alvo: FRENTE DO AZUL;
+   - Posição: Posicione-se na cerca à direita da saída da base tr, de frente para a montanha;
+   - Mira: Localize uma pequena entrada de ar na parede branca da construção à esquerda da montanha. Mire no topo do parapeito;
+   - Execução: W + Jumpthrow longo;
+   - Ref. 161.8914: [YouTube](https://youtu.be/nyqJK7-PU3g);
+
    <a name="s-bomba"></a>
 
 1. **BOMB A** [(Top)](#s-top)
