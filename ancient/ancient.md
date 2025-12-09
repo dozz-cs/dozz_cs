@@ -91,6 +91,34 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Execução: W + Jumpthrow longo;
    - Ref. 151.5346: [YouTube](https://youtu.be/m9Jfnj6lIKg);
 
+1. **BASE TR (SPAWN 1)** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: No lado direito da ponte (setpos xxxxxx);
+   - Mira: Mire no lado esquerdo da árvore logo acima do topo da construção;
+   - Execução: W + Jumpthrow;
+   - Ref. 151.4309: [YouTube](https://youtu.be/XXO_CsvuZM4)
+
+1. **BASE TR (SPAWN 2)** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: No lado direito e atrás da coluna da ponte (setpos xxxxxx);
+   - Mira: Mire entre as pedras no topo superior direito;
+   - Execução: Ande para a direita até a mira se alinhar com a segunda planta. W + Jumpthrow;
+   - Ref. 151.4387: [YouTube](https://youtu.be/c5JjfnVDhjM)
+
+1. **BASE TR (SPAWN 3)** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: No lado esquerdo e atrás da coluna da ponte (setpos xxxxxx);
+   - Mira: Localize a divisão entre a segunda e a terceira fileira linha de pedras. Mire na junção das pedras logo a frente;
+   - Execução: Ande para a esquerda até a mira se alinhar com o caule da planta do tipo costela de adão. W + Jumpthrow;
+   - Ref. 151.8281: [YouTube](https://youtu.be/zcKefADBXO8)
+
+1. **BASE TR (SPAWN 4)** [(Top)](#s-top)
+   - Alvo: JANELÃO;
+   - Posição: No lado esquerdo da ponte (setpos xxxxxx);
+   - Mira: Mire na ponta da planta do tipo costela de Adão;
+   - Execução: W + Jumpthrow;
+   - Ref. 151.7109: [YouTube](https://youtu.be/q9MGNAxgO_0)
+
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: ENTRADA DA LIGAÇÃO;
    - Posição: Posicione-se no canto da pedra com a parede esquerda da base TR
