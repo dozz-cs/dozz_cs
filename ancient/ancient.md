@@ -29,7 +29,7 @@ hyperLinkoptions:
 
 Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)   
 
-[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Banana**](#s-banana) - [**Boca do Fundo**](#s-bocadofundo) - [**Caverna**](#s-caverna) - [**Corredor**](#s-corredor) - [**CT da B**](#s-ctdab) - [**Esquina**](#s-esquina) - [**Escuro**](#s-escuro) - [**L**](#s-l) - [**Ligação**](#s-ligacao) - [**Porta**](#s-porta) - [**Quadrado da B**](#s-quadradodab) - [**Quadrado do Fundo**](#s-quadradodofundo) - [**Rampa do Fundo**](#s-rampadofundo) - [**Túnel**](#s-tunel) - [**Xbox**](#s-xbox)
+[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Banana**](#s-banana) - [**Boca do Fundo**](#s-bocadofundo) - [**Caverna**](#s-caverna) - [**Corredor**](#s-corredor) - [**CT da B**](#s-ctdab) - [**Esquina**](#s-esquina) - [**Escuro**](#s-escuro) - [**L**](#s-l) - [**Ligação**](#s-ligacao) - [**Porta**](#s-porta) - [**Quadrado da B**](#s-quadradodab) - [**Quadrado do Fundo**](#s-quadradodofundo) - [**Rampa**](#s-rampa) - [**Rampa do Fundo**](#s-rampadofundo) - [**Túnel**](#s-tunel) - [**Xbox**](#s-xbox)
 
    <a name="s-basect"></a>
 
@@ -205,6 +205,13 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Ref. 151.7713: [YouTube](https://youtu.be/oIXtHvGQuYw);
 
 1. **CORREDOR** [(Top)](#s-top)
+   - Alvo: SAÍDA DO ESCURO;
+   - Posição: Encoste na canto da parede à esquerda próximo a saída da caverna;
+   - Mira: Mire ligeiramente à direita da divisória superior da caixa localizada no corredor;
+   - Execução: Ande para a frente até chegar próximo a uma marcação no chão + Jumpthrow longo;
+   - Ref. 151.4820: [YouTube](https://youtu.be/jwIi5YTEryw);
+
+1. **CORREDOR** [(Top)](#s-top)
    - Alvo: PORTA;
    - Posição: Encoste na parede oposta a caixa do corredor;
    - Mire: Mire no lado direito da coluna no CT da B, na altura da marcação quebrada;
@@ -255,9 +262,9 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
 1. **ESCURO** [(Top)](#s-top)
    - Alvo: SOL;
    - Posição: Posicione-se na frente da pá encostada na parede do escuro;
-   - Mira: Mire à esquerda da coluna na altura da marcação horizontal da pedra;
-   - Execução: Ande ligeiramente para a frente + Arremesso longo;
-   - Ref. 151.7091: [YouTube](https://youtu.be/q_wsKMyIwZ0);
+   - Mira: Mire à direita da abertura de saída do escuro, alinhe a mira na altura da topo da parede do fundo;
+   - Execução: Arremesso longo;
+   - Ref. 151.7091: [YouTube](https://youtu.be/p_6s4ayFuI8);
 
    <a name="s-l"></a>
 
@@ -387,6 +394,15 @@ Ir para: [**Molotov**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosiv
    - Mira: Mire ligeiramente à direita da quina do topo da construção ao fundo;
    - Execução: Jumpthrow  longo;
    - Ref. 151.3093: [YouTube](https://youtu.be/dmweYh2KItk);
+
+   <a name="s-rampa"></a>
+
+1. **RAMPA** [(Top)](#s-top)
+   - Alvo: SOL;
+   - Posição: Posicione-se na quina da pequena parede na rampa de acesso para o bomb B;
+   - Mira: Mire acima do centro do pilar;
+   - Execução: Arremesso longo;
+   - Ref. 151.5922: [YouTube](https://youtu.be/VZ-TLXekb5E);
 
    <a name="s-rampadofundo"></a>
 
