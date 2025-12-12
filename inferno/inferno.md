@@ -136,10 +136,17 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **BASE CT** [(Top)](#s-top)
    - Alvo: BANANA;
-   - Posição: Encoste no canto da cadeira com a parede da construção em frente a porta da adega;
+   - Posição: Encoste no canto da cadeira com a parede da construção em frente a porta da adega/biblioteca;
    - Mira: Mire no canto inferior direito da janela no alto da construção;
    - Execução: Jumpthrow longo;
    - Ref. 121.2345: [YouTube](https://youtu.be/Cg7F8xKAog8)
+
+1. **BASE CT** [(Top)](#s-top)
+   - Alvo: BANANA;
+   - Posição: Encoste no canto da cadeira com a parede da construção em frente a porta da adega/biblioteca;
+   - Mira: Mire no canto inferior esquerdo da janela no alto da construção;
+   - Execução: Jumpthrow longo;
+   - Ref. 121.2346: [YouTube](https://youtu.be/Am0H683_LLQ)
 
 1. **BASE CT** [(Top)](#s-top)
    - Alvo: BANANA;
@@ -666,13 +673,6 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Ref. 122.9065: [YouTube](https://youtu.be/hU5Gw6NrnJo)
 
 1. **CARRO** [(Top)](#m-top)
-   - Alvo: SANDUÍCHE;
-   - Posição: Encoste no canto do barril com o placa de madeira;
-   - Mira: Mire um pouco acima da junção da calha com a tubulação da calha ao lado da janela;
-   - Execução: Arremesso longo;
-   - Ref. 122.3922: [YouTube](https://youtu.be/TeCG5eTMjyU)
-
-1. **CARRO** [(Top)](#m-top)
    - Alvo: CAVERNA;
    - Posição: Encoste na parede atrás das placas de madeira;
    - Mira: Mire ligeiramente à direita do início da tubulação da calha;
@@ -680,18 +680,18 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Ref. 122.7611: [YouTube](https://youtu.be/6XlSxaxdtyY)
 
 1. **CARRO** [(Top)](#m-top)
+   - Alvo: CIMENTO DO BOMB B (DEFAULT);
+   - Posição: Encoste na divisão do vidro com a parede vermelha, próximo a mureta;
+   - Mira: Localize uma mancha escura na quina da parede. Mire um pouco abaixo e à direita dessa mancha;
+   - Execução: Ande para a frente + Jumpthrow longo;
+   - Ref. 122.1409: [YouTube](https://youtu.be/BcNVS_oAGKA)
+
+1. **CARRO** [(Top)](#m-top)
    - Alvo: CHAFARIZ;
    - Posição: Encoste no canto da mureta com a parede;
    - Mira: Alinhe a mira com a divisória dos madeirites. Mire em uma tênue mancha na parede amarela;
    - Execução: Jumpthrow longo;
    - Ref. 122.0366: [YouTube](https://youtu.be/Ya2bMsASlq4)
-
-1. **CARRO** [(Top)](#m-top)
-   - Alvo: SAÍDA DA CAVERNA;
-   - Posição: Posicione-se próximo a sombra da luminária;
-   - Mira: Mire à direita do início da tubulação da calha;
-   - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 122.9724: [YouTube](https://youtu.be/-QgQrMOgVtQ)
 
 1. **CARRO** [(Top)](#m-top)
    - Alvo: CAIXÃO;
@@ -706,6 +706,20 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Mira: Mire no meio da parede no lado direito da janela e na altura do ferro horizontal na parte inferiores da grade;
    - Execução: Jumpthrow longo;
    - Ref. 122.6543: [YouTube](https://youtu.be/JTC633o96p4)
+
+1. **CARRO** [(Top)](#m-top)
+   - Alvo: SAÍDA DA CAVERNA;
+   - Posição: Posicione-se próximo a sombra da luminária;
+   - Mira: Mire à direita do início da tubulação da calha;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 122.9724: [YouTube](https://youtu.be/-QgQrMOgVtQ)
+
+1. **CARRO** [(Top)](#m-top)
+   - Alvo: SANDUÍCHE;
+   - Posição: Encoste no canto do barril com o placa de madeira;
+   - Mira: Mire um pouco acima da junção da calha com a tubulação da calha ao lado da janela;
+   - Execução: Arremesso longo;
+   - Ref. 122.3922: [YouTube](https://youtu.be/TeCG5eTMjyU)
 
 1. **CARRO** [(Top)](#m-top)
    - Alvo: TRIPLA;
@@ -818,7 +832,7 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
 
 Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
-[**Arco**](#f-arco) - [**Areia 2**](#f-areia2)- [**Banana**](#f-banana) - [**Base TR**](#f-basetr) - [**Bomb B**](#f-bombb) - [**Caixão**](#f-caixao) - [**Carro**](#f-carro) - [**Cimento**](#f-cimento) - [**CT**](#f-ct) - [**Tapete**](#f-tapete)
+[**Arco**](#f-arco) - [**Areia 2**](#f-areia2)- [**Banana**](#f-banana) - [**Base TR**](#f-basetr) - [**Bomb B**](#f-bombb) - [**Caixão**](#f-caixao) - [**Carro**](#f-carro) - [**Cimento**](#f-cimento) - [**CT**](#f-ct) - [**Sanduiche**](#f-sanduiche) - [**Tapete**](#f-tapete)
 
    <a name="f-arco"></a>
 
@@ -977,6 +991,15 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Mira: Mire na quina do telhado da igreja;
    - Execução: Arremesso longo;
    - Ref. 123.7630: [YouTube](https://youtu.be/fv8tpcfzorM)
+
+   <a name="f-sanduiche"></a>
+
+1. **SANDUICHE** [(Top)](#f-top)
+   - Alvo: CT; FALLEN;
+   - Posição: Encoste no canto da parede esquerda no sanduiche;
+   - Mira: Localize a decoração na quina da coluna do chafariz. Mire ligeiramente à direita dessa decoração;
+   - Execução: Arremesso longo;
+   - Ref. 123.4533: [YouTube](https://youtu.be/rrTitWpcq08)
 
    <a name="f-tapete"></a>
 
