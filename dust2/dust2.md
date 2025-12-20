@@ -147,11 +147,25 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    <a name="s-bomba"></a>
 
 1. **BOMB A** [(Top)](#s-top)
+   - Alvo: BASE CT;
+   - Posição: Posicione-se na região próxima ao bomb A e a newba. Não é necessário estar em uma posição específica;
+   - Mira: Mire na junção da parede próximo a caixa baixa da varanda com a pequena mureta;
+   - Execução: Arremesso longo;
+   - Ref. 101.4931: [YouTube](https://youtu.be/kfVRSDTpNq8);
+
+1. **BOMB A** [(Top)](#s-top)
    - Alvo: TÚNEL DO ESCURO ALTO;
    - Posição: Posicione-se no canto do bomb A próximo a rampa do bomb;
    - Mira: Mire na ponta do caibro no alto da construção amarela;
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 101.8306: [YouTube](https://youtu.be/3gDOVQtVmtE);
+
+1. **BOMB A** [(Top)](#s-top)
+   - Alvo: VARANDA;
+   - Posição: Posicione-se na região próxima ao bomb A e a newba. Não é necessário estar em uma posição específica;
+   - Mira: Localize a construção em formato de torre na região da varanda. Mire entre as duas marcações no alto da construção;
+   - Execução: Arremesso longo;
+   - Ref. 101.6439: [YouTube](https://youtu.be/mns16O7F26s);
 
    <a name="s-bombb"></a>
 
@@ -170,6 +184,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire em na parte debaixo de uma mancha no chão alinhado com a primeira mancha na parede;
    - Execução: W + Jumpthrow longo;
    - Ref. 101.0645: [YouTube](https://youtu.be/AoOCYwOcbtU);
+
+1. **BUNKER** [(Top)](#s-top)
+   - Alvo: RAMPA DA BASE CT;
+   - Posição: Posicione-se à direita e próximo ao fundo do bunker. Pare em frente a uma mancha escura no alto da parede;
+   - Mira: Mire na junção do poste com o suporte dos fios do tipo mão francesa inferior;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.3773: [YouTube](https://youtu.be/yOlXNG69Di4);
 
 1. **BUNKER** [(Top)](#s-top)
    - Alvo: PORTA DA CAVERNA;
@@ -312,6 +333,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 101.1813: [YouTube](https://youtu.be/ddMnYe_q2XY);
 
 1. **FUNDO TR** [(Top)](#s-top)
+   - Alvo: PORTA DO MEIO;
+   - Posição: Posicione-se no canto da pilha de pneus com a parede;
+   - Mira: Localize a quina do telhado da marquise. Mire no canto superior direito interno dessa quina. É necessário atenção neste pixel;
+   - Execução: Ande para a frente até o boneco travar na quina da parede com a porta pantográfica. Jumpthrow longo;
+   - Ref. 101.3365: [YouTube](https://youtu.be/g2-1XjxncPg);
+
+1. **FUNDO TR** [(Top)](#s-top)
    - Alvo: QUINA DO FUNDO;
    - Posição: Encoste no canto esquerdo da porta pantográfica atrás do carro TR;
    - Mira: Mire ligeiramente à esquerda do topo da parede, acima da palmeira;
@@ -409,6 +437,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na ponta da decoração esquerda no topo da parede na região da varanda;
    - Execução: Arremesso longo;
    - Ref. 101.9832: [YouTube](https://youtu.be/TEuZg9aGLo0);
+
+1. **RAMPA DA A** [(Top)](#s-top)
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se no canto da caixa com a mureta;
+   - Mira: Mire no canto inferior esquerdo da saída do exaustor na região superior da parede;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.0035: [YouTube](https://youtu.be/hvCQdpv5Aos);
 
    <a name="s-rampadab"></a>
 
