@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# MIRAGE (+180 utilitárias)
+# MIRAGE (+190 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mirage/mirage.pdf)
 
@@ -176,6 +176,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na parte superior da folha deitada à esquerda e no topo da construção;
    - Execução: Jumpthrow longo;
    - Ref. 131.7320: [YouTube](https://youtu.be/ZPze9F_tfxc)
+
+1. **BASE TR** [(Top)](#s-top)
+   - Alvo: L;
+   - Posição: Encoste no canto da parede com a escada do lado aposto à lixeira;
+   - Mira: Mire na altura do parapeito alinhado com o final da mancha clara na parede;
+   - Execução: Jumpthrow longo;
+   - Ref. 131.8558: [YouTube](https://youtu.be/To8DriNfVg8)
 
 1. **BASE TR** [(Top)](#s-top)
    - Alvo: LIGAÇÃO BAIXO;
@@ -791,6 +798,13 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    <a name="m-bombb"></a>
 
 1. **BOMB B** [(Top)](#m-top)
+   - Alvo: COZINHA;
+   - Posição: Encoste na caixa com as bombas localizada dentro do bomb e próximo a van;
+   - Mira: Mire em uma tênue mancha escura acima da janela de grade. 
+   - Execução: Ande para a frente até chegar próximo a caixa-default;
+   - Ref. 132.0933: [YouTube](https://youtu.be/wGl7zyeHl1Y)
+
+1. **BOMB B** [(Top)](#m-top)
    - Alvo: PORTA DO MERCADO;
    - Posição: Posicione-se atrás da caixa no bomb B em frente a varanda;
    - Mira: Alinhe a mira na direção da porta do mercado. Mire no canto do chão com a parede no lado esquerdo de uma mancha escura;
@@ -803,6 +817,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira: Mire abaixo da junção superior da quina direita da caixa. 
    - Execução: Jumpthrow médio;
    - Ref. 132.4508: [YouTube](https://youtu.be/65uIXvyO180)
+
 
    <a name="m-carroca"></a>
 
@@ -1132,6 +1147,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Arremesso longo;
    - Ref. 133.8930: [YouTube](https://youtu.be/rxUl71E94k0)
 
+1. **BOMB A** [(Top)](#f-top)
+   - Alvo: MEIO CIMA; CARROÇA; ESQUINA;
+   - Posição: Posicione-se próximo a marcação do bomb, atrás da caixa-fogo;
+   - Mira: Mire na parede da região da cabecinha e alinhado com a palmeira;
+   - Execução: Ande para a frente + Jumpthrow longo;
+   - Ref. 133.7865: [YouTube](https://youtu.be/u4uxF037NRg)
+
    <a name="f-bombb"></a>
 
 1. **BOMB B** [(Top)](#f-top)
@@ -1263,6 +1285,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Ref. 133.7409: [YouTube](https://youtu.be/HMQny3jUBh8)
 
    <a name="f-jungle"></a>
+
+1. **JUNGLE** [(Top)](#f-top)
+   - Alvo: CAVERNA; CAVERNA TR;
+   - Posição: Encoste no canto da parede direita da Jungle, de frente para a cabecinha;
+   - Mira: Mire rente a parede e alinhado com o início da sombra no chão;
+   - Execução: Ande para a frente até a marcação no piso + Jumpthrow longo;
+   - Ref. 133.9367: [YouTube](https://youtu.be/TfyGDUur8Oc)
 
 1. **JUNGLE** [(Top)](#f-top)
    - Alvo: LIGAÇÃO;
@@ -1478,6 +1507,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire na ponta do caibro acima da saída da caverna;
    - Execução: Ande para a frente até a marcação no chão + Arremesso longo;
    - Ref. 134.9833: [YouTube](https://youtu.be/0eTT2uyIZeQ)
+
+1. **JUNGLE** [(Top)](#h-top)
+   - Alvo: CAVERNA; CAVERNA TR;
+   - Posição: Encoste no canto da parede direita da Jungle, de frente para a cabecinha;
+   - Mira: Mire rente a parede e alinhado com o início da sombra no chão;
+   - Execução: Ande para a frente até a marcação no piso + Jumpthrow longo;
+   - Ref. 134.9367: [YouTube](https://youtu.be/U3XVSuXMGLM)
 
    <a name="h-l"></a>
 
