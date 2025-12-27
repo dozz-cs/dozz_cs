@@ -40,7 +40,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Posição: Encoste no canto à esquerda do caminhão;
    - Mira: Mire à esquerda, acima da porta, em uma mancha azul na parede;
    - Execução: Jumpthrow longo;
-   - Ref. 131.8942: [YouTube](https://youtu.be/xlZecDzVaKQ)
+   - Ref. <a name="131.8942">131.8942</a>: [YouTube](https://youtu.be/xlZecDzVaKQ)
 
 1. **BASE CT** [(Top)](#s-top)
    - Alvo: CAVERNA;
