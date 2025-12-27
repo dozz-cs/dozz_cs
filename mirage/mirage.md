@@ -35,14 +35,14 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
    <a name="s-basect"></a>
 
-1. **BASE CT** [(Top)](#s-top)
+1. **BASE CT** [(Top)](#s-top)<a name="131.8942"></a>
    - Alvo: CAVERNA;
    - Posição: Encoste no canto à esquerda do caminhão;
    - Mira: Mire à esquerda, acima da porta, em uma mancha azul na parede;
    - Execução: Jumpthrow longo;
-   - Ref. <a name="131.8942">131.8942</a>: [YouTube](https://youtu.be/xlZecDzVaKQ)
+   - Ref. 131.8942: [YouTube](https://youtu.be/xlZecDzVaKQ)
 
-1. **BASE CT** [(Top)](#s-top)
+1. **BASE CT** [(Top)](#s-top)<a name="131.2792"></a>
    - Alvo: CAVERNA;
    - Posição: Suba na pequena plataforma perto da entrada para o mercado. Encoste na pequena parede à esquerda da porta de madeira;
    - Mira: Alinhe a mira com a quina do beiral acima das janelas e posicione a mira no topo da construção;
