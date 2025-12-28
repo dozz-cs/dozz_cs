@@ -564,6 +564,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 131.9743: [YouTube](https://youtu.be/AwG7WQThlBY)
 
 1. **MEIO FALSO** [(Top)](#s-top)
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Encoste no canto da parede do fundo próximo a região da esquina;
+   - Mira: Na região da cadeira, mire entre duas manchas escuras localizadas no topo da construção;
+   - Execução: Jumpthrow longo;
+   - Ref. 131.6565: [YouTube](https://youtu.be/ZVDg7XUvga4)
+
+1. **MEIO FALSO** [(Top)](#s-top)
    - Alvo: LIGAÇÃO BAIXO;
    - Posição: Posicione-se no canto da parede em frente a escada de acesso para a TV;
    - Mira: Mire no desenho localizado no centro inferior do tapete;
@@ -1111,7 +1118,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
-[**Areia**](#f-areia) - [**Beco**](#f-beco) - [**Bomb B**](#f-bombb) - [**Boltz**](#f-boltz) - [**Caixa fogo**](#f-caixafogo) - [**Carroça**](#f-carroca) - [**Caverna TR**](#f-cavernatr) - [**Caverna**](#f-caverna) - [**Cozinha**](#f-cozinha) - [**Ligação**](#f-ligacao) - [**Janelão**](#f-janelao) - [**Jungle**](#f-jungle) - [**Meio**](#f-meio) - [**Meio falso**](#f-meiofalso) - [**Mercado**](#f-mercado) - [**Moscou**](#f-moscou) - [**Passagem carroça**](#f-passagemcarroca) - [**Plataforma**](#f-plataforma) - [**Rato**](#f-rato) - [**TV**](#f-tv) - [**Taco**](#f-taco) - [**Tapete da B**](#f-tapetedab) - [**Van**](#f-van)
+[**Areia**](#f-areia) - [**Beco**](#f-beco) - [**Bomb B**](#f-bombb) - [**Boltz**](#f-boltz) - [**Cabecinha**](#f-cabecinha) - [**Caixa fogo**](#f-caixafogo) - [**Carroça**](#f-carroca) - [**Caverna TR**](#f-cavernatr) - [**Caverna**](#f-caverna) - [**Cozinha**](#f-cozinha) - [**L**](#f-l) - [**Ligação**](#f-ligacao) - [**Janelão**](#f-janelao) - [**Jungle**](#f-jungle) - [**Meio**](#f-meio) - [**Meio falso**](#f-meiofalso) - [**Mercado**](#f-mercado) - [**Moscou**](#f-moscou) - [**Passagem carroça**](#f-passagemcarroca) - [**Plataforma**](#f-plataforma) - [**Rato**](#f-rato) - [**TV**](#f-tv) - [**Taco**](#f-taco) - [**Tapete da B**](#f-tapetedab) - [**Van**](#f-van)
 
    <a name="f-areia"></a>
 
@@ -1154,6 +1161,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 133.7865: [YouTube](https://youtu.be/u4uxF037NRg)
 
+1. **BOMB A** [(Top)](#f-top)
+   - Alvo: MEIO CIMA; CARROÇA; ESQUINA;
+   - Posição: Posicione-se ao lado da caixa-fogo e de frente para a ligação;
+   - Mira: Mire na parede na região da cabecinha e alinhado com o topo da caixa-fogo;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
+   - Ref. 133.9432: [YouTube](https://youtu.be/WXqFRp8Yae4)
+
    <a name="f-bombb"></a>
 
 1. **BOMB B** [(Top)](#f-top)
@@ -1178,6 +1192,15 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Mira: Mire no lado direito da pequena torre branca esquerda acima da caverna;
    - Execução: Arremesso longo;
    - Ref. 133.4592: [YouTube](https://youtu.be/phCtWyBjfy8)
+
+   <a name="f-cabecinha"></a>
+
+1. **CABECINHA** [(Top)](#f-top)
+   - Alvo: CARROÇA; ESQUINA; MEIO;
+   - Posição: Pare no meio da escada da região da cabecinha, até que a antena do tipo espinha de peixe não seja mais visível;
+   - Mira: Alinhe a mira com a ponta do primeiro caibro. Mire no topo da construção . 
+   - Execução: Arremesso longo;
+   - Ref. 133.4766: [YouTube](https://youtu.be/oD-qWguCgvw)
 
    <a name="f-caixafogo"></a>
 
@@ -1210,6 +1233,13 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Mira: Mire na parede atrás da carroça, na altura das pontas das folhagens na parede;
    - Execução: Arremesso longo;
    - Ref. 133.7923: [YouTube](https://youtu.be/jSJf8qUYk2M)
+
+1. **CARROÇA** [(Top)](#f-top)
+   - Alvo: LIGAÇÃO;
+   - Posição: Pare ao lado da carroça, na região da passagem;
+   - Mira: Agache e mire acima do lado direito da janela acima da região da ligação;
+   - Execução: Arremesso longo;
+   - Ref. 133.5692: [YouTube](https://youtu.be/L05FmImwE3g)
 
    <a name="f-cavernatr"></a>
 
@@ -1251,6 +1281,15 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Mira: Mire na coluna do lado esquerdo da porta veneziana;
    - Execução: Ande para a frente e arremesso longo;
    - Ref. 133.0228: [YouTube](https://youtu.be/iTz_hLnBlmQ)
+
+   <a name="f-l"></a>
+
+1. **L** [(Top)](#f-top)
+   - Alvo: MEIO CIMA;
+   - Posição: Posicione-se atrás dos blocos empilhados na região do L;
+   - Mira: Mire no meio da parede azul superior;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 133.4590: [YouTube](https://youtu.be/HG3cf8nayhg)
 
    <a name="f-ligacao"></a>
 
@@ -1343,8 +1382,15 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Alvo: MEIO BAIXO; JANELÃO; L;
    - Posição: Na subida da rampa para a carroça, localize a marcação antes de chegar ao topo;
    - Mira: Mire do lado direito inferior da janela alinhado com o barril;
-   - Execução: Ande para a frente e arremesso longo;
+   - Execução: Ande para a frente + Arremesso longo;
    - Ref. 133.0356: [YouTube](https://youtu.be/shwL8r_FKFs)
+
+1. **MEIO FALSO** [(Top)](#f-top)
+   - Alvo: MEIO BAIXO LIGAÇÃO; JANELÃO; L;
+   - Posição: Posicione-se na quina da parede vermelha e abaixo da luminária;
+   - Mira: Mire na altura da região do topo da torre e alinhado com a direita do coqueiro;
+   - Execução: Arremesso longo;
+   - Ref. 133.1633: [YouTube](https://youtu.be/RLuswioeiKI)
 
    <a name="f-mercado"></a>
 
@@ -1432,6 +1478,20 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
    - Execução: Arremesso longo:
    - Ref. 133.8566: [YouTube](https://youtu.be/FD2Vy4XYqec)
 
+1. **TAPETE DA B** [(Top)](#f-top)
+   - Alvo: PORTA DO MERCADO;
+   - Posição: Posicione-se na pequena parede entre as janelas na região do tapete;
+   - Mira: Mire no tronco do coqueiro acima da porta do mercado;
+   - Execução: Arremesso longo:
+   - Ref. 133.5400: [YouTube](https://youtu.be/FHwiLSPehOg)
+
+1. **TAPETE DA B** [(Top)](#f-top)
+   - Alvo: PORTA DO MERCADO;
+   - Posição: Posicione-se próximo a escada de subida para o tapete, atrás da janela com grades;
+   - Mira: Alinhe a mira com o topo direito da porta do mercado. Mire na região do beiral da construção;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo:
+   - Ref. 133.0947: [YouTube](https://youtu.be/y94_cohO4aI)
+
    <a name="f-van"></a>
 
 1. **VAN** [(Top)](#f-top)
@@ -1447,7 +1507,16 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
-[**Carroça**](#h-carroca) - [**Caverna**](#h-caverna) - [**Edward**](#h-edward) - [**Janelão**](#h-janelao) - [**Jungle**](#h-jungle) - [**L**](#h-l) - [**Mercado**](#h-mercado) - [**Palácio**](#h-palacio) - [**Rato**](#h-rato) - [**Van**](#h-van)
+[**Bomb B**](#h-bombb) - [**Carroça**](#h-carroca) - [**Caverna**](#h-caverna) - [**Edward**](#h-edward) - [**Janelão**](#h-janelao) - [**Jungle**](#h-jungle) - [**L**](#h-l) - [**Mercado**](#h-mercado) - [**Palácio**](#h-palacio) - [**Rato**](#h-rato) - [**Van**](#h-van)
+
+   <a name="h-bombb"></a>
+
+1. **BOMB B** [(Top)](#m-top)
+   - Alvo: COZINHA;
+   - Posição: Encoste na caixa com os mísseis localizada dentro do bomb e próximo a van;
+   - Mira: Mire em uma tênue mancha escura acima da janela de grade. 
+   - Execução: Ande para a frente até chegar próximo a caixa-default;
+   - Ref. 134.0933: [YouTube](https://youtu.be/lzMmkFxHaMc)
 
    <a name="h-carroca"></a>
 
