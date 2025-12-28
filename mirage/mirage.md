@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# MIRAGE (+190 utilitárias)
+# MIRAGE (+200 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mirage/mirage.pdf)
 
@@ -31,7 +31,7 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mi
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Beco**](#s-beco) - [**Boltz**](#s-boltz) - [**Bomb b**](#s-bombb) - [**Cabecinha**](#s-cabecinha) - [**Caverna**](#s-caverna) - [**Caverna TR**](#s-cavernatr) - [**Carroça**](#s-carroca) - [**Jungle**](#s-jungle) - [**L**](#s-l) - [**Meio**](#s-meio) - [**Meio falso**](#s-meiofalso) - [**Mercado**](#s-mercado) - [**Palácio**](#s-palacio) - [**Passagem carroça**](#s-passagemcarroca) - [**Plataforma**](#s-plataforma) - [**Rato**](#s-rato) - [**TV**](#s-tv) - [**Taco**](#s-taco) - [**Tetris**](#s-tetris) - [**Van**](#s-van)
+[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Beco**](#s-beco) - [**Boltz**](#s-boltz) - [**Bomb b**](#s-bombb) - [**Cabecinha**](#s-cabecinha) - [**Caverna**](#s-caverna) - [**Caverna TR**](#s-cavernatr) - [**Carroça**](#s-carroca) - [**Esquina**](#s-esquina) - [**Jungle**](#s-jungle) - [**L**](#s-l) - [**Meio**](#s-meio) - [**Meio falso**](#s-meiofalso) - [**Mercado**](#s-mercado) - [**Palácio**](#s-palacio) - [**Passagem carroça**](#s-passagemcarroca) - [**Plataforma**](#s-plataforma) - [**Rato**](#s-rato) - [**TV**](#s-tv) - [**Taco**](#s-taco) - [**Tetris**](#s-tetris) - [**Van**](#s-van)
 
    <a name="s-basect"></a>
 
@@ -506,6 +506,15 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 131.4209: [YouTube](https://youtu.be/GbFyRXd4zEw)
 
+   <a name="s-esquina"></a>
+
+1. **ESQUINA** [(Top)](#s-top)
+   - Alvo: LIGAÇÃO CIMA;
+   - Posição: Encoste no canto da parede do fundo próximo a região da esquina;
+   - Mira: Na região da cadeira, mire entre duas manchas escuras localizadas no topo da construção;
+   - Execução: Jumpthrow longo;
+   - Ref. 131.6565: [YouTube](https://youtu.be/ZVDg7XUvga4)
+
    <a name="s-jungle"></a>
 
 1. **JUNGLE** [(Top)](#s-top)
@@ -562,13 +571,6 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Agache e mire na ponta central da antena;
    - Execução: Levante + Jumpthrow longo;
    - Ref. 131.9743: [YouTube](https://youtu.be/AwG7WQThlBY)
-
-1. **MEIO FALSO** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO CIMA;
-   - Posição: Encoste no canto da parede do fundo próximo a região da esquina;
-   - Mira: Na região da cadeira, mire entre duas manchas escuras localizadas no topo da construção;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.6565: [YouTube](https://youtu.be/ZVDg7XUvga4)
 
 1. **MEIO FALSO** [(Top)](#s-top)
    - Alvo: LIGAÇÃO BAIXO;
