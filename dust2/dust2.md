@@ -21,7 +21,7 @@ hyperLinkoptions:
 - pdfwindowui
 ---
 
-# DUST 2 (+110 utilitárias)
+# DUST 2 (+120 utilitárias)
 
 Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/dust2/dust2.pdf)
 
@@ -161,6 +161,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 101.8306: [YouTube](https://youtu.be/3gDOVQtVmtE);
 
 1. **BOMB A** [(Top)](#s-top)
+   - Alvo: PORTA DO MEIO;
+   - Posição: Posicione-se no canto da caixa azul com a mureta da rampa do bomb;
+   - Mira: Alinhe a mira verticalmente com a janela localizada na lateral da torre. Mire rente a lona azul da caixa no bomb;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.8344: [YouTube](https://youtu.be/pT60fQ9B31o);
+
+1. **BOMB A** [(Top)](#s-top)
    - Alvo: VARANDA;
    - Posição: Posicione-se na região próxima ao bomb A e a newba. Não é necessário estar em uma posição específica;
    - Mira: Localize a construção em formato de torre na região da varanda. Mire entre as duas marcações no alto da construção;
@@ -258,42 +265,49 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
    <a name="s-escurocima"></a>
 
-1. **ESCURO CIMA** [(Top)](#s-top)
+1. **ESCURO ALTO** [(Top)](#s-top)
    - Alvo: PORTA DA B;
    - Posição: Encoste na lateral da caixa com o cadeado;
    - Mira: Mire próximo a junção da viga com as ripas de madeira;
    - Execução: Arremesso longo;
    - Ref. 101.1517: [YouTube](https://youtu.be/1-pcHJBaghc);
 
-1. **ESCURO CIMA** [(Top)](#s-top)
+1. **ESCURO ALTO** [(Top)](#s-top)
    - Alvo: PORTA DA B;
    - Posição: Encoste no canto do fundo na próximo as caixas e ao túnel;
    - Mira: Mire no segundo furo das folhas dos telhados;
    - Execução: Arremesso longo;
    - Ref. 101.1524: [YouTube](https://youtu.be/i1SLihccn-8);
 
-1. **ESCURO CIMA (1/2)** [(Top)](#s-top)
+1. **ESCURO ALTO** [(Top)](#s-top)
+   - Alvo: PORTA DA B;
+   - Posição: Encoste na lateral da coluna próxima a entrada para o escuro;
+   - Mira: Agache e mire em uma mancha na abertura das madeiras à direita e no teto do escuro;
+   - Execução: Arremesso longo;
+   - Ref. 101.0092: [YouTube](https://youtu.be/DjiZ2WUTpGY);
+
+1. **ESCURO ALTO (1/2)** [(Top)](#s-top)
    - Alvo: JANELA/BURACO;
    - Posição: Encoste na quina do lado esquerdo da coluna do escuro;
    - Mira: Localize as ripas no teto com uma abertura maior. Mire na junção das ripas do lado direito, próximo a viga de madeira;
    - Execução: Jumpthrow longo;
    - Ref. 101.1536: [YouTube](https://youtu.be/11gskU3JnYE);
 
-1. **ESCURO CIMA (2/2)** [(Top)](#s-top)
+1. **ESCURO ALTO (2/2)** [(Top)](#s-top)
    - Alvo: PORTA DA B;
    - Posição: Encoste na quina do lado esquerdo da coluna do escuro;
    - Mira: Localize a mancha escura nas ripas no teto. Mire na fresta entre as ripas, alinhado com a mancha escura;
    - Execução: Jumpthrow longo;
    - Ref. 101.1537: [YouTube](https://youtu.be/i-4QB7IW9dA);
 
-1. **ESCURO CIMA** [(Top)](#s-top)
+1. **ESCURO ALTO** [(Top)](#s-top)
    - Alvo: SAÍDA DO TÚNEL;
    - Posição: Posicione-se a esquerda e atrás da coluna do escuro;
    - Mira: Mire no lado direito do túnel na altura da placa da B;
    - Execução: Arremesso longo;
    - Ref. 101.1542: [YouTube](https://youtu.be/NMLEOPaFNqU);
 
-1. **ESCURO CIMA** [(Top)](#s-top)
+1. **ESCURO ALTO** [(Top)](#s-top)
    - Alvo: CAIXA GORDA;
    - Posição: Posicione-se na frente da coluna do escuro;
    - Mira: Localize a viga no telhado. Mire na região do céu azul do lado esquerdo da viga entre as duas ripas do telhado;
@@ -322,6 +336,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire à esquerda na região da decoração quadriculada superior. Alinhe a mira verticalmente com o canto esquerdo do vaso de barro;
    - Execução: Jumpthrow longo;
    - Ref. 101.6345: [YouTube](https://youtu.be/3eo8xFyfXp4);
+
+1. **ESCURO FORA** [(Top)](#s-top)
+   - Alvo: CAIXA DA BASE CT;
+   - Posição: Posicione-se no canto de uma pequena parede com muro, ao lado da porta de grades;
+   - Mira: Alinhe a mira com a coluna vertical direita e na altura da ponta da madeira no telhado. A mira ficará no céu azul; 
+   - Execução: Jumpthrow longo;
+   - Ref. 101.8430: [YouTube](https://youtu.be/XGou4QabaUI);
 
    <a name="s-fundotr"></a>
 
@@ -825,6 +846,34 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Mira: Localize uma decoração à esquerda na saída do túnel. Mire na parede próximo a uma pequena mancha;
    - Execução: Arremesso longo;
    - Ref. 103.5692: [YouTube](https://youtu.be/RocMFAD2zNM);
+
+1. **ESCURO ALTO** [(Top)](#f-top) 
+   - Alvo: CAIXA GORDA; ALTAR; BOMB B; DIREITINHA; ESQUERDINHA;
+   - Posição: Posicione-se em frente ao cadeado localizado na lateral da caixa;
+   - Mira: Mire em uma mancha na parte superior da parede do túnel;
+   - Execução: Arremesso longo;
+   - Ref. 103.3745: [YouTube](https://youtu.be/2mnH44uVeUM);
+
+1. **ESCURO ALTO** [(Top)](#f-top) 
+   - Alvo: CAIXA GORDA; ALTAR; BOMB B; DIREITINHA; ESQUERDINHA;
+   - Posição: Posicione-se em frente a duas tênues manchas escuras na entrada para o escuro alto;
+   - Mira: Mire no canto da região iluminada na parte superior direita do túnel;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 103.1830: [YouTube](https://youtu.be/OjB8OBAlPn8);
+
+1. **ESCURO ALTO** [(Top)](#f-top) REGRAVAR PRIORIDADE
+   - Alvo: CAIXA GORDA; ALTAR; BOMB B; DIREITINHA; ESQUERDINHA;
+   - Posição: Posicione-se na lateral da coluna próxima a entrada para o escuro alto;
+   - Mira: Mire em uma tênue mancha escura localizada acima da entrada para o túnel;
+   - Execução: Jumpthrow longo;
+   - Ref. 103.2031: [YouTube](link);
+
+1. **ESCURO ALTO** [(Top)](#f-top)
+   - Alvo: CAIXA GORDA; CARRO; ALTAR;
+   - Posição: Posicione-se na quina da coluna interna no escuro alto;
+   - Mira: Mire em uma tênue mancha escura localizada rente a viga e próximo ao teto;
+   - Execução: Jumpthrow longo;
+   - Ref. 103.4677: [YouTube](https://youtu.be/tFtjpcdhg7c);
 
    <a name="f-fundotr"></a>
 
