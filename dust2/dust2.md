@@ -31,7 +31,16 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/du
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Azul**](#s-azul) - [**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Bomb A**](#s-bomba) - [**Bomb B**](#s-bombb) - [**Bunker**](#s-bunker) - [**Carro da A**](#s-carrodaa) - [**Caverna**](#s-caverna) - [**Coqueiro**](#s-coqueiro) - [**Escuro baixo**](#s-escurobaixo) - [**Escuro cima**](#s-escurocima) - [**Escuro Fora**](#s-escurofora) - [**Fundo TR**](#s-fundotr) - [**Fundo**](#s-fundo) - [**Meio cima**](#s-meiocima) - [**Porta do meio**](#s-portadomeio) - [**Rampa da A**](#s-rampadaa) - [**Rampa da B**](#s-rampadab) - [**Rampa CT**](#s-rampact) - [**Varanda**](#s-varanda) - [**Xbox**](#s-xbox)
+[**Andaime**](#s-andaime) - [**Azul**](#s-azul) - [**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Bomb A**](#s-bomba) - [**Bomb B**](#s-bombb) - [**Bunker**](#s-bunker) - [**Carro da A**](#s-carrodaa) - [**Caverna**](#s-caverna) - [**Coqueiro**](#s-coqueiro) - [**Escuro baixo**](#s-escurobaixo) - [**Escuro cima**](#s-escurocima) - [**Escuro Fora**](#s-escurofora) - [**Fundo TR**](#s-fundotr) - [**Fundo**](#s-fundo) - [**Meio cima**](#s-meiocima) - [**Porta do meio**](#s-portadomeio) - [**Rampa da A**](#s-rampadaa) - [**Rampa da B**](#s-rampadab) - [**Rampa CT**](#s-rampact) - [**Varanda**](#s-varanda) - [**Xbox**](#s-xbox)
+
+   <a name="s-andaime"></a>
+
+1. **ANDAIME** [(Top)](#s-top) ★★★☆☆
+   - Alvo: TÚNEL DO ESCURO ALTO;
+   - Posição: Posicione-se no canto da parede com o andaime;
+   - Mira: Localize a região central das ripas de madeira no telhado do escuro. Na região central, mire na quina da direita;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.2849: [YouTube](https://youtu.be/ZMAiXExGats);
 
    <a name="s-azul"></a>
 
@@ -493,10 +502,10 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **RAMPA CT** [(Top)](#s-top)
    - Alvo: CAVERNA;
-   - Posição: Posicione-se no canto do muro do bomb A, na região do elevador;
-   - Mira: Mire no topo da construção, junção dos elementos vazados com a parede bege;
+   - Posição: Encoste no canto das caixa nova com a parede;
+   - Mira: Mire na altura da marcação horizontal e no lado esquerdo dos fios;
    - Execução: Jumpthrow longo;
-   - Ref. 101.5662: [YouTube](https://youtu.be/A7XXTRWiyvw);
+   - Ref. 101.2319: [YouTube](https://youtu.be/FaJT-ZtWSxk);
 
 1. **RAMPA CT** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -700,6 +709,13 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    <a name="m-fundo"></a>
 
 1. **FUNDO** [(Top)](#m-top) 
+   - Alvo: CAVERNA;
+   - Posição: Alinhe a mira aproximadamente no topo do desenho do telefone e corra lateralmente próximo a parede;
+   - Mira: Ainda correndo, chegue com a mira até a quina do azul;
+   - Execução: Execute a utilitária em uma única corrida + Arremesso longo;
+   - Ref. 102.4566: [YouTube](https://youtu.be/oomFPuPTjWU);
+
+1. **FUNDO** [(Top)](#m-top) 
    - Alvo: BOMB A;
    - Posição: Posicione-se em frente ao desenho da xícara de café na porta pantográfica em frente a entrada para o bunker;
    - Mira: Mire no relógio ao lado da porta de grade;
@@ -778,6 +794,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Mira: Mire na altura do topo da madeira alinhado com a sombra abaixo;
    - Execução: Agache + Jumpthrow longo;
    - Ref. 103.7633: [YouTube](https://youtu.be/yOLFO7df6Ek);
+
+1. **ANDAIME** [(Top)](#f-top) 
+   - Alvo: BOMB B; TÚNEL; CARRO;
+   - Posição: Posicione-se no canto da parede com o andaime, próximo a janela;
+   - Mira: Mire no meio da terceira ponta do pilar piramidal sobre o muro e a direita da porta;
+   - Execução: Arremesso longo;
+   - Ref. 103.7343: [YouTube](https://youtu.be/Zxd4ScdMHwI);
 
    <a name="f-bombb"></a>
 
@@ -861,12 +884,12 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 103.1830: [YouTube](https://youtu.be/OjB8OBAlPn8);
 
-1. **ESCURO ALTO** [(Top)](#f-top) REGRAVAR PRIORIDADE
-   - Alvo: CAIXA GORDA; ALTAR; BOMB B; DIREITINHA; ESQUERDINHA;
+1. **ESCURO ALTO** [(Top)](#f-top) 
+   - Alvo: CAIXA GORDA; ALTAR; BOMB B; CARRO;
    - Posição: Posicione-se na lateral da coluna próxima a entrada para o escuro alto;
    - Mira: Mire em uma tênue mancha escura localizada acima da entrada para o túnel;
    - Execução: Jumpthrow longo;
-   - Ref. 103.2031: [YouTube](link);
+   - Ref. 103.2031: [YouTube](https://youtu.be/LjzVeQNmh-g);
 
 1. **ESCURO ALTO** [(Top)](#f-top)
    - Alvo: CAIXA GORDA; CARRO; ALTAR;
