@@ -495,14 +495,14 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **RAMPA CT** [(Top)](#s-top)
    - Alvo: CAVERNA;
-   - Posição: Encoste no canto das caixas da rampa com o número 14;
+   - Posição: Encoste no canto da caixa nova da rampa marcada com o número 14;
    - Mira: Mire no toldo azul alinhando a mira com o centro da janela do topo da construção;
    - Execução: Jumpthrow longo;
    - Ref. 101.5423: [YouTube](https://youtu.be/SJviROxQwHc);
 
 1. **RAMPA CT** [(Top)](#s-top)
    - Alvo: CAVERNA;
-   - Posição: Encoste no canto das caixa nova com a parede;
+   - Posição: Encoste no canto da caixa nova com a parede;
    - Mira: Mire na altura da marcação horizontal e no lado esquerdo dos fios;
    - Execução: Jumpthrow longo;
    - Ref. 101.2319: [YouTube](https://youtu.be/FaJT-ZtWSxk);
