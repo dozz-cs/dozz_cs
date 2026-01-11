@@ -35,7 +35,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
    <a name="s-andaime"></a>
 
-1. **ANDAIME** [(Top)](#s-top) ★★★☆☆
+1. **ANDAIME** [(Top)](#s-top)
    - Alvo: TÚNEL DO ESCURO ALTO;
    - Posição: Posicione-se no canto da parede com o andaime;
    - Mira: Localize a região central das ripas de madeira no telhado do escuro. Na região central, mire na quina da direita;
