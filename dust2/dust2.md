@@ -31,7 +31,7 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/du
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Andaime**](#s-andaime) - [**Azul**](#s-azul) - [**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Bomb A**](#s-bomba) - [**Bomb B**](#s-bombb) - [**Bunker**](#s-bunker) - [**Caminho da Morte**](#s-caminhodamorte) - [**Carro da A**](#s-carrodaa) - [**Caverna**](#s-caverna) - [**Coqueiro**](#s-coqueiro) - [**Escuro baixo**](#s-escurobaixo) - [**Escuro cima**](#s-escurocima) - [**Escuro Fora**](#s-escurofora) - [**Fundo TR**](#s-fundotr) - [**Fundo**](#s-fundo) - [**Meio cima**](#s-meiocima) - [**Porta do meio**](#s-portadomeio) - [**Rampa da A**](#s-rampadaa) - [**Rampa da B**](#s-rampadab) - [**Rampa CT**](#s-rampact) - [**Varanda**](#s-varanda) - [**Xbox**](#s-xbox)
+[**Andaime**](#s-andaime) - [**Azul**](#s-azul) - [**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Bomb A**](#s-bomba) - [**Bomb B**](#s-bombb) - [**Bunker**](#s-bunker) - [**Caminho da Morte**](#s-caminhodamorte) - [**Carro da A**](#s-carrodaa) - [**Caverna**](#s-caverna) - [**Coqueiro**](#s-coqueiro) - [**Escuro baixo**](#s-escurobaixo) - [**Escuro cima**](#s-escurocima) - [**Escuro Fora**](#s-escurofora) - [**Fundo TR**](#s-fundotr) - [**Fundo**](#s-fundo) - [**Meio cima**](#s-meiocima) - [**Meio CT**](#s-meioct) -[**Porta do meio**](#s-portadomeio) - [**Rampa da A**](#s-rampadaa) - [**Rampa da B**](#s-rampadab) - [**Rampa CT**](#s-rampact) - [**Varanda**](#s-varanda) - [**Xbox**](#s-xbox)
 
    <a name="s-andaime"></a>
 
@@ -263,9 +263,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 1. **ESCURO BAIXO** [(Top)](#s-top)
    - Alvo: PORTA DO MEIO;
    - Posição: Encoste no lado direito da saída do escuro baixo. Alinhe a mira com a quina da porta;
-   - Mira: Mire na parte superior esquerda da viga de madeira;
+   - Mira: Mire no canto inferior direito da pequena janela;
    - Execução: Arremesso médio;
-   - Ref. 101.1510: [YouTube](https://youtu.be/h8qE6tN-BoU);
+   - Ref. 101.6510: [YouTube](https://youtu.be/wVdMXxkFvnk);
 
 1. **ESCURO BAIXO** [(Top)](#s-top)
    - Alvo: PORTA DO MEIO;
@@ -458,6 +458,22 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na junção do arco da porta com um detalhe vertical de madeira;
    - Execução: Jumpthrow longo;
    - Ref. 101.1549: [YouTube](https://youtu.be/NwgdM5ftrPs);
+
+   <a name="s-meioct"></a>
+
+1. **MEIO CT** [(Top)](#s-top)
+   - Alvo: BASE CT;
+   - Posição: Posicione-se no canto da parede próximo a Porta do Meio;
+   - Mira: Agache e mire na ponta da sombra alinhada com a caixa;
+   - Execução: Agachado + Arremesso longo;
+   - Ref. 101.9463: [YouTube](https://youtu.be/8jPpRDHyEZQ);
+
+1. **MEIO CT** [(Top)](#s-top)
+   - Alvo: BASE CT;
+   - Posição: Posicione-se no nicho da parede próximo a Porta do Meio;
+   - Mira: Mire na ponta da tábua do quebra-sol;
+   - Execução: Arremesso longo;
+   - Ref. 101.8740: [YouTube](https://youtu.be/MM8wQNz-DwY);
 
    <a name="s-portadomeio"></a>
 
@@ -937,6 +953,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Arremesso médio;
    - Ref. 103.0526: [YouTube](https://youtu.be/8-TSytoPel8);
 
+1. **ESCURO BAIXO** [(Top)](#f-top) 
+   - Alvo: MEIO;
+   - Posição: Posicione-se na quina da parede de subida para a escada;
+   - Mira: Alinhe a mira com a direita da base da luminária no teto. Mire em um sarrafo fino no teto;
+   - Execução: Arremesso médio;
+   - Ref. 103.7492: [YouTube](https://youtu.be/jcm_bO0myL4);
+
    <a name="f-fundotr"></a>
 
 1. **FUNDO TR** [(Top)](#f-top) 
@@ -1098,7 +1121,16 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
 
 Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
-[**Escuro baixo**](#h-escurobaixo) - [**Rampa CT**](#h-rampact) - [**Rampa da B**](#h-rampadab)
+[**Base CT**](#h-basect) - [**Escuro baixo**](#h-escurobaixo) - [**Rampa CT**](#h-rampact) - [**Rampa da B**](#h-rampadab)
+
+   <a name="h-basect"></a>
+
+1. **BASE CT** [(Top)](#h-top)
+   - Alvo: PORTA DO MEIO;
+   - Posição: Posicione-se na frente das caixas próximo a saída da Base CT;
+   - Mira: Mire em uma mancha na coluna da parede próximo a Porta;
+   - Execução: Ande para a frente + Arremesso médio;
+   - Ref. 104.4344: [YouTube](https://youtu.be/SNoXF3B-bg8);
 
    <a name="h-escurobaixo"></a>
 
