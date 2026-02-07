@@ -72,6 +72,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 121.1099: [YouTube](https://youtu.be/6UysNmzSLDw)
 
+1. **AREIA** [(Top)](#s-top) 
+   - Alvo: AREIA 2;
+   - Posição: Encoste na mureta da areia;
+   - Mira: Localize um pedra angulada na base do buraco da mureta da areia. Mire no meio dessa pedra angulada;
+   - Execução: Jumpthrow longo;
+   - Ref. 121.8046: [YouTube](https://youtu.be/XD9ogXDvzlI)
+
    <a name="s-areia2"></a>
 
 1. **AREIA 2** [(Top)](#s-top)
@@ -227,6 +234,15 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.0977: [YouTube](https://youtu.be/hF04CE9pYBo)
 
+   <a name="s-bomba"></a>
+
+1. **BOMB A** [(Top)](#s-top)
+   - Alvo: AREIA 2;
+   - Posição: (a) Posicione-se na região atrás da caixa Default ou na região próximo ao Coldzera;
+   - Mira: Mire no canto direito da floreira inferior abaixo da janela na região da Areia 2;
+   - Execução: Jumpthrow longo;
+   - Ref. 121.5732: [YouTube](https://youtu.be/bzhFBMcGte8)
+
    <a name="s-bombb"></a>
 
 1. **BOMB B** [(Top)](#s-top)
@@ -270,6 +286,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 121.5309: [YouTube](https://youtu.be/ZGKxxcDwcho)
 
+1. **CAIXÃO** [(Top)](#s-top)
+   - Alvo: BANANA E MURETA;
+   - Posição: Posicione-se em cima dos sacos de cimento na região do caixão;
+   - Mira: Localize uma pedra saliente no centro da parede na região do sanduíche. Mire no canto inferior esquerdo dessa pedra;
+   - Execução: Jumpthrow longo;
+   - Ref. 121.3478: [YouTube](https://youtu.be/OvnVIgix0mI)
+
    <a name="s-carro"></a>
 
 1. **CARRO** [(Top)](#s-top)
@@ -278,6 +301,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire à esquerda na base da luminária fixa na parede;
    - Execução: Jumpthrow longo;
    - Ref. 121.7981: [YouTube](https://youtu.be/z3ztVqpo7G4)
+
+1. **CARRO** [(Top)](#s-top)
+   - Alvo: CAIXÃO;
+   - Posição: Encoste no canto direito do madeirite com o barril;
+   - Mira: Mire em uma pequena ponta de metal acima do telhado e a direita da luminária;
+   - Execução: Jumpthrow médio;
+   - Ref. 121.3872: [YouTube](https://youtu.be/L7tLsE9o0os)
 
 1. **CARRO** [(Top)](#s-top)
    - Alvo: CT;
@@ -549,6 +579,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Mira: Mire na parte superior de uma tênue falha na região superior direita da letra B;
    - Execução: Jumpthrow longo;
    - Ref. 122.9234: [YouTube](https://youtu.be/5D__UMovNX0)
+
+1. **BANANA** [(Top)](#m-top)
+   - Alvo: CARRO;
+   - Posição: Posicione-se no lado direito e no início da região da Banana;
+   - Mira: Mire na altura do telhado abaixo do andaime e alinhado com o vaso de planta na parede próximo ao Carro;
+   - Execução: Ande para a frente + Arremesso longo;
+   - Ref. 122.4734: [YouTube](https://youtu.be/ufloUJ8zh-k)
 
 1. **BANANA** [(Top)](#m-top)
    - Alvo: CAIXÃO;
