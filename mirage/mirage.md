@@ -1120,7 +1120,7 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
-[**Areia**](#f-areia) - [**Beco**](#f-beco) - [**Bomb B**](#f-bombb) - [**Boltz**](#f-boltz) - [**Cabecinha**](#f-cabecinha) - [**Caixa fogo**](#f-caixafogo) - [**Carroça**](#f-carroca) - [**Caverna TR**](#f-cavernatr) - [**Caverna**](#f-caverna) - [**Cozinha**](#f-cozinha) - [**L**](#f-l) - [**Ligação**](#f-ligacao) - [**Janelão**](#f-janelao) - [**Jungle**](#f-jungle) - [**Meio**](#f-meio) - [**Meio falso**](#f-meiofalso) - [**Mercado**](#f-mercado) - [**Moscou**](#f-moscou) - [**Passagem carroça**](#f-passagemcarroca) - [**Plataforma**](#f-plataforma) - [**Rato**](#f-rato) - [**TV**](#f-tv) - [**Taco**](#f-taco) - [**Tapete da B**](#f-tapetedab) - [**Van**](#f-van)
+[**Areia**](#f-areia) - [**Beco**](#f-beco) - [**Bomb A**](#f-bomba) - [**Bomb B**](#f-bombb) - [**Boltz**](#f-boltz) - [**Cabecinha**](#f-cabecinha) - [**Caixa fogo**](#f-caixafogo) - [**Carroça**](#f-carroca) - [**Caverna TR**](#f-cavernatr) - [**Caverna**](#f-caverna) - [**Cozinha**](#f-cozinha) - [**L**](#f-l) - [**Ligação**](#f-ligacao) - [**Janelão**](#f-janelao) - [**Jungle**](#f-jungle) - [**Meio**](#f-meio) - [**Meio falso**](#f-meiofalso) - [**Mercado**](#f-mercado) - [**Moscou**](#f-moscou) - [**Passagem carroça**](#f-passagemcarroca) - [**Plataforma**](#f-plataforma) - [**Rato**](#f-rato) - [**TV**](#f-tv) - [**Taco**](#f-taco) - [**Tapete da B**](#f-tapetedab) - [**Van**](#f-van)
 
    <a name="f-areia"></a>
 
