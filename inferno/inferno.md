@@ -135,13 +135,6 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    <a name="s-basect"></a>
 
 1. **BASE CT** [(Top)](#s-top)
-   - Alvo: CAVERNA;
-   - Posição: Posicione-se no caminho formado na areia e em frente ao vaso de flor;
-   - Mira: Mire no ponto médio da região entre o caibro e o telhado;
-   - Execução: Corra até a mira chegar no beiral inferior + Jumpthrow;
-   - Ref. 121.1201: [YouTube](https://youtu.be/53CtryHF1YI)
-
-1. **BASE CT** [(Top)](#s-top)
    - Alvo: BANANA;
    - Posição: Encoste no canto da cadeira com a parede da construção em frente a porta da adega/biblioteca;
    - Mira: Mire no canto inferior direito da janela no alto da construção;
@@ -163,6 +156,20 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 121.4501: [YouTube](https://youtu.be/-3Q8_cstSjw)
 
 1. **BASE CT** [(Top)](#s-top)
+   - Alvo: CAVERNA;
+   - Posição: Posicione-se no caminho formado na areia e em frente ao vaso de flor;
+   - Mira: Mire no ponto médio da região entre o caibro e o telhado;
+   - Execução: Corra até a mira chegar no beiral inferior + Jumpthrow;
+   - Ref. 121.1201: [YouTube](https://youtu.be/53CtryHF1YI)
+
+1. **BASE CT** [(Top)](#s-top)
+   - Alvo: CARRO;
+   - Posição: Posicione-se em cima da calçada elevada no canto da parede com o guarda-sol verde próximo a entrada para a biblioteca/adega;
+   - Mira: Alinhe a mira com a esquerda da soleira da janela com a pequena sacada. Mire na altura da linha horizontal branca;
+   - Execução: Jumpthrow longo;
+   - Ref. 121.0473: [YouTube](https://youtu.be/d27W6Cg7Ax8)
+
+1. **BASE CT** [(Top)](#s-top)
    - Alvo: MEIO CIMA;
    - Posição: Encoste no canto da chapa de madeira e da parede ao lado da caminhonete;
    - Mira: Mire na região do telhado abaixo da casinha e à direita no alto da construção;
@@ -182,6 +189,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire em uma pequena saliência à esquerda da viga de madeira no beiral próximo ao canto esquerdo da sacada com os barris;
    - Execução: W + Jumpthrow longo;
    - Ref. 121.6534: [YouTube](https://youtu.be/WX2EI8hSpGA)
+
+1. **BASE CT** [(Top)](#s-top)
+   - Alvo: MEIO BAIXO;
+   - Posição: Posicione-se no canto da floreira do chão com a quina da parede da construção da capela;
+   - Mira: Mire em uma pequena saliência da mão-francesa no beiral da construção localizado acima da entrada para o arco;
+   - Execução: Jumpthrow longo;
+   - Ref. 121.1837: [YouTube](https://youtu.be/qdj7hU02ZX4)
 
    <a name="s-basetr"></a>
 
@@ -804,6 +818,13 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Jumpthrow médio;
    - Ref. 122.3819: [YouTube](https://youtu.be/dFSXg-CJ3u0)
 
+1. **FALLEN** [(Top)](#h-top)
+   - Alvo: TRIPLA;
+   - Posição: Posicione-se próximo a marcação reta no chão. Encoste na parede direita, ficando de frente para as caixas do Sanduiche;
+   - Mira: Mire na ponta de uma árvore baixa, acima do telhado na região da tripla;
+   - Execução: Arremesso longo;
+   - Ref. 122.9456: [YouTube](https://youtu.be/cmfvzwfg4y4)
+
    <a name="m-igreja"></a>
 
 1. **IGREJA**
@@ -1194,6 +1215,13 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire na junção das pedras da mureta de subida para o BTT;
    - Execução: Jumpthrow médio;
    - Ref. 124.3819: [YouTube](https://youtu.be/5a3vP0sJAiU)
+
+1. **FALLEN** [(Top)](#h-top)
+   - Alvo: TRIPLA;
+   - Posição: Posicione-se próximo a marcação reta no chão. Encoste na parede direita, ficando de frente para as caixas do Sanduiche;
+   - Mira: Mire na ponta de uma árvore baixa, acima do telhado na região da tripla;
+   - Execução: Arremesso longo;
+   - Ref. 124.9456: [YouTube](https://youtu.be/atgJzXghEN4)
 
    <a name="h-tapete"></a>
 
