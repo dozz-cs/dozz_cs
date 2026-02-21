@@ -613,6 +613,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Levante + Jumpthrow longo;
    - Ref. 101.6918: [YouTube](https://youtu.be/eep2Cp5AVDY);
 
+1. **XBOX** [(Top)](#s-top)
+   - Alvo: PORTA;
+   - Posição: Posicione-se no canto da parede com a caixa/xbox;
+   - Mira: Mire em uma mancha na parede acima da região da porta;
+   - Execução: Arremesso médio;
+   - Ref. 101.7943: [YouTube](https://youtu.be/tLpNK5o8S_8);
+
 <a name="m-top"></a>
 
 ## Molotov
