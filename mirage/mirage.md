@@ -515,6 +515,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 131.6565: [YouTube](https://youtu.be/ZVDg7XUvga4)
 
+1. **ESQUINA** [(Top)](#s-top)
+   - Alvo: JUNGLE;
+   - Posição: Posicione-se próximo a quina na região da Esquina/Passagem carroça;
+   - Mira: Mire no canto superior esquerdo da porta localizada na região da cadeira;
+   - Execução: Jumpthrow longo;
+   - Ref. 131.4936: [YouTube](https://youtu.be/-doF8P5FFOw)
+
    <a name="s-jungle"></a>
 
 1. **JUNGLE** [(Top)](#s-top)
