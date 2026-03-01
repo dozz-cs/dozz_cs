@@ -31,7 +31,7 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/ov
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Balada**](#s-balada) - [**Bifurcação**](#s-bifurcacao) - [**Cimento**](#s-cimento) - [**Com saída**](#s-comsaida) - [**Esgoto**](#s-esgoto) - [**Fonte**](#s-fonte) - [**Fundo**](#s-fundo) - [**Head Shot**](#s-headshot) - [**Meio**](#s-meio) - [**Rua**](#s-rua)
+[**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Balada**](#s-balada) - [**Bifurcação**](#s-bifurcacao) - [**Cimento**](#s-cimento) - [**Com saída**](#s-comsaida) - [**Esgoto**](#s-esgoto) - [**Fonte**](#s-fonte) - [**Fundo**](#s-fundo) - [**Head Shot**](#s-headshot) - [**Meio**](#s-meio) - [**Rua**](#s-rua) - [**Parquinho**](#s-parquinho)
 
 
    <a name="s-basetr"></a>
@@ -254,13 +254,31 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 171.9202: [YouTube](https://youtu.be/ggKwIKJ9xQM);
 
+   <a name="s-parquinho"></a>
+
+1. **PARQUINHO** [(Top)](#s-top)
+   - Alvo: MURETA DO FUNDO;
+   - Posição: Posicione-se na coluna esquerda da saída do Parquinho para o Fundo;
+   - Mira: Mire na ponta do galho à direita da torre pontiaguda;
+   - Execução: Jumpthrow longo;
+   - Ref. 171.8463: [YouTube](https://youtu.be/0DVnl-3ZYYs);
+
 <a name="m-top"></a>
 
 ## Molotov
 
 Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Bifurcação**](#m-bifurcacao) - [**Céu**](#m-ceu) - [**Com saída**](#m-comsaida) - [**Esgoto**](#m-esgoto) - [**Fonte**](#m-fonte) - [**Fundo**](#m-fundo)
+[**Beco**](#m-beco) - [**Bifurcação**](#m-bifurcacao) - [**Céu**](#m-ceu) - [**Com saída**](#m-comsaida) - [**Esgoto**](#m-esgoto) - [**Fonte**](#m-fonte) - [**Fundo**](#m-fundo)
+
+   <a name="m-beco"></a>
+
+1. **BECO** [(Top)](#m-top)
+   - Alvo: CIMENTO;
+   - Posição: Alinhe-se com a parede próximo a escada na saída da Base TR, em frente a Balada;
+   - Mira: Mire na parte inferior do grafite da letra B;
+   - Execução: Corra para a frente até se aproximar da sombra no chão + Jumpthrow longo;
+   - Ref. 172.9283: [YouTube](https://youtu.be/p8niQshAlyc);
 
    <a name="m-bifurcacao"></a>
 
@@ -299,13 +317,6 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    <a name="m-esgoto"></a>
 
 1. **ESGOTO** [(Top)](#m-top)
-   - Alvo: TÓXICO;
-   - Posição: Encoste do lado esquerdo da placa de madeira da B;
-   - Mira: Alinhe a mira com o centro da placa. Mire na altura do chão do armazém;
-   - Execução: Jumpthrow longo;
-   - Ref. 172.6755: [YouTube](https://youtu.be/Jq7PHrNM0Uk);
-
-1. **ESGOTO** [(Top)](#m-top)
    - Alvo: CÉU;
    - Posição: Encoste no lado esquerdo da placa de madeira da B;
    - Mira: Mire no meio da placa branca no topo. Posicione a mira ligeiramente à direita do poste;
@@ -318,6 +329,20 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
    - Mira: Mire na grade do parapeito ao lado da placa de madeira da B e na altura da divisória do chão com o muro;
    - Execução: Jumpthrow longo;
    - Ref. 172.2390: [YouTube](https://youtu.be/1aJA5a3UEgQ);
+
+1. **ESGOTO** [(Top)](#m-top)
+   - Alvo: TÓXICO;
+   - Posição: Encoste do lado esquerdo da placa de madeira da B;
+   - Mira: Alinhe a mira com o centro da placa. Mire na altura do chão do armazém;
+   - Execução: Jumpthrow longo;
+   - Ref. 172.6755: [YouTube](https://youtu.be/Jq7PHrNM0Uk);
+
+1. **ESGOTO** [(Top)](#m-top)
+   - Alvo: TÓXICO;
+   - Posição: Suba no corrimão de separação do esgoto com a calçada. Alinha-se com a quina do depósito mas permaneça sobre o corrimão;
+   - Mira: Localize a placa de madeira. Mire à direita da coluna de concreto e acima dessa placa de madeira;
+   - Execução: Arremesso longo;
+   - Ref. 172.3456: [YouTube](https://youtu.be/64aKKjioMrk);
 
    <a name="m-fonte"></a>
 
@@ -350,7 +375,23 @@ Ir para: [**Smokes**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explosive-he)
 
-[**Bifurcação**](#f-bifurcacao) - [**Esgoto**](#f-esgoto)
+[**Esgoto**](#f-esgoto) - [**Bifurcação**](#f-bifurcacao) - [**Esgoto**](#f-esgoto)
+
+   <a name="f-esgoto"></a>
+
+1. **BECO** [(Top)](#f-top)
+   - Alvo: ESGOTO;
+   - Posição: Posicione-se próximo a parede da escada da saída da Base TR, em frente a Balada. Observe o palete encostado na grade;
+   - Mira: Mire na parte superior circular de um marcador luminoso próximo a empilhadeira;
+   - Execução: Jumpthrow longo;
+   - Ref. 173.9320: [YouTube](https://youtu.be/ZSHuT6AKY9s);
+
+1. **BECO** [(Top)](#f-top)
+   - Alvo: ESGOTO; CIMENTO;
+   - Posição: Posicione-se próximo a sombra do fio no muro e no chão. Encoste no muro de tijolos;
+   - Mira: Mire a meia altura das tábuas de madeira ao lado do banheiro químico;
+   - Execução: Jumpthrow longo;
+   - Ref. 173.4343: [YouTube](https://youtu.be/Tws7bzITtic);
 
    <a name="f-bifurcacao"></a>
 
@@ -376,7 +417,7 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explo
 
 Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
-[**Céu**](#h-ceu) - [**Com saída**](#h-comsaida) - [**Sem saída**](#h-semsaida)
+[**Céu**](#h-ceu) - [**Esgoto**](#h-esgoto) - [**Com saída**](#h-comsaida) - [**Sem saída**](#h-semsaida)
 
    <a name="h-ceu"></a>
 
@@ -386,6 +427,15 @@ Ir para: [**Smokes**](#smokes) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire em uma coluna no topo do alambrado verde alinhado com a junção da cerca de tela;
    - Execução: Arremesso longo;
    - Ref. 174.8442: [YouTube](https://youtu.be/pZVh_V5StiI);
+
+   <a name="h-esgoto"></a>
+
+1. **ESGOTO** [(Top)](#h-top)
+   - Alvo: TÓXICO;
+   - Posição: Suba no corrimão de separação do esgoto com a calçada. Alinha-se com a quina do depósito mas permaneça sobre o corrimão;
+   - Mira: Localize a placa de madeira. Mire à direita da coluna de concreto e acima dessa placa de madeira;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 174.3456: [YouTube](https://youtu.be/dJUpK2XJ5E8);
 
    <a name="h-comsaida"></a>
 
