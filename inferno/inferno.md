@@ -72,13 +72,6 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente + Jumpthrow longo;
    - Ref. 121.1099: [YouTube](https://youtu.be/6UysNmzSLDw)
 
-1. **AREIA** [(Top)](#s-top) 
-   - Alvo: AREIA 2;
-   - Posição: Encoste na mureta da areia;
-   - Mira: Localize um pedra angulada na base do buraco da mureta da areia. Mire no meio dessa pedra angulada;
-   - Execução: Jumpthrow longo;
-   - Ref. 121.8046: [YouTube](https://youtu.be/XD9ogXDvzlI)
-
    <a name="s-areia2"></a>
 
 1. **AREIA 2** [(Top)](#s-top)
@@ -562,20 +555,6 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    - Execução: Arremesso longo;
    - Ref. 122.5408: [YouTube](https://youtu.be/Y7AVl5sMo6I)
 
-1. **ARCO** [(Top)](#m-top)
-   - Alvo: AREIA;
-   - Posição: Posicione-se próximo ao jardim ao lado da caixa de correio vermelha;
-   - Mira: Mire na quina do telhado da construção amarela;
-   - Execução: Ande ligeiramente para a frente + Arremesso longo;
-   - Ref. 122.5300: [YouTube](https://youtu.be/q2rYsiQ-O5M)
-
-1. **ARCO** [(Top)](#m-top)
-   - Alvo: AREIA;
-   - Posição: Suba na caixa de correio vermelha;
-   - Mira: Mire na parte de baixo da letra T;
-   - Execução: W + Jumpthrow longo;
-   - Ref. 122.0034: [YouTube](https://youtu.be/If3MXcM9SLY)
-
    <a name="m-areia2"></a>
 
 1. **AREIA 2** [(Top)](#m-top)
@@ -901,13 +880,6 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Execução: Jumpthrow longo;
    - Ref. 123.8330: [YouTube](https://youtu.be/PVktQpmIROw)
 
-1. **ARCO** [(Top)](#f-top)
-   - Alvo: COLDZERA; BOMB B; CEMITÉRIO; HEAD SHOT;
-   - Posição: Pare no canto da parede com a caixa de correio vermelha;
-   - Mira: Mire no centro da árvore, alinhado com a ponta esquerda do vaso no telhado da construção;
-   - Execução: Arremesso longo;
-   - Ref. 123.6532: [YouTube](https://youtu.be/p2XTrCmmVqE)
-
    <a name="f-areia2"></a>
 
 1. **AREIA 2** [(Top)](#f-top)
@@ -1060,13 +1032,6 @@ Ir para: [**Smoke**](#smokes) - [**Molotovs**](#molotov) - [**HE**](#high-explos
    - Ref. 123.4533: [YouTube](https://youtu.be/rrTitWpcq08)
 
    <a name="f-tapete"></a>
-
-1. **TAPETE** [(Top)](#f-top)
-   - Alvo: AREIA; BOMB A; ADEGA;
-   - Posição: No pilar com a placa verde de fire exit, mire na terceira grade a direita;
-   - Mira: Mire na mancha no muro que aparece na fresta da parede com a porta;
-   - Execução: Arremesso médio;
-   - Ref. 123.1699: [YouTube](https://youtu.be/CxkcAM1Gfg0)
 
 1. **TAPETE** [(Top)](#f-top)
    - Alvo: HEAD SHOT; AREIA; CEMITÉRIO; BOMB; AREIA 2;
