@@ -131,6 +131,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Ref. 101.4302: [YouTube](https://youtu.be/e02w7bw80sM);
 
 1. **BASE TR** [(Top)](#s-top)
+   - Alvo: XBOX;
+   - Posição: Posicione-se no canto das caixas baixas na saída da base TR para o escuro foro;
+   - Mira: Mire ligeiramente à direita da quina da parede e na altura da abraçadeira da antena;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.9773: [YouTube](https://youtu.be/oa6Yj8rFPNI);
+
+1. **BASE TR** [(Top)](#s-top)
    - Alvo: QUINA DO FUNDO;
    - Posição: Posicione-se na extremidade direita da mureta da base TR;
    - Mira: Mire na parte de baixo do ornamento horizontal acima da porta, alinhado com uma pequena cavidade superior;
@@ -299,10 +306,10 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **ESCURO ALTO** [(Top)](#s-top)
    - Alvo: PORTA DA B;
-   - Posição: Encoste na lateral da coluna próxima a entrada para o escuro;
-   - Mira: Agache e mire em uma mancha na abertura das madeiras à direita e no teto do escuro;
+   - Posição: Encoste na quina da lateral da coluna próxima a entrada para o escuro;
+   - Mira: Alinhe a mira com uma mancha clara na abertura das madeira no teto do escuro. Mire na altura de uma tênue mancha escura à esquerda;
    - Execução: Arremesso longo;
-   - Ref. 101.0092: [YouTube](https://youtu.be/DjiZ2WUTpGY);
+   - Ref. 101.0092: [YouTube](https://youtu.be/dp6BpGFYOJQ);
 
 1. **ESCURO ALTO (1/2)** [(Top)](#s-top)
    - Alvo: JANELA/BURACO;
@@ -428,6 +435,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na ponta da sombra da luminária no asfalto;
    - Execução: Ande ligeiramente para a frente até a mira se aproximar do meio-fio + Jumpthrow longo;
    - Ref. 101.0314: [YouTube](https://youtu.be/nSPIkk2gqdc);
+
+1. **FUNDO** [(Top)](#s-top)
+   - Alvo: RAMPA DA BASE CT;
+   - Posição: Posicione-se na região próximo a quina do fundo;
+   - Mira: Mire no topo da antena no alto da construção do consultório de dentista, no lado direito do transformador;
+   - Execução: Ande para a frente até a mira chegar próximo a uma pintura na parede de um dente + Arremesso longo;
+   - Ref. 101.7355: [YouTube](https://youtu.be/mS0MHgpSN4E);
 
 1. **FUNDO** [(Top)](#s-top)
    - Alvo: RAMPA DA BASE CT;
@@ -626,7 +640,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Andaime**](#m-andaime) - [**Azul**](#m-azul) - [**Altar do bunker**](#m-altardobunker) - [**Caminho da morte**](#m-caminhodamorte) - [**Escuro alto**](#m-escuroalto) - [**Escuro baixo**](#m-escurobaixo) - [**Fundo**](#m-fundo) - [**Rampa da B**](#m-rampadab) - [**Varanda**](#m-varanda) -  [**Xbox**](#m-xbox)
+[**Andaime**](#m-andaime) - [**Azul**](#m-azul) - [**Altar do bunker**](#m-altardobunker) - [**Caminho da morte**](#m-caminhodamorte) - [**Carro da A**](#m-carrodaa) - [**Escuro alto**](#m-escuroalto) - [**Escuro baixo**](#m-escurobaixo) - [**Fundo**](#m-fundo) - [**Rampa da B**](#m-rampadab) - [**Varanda**](#m-varanda) -  [**Xbox**](#m-xbox)
 
    <a name="m-andaime"></a>
 
@@ -643,13 +657,6 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Mira: Mire na junção das pedras ligeiramente abaixo e à esquerda do buraco;
    - Execução: Jumpthrow curto;
    - Ref. 102.6002: [YouTube](https://youtu.be/aXfbdAV3LVY);
-
-1. **ANDAIME** [(Top)](#m-top)
-   - Alvo: FUNDO DO BOMB B;
-   - Posição: Posicione-se ao lado da coluna de madeira do andaime;
-   - Mira: Mire na junção dos tijolos do piso que estão alinhados com o lado esquerdo da janela;
-   - Execução: Jumpthrow curto;
-   - Ref. 102.3422: [YouTube](https://youtu.be/TY1-hP9LHuA);
 
 1. **ANDAIME** [(Top)](#m-top)
    - Alvo: DEFAULT DA B;
@@ -705,6 +712,15 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Mira: Mire acima do coqueiro;
    - Execução: Arremesso longo;
    - Ref. 102.0603: [YouTube](https://youtu.be/mqeHe4IsRHE);
+
+   <a name="m-carrodaa"></a>
+
+1. **CARRO DA A** [(Top)](#m-top)
+   - Alvo: CASINHA;
+   - Posição: Posicione-se me cima do capô do carro;
+   - Mira: Alinhe a mira na altura da fechadura da porta de enrolar localizada próximo ao chão. Mire à direita dessa porta, na região manchada da parede;
+   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
+   - Ref. 102.0377: [YouTube](https://youtu.be/xe0ST9BCubQ);
 
    <a name="m-escuroalto"></a>
 
@@ -806,6 +822,13 @@ Ir para: [**Smoke**](#smoke) - [**Flash**](#flash) - [**HE**](#high-explosive-he
    - Mira: Mire entre as duas manchas mais baixas da placa azul;
    - Execução: Deslize pela caixa sem mover a mira até ficar ao lado da tubulação + Arremesso longo;
    - Ref. 102.6621: [YouTube](https://youtu.be/ns4lRKWKNO0);
+
+1. **VARANDA, ESCADA** [(Top)](#m-top)
+   - Alvo: NEWBA;
+   - Posição: Posicione-se próximo a quina da caixa baixa da escada de forma que seja possível visualizar o poste com o transformador;
+   - Mira: Alinhe a mira com esse poste e na altura do fio na quina da parede;
+   - Execução: Arremesso longo;
+   - Ref. 102.1843: [YouTube](https://youtu.be/5-gC0gMLU0o);
 
 1. **VARANDA** [(Top)](#m-top)
    - Alvo: CAIXA BAIXA DA VARANDA;
@@ -967,6 +990,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Arremesso médio;
    - Ref. 103.7492: [YouTube](https://youtu.be/jcm_bO0myL4);
 
+1. **ESCURO BAIXO** [(Top)](#f-top) 
+   - Alvo: ESCURO ALTO;
+   - Posição: Posicione-se no canto da parede próximo à escada e ao lado da caixa baixa;
+   - Mira: Mire ligeiramente à esquerda do canto formado pela sombra na parede;
+   - Execução: Arremesso longo;
+   - Ref. 103.3452: [YouTube](https://youtu.be/O3lN9wULSPc);
+
    <a name="f-fundotr"></a>
 
 1. **FUNDO TR** [(Top)](#f-top) 
@@ -1113,6 +1143,13 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Ande ligeiramente para a frente + Arremesso longo;
    - Ref. 103.5398: [YouTube](https://youtu.be/vrdICunOawc);
 
+1. **VARANDA** [(Top)](#f-top) 
+   - Alvo: BOMB A; CARRO; RAMPA; NEWBA;
+   - Posição: Posicione-se em frente a três manchas verticais de terra na parede ao lado da porta pantográfica; 
+   - Mira: Mire no canto superior direito da janela esquerda no topo da construção branca;
+   - Execução: Jumpthrow longo;
+   - Ref. 103.0263: [YouTube](https://youtu.be/vAlEUuCF8TI);
+
    <a name="f-xbox"></a>
 
 1. **XBOX** [(Top)](#f-top) 
@@ -1128,7 +1165,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
 
 Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
 
-[**Base CT**](#h-basect) - [**Escuro baixo**](#h-escurobaixo) - [**Rampa CT**](#h-rampact) - [**Rampa da B**](#h-rampadab)
+[**Base CT**](#h-basect) - [**Escuro baixo**](#h-escurobaixo) - [**Meio CT**](#h-meioct) - [**Rampa CT**](#h-rampact) - [**Rampa da B**](#h-rampadab)
 
    <a name="h-basect"></a>
 
@@ -1147,6 +1184,15 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**Flash**](#flash)
    - Mira: Mire próximo ao topo do arco da porta;
    - Execução: Ande para a frente e arremesso longo;
    - Ref. 104.1525: [YouTube](https://youtu.be/Q45gSZrTpYw);
+
+   <a name="h-meioct"></a>
+
+1. **MEIO CT** [(Top)](#h-top) 
+   - Alvo: XBOX/CAIXA GORDA;
+   - Posição: Posicione-se na quina da parede da construção no lado direito da porta;
+   - Mira: Mire na junção da parede com a parte superior da mão francesa de suporte do fio de eletricidade;
+   - Execução: Arremesso longo;
+   - Ref. 104.9463: [YouTube](https://youtu.be/Bt2y1QIXI8w);
 
    <a name="h-rampact"></a>
 
