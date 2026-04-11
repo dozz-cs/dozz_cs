@@ -327,10 +327,10 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
 
 1. **ESCURO ALTO** [(Top)](#s-top)
    - Alvo: SAÍDA DO TÚNEL;
-   - Posição: Posicione-se a esquerda e atrás da coluna do escuro;
-   - Mira: Mire no lado direito do túnel na altura da placa da B;
+   - Posição: Posicione-se na quina esquerda atrás da coluna do escuro;
+   - Mira: Mire em uma mancha descascada no topo da parede de saída do túnel do escuro alto;
    - Execução: Arremesso longo;
-   - Ref. 101.1542: [YouTube](https://youtu.be/NMLEOPaFNqU);
+   - Ref. 101.1542: [YouTube](https://youtu.be/RO513w2MWtM);
 
 1. **ESCURO ALTO** [(Top)](#s-top)
    - Alvo: CAIXA GORDA;
@@ -473,6 +473,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 101.1549: [YouTube](https://youtu.be/NwgdM5ftrPs);
 
+1. **MEIO CIMA** [(Top)](#s-top)
+   - Alvo: CAIXA DA BASE CT;
+   - Posição: Posicione-se no centro da porta de grade;
+   - Mira: Mire no prego localizado no canto superior esquerdo do caixilho da porta principal;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.5002: [YouTube](https://youtu.be/5xlZF61nVtw);
+
    <a name="s-meioct"></a>
 
 1. **MEIO CT** [(Top)](#s-top)
@@ -497,6 +504,13 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire entre uma pequena saliência esférica e o batente superior da porta;
    - Execução: Arremesso médio;
    - Ref. 101.4816: [YouTube](https://youtu.be/CNym8TM7wvE);
+
+1. **PORTA DO MEIO** [(Top)](#s-top) 
+   - Alvo: CAIXA DA BASE CT;
+   - Posição: Encoste no caixilho direito da porta do meio;
+   - Mira: Mire entre o canto da parede com o chão e uma pedra arredondada.;
+   - Execução: Jumpthrow longo;
+   - Ref. 101.8741: [YouTube](https://youtu.be/VbndZOjCP4o);
 
    <a name="s-rampadaa"></a>
 
