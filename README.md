@@ -19,6 +19,9 @@ https://github.com/dozz-cs/dozz_cs/blob/main/ancient/ancient.md
 Anubis: Manual de utilitárias (Documento para impressão)   
 https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.md   
 
+Cache: Manual de utilitárias (Documento para impressão)    
+https://github.com/dozz-cs/dozz_cs/blob/main/cache/cache.md   
+
 Dust 2: Manual de utilitárias (Documento para impressão)  
 https://github.com/dozz-cs/dozz_cs/blob/main/dust2/dust2.md   
 
