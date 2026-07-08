@@ -13,7 +13,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Posição: Pare no canto direito do barril com a mureta de descida para o escuro fora;
    - Mira: Mire entre a quina da parede e a haste da antena tipo espinha de peixe, ligeiramente abaixo do topo do telhado;
    - Execução: Jumpthrow longo;
-   - Ref. 101.0023: [YouTube](https://youtu.be/B4Z5i_gJiMo);
+   - Ref. 101.0023: [YouTube]();
 
 1. **BASE TR (1/2)** [(Top)](#s-top)
    - Alvo: JANELA/BURACO;
