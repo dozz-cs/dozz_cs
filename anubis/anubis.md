@@ -1,29 +1,6 @@
----
-title: "ANUBIS"
-subtitle: "Mapa N. 14"
-author: "DozZ"
-date: Atualizado em \today
-lang: pt-br
-output:
-  pdf_document:
-classoption: onecolumn
-papersize: a4
-fontsize: 12pt
-colorlinks: true
-linkcolor: blue
-geometry:
-- top=10mm
-- left=15mm
-- right=15mm
-- bottom=20mm
-hyperrefoptions:
-- linktoc=all
-- pdfwindowui
----
-
+**Mapa N. 14**  
 # ANUBIS (+125 utilitárias)
-
-Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.pdf)
+**DozZ CS**  
 
 <a name="s-top"></a>
 
@@ -31,7 +8,7 @@ Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/an
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Barco**](#s-barco) - [**B baixo**](#s-bbaixo) - [**Buraco**](#s-buraco) - [**Canal**](#s-canal) - [**Esquina**](#s-esquina) - [**Fundo**](#s-fundo) - [**Janelão**](#s-janelao) - [**Ligação**](#s-ligacao) - [**Meio**](#s-meio) - [**Paredão**](#s-paredao) - [**Rato**](#s-rato) - [**Tetris**](#s-tetris)
+[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Barco**](#s-barco) - [**Bomb B**](#s-bombb) - [**B baixo**](#s-bbaixo) - [**Buraco**](#s-buraco) - [**Canal**](#s-canal) - [**Esquina**](#s-esquina) - [**Fundo**](#s-fundo) - [**Janelão**](#s-janelao) - [**Ligação**](#s-ligacao) - [**Meio**](#s-meio) - [**Paredão**](#s-paredao) - [**Rato**](#s-rato) - [**Tetris**](#s-tetris)
 [**Varanda**](#s-varanda)
 
    <a name="s-basect"></a>
@@ -181,6 +158,15 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire no rodapé do pilar do bomb;
    - Execução: Jumpthrow longo;
    - Ref. 141.6734: [YouTube](https://youtu.be/21WxoMN-uvs)
+
+  <a name="s-bombb"></a>
+
+1. **BOMB B** [(Top)](#s-top)
+   - Alvo: PORTÃO;
+   - Posição: Posicione-se próximo ao Default, em frente a porta da para a tumba;
+   - Mira: Localize a pedra na região do portão. Mire próximo a base da pedra;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 141.5894: [YouTube](https://youtu.be/yi7XVVMkJuw)
 
    <a name="s-buraco"></a>
 
@@ -467,11 +453,18 @@ Ir para: [**Smoke**](#smokes) - [**Flash**](#flash) - [**HE**](#high-explosive-h
    <a name="m-=barco"></a>
 
 1. **BARCO** [(Top)](#m-top)
-   - Alvo: CAVERNA;
+   - Alvo: MERCADO;
    - Posição: Encoste na parede dentro da água e atrás da caixa e dos cestos;
    - Mira: Alinhe a quina da caixa com o início da coluna arredondada. Mire ligeiramente à direita da quina da caixa;
    - Execução: Arremesso longo;
    - Ref. 142.1745: [YouTube](https://youtu.be/aRtRx9NtqgA)
+
+1. **BARCO** [(Top)](#m-top)
+   - Alvo: MERCADO;
+   - Posição: Posicione-se em frente a entrada para o mercado;
+   - Mira: Mire no topo da parede com o toldo colorido;
+   - Execução: Ande ligeiramente para a frente + Arremesso longo;
+   - Ref. 142.9477: [YouTube](https://youtu.be/diwMzGI-ZTk)
 
 1. **BARCO** [(Top)](#m-top)
    - Alvo: CÉU;
