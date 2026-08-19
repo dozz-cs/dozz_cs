@@ -1,9 +1,17 @@
-# CACHE (+5 utilitárias)
 **MAPA 18**
+# CACHE (+5 utilitárias)
 
 <a name="top"></a>
 
-Ir para: [**BASE TR**](#basetr) | [**CAMINHÃO**](#caminhão) | [**GARAGEM**](#GARAGEM) | [**GRAFITE**](#GRAFITE) |
+Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BASE TR**](#BASE_TR) | [**CAMINHÃO**](#CAMINHÃO) | [**GARAGEM**](#GARAGEM) | [**GRAFITE**](#GRAFITE) | [**MIOLO**](#MIOLO) | [**SOL**](#SOL)
+
+## AZUL
+
+1. Molotov do AZUL para a EMPILHADEIRA | [YouTube]() | Ref. 182.xxxx | [(Top)](#top)
+
+## ALVO
+
+1. Smoke do ALVO para o MIOLO | [YouTube]() | Ref. 181.xxxx | [(Top)](#top)
 
 ## BASE TR
 
@@ -11,8 +19,11 @@ Ir para: [**BASE TR**](#basetr) | [**CAMINHÃO**](#caminhão) | [**GARAGEM**](#G
 
 ## CAMINHÃO
 
-1. Smoke do **CAMINHÃO** para o **TÓXICO** | [YouTube](https://youtu.be/u73N8hgs_Yg) | Ref. 181.0932 | [(Top)](#top)
-1. Molotov do **CAMINHÃO** para o **CIMENTO** | [YouTube](https://youtu.be/42wlgTVBRU4) | Ref. 182.3452 | [(Top)](#top)
+1. Smoke do CAMINHÃO para o LIGAÇÃO | [YouTube]() | Ref. 181.XXXX | [(Top)](#top)
+1. Smoke do CAMINHÃO para o TÓXICO | [YouTube](https://youtu.be/u73N8hgs_Yg) | Ref. 181.0932 | [(Top)](#top)
+1. Molotov do CAMINHÃO para o CIMENTO | [YouTube](https://youtu.be/42wlgTVBRU4) | Ref. 182.3452 | [(Top)](#top)
+1. Molotov do CAMINHÃO para o CIMENTO | [YouTube]() | Ref. 182.XXXX | [(Top)](#top)
+1. Flash do CAMINHÃO para o ESCANTEIO, BYALL, TANQUE E DEFALT | [YouTube]() | Ref. 183.XXXX | [(Top)](#top)
 
 ## GARAGEM
 
@@ -22,6 +33,15 @@ Ir para: [**BASE TR**](#basetr) | [**CAMINHÃO**](#caminhão) | [**GARAGEM**](#G
 
 1. Smoke do **GRAFITE** para a **TOYOTA** | [YouTube](https://youtu.be/rFxwfXjAeac) | Ref. 181.7563 | [(Top)](#top)
 
+## MIOLO
+
+1. Smoke do MIOLO para a ENTRADA DO BOMB B | [YouTube]() | Ref. 181.XXXX | [(Top)](#top)
+1. HE do MIOLO(TÓXICO) para o BARRIL | [YouTube]() | Ref. 181.XXXX | [(Top)](#top)
+
+## SOL
+
+1. Smoke do SOL para a ALVO | [YouTube]() | Ref. 181.XXXX | [(Top)](#top)
+1. HE do SOL para o BTT | [YouTube]() | Ref. 184.XXXX | [(Top)](#top)
 
 <a name="m-top"></a>
 
