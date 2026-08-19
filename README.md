@@ -13,32 +13,52 @@ Olá, seja bem vindo ao meu manual de utilitárias. O objetivo desse documento c
 
 ## Material disponível
 
-Ancient: Manual de utilitárias (Documento para impressão)  
+ANCIENT   
+Mapa N. 15   
 https://github.com/dozz-cs/dozz_cs/blob/main/ancient/ancient.md  
+Manual completo de utilitárias dos mapas da rotação competitiva do jogo Counter-Strike 2.   
 
-Anubis: Manual de utilitárias (Documento para impressão)   
+ANUBIS
+Mapa N. 14      
 https://github.com/dozz-cs/dozz_cs/blob/main/anubis/anubis.md   
+Manual completo de utilitárias dos mapas da rotação competitiva do jogo Counter-Strike 2.   
 
-Cache: Manual de utilitárias (Documento para impressão)    
+CACHE   
+Mapa N. 18   
 https://github.com/dozz-cs/dozz_cs/blob/main/cache/cache.md   
+Manual completo de utilitárias dos mapas da rotação competitiva do jogo Counter-Strike 2.   
 
-Dust 2: Manual de utilitárias (Documento para impressão)  
+DUST 2   
+Mapa N. 10   
 https://github.com/dozz-cs/dozz_cs/blob/main/dust2/dust2.md   
+Manual completo de utilitárias dos mapas da rotação competitiva do jogo Counter-Strike 2.   
 
-Inferno: Manual de utilitárias (Documento para impressão)   
+INFERNO   
+Mapa N. 12   
 https://github.com/dozz-cs/dozz_cs/blob/main/inferno/inferno.md   
+Manual completo de utilitárias dos mapas da rotação competitiva do jogo Counter-Strike 2.   
 
-Mirage: Manual de utilitárias (Documento para impressão)   
+MIRAGE
+Mapa N. 13    
 https://github.com/dozz-cs/dozz_cs/blob/main/mirage/mirage.md   
+Manual completo de utilitárias dos mapas da rotação competitiva do jogo Counter-Strike 2.   
 
-Nuke: Manual de utilitárias (Documento para impressão)  
+NUKE   
+Mapa N. 16   
 https://github.com/dozz-cs/dozz_cs/blob/main/nuke/nuke.md   
+Manual completo de utilitárias dos mapas da rotação competitiva do jogo Counter-Strike 2.   
 
-Overpass: Manual de utilitárias (Documento para impressão)  
+OVERPASS   
+Mapa N. 17   
 https://github.com/dozz-cs/dozz_cs/blob/main/overpass/overpass.md  
+Manual completo de utilitárias dos mapas da rotação competitiva do jogo Counter-Strike 2.   
 
-Train: Manual de utilitárias (Documento para impressão)    
+TRAIN   
+Mapa N. 11   
 https://github.com/dozz-cs/dozz_cs/blob/main/train/train.md   
+Manual completo de utilitárias dos mapas da rotação competitiva do jogo Counter-Strike 2.   
 
-Vertigo: Manual de utilitárias (Documento para impressão)    
+VERTIGO
+Mapa N. 19      
 https://github.com/dozz-cs/dozz_cs/tree/main/vertigo   
+Manual completo de utilitárias dos mapas da rotação competitiva do jogo Counter-Strike 2.   
