@@ -1,26 +1,27 @@
-# CACHE (+0 utilitárias)
+# CACHE (+5 utilitárias)
+**MAPA 18**
 
-<a name="s-top"></a>
+<a name="top"></a>
 
-## Smoke
+Ir para: [**BASE TR**](#basetr) | [**CAMINHÃO**](#caminhão) | [**GARAGEM**](#GARAGEM) | [**GRAFITE**](#GRAFITE) |
 
-Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+## BASE TR
 
-[**Base TR**](#s-basetr) - [**Base CT**](#s-basect)
+1. Smoke da **BASE TR** para a **LIGAÇÃO** | [YouTube](https://youtu.be/_TyTUCUjagY) | Ref. 181.3645 | [(Top)](#top)
 
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: BASE CT;
-   - Posição: Pare no canto direito do barril com a mureta de descida para o escuro fora;
-   - Mira: Mire entre a quina da parede e a haste da antena tipo espinha de peixe, ligeiramente abaixo do topo do telhado;
-   - Execução: Jumpthrow longo;
-   - Ref. 101.0023: [YouTube]();
+## CAMINHÃO
 
-1. **BASE TR (1/2)** [(Top)](#s-top)
-   - Alvo: JANELA/BURACO;
-   - Posição: Encoste no canto da parede com o carro. Posicione a mira no canto inferior direito do elemento vazado. Ande para o lado sem mexer a mira até visualizar o aparelho de ar-condicionado;
-   - Mira: Mire no topo do ar condicionado;
-   - Execução: Ande para a frente (shift) até a mira chegar no topo da construção + Jumpthrow longo;
-   - Ref. 101.7645: [YouTube](https://youtu.be/hOLVJ5doFSI);
+1. Smoke do **CAMINHÃO** para o **TÓXICO** | [YouTube](https://youtu.be/u73N8hgs_Yg) | Ref. 181.0932 | [(Top)](#top)
+1. Molotov do **CAMINHÃO** para o **CIMENTO** | [YouTube](https://youtu.be/42wlgTVBRU4) | Ref. 182.3452 | [(Top)](#top)
+
+## GARAGEM
+
+1. Molotov da **GARAGEM** para o **BYALL** | [YouTube](https://youtu.be/PUs3MVJ13t0) | Ref. 182.1856 | [(Top)](#top)
+
+## GRAFITE
+
+1. Smoke do **GRAFITE** para a **TOYOTA** | [YouTube](https://youtu.be/rFxwfXjAeac) | Ref. 181.7563 | [(Top)](#top)
+
 
 <a name="m-top"></a>
 
