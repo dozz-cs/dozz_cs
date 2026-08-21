@@ -53,7 +53,28 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BASE TR**](#BASE-TR) | [**CA
 
 ## TODO
 
-1. Flash do CAMINHÃO para o ESCANTEIO, BYALL, TANQUE E DEFAULT | [YouTube]() | Ref. 183.XXXX | [(Top)](#top)
+1. Flash da BASE TR para o MEIO | [YouTube]() | Ref. 183.9820
+
+1. Molotov do CAMINHÃO para a CAIXA BRANCA | [YouTube]() | Ref. 182.3948
+1. Flash do CAMINHÃO para o BOMB A | [YouTube]() | Ref. 183.4874
+1. HE do CAMINHÃO para a CAIXA BRANCA | [YouTube]() | Ref. 184.6570
+
+1. Smoke do CÉU para o MIOLO | [YouTube]() | Ref. 181.7220
+
+1. Molotov da PORTA DA GARAGEM para a GARAGEM | Ref. 182.4322
+
+1. Molotov da LIGAÇÃO para a LONA | [YouTube]() | Ref. 182.8002
+
+1. Flash do MIOLO para o BARRIL | [YouTube]() | Ref. 183.7233
+
+1. Smoke do SOL para O CT | [YouTube]() | Ref. 181.0355
+1. Molotov do SOL para o TRINCHEIRA | [YouTube]() | Ref. 182.6442
+1. Molotov do SOL para o XADREZ | [YouTube]() | Ref. 182.9881
+1. Molotov do SOL para o BTT | [YouTube]() | Ref. 182.1174
+1. Flash do SOL para o BTT | [YouTube]() | Ref. 183.9629
+1. HE do SOL para o ALVO | [YouTube]() | Ref. 184.3081
+
+1. Smoke TOYOTA para a GARAGEM | [YouTube]() | Ref. 181.6200
 
 ## Comentário
  
