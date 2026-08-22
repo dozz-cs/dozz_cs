@@ -1,5 +1,5 @@
 **MAPA 18**
-# CACHE (+10 utilitárias)
+# CACHE (+35 utilitárias)
 
 <a name="top"></a>
 
@@ -81,3 +81,6 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
  
 1. As utilitária descritas neste manual foram obtidas das partidas profissionais dos jogos de CS2. 
 1. A localização das posições de execução das utilitárias são aproximadas e os nomes das posições são as mais usadas pela comunidade.
+1. Arremesso longo = Arremesso com o botão esquerdo do mouse.
+1. Arremesso médio = Arremesso com os dois botões do mouse.
+2. Arremesso curto = Arremesso com o botão direito do mouse.
