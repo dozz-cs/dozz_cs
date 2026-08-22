@@ -85,13 +85,9 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 
 1. Smoke TOYOTA para a GARAGEM | [YouTube](https://youtu.be/ut-YDtpFCOw) | Ref. 181.6200
 
-[(Top)](#top)
-#### VERMELHO
+#### [VERMELHO](#top)
 
 1. Flash do VERMELHO para o MEIO, CIMENTO, BRANCA, LIGAÇÃO [YouTube](https://youtu.be/hWLGZWPbk60) | Ref. 183.1890
-
-#### TODO
-1. Flash do CAMINHÃO para o BOMB A | [YouTube]() | Ref. 183.4874
 
 ### Comentário
  
