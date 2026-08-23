@@ -1,9 +1,9 @@
 **MAPA 18**
-# CACHE (+35 utilitárias)
+# CACHE (+45 utilitárias)
 
 <a name="top"></a>
 
-Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE TR**](#BASE-TR) | [**CAMINHÃO**](#CAMINHÃO) | [**CÉU**](#CÉU) | [**GARAGEM**](#GARAGEM) | [**GRAFITE**](#GRAFITE) | [**LIGAÇÃO**](#LIGAÇÃO) | [**MIOLO**](#MIOLO) | [**SOL**](#SOL) | [**TOYOTA**](#TOYOTA) | [**VERMELHO**](#VERMELHO)
+Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE TR**](#BASE-TR) | [**CAMINHÃO**](#CAMINHÃO) | [**CÉU**](#CÉU) | [**GARAGEM**](#GARAGEM) | [**GRAFITE**](#GRAFITE) | [**LIGAÇÃO**](#LIGAÇÃO) | [**MEIO**](#MEIO) | [**MIOLO**](#MIOLO) | [**SOL**](#SOL) | [**TOYOTA**](#TOYOTA) | [**VERMELHO**](#VERMELHO)
 
 #### [AZUL](#top)
 
