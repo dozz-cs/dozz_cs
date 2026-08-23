@@ -28,9 +28,12 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 
 1. Smoke do CAMINHÃO para o LIGAÇÃO | [YouTube](https://youtu.be/eY5jAz-uR-I) | Ref. 181.3982
 1. Smoke do CAMINHÃO para o TÓXICO | [YouTube](https://youtu.be/u73N8hgs_Yg) | Ref. 181.0932
+1. Smoke do CAMINHÃO para o BASE CT | [YouTube](https://youtu.be/hkNmUpEfe_A) | Ref. 181.2323
 1. Molotov do CAMINHÃO para o CIMENTO | [YouTube](https://youtu.be/42wlgTVBRU4) | Ref. 182.3452
 1. Molotov do CAMINHÃO para o CIMENTO | [YouTube](https://youtu.be/_PA1UKdQWQ4) | Ref. 182.2607
 1. Molotov do CAMINHÃO para a BRANCA | [YouTube](https://youtu.be/td-dyMyQXhQ) | Ref. 182.3948
+1. Molotov do CAMINHÃO para a LONA | [YouTube](https://youtu.be/QTX9mm5UCiQ) | Ref. 182.1832
+1. Flash do CAMINHÃO para a PLATAFORMA, TANQUE, ESCANTEIO, BOMB A | [YouTube](https://youtu.be/paRJdQhO1sA) | Ref. 183.9022
 1. HE do CAMINHÃO para a BRANCA | [YouTube](https://youtu.be/blAu78oWTYw) | Ref. 184.6570
 1. HE do CAMINHÃO para a BRANCA | [YouTube](https://youtu.be/Ard_Rxproxc) | Ref. 184.6032
 
@@ -44,14 +47,21 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 1. Molotov da GARAGEM para o BYALL | [YouTube](https://youtu.be/PUs3MVJ13t0) | Ref. 182.1856
 1. Molotov da GARAGEM para o ESCANTEIO | [YouTube](https://youtu.be/QQVWqib1xmM) | Ref. 182.0898
 1. Molotov da PORTA DA GARAGEM para a GARAGEM | [YouTube](https://youtu.be/FDxIy0avo0Y) | Ref. 182.4322
+1. Flash da GARAGEM(LONA) para a GARAGEM | [YouTube](https://youtu.be/qKDdtaVKVbw) | Ref. 183.8362
 
 #### [GRAFITE](#top)
 
 1. Smoke do GRAFITE para a TOYOTA | [YouTube](https://youtu.be/rFxwfXjAeac) | Ref. 181.7563
-1. Smoke do GRAFITE para a PASSAGEM EMPILHADEIRA e ESCANTEIO | [YouTube](https://youtu.be/Ev9FTivFh7w) | Ref. 181.0245
+1. Smoke do GRAFITE para a PASSAGEM EMPILHADEIRA e ESCANTEIO | [YouTube](https://youtu.be/vsehf2onORg) | Ref. 181.0245
 
 #### [LIGAÇÃO](#top)
+
+1. Smoke da LIGAÇÃO para o VERMELHO | [YouTube](https://youtu.be/q_2X3UzpDI8) | Ref. 181.7602
 1. Molotov da LIGAÇÃO para a LONA | [YouTube](https://youtu.be/9PIix6H18Ic) | Ref. 182.8002
+
+#### [MEIO](#top)
+
+1. Smoke da MEIO para o ESCANTEIO | [YouTube](https://youtu.be/zjuAUyGC2RY) | Ref. 181.8497
 
 #### [MIOLO](#top)
 
@@ -60,11 +70,14 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 1. HE do MIOLO(TÓXICO) para o BARRIL | [YouTube](https://youtu.be/lUGevJ2vEHA) | Ref. 184.8365
 
 #### [SOL](#top)
+
 1. Smoke do SOL para o CT | [YouTube](https://youtu.be/6FTcfC5AKAA) | Ref. 181.0355
 1. Smoke do SOL para a ALVO | [YouTube](https://youtu.be/DqJBebejZO0) | Ref. 181.0387
+1. Smoke do SOL para a XADREZ | [YouTube](https://youtu.be/SAuJsGhHagQ) | Ref. 181.0277
 1. Molotov do SOL para o TRINCHEIRA | [YouTube](https://youtu.be/Nr6LVHWbWkg) | Ref. 182.6442
 1. Molotov do SOL para o XADREZ | [YouTube](https://youtu.be/9LnFbvt_nO0) | Ref. 182.9881
 1. Molotov do SOL para a TRIPLA | [YouTube](https://youtu.be/CWAyIt79_so) | Ref. 182.1174
+1. Molotov do SOL para a BARRIL | [YouTube](https://youtu.be/AIQRSrmlMXQ) | Ref. 182.8573
 1. Flash do SOL para o CÉU, ALVO, TRIPLA, CT | [YouTube](https://youtu.be/Yi1GS4n9ehw) | Ref. 183.9629
 1. HE do SOL para o BTT | [YouTube](https://youtu.be/lGTKl8VF0m4) | Ref. 184.8110
 1. HE do SOL para o ALVO | [YouTube](https://youtu.be/XueNhy8rN3E) | Ref. 184.3081
@@ -72,6 +85,8 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 #### [TOYOTA](#top)
 
 1. Smoke TOYOTA para a GARAGEM | [YouTube](https://youtu.be/ut-YDtpFCOw) | Ref. 181.6200
+1. HE TOYOTA para a DEFAULT | [YouTube](https://youtu.be/9zGLBzkmVvc) | Ref. 184.8353
+
 
 #### [VERMELHO](#top)
 
