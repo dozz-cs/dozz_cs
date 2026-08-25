@@ -5,14 +5,14 @@
 
 Ir para: [**CASINHA**](#CASINHA) | [**FUNDO TR**](#FUNDO-TR)
 
+#### [CASINHA](#top)
+
+1. Smoke do CASINHA para a RAMPA CT | [YouTube](https://youtu.be/n7wxLm2NspQ) | Ref. 101.3482
+
 #### [FUNDO TR](#top)
 
 1. Smoke do FUNDO TR para a PORTA DO MEIO | [YouTube](https://youtu.be/sX1stcosSGw) | Ref. 101.3365
 1. Smoke do FUNDO TR para a RAMPA CT | [YouTube](https://youtu.be/zC2qx55A3PI) | Ref. 101.7098
-
-#### [CASINHA](#top)
-
-1. Smoke do CASINHA para a RAMPA CT | [YouTube](https://youtu.be/n7wxLm2NspQ) | Ref. 101.3482
 
 
 ## Smoke
