@@ -1,31 +1,19 @@
----
-title: "DUST 2"
-subtitle: "Mapa N. 10"
-author: "Dozz"
-date: Atualizado em \today
-lang: pt-br
-output:
-  pdf_document:
-classoption: onecolumn
-papersize: a4
-fontsize: 12pt
-colorlinks: True
-linkcolor: blue
-geometry:
-- top=10mm
-- left=15mm
-- right=15mm
-- bottom=20mm
-hyperLinkoptions:
-- linktoc=all
-- pdfwindowui
----
-
+**MAPA 10**
 # DUST 2 (+120 utilitárias)
 
-Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/dust2/dust2.pdf)
+<a name="top"></a>
 
-<a name="s-top"></a>
+Ir para: [**CASINHA**](#CASINHA) | [**FUNDO TR**](#FUNDO-TR)
+
+#### [FUNDO TR](#top)
+
+1. Smoke do FUNDO TR para a PORTA DO MEIO | [YouTube](https://youtu.be/sX1stcosSGw) | Ref. 101.3365
+1. Smoke do FUNDO TR para a RAMPA CT | [YouTube](https://youtu.be/zC2qx55A3PI) | Ref. 101.7098
+
+#### [CASINHA](#top)
+
+1. Smoke do CASINHA para a RAMPA CT | [YouTube](https://youtu.be/n7wxLm2NspQ) | Ref. 101.3482
+
 
 ## Smoke
 
