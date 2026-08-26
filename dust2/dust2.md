@@ -11,15 +11,18 @@ Ir para: [**CASINHA**](#CASINHA) | [**FUNDO TR**](#FUNDO-TR)
 
 #### [FUNDO TR](#top)
 
+1. Smoke do FUNDO TR para a BASE CT | [YouTube](https://youtu.be/sHaRuokm8jM) | Ref. 101.1813
+1. Smoke do FUNDO TR para a CAIXA GORDA | [YouTube](https://youtu.be/qCN5qh4eHVg) | Ref. 101.7453
+1. Smoke do FUNDO TR para a CAIXA GORDA | [YouTube](https://youtu.be/BQCWPoaJSH4) | Ref. 101.1449
 1. Smoke do FUNDO TR para a PORTA DO MEIO | [YouTube](https://youtu.be/sX1stcosSGw) | Ref. 101.3365
+1. Smoke do FUNDO TR para a QUINA DO FUNDO | [YouTube](https://youtu.be/m9ap_u19YiM) | Ref. 101.4563
 1. Smoke do FUNDO TR para a RAMPA CT | [YouTube](https://youtu.be/zC2qx55A3PI) | Ref. 101.7098
-
 
 ## Smoke
 
 Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
 
-[**Andaime**](#s-andaime) - [**Azul**](#s-azul) - [**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Bomb A**](#s-bomba) - [**Bomb B**](#s-bombb) - [**Bunker**](#s-bunker) - [**Caminho da Morte**](#s-caminhodamorte) - [**Carro da A**](#s-carrodaa) - [**Caverna**](#s-caverna) - [**Coqueiro**](#s-coqueiro) - [**Escuro baixo**](#s-escurobaixo) - [**Escuro cima**](#s-escurocima) - [**Escuro Fora**](#s-escurofora) - [**Fundo TR**](#s-fundotr) - [**Fundo**](#s-fundo) - [**Meio cima**](#s-meiocima) - [**Meio CT**](#s-meioct) -[**Porta do meio**](#s-portadomeio) - [**Rampa da A**](#s-rampadaa) - [**Rampa da B**](#s-rampadab) - [**Rampa CT**](#s-rampact) - [**Varanda**](#s-varanda) - [**Xbox**](#s-xbox)
+[**Andaime**](#s-andaime) - [**Azul**](#s-azul) - [**Base TR**](#s-basetr) - [**Base CT**](#s-basect) - [**Bomb A**](#s-bomba) - [**Bomb B**](#s-bombb) - [**Bunker**](#s-bunker) - [**Caminho da Morte**](#s-caminhodamorte) - [**Carro da A**](#s-carrodaa) - [**Caverna**](#s-caverna) - [**Coqueiro**](#s-coqueiro) - [**Escuro baixo**](#s-escurobaixo) - [**Escuro cima**](#s-escurocima) - [**Escuro Fora**](#s-escurofora) - [**Fundo**](#s-fundo) - [**Meio cima**](#s-meiocima) - [**Meio CT**](#s-meioct) -[**Porta do meio**](#s-portadomeio) - [**Rampa da A**](#s-rampadaa) - [**Rampa da B**](#s-rampadab) - [**Rampa CT**](#s-rampact) - [**Varanda**](#s-varanda) - [**Xbox**](#s-xbox)
 
    <a name="s-andaime"></a>
 
@@ -356,43 +359,6 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Alinhe a mira com a coluna vertical direita e na altura da ponta da madeira no telhado. A mira ficará no céu azul; 
    - Execução: Jumpthrow longo;
    - Ref. 101.8430: [YouTube](https://youtu.be/XGou4QabaUI);
-
-   <a name="s-fundotr"></a>
-
-1. **FUNDO TR** [(Top)](#s-top)
-   - Alvo: CAIXA DA BASE CT;
-   - Posição: Encoste no canto do fundo atrás do carro TR;
-   - Mira: Mire no topo da janela fechada em forma de arco à esquerda;
-   - Execução: Ande para a frente até a mira chegar na metade da janela e Jumpthrow longo;
-   - Ref. 101.1813: [YouTube](https://youtu.be/ddMnYe_q2XY);
-
-1. **FUNDO TR** [(Top)](#s-top)
-   - Alvo: PORTA DO MEIO;
-   - Posição: Posicione-se no canto da pilha de pneus com a parede;
-   - Mira: Localize a quina do telhado da marquise. Mire no canto superior direito interno dessa quina. É necessário atenção neste pixel;
-   - Execução: Ande para a frente até o boneco travar na quina da parede com a porta pantográfica. Jumpthrow longo;
-   - Ref. 101.3365: [YouTube](https://youtu.be/g2-1XjxncPg);
-
-1. **FUNDO TR** [(Top)](#s-top)
-   - Alvo: QUINA DO FUNDO;
-   - Posição: Encoste no canto esquerdo da porta pantográfica atrás do carro TR;
-   - Mira: Mire ligeiramente à esquerda do topo da parede, acima da palmeira;
-   - Execução: Arremesso longo;
-   - Ref. 101.4563: [YouTube](https://youtu.be/ZH-0CVZs9ok);
-
-1. **FUNDO TR** [(Top)](#s-top)
-   - Alvo: XBOX;
-   - Posição: Posicione-se na vista esquerda da porta pantográfica ao lado dos pneus empilhados;
-   - Mira: Alinhe a mira na extremidade da cobertura do telhado ondulado. Mire na parede entre o telhado e o beiral;
-   - Execução: Jumpthrow longo;
-   - Ref. 101.7453: [YouTube](https://youtu.be/RnTxIVTR4gU);
-
-1. **FUNDO TR** [(Top)](#s-top)
-   - Alvo: XBOX;
-   - Posição: Encoste no canto chanfrado na passagem para o meio. Pare em frente a uma mancha na parede;
-   - Mira: Localize o quebra-sol na parede superior do meio. Mire à direita e alinhado com o quebra-sol;
-   - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 101.1449: [YouTube](https://youtu.be/x7aOR07iIMs);
 
    <a name="s-fundo"></a>
 
