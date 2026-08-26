@@ -17,6 +17,10 @@ Ir para: [**CASINHA**](#CASINHA) | [**FUNDO TR**](#FUNDO-TR)
 1. Smoke do FUNDO TR para a PORTA DO MEIO | [YouTube](https://youtu.be/sX1stcosSGw) | Ref. 101.3365
 1. Smoke do FUNDO TR para a QUINA DO FUNDO | [YouTube](https://youtu.be/m9ap_u19YiM) | Ref. 101.4563
 1. Smoke do FUNDO TR para a RAMPA CT | [YouTube](https://youtu.be/zC2qx55A3PI) | Ref. 101.7098
+1. Flash do FUNDO TR para a QUINA DO FUNDO | [YouTube](https://youtu.be/fHorTy8_csw) | Ref. 103.7822
+1. Flash do FUNDO TR para o AZUL, BUNKER, FUNDO | [YouTube](https://youtu.be/n0un9aYx-hQ) | Ref. 103.5112
+1. Flash do FUNDO TR para a QUINA DO FUNDO | [YouTube](https://youtu.be/RL6tJcnEP00) | Ref. 103.1823
+
 
 ## Smoke
 
@@ -965,42 +969,7 @@ Ir para: [**Smoke**](#smoke) - [**Molotovs**](#molotov) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 103.3452: [YouTube](https://youtu.be/O3lN9wULSPc);
 
-   <a name="f-fundotr"></a>
 
-1. **FUNDO TR** [(Top)](#f-top) 
-   - Alvo: QUINA DO FUNDO;
-   - Posição: Posicione-se na quina da parede antes de chegar no carro TR;
-   - Mira: Mire na junção esquerda da palmeira com o muro;
-   - Execução: Jumpthrow longo;
-   - Ref. 103.1807: [YouTube](https://youtu.be/hoSGAlEwE3Y);
-
-1. **FUNDO TR** [(Top)](#f-top)
-   - Alvo: QUINA DO FUNDO;
-   - Posição: Posicione-se no canto esquerdo da porta pantográfica atrás do carro; 
-   - Mira: Mire na decoração central acima da porta;
-   - Execução: Ande ligeiramente para a frente + Arremesso longo;
-   - Ref. 103.9855: [YouTube](https://youtu.be/cx9p1Kc-ZlI);
-
-1. **FUNDO TR** [(Top)](#f-top)
-   - Alvo: QUINA DO FUNDO;
-   - Posição: Posicione-se na traseira esquerda do carro TR;
-   - Mira: Mire entre as portas, na altura da primeira marcação horizontal de cima para baixo;
-   - Execução: Arremesso longo;
-   - Ref. 103.1823: [YouTube](https://youtu.be/xQrVHhMFe7M);
-
-1. **FUNDO TR** [(Top)](#f-top)
-   - Alvo: QUINA DO FUNDO; BUNKER; FUNDO; ALTAR;
-   - Posição: Posicione-se na quina da parede antes de chegar no carro TR;
-   - Mira: Mire no entre o topo do muro com a esquerda da placa da A;
-   - Execução: Jumpthrow longo;
-   - Ref. 103.7822: [YouTube](https://youtu.be/ZshrXQoK1l4);
-
-1. **FUNDO TR** [(Top)](#f-top)
-   - Alvo: FUNDO;
-   - Posição: Posicione-se na quina da caixa à esquerda;
-   - Mira: Mire no topo da janela direita;
-   - Execução: Jumpthrow longo;
-   - Ref. 103.5112: [YouTube](https://youtu.be/yJSl92TaOxM);
 
    <a name="f-fundo"></a>
 
