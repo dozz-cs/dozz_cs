@@ -207,15 +207,15 @@ Ir para: [**ÁGUA**](#ÁGUA) |
 #### [TACO](#top)
 
 
-1. Smoke do TACO LIGAÇÃO CIMA | [YouTube](https://youtu.be/nPwANejXk3s) | Ref. 131.8491:
+1. Smoke: TACO LIGAÇÃO CIMA | [YouTube](https://youtu.be/nPwANejXk3s) | Ref. 131.8491:
 
 
 #### [TETRIS](#top)
 
 
-1. Smoke do TETRIS JUNGLE | [YouTube](https://youtu.be/CMKsBpueWFI) | Ref. 131.5427:
-1. Smoke do TETRIS LIGAÇÃO CIMA | [YouTube](https://youtu.be/BpCntFIGyW4) | Ref. 131.7209:
-1. Smoke do TETRIS para o BOLTZ | [YouTube](https://youtu.be/8E7erkRnpy0) | Ref. 131.9723:
+1. Smoke: TETRIS → JUNGLE | [YouTube](https://youtu.be/CMKsBpueWFI) | Ref. 131.5427:
+1. Smoke: TETRIS → LIGAÇÃO CIMA | [YouTube](https://youtu.be/BpCntFIGyW4) | Ref. 131.7209:
+1. Smoke: TETRIS → para o BOLTZ | [YouTube](https://youtu.be/8E7erkRnpy0) | Ref. 131.9723:
 
 
 #### [VAN](#top)
