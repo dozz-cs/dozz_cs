@@ -1,239 +1,54 @@
----
-title: "MIRAGE"
-subtitle: "Mapa N. 13"
-author: "Dozz"
-date: Atualizado em \today
-lang: pt-br
-output:
-  pdf_document:
-classoption: onecolumn
-papersize: a4
-fontsize: 12pt
-colorlinks: True
-linkcolor: blue
-geometry:
-- top=10mm
-- left=15mm
-- right=15mm
-- bottom=20mm
-hyperLinkoptions:
-- linktoc=all
-- pdfwindowui
----
-
+**Mapa N. 13**  
 # MIRAGE (+200 utilitárias)
 
-Documento para impressão: [PDF](https://github.com/dozz-cs/dozz_cs/blob/main/mirage/mirage.pdf)
 
-<a name="s-top"></a>
+<a name="top"></a>
 
-## Smokes
 
-Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+Ir para: [**ÁGUA**](#ÁGUA) |
 
-[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Beco**](#s-beco) - [**Boltz**](#s-boltz) - [**Bomb b**](#s-bombb) - [**Cabecinha**](#s-cabecinha) - [**Caverna**](#s-caverna) - [**Caverna TR**](#s-cavernatr) - [**Carroça**](#s-carroca) - [**Esquina**](#s-esquina) - [**Jungle**](#s-jungle) - [**L**](#s-l) - [**Meio**](#s-meio) - [**Meio falso**](#s-meiofalso) - [**Mercado**](#s-mercado) - [**Palácio**](#s-palacio) - [**Passagem carroça**](#s-passagemcarroca) - [**Plataforma**](#s-plataforma) - [**Rato**](#s-rato) - [**TV**](#s-tv) - [**Taco**](#s-taco) - [**Tetris**](#s-tetris) - [**Van**](#s-van)
+[**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR) - [**BECO**](#BECO) - [**BOLTZ**](#BOLTZ) - [**BOMB B**](#BOMB-B) - [**CABECINHA**](#CABECINHA) - [**CAVERNA**](#CAVERNA) - [**CAVERNA TR**](#CAVERNA-TR) - [**CARROÇA**](#CARROCA) - [**ESQUINA**](#ESQUINA) - [**JUNGLE**](#JUNGLE) - [**L**](#L) - [**MEIO**](#MEIO) - [**MEIO FALSO**](#MEIO-FALSO) - [**MERCADO**](#MERCADO) - [**PALÁCIO**](#PALÁCIO) - [**PASSAGEM CARROÇA**](#PASSAGEM-CARROÇA) - [**PLATAFORMA**](#PLATAFORMA) - [**RATO**](#RATO) - [**TV**](#TV) - [**TACO**](#TACO) - [**TETRIS**](#TETRIS) - [**VAN**](#VAN)
 
-   <a name="s-basect"></a>
 
-1. **BASE CT** [(Top)](#s-top)
-   - Alvo: CAVERNA;
-   - Posição: Encoste no canto à esquerda do caminhão;
-   - Mira: Mire à esquerda, acima da porta, em uma mancha azul na parede;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.8942: [YouTube](https://youtu.be/xlZecDzVaKQ)
+#### BASE CT
 
-1. **BASE CT** [(Top)](#s-top)
-   - Alvo: CAVERNA;
-   - Posição: Suba na pequena plataforma perto da entrada para o mercado. Encoste na pequena parede à esquerda da porta de madeira;
-   - Mira: Alinhe a mira com a quina do beiral acima das janelas e posicione a mira no topo da construção;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.2792: [YouTube](https://youtu.be/h85RiqufdXA)
 
-1. **BASE CT** [(Top)](#s-top)
-   - Alvo: MEIO FALSO;
-   - Posição: Encoste no canto à esquerda do caminhão;
-   - Mira: Alinhe a mira com o canto da parede, no alto da mancha branca;
-   - Execução: Ande para a frente até a mira chegar na altura do telhado + Jumpthrow longo;
-   - Ref. 131.1203: [YouTube](https://youtu.be/-35ORxNGjhk)
+1. Smoke da BASE CT para a CAVERNA | [YouTube](https://youtu.be/xlZecDzVaKQ) | Ref. 131.8942
+2. Smoke da BASE CT para a CAVERNA | [YouTube](https://youtu.be/h85RiqufdXA) | Ref. 131.2792
+3. Smoke da BASE CT para o MEIO FALSO | [YouTube](https://youtu.be/-35ORxNGjhk) | Ref. 131.1203
+4. Smoke da BASE CT para o PALÁCIO | [YouTube](https://youtu.be/CG-F2fZVsj8) | Ref. 131.3068
+5. Smoke da BASE CT para o PALÁCIO | [YouTube](https://youtu.be/v-ckOI77yuA) | Ref. 131.8456
+6. Smoke da BASE CT para a TV | [YouTube](https://youtu.be/CvLT58tCynY) | Ref. 131.3420
+7. Smoke da BASE CT para o TAPETE DA B | [YouTube](https://youtu.be/1EACGkmIgkw) | Ref. 131.7441
+8. Smoke da BASE CT para o TAPETE DA B | [YouTube](https://youtu.be/Ugp4tisXoxE) | Ref. 131.4091
 
-1. **BASE CT** [(Top)](#s-top)
-   - Alvo: PALÁCIO;
-   - Posição: Encoste no canto da parede à esquerda do caminhão;
-   - Mira: Mire na ponta do caibro à direita;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.3068: [YouTube](https://youtu.be/CG-F2fZVsj8)
 
-1. **BASE CT** [(Top)](#s-top)
-   - Alvo: PALÁCIO;
-   - Posição: Encoste no canto da porta de entrada para o mercado, em frente ao buraco;
-   - Mira: Mire no canto inferior direito da janela;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.8456: [YouTube](https://youtu.be/v-ckOI77yuA)
+#### BASE TR
 
-1. **BASE CT** [(Top)](#s-top)
-   - Alvo: TV;
-   - Posição: Encoste no canto da parede à esquerda do caminhão;
-   - Mira: Alinhe a mira com o cruzamento dos fios de energia e posicione a mira na altura da ponta de uma haste da antena;
-   - Execução: Ande para a frente até chegar no cruzamento dos fio + Jumpthrow longo;
-   - Ref. 131.3420: [YouTube](https://youtu.be/CvLT58tCynY)
 
-1. **BASE CT** [(Top)](#s-top)
-   - Alvo: TAPETE DA B;
-   - Posição: Encoste no canto à esquerda do caminhão;
-   - Mira: Localize a quina esquerda no alto da construção. Alinhe a mira na região da primeira mancha escura e no topo do telhado;
-   - Execução: Ande ligeiramente para a frente + Jumpthrow longo;
-   - Ref. 131.7441: [YouTube](https://youtu.be/1EACGkmIgkw)
+1. ★☆☆ Smoke da BASE TR para o BOLTZ | [YouTube](https://youtu.be/hteQbGFrhBw) | Ref. 131.2965
+2. ★★★ Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/WGijWx0uOw0) | Ref. 131.5629
+3. ★★★ Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/x2Pz56QzhwE) | Ref. 131.6492
+4. Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/ebUX55AarB0) | Ref. 131.6220
+5. ★★☆ Smoke da BASE TR (SPAWN-1 setpos 1296.000000 32.000000 -103.968750) para o JANELÃO | [YouTube](https://youtu.be/7mBnKYhtno8) | Ref. 131.4671:
+6. ★★☆ Smoke da BASE TR (SPAWN-2 setpos 1216.000000 -16.000000 -102.950439) para o JANELÃO | [YouTube](https://youtu.be/9dS0-YCiC3k) | Ref. 131.4672
+7. ★★☆ Smoke da BASE TR (SPAWN-3 setpos 1296.000000 -352.000000 -103.968750) para o JANELÃO | [YouTube](https://youtu.be/n18xonyfNDI) | Ref. 131.4673
+8. ★★☆ Smoke da BASE TR (SPAWN-4 setpos 1216.000000 -115.000000 -102.950439) para o JANELÃO | [YouTube](https://youtu.be/Zqgu9S1p_tE) | Ref. 131.4674
+9. ★★☆ Smoke da BASE TR (SPAWN-5 setpos 1216.000000 -211.000000 -100.611038) para o JANELÃO | [YouTube](https://youtu.be/ZQpSzmS2ojQ) |  Ref. 131.4675
+10. Smoke da BASE TR para o PASSAGEM EDWARD | [YouTube](https://youtu.be/T9IVs9Y_HZo) | Ref. 131.9642
+11. Smoke da BASE TR para o L e ENTRADA DO MOSCOU | [YouTube](https://youtu.be/cH0hkFLdjgI) | Ref. 131.8954
+12. Smoke da BASE TR para o L | [YouTube](https://youtu.be/ZPze9F_tfxc) | Ref. 131.7320
+13. Smoke da BASE TR para o L | [YouTube](https://youtu.be/To8DriNfVg8) | Ref. 131.8558
+14. Smoke da BASE TR para o LIGAÇÃO BAIXO | [YouTube](https://youtu.be/Uqlj_ydElrQ) | Ref. 131.2544
+15. Smoke da BASE TR para o LIGAÇÃO BAIXO | [YouTube](https://youtu.be/NuNusxVSbd0) | Ref. 131.4533
+16. Smoke da BASE TR (1/2) para o JUNGLE | [YouTube](https://youtu.be/VA1NRsPRNxk) | Ref. 131.9853
+17. Smoke da BASE TR (2/2) para o LIGAÇÃO CIMA | [YouTube](https://youtu.be/VA1NRsPRNxk) | Ref. 131.7432
+18. Smoke da BASE TR para o PASSAGEM CARROÇA | [YouTube](https://youtu.be/VCPt4cng_-E) | Ref. 131.0911
+19. Smoke da BASE TR (1/2) para o CABECINHA | [YouTube](https://youtu.be/_30_2a9Uk7I) | Ref. 131.5623
+20. Smoke da BASE TR (2/2) para o PASSAGEM JUNGLE | [YouTube](https://youtu.be/_30_2a9Uk7I) | Ref. 131.3452
 
-1. **BASE CT** [(Top)](#s-top)
-   - Alvo: TAPETE DA B;
-   - Posição: Posicione-se no canto de uma pequena parede próximo ao buraco;
-   - Mira: Mire na ponta de uma das hastes direita da antena espinha de peixe;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.4091: [YouTube](https://youtu.be/Ugp4tisXoxE)
 
-   <a name="s-basetr"></a>
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: BOLTZ;
-   - Posição: Suba na pequena mureta e posicione-se em frente a grade;
-   - Mira: Mire na quina da parede à direita;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.2965: [YouTube](https://youtu.be/hteQbGFrhBw)
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Encoste no canto da parede em frente a lixeira;
-   - Mira: Mire um pouco a esquerda da quina da construção com a parede vermelha;
-   - Execução: Pressione a tecla para a direita + Jumpthrow longo (Não ande pra a frente);
-   - Ref. 131.5629: [YouTube](https://youtu.be/WGijWx0uOw0)
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Encoste no canto da parede com a pequena escada;
-   - Mira: Localize a segunda decoração, da esquerda para a direita, no interior do tapete;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.6492: [YouTube](https://youtu.be/x2Pz56QzhwE)
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Posicione-se próximo a quina de uma pequena parede na saída para a caverna TR;
-   - Mira: Alinhe a mira verticalmente com a quina do telhado e horizontalmente com uma tênue mancha escura na parede;
-   - Execução: W + Jumpthrow;
-   - Ref. 131.6220: [YouTube](https://youtu.be/ebUX55AarB0)
-
-1. **BASE TR (SPAWN 1)** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Próximo a saída para o meio falso (setpos 1296.000000 32.000000 -103.968750);
-   - Mira: Mire na quina branca abaixo do parapeito da sacada;
-   - Execução: W + Jumpthrow;
-   - Ref. 131.4671: [YouTube](https://youtu.be/7mBnKYhtno8)
-
-1. **BASE TR (SPAWN 2)** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Próximo a saída para o meio falso (setpos 1216.000000 -16.000000 -102.950439);
-   - Mira: Mire na junção do chão com o lado direito da porta na região da sacada;
-   - Execução: W + Jumpthrow;
-   - Ref. 131.4672: [YouTube](https://youtu.be/9dS0-YCiC3k)
-
-1. **BASE TR (SPAWN 3)** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Em frente a pequena janela próxima a saída para a caverna tr (setpos 1296.000000 -352.000000 -103.968750);
-   - Mira: Localize uma tênue mancha branca à esquerda da janela. Mire em uma tênue sombra em volta da janela na altura da mancha branca;
-   - Execução: W + Jumpthrow;
-   - Ref. 131.4673: [YouTube](https://youtu.be/n18xonyfNDI)
-
-1. **BASE TR (SPAWN 4)** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Em frente ao tapete (setpos 1216.000000 -115.000000 -102.950439);
-   - Mira: Localize o terceiro losango na parte inferior do tapete. Agache e mire na ponta esquerda do desenho do losango;
-   - Execução: Agachado. W + Jumpthrow;
-   - Ref. 131.4674: [YouTube](https://youtu.be/Zqgu9S1p_tE)
-
-1. **BASE TR (SPAWN 5)** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Em frente a janela dupla (setpos 1216.000000 -211.000000 -100.611038);
-   - Mira: Mire ligeiramente à esquerda da cadeira branca que está na sacada no centro do desenho do parapeito próximo ao chão;
-   - Execução: W + Jumpthrow;
-   - Ref. 131.4675: [YouTube](https://youtu.be/ZQpSzmS2ojQ)
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: PASSAGEM EDWARD;
-   - Posição: Encostado na frente da lixeira;
-   - Mira: Mire na ponta da folha central no topo da construção;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.9642: [YouTube](https://youtu.be/T9IVs9Y_HZo)
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: L; ENTRADA DO MOSCOU;
-   - Posição: Encoste no canto da parede com a frente da lixeira;
-   - Mira: Mire na ponta da folha esquerda da planta no topo da construção;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.8954: [YouTube](https://youtu.be/cH0hkFLdjgI)
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: L;
-   - Posição: Encoste na parede ao lado da lixeira;
-   - Mira: Mire na parte superior da folha deitada à esquerda e no topo da construção;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.7320: [YouTube](https://youtu.be/ZPze9F_tfxc)
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: L;
-   - Posição: Encoste no canto da parede com a escada do lado aposto à lixeira;
-   - Mira: Mire na altura do parapeito alinhado com o final da mancha clara na parede;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.8558: [YouTube](https://youtu.be/To8DriNfVg8)
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO BAIXO;
-   - Posição: Encoste no canto da parede com a lateral da lixeira;
-   - Mira: Mire no terceiro losango, da Dir para a Esq. na parte inferior do tapete;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.2544: [YouTube](https://youtu.be/Uqlj_ydElrQ)
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO BAIXO;
-   - Posição: Suba na lixeira encostada no canto da parede;
-   - Mira: Mire na junção direita do tapete com a base do parapeito;
-   - Execução: Agache + Jumpthrow;
-   - Ref. 131.4533: [YouTube](https://youtu.be/NuNusxVSbd0)
-
-1. **BASE TR (1/2)** [(Top)](#s-top)
-   - Alvo: JUNGLE;
-   - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
-   - Mira: Localize o caibro a direita. Mire na junção esquerda do caibro com uma marcação horizontal na parede;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.9853: [YouTube](https://youtu.be/VA1NRsPRNxk)
-
-1. **BASE TR (2/2)** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO CIMA;
-   - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
-   - Mira: Localize o caibro à direita. Mire na marcação horizontal entre o caibro e a parede;
-   - Execução: W + Jumpthrow longo;
-   - Ref. 131.7432: [YouTube](https://youtu.be/VA1NRsPRNxk)
-
-1. **BASE TR** [(Top)](#s-top)
-   - Alvo: PASSAGEM CARROÇA;
-   - Posição: Encoste no canto da parede com a lateral da lixeira;
-   - Mira: Agache e mire na ponta da antena do tipo espinha de peixe;
-   - Execução: Arremesso longo;
-   - Ref. 131.0911: [YouTube](https://youtu.be/VCPt4cng_-E)
-
-1. **BASE TR (1/2)** [(Top)](#s-top)
-   - Alvo: CABECINHA;
-   - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
-   - Mira: Alinhe a mira com a mancha na parede. Mire na marcação horizontal no topo da construção;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.5623: [YouTube](https://youtu.be/_30_2a9Uk7I)
-
-1. **BASE TR (2/2)** [(Top)](#s-top)
-   - Alvo: PASSAGEM JUNGLE;
-   - Posição: Posicione-se na estreita parede ao lado de uma pequena escada;
-   - Mira: Mire em uma tênue mancha na parede na região entre os dois fios de eletricidade;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.3452: [YouTube](https://youtu.be/_30_2a9Uk7I)
-
-   <a name="s-beco"></a>
+#### BECO
 
 1. **BECO** [(Top)](#s-top)
    - Alvo: BOLTZ;
@@ -340,7 +155,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 131.1003: [YouTube](https://youtu.be/BpIT1WOEUwo)
 
-   <a name="s-boltz"></a>
+#### BOLTZ
+
 
 1. **BOLTZ** [(Top)](#s-top)
    - Alvo: CAVERNA;
@@ -363,7 +179,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow médio;
    - Ref. 131.1392: [YouTube](https://youtu.be/7RHbwssY_dY)
 
-   <a name="s-bombb"></a>
+#### BOMB B
 
 1. **BOMB B (NINJA)** [(Top)](#s-top)
    - Alvo: JANELA DO MERCADO;
@@ -372,7 +188,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 131.2110: [YouTube](https://youtu.be/G1W3euPg-XE)
 
-   <a name="s-cabecinha"></a>
+#### CABECINHA
 
 1. **CABECINHA** [(Top)](#s-top)
    - Alvo: ENTRADA DO PALÁCIO;
@@ -381,7 +197,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 131.4370: [YouTube](https://youtu.be/9maVZMbl5Zk)
 
-   <a name="s-caverna"></a>
+#### CAVERNA
 
 1. **CAVERNA** [(Top)](#s-top) 
    - Alvo: PASSAGEM CAVERNA;
@@ -397,7 +213,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 131.2384: [YouTube](https://youtu.be/HGxdnsPd2ys)
 
-   <a name="s-cavernatr"></a>
+
+#### CAVERNA TR
 
 1. **CAVERNA TR** [(Top)](#s-top)
    - Alvo: BOLTZ;
@@ -462,7 +279,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 131.9972: [YouTube](https://youtu.be/Q3jbGxjj1no)
 
-   <a name="s-carroca"></a>
+#### CARROÇA
 
 1. **CARROÇA** [(Top)](#s-top)
    - Alvo: JANELÃO;
@@ -506,7 +323,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 131.4209: [YouTube](https://youtu.be/GbFyRXd4zEw)
 
-   <a name="s-esquina"></a>
+#### ESQUINA
 
 1. **ESQUINA** [(Top)](#s-top)
    - Alvo: LIGAÇÃO CIMA;
@@ -521,8 +338,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire no canto superior esquerdo da porta localizada na região da cadeira;
    - Execução: Jumpthrow longo;
    - Ref. 131.4936: [YouTube](https://youtu.be/-doF8P5FFOw)
+  
 
-   <a name="s-jungle"></a>
+#### JUNGLE
 
 1. **JUNGLE** [(Top)](#s-top)
    - Alvo: BOLTZ;
@@ -538,7 +356,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 131.6520: [YouTube](https://youtu.be/ZP6d6BfEubo)
 
-   <a name="s-l"></a>
+#### L
 
 1. **L** [(Top)](#s-top)
    - Alvo: PALÁCIO;
@@ -547,7 +365,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 131.8701: [YouTube](https://youtu.be/cvd6pCh-UHM)
 
-   <a name="s-meio"></a>
+#### MEIO
 
 1. **MEIO** [(Top)](#s-top)
    - Alvo: LIGAÇÃO CIMA;
@@ -556,7 +374,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 131.6342: [YouTube](https://youtu.be/RJX0mfH8bow)
 
-   <a name="s-meiofalso"></a>
+#### MEIO FALSO
 
 1. **MEIO FALSO** [(Top)](#s-top)
    - Alvo: JANELÃO;
@@ -620,8 +438,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Alinhe a mire na altura do beiral. Mire entre as manchas na parede, à esquerda do pequeno beiral;
    - Execução: Jumpthrow longo;
    - Ref. 131.7392: [YouTube](https://youtu.be/WJR6XQGhEVQ)
+ - 
 
-   <a name="s-mercado"></a>
+#### MERCADO
 
 1. **MERCADO, JANELA DO** [(Top)](#s-top)
    - Alvo: BECO;
@@ -644,7 +463,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 131.3945: [YouTube](https://youtu.be/mInYV8-ynP8)
 
-   <a name="s-palacio"></a>
+
+#### PALÁCIO
 
 1. **PALÁCIO** [(Top)](#s-top)
    - Alvo: LIGAÇÃO;
@@ -653,7 +473,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 131.9579: [YouTube](https://youtu.be/XHkQ7BAwvys)
 
-   <a name="s-passagemcarroca"></a>
+#### PASSAGEM CARROÇA
 
 1. **PASSAGEM CARROÇA** [(Top)](#s-top) 
    - Alvo: JANELÃO;
@@ -682,8 +502,9 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire no topo superior da porta na região da cadeira;
    - Execução: Jumpthrow longo;
    - Ref. 131.1932: [YouTube](https://youtu.be/g35xaLdoyrE)
+   - 
 
-   <a name="s-plataforma"></a>
+#### PLATAFORMA
 
 1. **PLATAFORMA (1/2)** [(Top)](#s-top)
    - Alvo: CABECINHA;
@@ -699,7 +520,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 131.7901: [YouTube](https://youtu.be/Ru_yNrbL8gs)
 
-   <a name="s-rato"></a>
+#### RATO
+
 
 1. **RATO** [(Top)](#s-top)
    - Alvo: PASSAGEM JUNGLE;
@@ -722,7 +544,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Ande para a frente + Arremesso longo;
    - Ref. 131.6392: [YouTube](https://youtu.be/-uE8rFAniig)
 
-   <a name="s-tv"></a>
+
+#### TV
 
 1. **TV, VARANDA** [(Top)](#s-top)
    - Alvo: LIGAÇÃO CIMA;
@@ -738,7 +561,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 131.0562: [YouTube](https://youtu.be/4S60W_WDA3A)
 
-   <a name="s-taco"></a>
+#### TACO
 
 1. **TACO** [(Top)](#s-top)
    - Alvo: LIGAÇÃO CIMA;
@@ -747,7 +570,7 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Jumpthrow longo;
    - Ref. 131.8491: [YouTube](https://youtu.be/nPwANejXk3s)
 
-   <a name="s-tetris"></a>
+#### TETRIS
 
 1. **TETRIS** [(Top)](#s-top)
    - Alvo: JUNGLE;
@@ -770,7 +593,8 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Execução: Arremesso longo;
    - Ref. 131.9723: [YouTube](https://youtu.be/8E7erkRnpy0)
 
-   <a name="s-van"></a>
+
+#### VAN
 
 1. **VAN** [(Top)](#s-top)
    - Alvo: PORTA DO MERCADO;
@@ -792,6 +616,35 @@ Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosi
    - Mira: Mire na ponta direita da torre ao fundo;
    - Execução: Arremesso longo;
    - Ref. 131.8902: [YouTube](https://youtu.be/fDRJI3bQfoo)
+
+
+
+
+## Smokes
+
+Ir para: [**Molotovs**](#molotov) - [**Flash**](#flash) - [**HE**](#high-explosive-he)
+
+[**Base CT**](#s-basect) - [**Base TR**](#s-basetr) - [**Beco**](#s-beco) - [**Boltz**](#s-boltz) - [**Bomb b**](#s-bombb) - [**Cabecinha**](#s-cabecinha) - [**Caverna**](#s-caverna) - [**Caverna TR**](#s-cavernatr) - [**Carroça**](#s-carroca) - [**Esquina**](#s-esquina) - [**Jungle**](#s-jungle) - [**L**](#s-l) - [**Meio**](#s-meio) - [**Meio falso**](#s-meiofalso) - [**Mercado**](#s-mercado) - [**Palácio**](#s-palacio) - [**Passagem carroça**](#s-passagemcarroca) - [**Plataforma**](#s-plataforma) - [**Rato**](#s-rato) - [**TV**](#s-tv) - [**Taco**](#s-taco) - [**Tetris**](#s-tetris) - [**Van**](#s-van)
+
+
+
+
+
+   <a name="s-tv"></a>
+
+
+
+   <a name="s-taco"></a>
+
+
+
+   <a name="s-tetris"></a>
+
+
+
+   <a name="s-van"></a>
+
+
 
 <a name="m-top"></a>
 
