@@ -5,9 +5,7 @@
 <a name="top"></a>
 
 
-Ir para: [**ÁGUA**](#ÁGUA) |
-
-[**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR) - [**BECO**](#BECO) - [**BOLTZ**](#BOLTZ) - [**BOMB A**](#BOMB-A) - [**BOMB B**](#BOMB-B) - [**CABECINHA**](#CABECINHA) - [**CAIXA FOGO**](#CAIXA-FOGO) - [**CAVERNA**](#CAVERNA) - [**CAVERNA TR**](#CAVERNA-TR) - [**CARROÇA**](#CARROCA) - [**COZINHA**](#COZINHA) - [**EDWARD**](#EDWARD) - [**ESQUINA**](#ESQUINA) - [**JANELÃO**](#JANELÃO)- [**JUNGLE**](#JUNGLE) - [**L**](#L) - [**LIGAÇÃO**](#LIGAÇÃO) - [**MEIO**](#MEIO) - [**MEIO FALSO**](#MEIO-FALSO) - [**MERCADO**](#MERCADO) - [**MOSCOU**](#MOSCOU) - [**PALÁCIO**](#PALÁCIO) - [**PASSAGEM CARROÇA**](#PASSAGEM-CARROÇA) - [**PLATAFORMA**](#PLATAFORMA) - [**RATO**](#RATO) - [**TACO**](#TACO) - [**TAPETE**](#TAPETE) - [**TV**](#TV) - [**TETRIS**](#TETRIS) - [**VAN**](#VAN)
+Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR) - [**BECO**](#BECO) - [**BOLTZ**](#BOLTZ) - [**BOMB A**](#BOMB-A) - [**BOMB B**](#BOMB-B) - [**CABECINHA**](#CABECINHA) - [**CAIXA FOGO**](#CAIXA-FOGO) - [**CAVERNA**](#CAVERNA) - [**CAVERNA TR**](#CAVERNA-TR) - [**CARROÇA**](#CARROCA) - [**COZINHA**](#COZINHA) - [**EDWARD**](#EDWARD) - [**ESQUINA**](#ESQUINA) - [**JANELÃO**](#JANELÃO)- [**JUNGLE**](#JUNGLE) - [**L**](#L) - [**LIGAÇÃO**](#LIGAÇÃO) - [**MEIO**](#MEIO) - [**MEIO FALSO**](#MEIO-FALSO) - [**MERCADO**](#MERCADO) - [**MOSCOU**](#MOSCOU) - [**PALÁCIO**](#PALÁCIO) - [**PASSAGEM CARROÇA**](#PASSAGEM-CARROÇA) - [**PLATAFORMA**](#PLATAFORMA) - [**RATO**](#RATO) - [**TACO**](#TACO) - [**TAPETE**](#TAPETE) - [**TV**](#TV) - [**TETRIS**](#TETRIS) - [**VAN**](#VAN)
 
 
 #### [AREIA](#top)
