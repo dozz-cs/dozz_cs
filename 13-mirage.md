@@ -10,7 +10,7 @@ Ir para: [**ÁGUA**](#ÁGUA) |
 [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR) - [**BECO**](#BECO) - [**BOLTZ**](#BOLTZ) - [**BOMB B**](#BOMB-B) - [**CABECINHA**](#CABECINHA) - [**CAVERNA**](#CAVERNA) - [**CAVERNA TR**](#CAVERNA-TR) - [**CARROÇA**](#CARROCA) - [**ESQUINA**](#ESQUINA) - [**JUNGLE**](#JUNGLE) - [**L**](#L) - [**MEIO**](#MEIO) - [**MEIO FALSO**](#MEIO-FALSO) - [**MERCADO**](#MERCADO) - [**PALÁCIO**](#PALÁCIO) - [**PASSAGEM CARROÇA**](#PASSAGEM-CARROÇA) - [**PLATAFORMA**](#PLATAFORMA) - [**RATO**](#RATO) - [**TV**](#TV) - [**TACO**](#TACO) - [**TETRIS**](#TETRIS) - [**VAN**](#VAN)
 
 
-#### BASE CT
+#### [BASE CT](#top)
 
 
 1. Smoke da BASE CT para a CAVERNA | [YouTube](https://youtu.be/xlZecDzVaKQ) | Ref. 131.8942
@@ -23,18 +23,18 @@ Ir para: [**ÁGUA**](#ÁGUA) |
 8. Smoke da BASE CT para o TAPETE DA B | [YouTube](https://youtu.be/Ugp4tisXoxE) | Ref. 131.4091
 
 
-#### BASE TR
+#### [BASE TR](#top)
 
 
-1. ★☆☆ Smoke da BASE TR para o BOLTZ | [YouTube](https://youtu.be/hteQbGFrhBw) | Ref. 131.2965
-2. ★★★ Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/WGijWx0uOw0) | Ref. 131.5629
-3. ★★★ Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/x2Pz56QzhwE) | Ref. 131.6492
+1. Smoke da BASE TR para o BOLTZ | [YouTube](https://youtu.be/hteQbGFrhBw) | Ref. 131.2965
+2. Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/WGijWx0uOw0) | Ref. 131.5629
+3. Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/x2Pz56QzhwE) | Ref. 131.6492
 4. Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/ebUX55AarB0) | Ref. 131.6220
-5. ★★☆ Smoke da BASE TR (SPAWN-1 setpos 1296.000000 32.000000 -103.968750) para o JANELÃO | [YouTube](https://youtu.be/7mBnKYhtno8) | Ref. 131.4671:
-6. ★★☆ Smoke da BASE TR (SPAWN-2 setpos 1216.000000 -16.000000 -102.950439) para o JANELÃO | [YouTube](https://youtu.be/9dS0-YCiC3k) | Ref. 131.4672
-7. ★★☆ Smoke da BASE TR (SPAWN-3 setpos 1296.000000 -352.000000 -103.968750) para o JANELÃO | [YouTube](https://youtu.be/n18xonyfNDI) | Ref. 131.4673
-8. ★★☆ Smoke da BASE TR (SPAWN-4 setpos 1216.000000 -115.000000 -102.950439) para o JANELÃO | [YouTube](https://youtu.be/Zqgu9S1p_tE) | Ref. 131.4674
-9. ★★☆ Smoke da BASE TR (SPAWN-5 setpos 1216.000000 -211.000000 -100.611038) para o JANELÃO | [YouTube](https://youtu.be/ZQpSzmS2ojQ) |  Ref. 131.4675
+5. Smoke da BASE TR (SPAWN-1 setpos 1296.000000 32.000000 -103.968750) para o JANELÃO | [YouTube](https://youtu.be/7mBnKYhtno8) | Ref. 131.4671:
+6. Smoke da BASE TR (SPAWN-2 setpos 1216.000000 -16.000000 -102.950439) para o JANELÃO | [YouTube](https://youtu.be/9dS0-YCiC3k) | Ref. 131.4672
+7. Smoke da BASE TR (SPAWN-3 setpos 1296.000000 -352.000000 -103.968750) para o JANELÃO | [YouTube](https://youtu.be/n18xonyfNDI) | Ref. 131.4673
+8. Smoke da BASE TR (SPAWN-4 setpos 1216.000000 -115.000000 -102.950439) para o JANELÃO | [YouTube](https://youtu.be/Zqgu9S1p_tE) | Ref. 131.4674
+9. Smoke da BASE TR (SPAWN-5 setpos 1216.000000 -211.000000 -100.611038) para o JANELÃO | [YouTube](https://youtu.be/ZQpSzmS2ojQ) |  Ref. 131.4675
 10. Smoke da BASE TR para o PASSAGEM EDWARD | [YouTube](https://youtu.be/T9IVs9Y_HZo) | Ref. 131.9642
 11. Smoke da BASE TR para o L e ENTRADA DO MOSCOU | [YouTube](https://youtu.be/cH0hkFLdjgI) | Ref. 131.8954
 12. Smoke da BASE TR para o L | [YouTube](https://youtu.be/ZPze9F_tfxc) | Ref. 131.7320
@@ -48,574 +48,182 @@ Ir para: [**ÁGUA**](#ÁGUA) |
 20. Smoke da BASE TR (2/2) para o PASSAGEM JUNGLE | [YouTube](https://youtu.be/_30_2a9Uk7I) | Ref. 131.3452
 
 
-#### BECO
+#### [BECO](#top)
 
-1. **BECO** [(Top)](#s-top)
-   - Alvo: BOLTZ;
-   - Posição: Suba na calçada elevada e encoste no canto da parede com o muro, próximo ao vaso de flor;
-   - Mira: Mire na junção superior da haste com o suporte vertical da antena espinha de peixe;
-   - Execução: Ande para a frente até chegar na junção com o fio de energia + Jumpthrow longo;
-   - Ref. 131.8345: [YouTube](https://youtu.be/4VIT-PBPkk0)
-
-1. **BECO (1/2)** [(Top)](#s-top)
-   - Alvo: CABECINHA;
-   - Posição: Encoste no canto da parede da calçada elevada com o muro;
-   - Mira: Mire um pouco à esquerda da ponta esquerda da antena espinha de peixe;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.7433: [YouTube](https://youtu.be/V0jDRO-1sfc)
-
-1. **BECO (2/2)** [(Top)](#s-top)
-   - Alvo: PASSAGEM JUNGLE;
-   - Posição: Encoste no canto da parede da calçada elevada com o muro;
-   - Mira: Mire na primeira junção à esquerda das hastes da antena espinha de peixe;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.7434: [YouTube](https://youtu.be/V0jDRO-1sfc)
-
-1. **BECO** [(Top)](#s-top)
-   - Alvo: EDWARD FECHADO;
-   - Posição: Pare alinhado com o meio da janela de madeira;
-   - Mira: Mire na ponta da antena acima do telhado;
-   - Execução: Arremesso Longo;
-   - Ref. 131.9027: [YouTube](https://youtu.be/wwU-4fSdcz8)
-
-1. **BECO** [(Top)](#s-top)
-   - Alvo: EDWARD ABERTO;
-   - Posição: Pare alinhado com o meio da janela de madeira;
-   - Mira: Mire no topo da torre alinhado com a primeira janela à esquerda;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.5882: [YouTube](https://youtu.be/EW1t1Iqi8Iw)
-
-1. **BECO** [(Top)](#s-top)
-   - Alvo: FOREST;
-   - Posição: Suba no pequeno vaso de flor no chão. Posicione o pé esquerdo ao lado do vaso;
-   - Mira: Mire na ponta esquerda do beiral;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.8104: [YouTube](https://youtu.be/4NmQMGzOR3Y)
-
-1. **BECO** [(Top)](#s-top)
-   - Alvo: JUNGLE;
-   - Posição: Pare em frente a divisória na parede ao lado de uma porta de grade. Localize uma tênue mancha escura;
-   - Mira: Agache e posicione a mira na ponta da telha de metal;
-   - Execução: Levante. Jumpthrow longo;
-   - Ref. 131.5718: [YouTube](https://youtu.be/_vcUN4eAOQA)
-
-1. **BECO (1/2)** [(Top)](#s-top)
-   - Alvo: MERCADO JANELA;
-   - Posição: Encoste no canto da parede com o muro no lado da porta de saída da TV;
-   - Mira: Mire na ponta superior da torre;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.0732: [YouTube](https://youtu.be/q6qx6hqTaK4)
-
-1. **BECO (2/2)** [(Top)](#s-top)
-   - Alvo: MERCADO PORTA;
-   - Posição: Encoste no canto da parede com o muro no lado da porta de saída da TV;
-   - Mira: Mire na junção da quina da construção com a decoração horizontal logo acima das janelas da torre;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.5438: [YouTube](https://youtu.be/X9n39Kuty_Y)
- 
-1. **BECO** [(Top)](#s-top)
-   - Alvo: VAN;
-   - Posição: Suba no pequeno vaso de flor no chão. Posicione o pé esquerdo ao lado do vaso;
-   - Mira: Alinhe a mira com a vista esquerda da porta. Mire na marcação inferior no parapeito da sacada;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.2184: [YouTube](https://youtu.be/uqGfLMpz3j0)
-   
-1. **BECO** [(Top)](#s-top)
-   - Alvo: VAN;
-   - Posição: Encoste no canto da parede com o muro no lado da porta de saída da TV;
-   - Mira: Mire no canto inferior direito da janela ao alto;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.7593: [YouTube](https://youtu.be/RThRBE7fvag)
-
-1. **BECO** [(Top)](#s-top)
-   - Alvo: VARANDA;
-   - Posição: Suba na mureta da escada de acesso ao rato. Encoste as costas na segunda coluna de madeira;
-   - Mira: Localize os dois fios de energia elétrica. Mire entre as manchas escuras da madeira arredondada que está no telhado;
-   - Execução: Arremesso longo;
-   - Ref. 131.2145: [YouTube](https://youtu.be/eSjkjfelxg8)
-
-1. **BECO** [(Top)](#s-top)
-   - Alvo: PASSAGEM EDWARD;
-   - Posição: Encoste no canto da parede em cima dos sacos de lixo;
-   - Mira: Mire na ponta inferior esquerda do tapete vermelho pendurado na parede;
-   - Execução: Jumpthrow médio;
-   - Ref. 131.6630: [YouTube](https://youtu.be/MSyxwpd0mig)
-
-1. **BECO** [(Top)](#s-top)
-   - Alvo: PASSAGEM MOSCOW;
-   - Posição: Encoste no canto da parede em cima dos sacos de lixo;
-   - Mira: Mire na ponta superior esquerda do tapete vermelho pendurado na parede;
-   - Execução: Jumpthrow médio;
-   - Ref. 131.7391: [YouTube](https://youtu.be/nt0cpATk2Wc)
-
-1. **BECO** [(Top)](#s-top)
-   - Alvo: CENTRO DO BOMB B;
-   - Posição: Posicione-se sobre o degrau mais alto da escada. Agache e alinhe a mira na junção da sombra com a escada;
-   - Mira: Mire na quina direita e ao ao fundo no topo da torre;
-   - Execução: Arremesso longo;
-   - Ref. 131.1003: [YouTube](https://youtu.be/BpIT1WOEUwo)
-
-#### BOLTZ
+1. Smoke do BECO para o BOLTZ | [YouTube](https://youtu.be/4VIT-PBPkk0) | Ref. 131.8345
+2. Smoke do BECO (1/2) para a CABECINHA | [YouTube](https://youtu.be/V0jDRO-1sfc) | Ref. 131.7433:
+3. Smoke do BECO (2/2) para a PASSAGEM JUNGLE | [YouTube](https://youtu.be/V0jDRO-1sfc) | Ref. 131.7434: 
+4. Smoke do BECO para o EDWARD FECHADO | [YouTube](https://youtu.be/wwU-4fSdcz8) | Ref. 131.9027:
+5. Smoke do BECO para o EDWARD ABERTO | [YouTube](https://youtu.be/EW1t1Iqi8Iw) | Ref. 131.5882:
+6. Smoke do BECO para o FOREST | [YouTube](https://youtu.be/4NmQMGzOR3Y) | Ref. 131.8104:
+7. Smoke do BECO para a JUNGLE | [YouTube](https://youtu.be/_vcUN4eAOQA) Ref. 131.5718:
+8. Smoke do BECO (1/2) para a JANELA DO MERCADO | [YouTube](https://youtu.be/q6qx6hqTaK4) | Ref. 131.0732:
+9. Smoke do BECO (2/2) para a PORTA DO MERCADO | [YouTube](https://youtu.be/X9n39Kuty_Y) | Ref. 131.5438:
+10. Smoke do BECO para a VAN | [YouTube](https://youtu.be/uqGfLMpz3j0) | Ref. 131.2184:
+11. Smoke do BECO para a VAN | [YouTube](https://youtu.be/RThRBE7fvag) | Ref. 131.7593:
+12. Smoke do BECO para a VARANDA | [YouTube](https://youtu.be/eSjkjfelxg8) | Ref. 131.2145: 
+13. Smoke do BECO para a PASSAGEM EDWARD | [YouTube](https://youtu.be/MSyxwpd0mig) | Ref. 131.6630:
+14. Smoke do BECO para a PASSAGEM MOSCOW | [YouTube](https://youtu.be/nt0cpATk2Wc) | Ref. 131.7391:
+15. Smoke do BECO para o CENTRO DO BOMB B | [YouTube](https://youtu.be/BpIT1WOEUwo) | Ref. 131.1003:
 
 
-1. **BOLTZ** [(Top)](#s-top)
-   - Alvo: CAVERNA;
-   - Posição: Encoste atrás da caixa do Boltz;
-   - Mira: Alinhe a mira com a ponta da torre esquerda. Mire no céu azul entre as torres, acima da saída da caverna;
-   - Execução: Arremesso longo;
-   - Ref. 131.7522: [YouTube](https://youtu.be/dkU4N3K1tkk)
-
-1. **BOLTZ** [(Top)](#s-top)
-   - Alvo: ENTRADA DO PALÁCIO;
-   - Posição: Pare próximo a sombra do coqueiro no muro atrás do Boltz. Alinhe-se de forma a enxergar o lado direito da porta; 
-   - Mira: Mire ligeiramente abaixo do canto superior esquerdo da porta na região da cabecinha;
-   - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 131.4399: [YouTube](https://youtu.be/IpABmc5Nk0I)
-
-1. **BOLTZ** [(Top)](#s-top)
-   - Alvo: ENTRADA DO PALÁCIO;
-   - Posição: Posicione-se na parte de trás da caixa com cilindros, no degrau mais alto da escada. Coloque o pé esquerdo na junta das lajotas no chão;
-   - Mira: Mire na junção da parede com a madeira superior da caixa;
-   - Execução: Jumpthrow médio;
-   - Ref. 131.1392: [YouTube](https://youtu.be/7RHbwssY_dY)
-
-#### BOMB B
-
-1. **BOMB B (NINJA)** [(Top)](#s-top)
-   - Alvo: JANELA DO MERCADO;
-   - Posição: Posicione-se atrás da caixa no bomb B em frente a varanda;
-   - Mira: Mire no meio da ferragem sem a lona verde no teto do bomb, próximo ao Forest;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.2110: [YouTube](https://youtu.be/G1W3euPg-XE)
-
-#### CABECINHA
-
-1. **CABECINHA** [(Top)](#s-top)
-   - Alvo: ENTRADA DO PALÁCIO;
-   - Posição: Posicione-se ao lado da escada da cabecinha.
-   - Mira: Mire na pequena torre com a ponta branca que aparece logo acima do topo da escada;
-   - Execução: Arremesso longo;
-   - Ref. 131.4370: [YouTube](https://youtu.be/9maVZMbl5Zk)
-
-#### CAVERNA
-
-1. **CAVERNA** [(Top)](#s-top) 
-   - Alvo: PASSAGEM CAVERNA;
-   - Posição: Posicione-se no lado esquerdo da abertura de acesso a caverna;
-   - Mira: Mire na linha horizontal direita na saída da caverna;
-   - Execução: Ande ligeiramente para a frente + Arremesso longo;
-   - Ref. 131.0056: [YouTube](https://youtu.be/gQGbnsnEcAo)
-
-1. **CAVERNA** [(Top)](#s-top)
-   - Alvo: PASSAGEM JUNGLE;
-   - Posição: Ande até chegar no topo da escada da caverna;
-   - Mira: Mire no meio do refletor da antena parabólica;
-   - Execução: Arremesso longo;
-   - Ref. 131.2384: [YouTube](https://youtu.be/HGxdnsPd2ys)
+#### [BOLTZ](#top)
 
 
-#### CAVERNA TR
+1. Smoke do BOLTZ para a CAVERNA [YouTube](https://youtu.be/dkU4N3K1tkk) | Ref. 131.7522:
+2. Smoke do BOLTZ para a ENTRADA DO PALÁCIO | [YouTube](https://youtu.be/IpABmc5Nk0I) | Ref. 131.4399:
+3. Smoke do BOLTZ para a ENTRADA DO PALÁCIO | [YouTube](https://youtu.be/7RHbwssY_dY) | Ref. 131.1392:
 
-1. **CAVERNA TR** [(Top)](#s-top)
-   - Alvo: BOLTZ;
-   - Posição: Posicione-se em frente a quina chanfrada;
-   - Mira: Mire na quina superior direita da construção ao fundo, na região do Boltz;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.5395: [YouTube](https://youtu.be/mj9dkicsrdc)
 
-1. **CAVERNA TR (1/2)** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO CIMA;
-   - Posição: Encoste no canto da parede com a escada ao fundo;
-   - Mira: Mire na ponta da folha da bananeira;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.8303: [YouTube](https://youtu.be/M8etjOJe_LQ)
+#### [BOMB B](#top)
 
-1. **CAVERNA TR (2/2)** [(Top)](#s-top)
-   - Alvo: JUNGLE;
-   - Posição: Encoste no canto da parede com a escada ao fundo (não suba na escada);
-   - Mira: Mire na junção da segunda ripa horizontal do andaime;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.0946: [YouTube](https://youtu.be/7x3Etf5oh_w)
 
-1. **CAVERNA TR (1/2)** [(Top)](#s-top)
-   - Alvo: CABECINHA;
-   - Posição: Posicione-se de frente para a vista direita do portão;
-   - Mira: Posicione a mire no céu azul muito próximo da quina no topo na construção.
-   - Execução: Jumpthrow longo;
-   - Ref. 131.8757: [YouTube](https://youtu.be/F2piqW1aj0c)
+1. Smoke do BOMB B (NINJA) para a JANELA DO MERCADO | [YouTube](https://youtu.be/G1W3euPg-XE) | Ref. 131.2110:
 
-1. **CAVERNA TR (2/2)** [(Top)](#s-top)
-   - Alvo: PASSAGEM JUNGLE;
-   - Posição: Posicione-se de frente para a vista direita do portão;
-   - Mira: Mire na junção do fio de energia elétrica com a parede;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.8756: [YouTube](https://youtu.be/HMZPhN576KA)
 
-1. **CAVERNA TR** [(Top)](#s-top)
-   - Alvo: CABECINHA;
-   - Posição: Suba na borda direita do primeiro degrau da escada;
-   - Mira: Em frente a coluna de madeira mais grossa, mire na região do céu azul, na altura de uma mancha escura na coluna;
-   - Execução: Arremesso longo;
-   - Ref. 131.8741: [YouTube](https://youtu.be/a6_3h1R0pvA)
+#### [CABECINHA](#top)
 
-1. **CAVERNA TR** [(Top)](#s-top)
-   - Alvo: CABECINHA;
-   - Posição: Pare em frente ao portão;
-   - Mira: Mire na junção do telhado com a quina da parede;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.0032: [YouTube](https://youtu.be/Ittt6GjIUrM)
 
-1. **CAVERNA TR** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Posicione-se no canto da escada com a parede. Não suba na escada;
-   - Mira: Mire no topo central da janela no alto da construção;
-   - Execução: W + Jumpthrow longo;
-   - Ref. 131.2002: [YouTube](https://youtu.be/xANeEfWHZlk)
+1. Smoke da CABECINHA para a ENTRADA DO PALÁCIO | [YouTube](https://youtu.be/9maVZMbl5Zk) | Ref. 131.4370:
 
-1. **CAVERNA TR** [(Top)](#s-top)
-   - Alvo: L;
-   - Posição: Posicione-se no canto da escada com a parede. Não suba na escada;
-   - Mira: Mire na junção do telhado com a parede esquerda;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.9972: [YouTube](https://youtu.be/Q3jbGxjj1no)
 
-#### CARROÇA
+#### [CAVERNA](#top)
 
-1. **CARROÇA** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Posicione-se na roda da carroça;
-   - Mira: Agache e mire na quina da caixa de papelão;
-   - Execução: Levante + Arremesso longo;
-   - Ref. 131.7439: [YouTube](https://youtu.be/uZs06hyP9GU)
 
-1. **CARROÇA** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Pare na roda da carroça;
-   - Mira: Alinhe a mira com a antena à frente e suba a mira verticalmente na altura da ponta do papelão;
-   - Execução: Arremesso longo;
-   - Ref. 131.6722: [YouTube](https://youtu.be/98RYeVxM6DI)
+1. Smoke da CAVERNA para a PASSAGEM CAVERNA | [YouTube](https://youtu.be/gQGbnsnEcAo) | Ref. 131.0056:
+2. Smoke da CAVERNA para a PASSAGEM JUNGLE | [YouTube](https://youtu.be/HGxdnsPd2ys) | Ref. 131.2384:
 
-1. **CARROÇA** [(Top)](#s-top)
-   - Alvo: L;
-   - Posição: Pare na traseira da carroça;
-   - Mira: Mire à esquerda da ponta da antena espinha de peixe;
-   - Execução: Arremesso longo;
-   - Ref. 131.8720: [YouTube](https://youtu.be/c4kaAthepYM)
 
-1. **CARROÇA** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO BAIXO;
-   - Posição: Pare na roda da carroça;
-   - Mira: Mire na ponta direita da ripa vertical da lateral da carroça com a amarração em forma de x;
-   - Execução: Arremesso longo;
-   - Ref. 131.7001: [YouTube](https://youtu.be/oNcqc7_BuZE)
-   
-1. **CARROÇA** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO CIMA;
-   - Posição: Pare na parte de trás da carroça;
-   - Mira: Mire entre as duas falhas na parte inferior da folha da palmeira em forma de arco;
-   - Execução: Arremesso longo;
-   - Ref. 131.8527: [YouTube](https://youtu.be/KbS0IDc4NK4)
+#### [CAVERNA TR](#top)
 
-1. **CARROÇA** [(Top)](#s-top)
-   - Alvo: JANELA DO MERCADO;
-   - Posição: Posicione-se na roda da carroça;
-   - Mira: Alinhe a mira verticalmente com junção da caixa e da tampa de papelão. Levante a mira até alinhar com o tijolo à esquerda na parte superior da construção;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.4209: [YouTube](https://youtu.be/GbFyRXd4zEw)
 
-#### ESQUINA
+1. Smoke da CAVERNA TR para o BOLTZ | [YouTube](https://youtu.be/mj9dkicsrdc) | Ref. 131.5395
+2. Smoke da CAVERNA TR (1/2) para a LIGAÇÃO CIMA | [YouTube](https://youtu.be/M8etjOJe_LQ) | Ref. 131.8303:
+3. Smoke da CAVERNA TR (2/2) para a JUNGLE | [YouTube](https://youtu.be/7x3Etf5oh_w) | Ref. 131.0946:
+4. Smoke da CAVERNA TR (1/2) para a CABECINHA | [YouTube](https://youtu.be/F2piqW1aj0c) | Ref. 131.8757:
+5. Smoke da CAVERNA TR (2/2) para a PASSAGEM JUNGLE | [YouTube](https://youtu.be/HMZPhN576KA) | Ref. 131.8756:
+6. Smoke da CAVERNA TR para a CABECINHA | [YouTube](https://youtu.be/a6_3h1R0pvA) | Ref. 131.8741:
+7. Smoke da CAVERNA TR para a CABECINHA | [YouTube](https://youtu.be/Ittt6GjIUrM) | Ref. 131.0032:
+8. Smoke da CAVERNA TR para o JANELÃO | [YouTube](https://youtu.be/xANeEfWHZlk) | Ref. 131.2002:
+9. Smoke da CAVERNA TR para o L | [YouTube](https://youtu.be/Q3jbGxjj1no) | Ref. 131.9972:
 
-1. **ESQUINA** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO CIMA;
-   - Posição: Encoste no canto da parede do fundo próximo a região da esquina;
-   - Mira: Na região da cadeira, mire entre duas manchas escuras localizadas no topo da construção;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.6565: [YouTube](https://youtu.be/ZVDg7XUvga4)
 
-1. **ESQUINA** [(Top)](#s-top)
-   - Alvo: JUNGLE;
-   - Posição: Posicione-se próximo a quina na região da Esquina/Passagem carroça;
-   - Mira: Mire no canto superior esquerdo da porta localizada na região da cadeira;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.4936: [YouTube](https://youtu.be/-doF8P5FFOw)
+#### [CARROÇA](#top)
+
+
+1. Smoke da CARROÇA para o JANELÃO | [YouTube](https://youtu.be/uZs06hyP9GU) | Ref. 131.7439:
+2. Smoke da CARROÇA para o JANELÃO | [YouTube](https://youtu.be/98RYeVxM6DI) | Ref. 131.6722:
+3. Smoke da CARROÇA para o L | [YouTube](https://youtu.be/c4kaAthepYM) | Ref. 131.8720:
+4. Smoke da CARROÇA para a LIGAÇÃO BAIXO | [YouTube](https://youtu.be/oNcqc7_BuZE) | Ref. 131.7001:
+5. Smoke da CARROÇA para a LIGAÇÃO CIMA | [YouTube](https://youtu.be/KbS0IDc4NK4) | Ref. 131.8527:
+6. Smoke da CARROÇA para a JANELA DO MERCADO | [YouTube](https://youtu.be/GbFyRXd4zEw) | Ref. 131.4209:
+
+
+#### [ESQUINA](#top)
+
+
+1. Smoke da ESQUINA para a LIGAÇÃO CIMA | [YouTube](https://youtu.be/ZVDg7XUvga4) | Ref. 131.6565:
+2. Smoke da ESQUINA para a JUNGLE | [YouTube](https://youtu.be/-doF8P5FFOw) | Ref. 131.4936:
   
 
-#### JUNGLE
-
-1. **JUNGLE** [(Top)](#s-top)
-   - Alvo: BOLTZ;
-   - Posição: Posicione-se na quina à direita na saída da Jungle;
-   - Mira: Mire na marcação horizontal acima da grande porta com decoração;
-   - Execução: Arremesso longo;
-   - Ref. 131.2203: [YouTube](https://youtu.be/nAhRK3pkAlI)
-
-1. **JUNGLE** [(Top)](#s-top)
-   - Alvo: CAVERNA;
-   - Posição: Posicione-se no canto direito da parede da Jungle;
-   - Mira: Mire à esquerda da parede entre os dois fios de energia elétrica ao alto;
-   - Execução: Arremesso longo;
-   - Ref. 131.6520: [YouTube](https://youtu.be/ZP6d6BfEubo)
-
-#### L
-
-1. **L** [(Top)](#s-top)
-   - Alvo: PALÁCIO;
-   - Posição: Posicione-se no canto da parede com a pilha de tijolos próximo a porta do Moscou;
-   - Mira: Mire em qualquer região entre a ponta da folha de coqueiro e a antena do tipo espinha de peixe;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.8701: [YouTube](https://youtu.be/cvd6pCh-UHM)
-
-#### MEIO
-
-1. **MEIO** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO CIMA;
-   - Posição: Posicione-se próximo a parede de forma que seja possível enxergar as caixas de eletricidade na parede interna direita da ligação;
-   - Mira: Mire na altura da caixa de eletricidade no interior da ligação;
-   - Execução: Arremesso longo;
-   - Ref. 131.6342: [YouTube](https://youtu.be/RJX0mfH8bow)
-
-#### MEIO FALSO
-
-1. **MEIO FALSO** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Posicione-se no canto da parede em frente a escada de acesso para a TV;
-   - Mira: Localize uma caixa cinza na parede vermelha. Mire na marcação horizonta abaixo da caixa cinza;
-   - Execução: W + Jumpthrow longo;
-   - Ref. 131.3782: [YouTube](https://youtu.be/S197TFwAe_0)
-
-1. **MEIO FALSO** [(Top)](#s-top)
-   - Alvo: JUNGLE;
-   - Posição: Encoste na pequena parede ao lado da porta;
-   - Mira: Mire no canto superior direito da janela;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.9733: [YouTube](https://youtu.be/vKPVuc1a3PE)
-  
-1. **MEIO FALSO** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO CIMA;
-   - Posição: Encoste no canto da porta, em baixo da luminária;
-   - Mira: Agache e mire na ponta central da antena;
-   - Execução: Levante + Jumpthrow longo;
-   - Ref. 131.9743: [YouTube](https://youtu.be/AwG7WQThlBY)
-
-1. **MEIO FALSO** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO BAIXO;
-   - Posição: Posicione-se no canto da parede em frente a escada de acesso para a TV;
-   - Mira: Mire no desenho localizado no centro inferior do tapete;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.5400: [YouTube](https://youtu.be/1-kTJjn8J00)
-
-1. **MEIO FALSO (1/2)** [(Top)](#s-top)
-   - Alvo: JANELA DO MERCADO;
-   - Posição: Posicione-se no canto da parede em frente a escada de acesso para a TV;
-   - Mira: Mire no topo da construção, ao lado do tapete na parede, alinhado com uma marcação logo abaixo;
-   - Execução: Ande para a frente até a mira chegar na marcação + Jumpthrow longo;
-   - Ref. 131.7423: [YouTube](https://youtu.be/vklbMtTLp5U)
-
-1. **MEIO FALSO (2/2)** [(Top)](#s-top)
-   - Alvo: PORTA DO MERCADO;
-   - Posição: Posicione-se no canto da parede em frente a escada de acesso para a TV;
-   - Mira: Mire ligeiramente à direita da quina da construção com o tapete na parede;
-   - Execução: Ande para a frente até a mira chegar em baixo + Jumpthrow longo;
-   - Ref. 131.7424: [YouTube](https://youtu.be/9Qaxu8Ig_wg)
-
-1. **MEIO FALSO** [(Top)](#s-top)
-   - Alvo: JANELA DO MERCADO;
-   - Posição: Posicione-se no canto da parede do portão à direita da base TR;
-   - Mira: Mire um pouco abaixo da ponta da antena espinha de peixe;
-   - Execução: Ande para a frente até chegar no topo da construção + Jumpthrow longo;
-   - Ref. 131.6732: [YouTube](https://youtu.be/BiPXljKfn5k)
-
-1. **MEIO FALSO** [(Top)](#s-top)
-   - Alvo: EDWARD;
-   - Posição: Posicione-se no canto da parede em frente a escada de acesso para a TV;
-   - Mira: Mire na ponta do caibro que aparece abaixo dos dois fios de energia elétrica; 
-   - Execução: Jumpthrow longo;
-   - Ref. 131.6428: [YouTube](https://youtu.be/dACcOd-1xoI)
- 
-1. **MEIO FALSO** [(Top)](#s-top)
-   - Alvo: CENTRO DO BOMB B;
-   - Posição: Pare em frente a tubulação branca na parede;
-   - Mira: Alinhe a mire na altura do beiral. Mire entre as manchas na parede, à esquerda do pequeno beiral;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.7392: [YouTube](https://youtu.be/WJR6XQGhEVQ)
- - 
-
-#### MERCADO
-
-1. **MERCADO, JANELA DO** [(Top)](#s-top)
-   - Alvo: BECO;
-   - Posição: Encoste no canto esquerdo da janela do mercado;
-   - Mira: Mire na junção dos tijolos ao lado no início do arco direito, acima das caixas de madeira empilhada;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.1414: [YouTube](https://youtu.be/LYnCemoeV9s)
-
-1. **MERCADO, JANELA DO (FORA)** [(Top)](#s-top)
-   - Alvo: TAPETE DA B;
-   - Posição: Encoste no canto ao lado da janela;
-   - Mira: Mire na quina direita do telhado acima da janela da região do tapete;
-   - Execução: Arremesso longo;
-   - Ref. 131.0766: [YouTube](https://youtu.be/i78OEdZyQt0)
-
-1. **MERCADO, SAÍDA DO** [(Top)](#s-top)
-   - Alvo: TAPETE;
-   - Posição: Encoste no canto da lixeira com a parede na saída da porta do mercado;
-   - Mira: Localize uma pequena mancha próximo a quina da lona verde no teto do bomb. Mire ligeiramente à esquerda;
-   - Execução: Arremesso longo;
-   - Ref. 131.3945: [YouTube](https://youtu.be/mInYV8-ynP8)
+#### [JUNGLE](#top)
 
 
-#### PALÁCIO
-
-1. **PALÁCIO** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO;
-   - Posição: Posicione-se à direita da porta do palácio;
-   - Mira: Mire na quina da construção, abaixo da antena;
-   - Execução: Arremesso longo;
-   - Ref. 131.9579: [YouTube](https://youtu.be/XHkQ7BAwvys)
-
-#### PASSAGEM CARROÇA
-
-1. **PASSAGEM CARROÇA** [(Top)](#s-top) 
-   - Alvo: JANELÃO;
-   - Posição: Posicione-se sobre as sombras dos fios com o marcação no chão.
-   - Mira: Mire na haste superior da antena tipo espinha de peixe;
-   - Execução: Ande para a frente até chegar na haste inferior + Arremesso longo;
-   - Ref. 131.4560: [YouTube](https://youtu.be/uMklmAI_KDk)
-
-1. **PASSAGEM CARROÇA** [(Top)](#s-top)
-   - Alvo: JANELÃO;
-   - Posição: Encoste na primeira quina da parede. Ande para a esquerda até aparecer um bloco no topo da construção;
-   - Mira: Mire no topo do bloco;
-   - Execução: Ande ligeiramente para a frente + Arremesso longo;
-   - Ref. 131.7592: [YouTube](https://youtu.be/33ghUhrl4Ls)
-
-1. **PASSAGEM CARROÇA** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO BAIXO;
-   - Posição: Encoste na primeira quina da parede;
-   - Mira: Mire na ponta superior da porta de entrada da ligação;
-   - Execução: Arremesso longo;
-   - Ref. 131.9011: [YouTube](https://youtu.be/pdBaCVckihY)
-
-1. **PASSAGEM CARROÇA** [(Top)](#s-top)
-   - Alvo: JUNGLE;
-   - Posição: Posicione-se na quina da passagem carroça;
-   - Mira: Mire no topo superior da porta na região da cadeira;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.1932: [YouTube](https://youtu.be/g35xaLdoyrE)
-   - 
-
-#### PLATAFORMA
-
-1. **PLATAFORMA (1/2)** [(Top)](#s-top)
-   - Alvo: CABECINHA;
-   - Posição: Suba na plataforma, encoste na coluna de madeira de frente para a caverna;
-   - Mira: Mire no topo da maior argamassa de junção das pedras na parede a sua frente;
-   - Execução: Jumpthrow médio;
-   - Ref. 131.2230: [YouTube](https://youtu.be/Ru_yNrbL8gs)
-
-1. **PLATAFORMA (2/2)** [(Top)](#s-top)
-   - Alvo: PASSAGEM JUNGLE;
-   - Posição: Suba na plataforma e encoste na madeira próximo a entrada da caverna;
-   - Mira: Mire um pouco à esquerda da ponta da coluna no topo da parede;
-   - Execução: Arremesso longo;
-   - Ref. 131.7901: [YouTube](https://youtu.be/Ru_yNrbL8gs)
-
-#### RATO
+1. Smoke da JUNGLE para o BOLTZ | [YouTube](https://youtu.be/nAhRK3pkAlI) | Ref. 131.2203:
+2. Smoke da JUNGLE para a CAVERNA | [YouTube](https://youtu.be/ZP6d6BfEubo) | Ref. 131.6520:
 
 
-1. **RATO** [(Top)](#s-top)
-   - Alvo: PASSAGEM JUNGLE;
-   - Posição: Encoste a esquerda da porta de saída do rato;
-   - Mira: Mire na ponta do poste do corrimão;
-   - Execução: Arremesso longo;
-   - Ref. 131.6577: [YouTube](https://youtu.be/WeVsYwkVtlI)
-
-1. **RATO** [(Top)](#s-top)
-   - Alvo:  JANELÃO;
-   - Posição: Encoste na parede da esquerda antes de chegar no arco de saída;
-   - Mira: Agache e mire na ponta da falha no topo do janelão;
-   - Execução: Arremesso longo;
-   - Ref. 131.7523: [YouTube](https://youtu.be/rk99ajyDGoY)
-
-1. **RATO** [(Top)](#s-top)
-   - Alvo: L;
-   - Posição: Posicione-se perto da saída do rato alinhado com a terceira coluna de lajotas no chão;
-   - Mira: Mire um pouco acima do canto superior direito do banco;
-   - Execução: Ande para a frente + Arremesso longo;
-   - Ref. 131.6392: [YouTube](https://youtu.be/-uE8rFAniig)
+#### [L](#top)
 
 
-#### TV
-
-1. **TV, VARANDA** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO CIMA;
-   - Posição: Posicione-se no canto da coluna de madeira com a parede da varanda de acesso a TV;
-   - Mira: Mire no meio inferior dos caibros, em uma mancha escura na parede vermelha;
-   - Execução: Ande (shift) até a mira chegar próximo a parte de baixo da sombra + Jumpthrow longo;
-   - Ref. 131.8391: [YouTube](https://youtu.be/y2VSvTikXCo)
-
-1. **TV, VARANDA** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO BAIXO;
-   - Posição: Posicione-se no canto da coluna com a parede, ao lado da cadeira;
-   - Mira: Mire na junção da base do caibro central com a parede;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.0562: [YouTube](https://youtu.be/4S60W_WDA3A)
-
-#### TACO
-
-1. **TACO** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO CIMA;
-   - Posição: Encoste no canto da parede;
-   - Mira: Mire ligeiramente à esquerda, no segundo tijolo de baixo para cima;
-   - Execução: Jumpthrow longo;
-   - Ref. 131.8491: [YouTube](https://youtu.be/nPwANejXk3s)
-
-#### TETRIS
-
-1. **TETRIS** [(Top)](#s-top)
-   - Alvo: JUNGLE;
-   - Posição: Posicione-se na frente da primeira caixa do tetris;
-   - Mira: Mire na ponta do caibro parcialmente encoberto pela tenda amarela;
-   - Execução: Arremesso longo;
-   - Ref. 131.5427: [YouTube](https://youtu.be/CMKsBpueWFI)
-   
-1. **TETRIS** [(Top)](#s-top)
-   - Alvo: LIGAÇÃO CIMA;
-   - Posição: Encoste no canto das caixas inferiores;
-   - Mira: Mire a direita do caibro, se afastando um pouco;
-   - Execução: Arremesso longo;
-   - Ref. 131.7209: [YouTube](https://youtu.be/BpCntFIGyW4)
-
-1. **TETRIS** [(Top)](#s-top)
-   - Alvo: BOLTZ;
-   - Posição: Posicione-se na frente da primeira caixa do tetris;
-   - Mira: Mire no canto superior esquerdo da janela no alto da torre acima do Boltz;
-   - Execução: Arremesso longo;
-   - Ref. 131.9723: [YouTube](https://youtu.be/8E7erkRnpy0)
+1. Smoke do L para o PALÁCIO | [YouTube](https://youtu.be/cvd6pCh-UHM) | Ref. 131.8701:
 
 
-#### VAN
+#### [MEIO](#top)
 
-1. **VAN** [(Top)](#s-top)
-   - Alvo: PORTA DO MERCADO;
-   - Posição: Encoste no canto do barril com a parede, atrás da van;
-   - Mira: Localize à direita, na construção, uma marcação horizontal da base da janela. Você terá uma visão lateral dessa marcação;
-   - Execução: Arremesso longo;
-   - Ref. 131.9122: [YouTube](https://youtu.be/nKzpF-u2L9c)
 
-1. **VAN** [(Top)](#s-top)
-   - Alvo: JANELA DO MERCADO;
-   - Posição: Encoste no canto do barril com a parede, atrás da van;
-   - Mira: Localize duas marcações no beiral da construção vermelha logo acima da janela do mercado;
-   - Execução: Arremesso longo;
-   - Ref. 131.2677: [YouTube](https://youtu.be/zTEEvQy9U8U)
+1. Smoke do MEIO  para a LIGAÇÃO CIMA | [YouTube](https://youtu.be/RJX0mfH8bow) | Ref. 131.6342:
 
-1. **VAN** [(Top)](#s-top)
-   - Alvo: PASSAGEM EDWARD;
-   - Posição: Encoste no canto do barril com a parede, atrás da van;
-   - Mira: Mire na ponta direita da torre ao fundo;
-   - Execução: Arremesso longo;
-   - Ref. 131.8902: [YouTube](https://youtu.be/fDRJI3bQfoo)
+
+#### [MEIO FALSO](#top)
+
+
+1. Smoke do MEIO FALSO para o JANELÃO | [YouTube](https://youtu.be/S197TFwAe_0) | Ref. 131.3782:
+1. Smoke do MEIO FALSO para a JUNGLE | [YouTube](https://youtu.be/vKPVuc1a3PE) | Ref. 131.9733:
+1. Smoke do MEIO FALSO para a LIGAÇÃO CIMA | [YouTube](https://youtu.be/AwG7WQThlBY) | Ref. 131.9743:
+1. Smoke do MEIO FALSO para a LIGAÇÃO BAIXO | [YouTube](https://youtu.be/1-kTJjn8J00) | Ref. 131.5400:
+1. Smoke do MEIO FALSO (1/2) para a JANELA DO MERCADO | [YouTube](https://youtu.be/vklbMtTLp5U) | Ref. 131.7423:
+1. Smoke do MEIO FALSO (2/2) para a PORTA DO MERCADO | [YouTube](https://youtu.be/9Qaxu8Ig_wg) | Ref. 131.7424:
+1. Smoke do MEIO FALSO para a JANELA DO MERCADO | [YouTube](https://youtu.be/BiPXljKfn5k) |  Ref. 131.6732:
+1. Smoke do MEIO FALSO para o EDWARD | [YouTube](https://youtu.be/dACcOd-1xoI) | Ref. 131.6428:
+1. Smoke do MEIO FALSO para o CENTRO DO BOMB B | [YouTube](https://youtu.be/WJR6XQGhEVQ) | Ref. 131.7392:
+
+
+#### [MERCADO](#top)
+
+
+1. Smoke da JANELA DO MERCADO para o BECO | [YouTube](https://youtu.be/LYnCemoeV9s) | Ref. 131.1414:
+2. Smoke do JANELA DO MERCADO (FORA) para o TAPETE DA B | [YouTube](https://youtu.be/i78OEdZyQt0) | Ref. 131.0766:
+3. Smoke da SAÍDA DO MERCADO para O TAPETE | [YouTube](https://youtu.be/mInYV8-ynP8) | Ref. 131.3945:
+
+
+#### [PALÁCIO](#top)
+
+
+1. Smoke do PALÁCIO para a LIGAÇÃO |  [YouTube](https://youtu.be/XHkQ7BAwvys) | Ref. 131.9579:
+
+
+#### [PASSAGEM CARROÇA](#top)
+
+
+1. Smoke da PASSAGEM CARROÇA para o JANELÃO | [YouTube](https://youtu.be/uMklmAI_KDk) | Ref. 131.4560:
+1. Smoke da PASSAGEM CARROÇA para o JANELÃO | [YouTube](https://youtu.be/33ghUhrl4Ls) | Ref. 131.7592:
+1. Smoke da PASSAGEM CARROÇA para a LIGAÇÃO BAIXO | [YouTube](https://youtu.be/pdBaCVckihY) | Ref. 131.9011:
+1. Smoke da PASSAGEM CARROÇA para a JUNGLE | [YouTube](https://youtu.be/g35xaLdoyrE) | Ref. 131.1932:
+
+
+#### [PLATAFORMA](#top)
+
+
+1. Smoke da PLATAFORMA (1/2) para a CABECINHA | [YouTube](https://youtu.be/Ru_yNrbL8gs) Ref. 131.2230:
+1. Smoke da PLATAFORMA (2/2) para a PASSAGEM JUNGLE | [YouTube](https://youtu.be/Ru_yNrbL8gs) | Ref. 131.7901:
+
+
+#### [RATO](#top)
+
+
+1. Smoke: RATO > PASSAGEM JUNGLE | [YouTube](https://youtu.be/WeVsYwkVtlI) | Ref. 131.6577:
+1. Smoke: RATO > JANELÃO | [YouTube](https://youtu.be/rk99ajyDGoY) | Ref. 131.7523:
+1. Smoke: RATO > L | [YouTube](https://youtu.be/-uE8rFAniig) | Ref. 131.6392:
+
+
+#### [TV](#top)
+
+
+1. Smoke: SAÍDA DA TV > LIGAÇÃO CIMA | [YouTube](https://youtu.be/y2VSvTikXCo) | Ref. 131.8391:
+1. Smoke: SAÍDA DA TV > LIGAÇÃO BAIXO | [YouTube](https://youtu.be/4S60W_WDA3A) | Ref. 131.0562:
+
+
+#### [TACO](#top)
+
+
+1. Smoke do TACO LIGAÇÃO CIMA | [YouTube](https://youtu.be/nPwANejXk3s) | Ref. 131.8491:
+
+
+#### [TETRIS](#top)
+
+
+1. Smoke do TETRIS JUNGLE | [YouTube](https://youtu.be/CMKsBpueWFI) | Ref. 131.5427:
+1. Smoke do TETRIS LIGAÇÃO CIMA | [YouTube](https://youtu.be/BpCntFIGyW4) | Ref. 131.7209:
+1. Smoke do TETRIS para o BOLTZ | [YouTube](https://youtu.be/8E7erkRnpy0) | Ref. 131.9723:
+
+
+#### [VAN](#top)
+
+
+1. Smoke da VAN PORTA DO MERCADO | [YouTube](https://youtu.be/nKzpF-u2L9c) | Ref. 131.9122:
+1. Smoke da VAN JANELA DO MERCADO | [YouTube](https://youtu.be/zTEEvQy9U8U) | Ref. 131.2677:
+1. Smoke da VAN PASSAGEM EDWARD | [YouTube](https://youtu.be/fDRJI3bQfoo) | Ref. 131.8902:
 
 
 
