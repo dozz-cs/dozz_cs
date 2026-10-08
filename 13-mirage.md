@@ -9,221 +9,176 @@ Ir para: [**ÁGUA**](#ÁGUA) |
 
 [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR) - [**BECO**](#BECO) - [**BOLTZ**](#BOLTZ) - [**BOMB B**](#BOMB-B) - [**CABECINHA**](#CABECINHA) - [**CAVERNA**](#CAVERNA) - [**CAVERNA TR**](#CAVERNA-TR) - [**CARROÇA**](#CARROCA) - [**ESQUINA**](#ESQUINA) - [**JUNGLE**](#JUNGLE) - [**L**](#L) - [**MEIO**](#MEIO) - [**MEIO FALSO**](#MEIO-FALSO) - [**MERCADO**](#MERCADO) - [**PALÁCIO**](#PALÁCIO) - [**PASSAGEM CARROÇA**](#PASSAGEM-CARROÇA) - [**PLATAFORMA**](#PLATAFORMA) - [**RATO**](#RATO) - [**TV**](#TV) - [**TACO**](#TACO) - [**TETRIS**](#TETRIS) - [**VAN**](#VAN)
 
-
 #### [BASE CT](#top)
 
-
-1. Smoke da BASE CT para a CAVERNA | [YouTube](https://youtu.be/xlZecDzVaKQ) | Ref. 131.8942
-2. Smoke da BASE CT para a CAVERNA | [YouTube](https://youtu.be/h85RiqufdXA) | Ref. 131.2792
-3. Smoke da BASE CT para o MEIO FALSO | [YouTube](https://youtu.be/-35ORxNGjhk) | Ref. 131.1203
-4. Smoke da BASE CT para o PALÁCIO | [YouTube](https://youtu.be/CG-F2fZVsj8) | Ref. 131.3068
-5. Smoke da BASE CT para o PALÁCIO | [YouTube](https://youtu.be/v-ckOI77yuA) | Ref. 131.8456
-6. Smoke da BASE CT para a TV | [YouTube](https://youtu.be/CvLT58tCynY) | Ref. 131.3420
-7. Smoke da BASE CT para o TAPETE DA B | [YouTube](https://youtu.be/1EACGkmIgkw) | Ref. 131.7441
-8. Smoke da BASE CT para o TAPETE DA B | [YouTube](https://youtu.be/Ugp4tisXoxE) | Ref. 131.4091
-
+1. Smoke: BASE CT → CAVERNA | [YouTube](https://youtu.be/xlZecDzVaKQ) | Ref. 131.8942;
+2. Smoke: BASE CT → CAVERNA | [YouTube](https://youtu.be/h85RiqufdXA) | Ref. 131.2792;
+3. Smoke: BASE CT → MEIO FALSO | [YouTube](https://youtu.be/-35ORxNGjhk) | Ref. 131.1203;
+4. Smoke: BASE CT → PALÁCIO | [YouTube](https://youtu.be/CG-F2fZVsj8) | Ref. 131.3068;
+5. Smoke: BASE CT → PALÁCIO | [YouTube](https://youtu.be/v-ckOI77yuA) | Ref. 131.8456;
+6. Smoke: BASE CT → TV | [YouTube](https://youtu.be/CvLT58tCynY) | Ref. 131.3420;
+7. Smoke: BASE CT → TAPETE DA B | [YouTube](https://youtu.be/1EACGkmIgkw) | Ref. 131.7441;
+8. Smoke: BASE CT → TAPETE DA B | [YouTube](https://youtu.be/Ugp4tisXoxE) | Ref. 131.4091;
 
 #### [BASE TR](#top)
 
-
-1. Smoke da BASE TR para o BOLTZ | [YouTube](https://youtu.be/hteQbGFrhBw) | Ref. 131.2965
-2. Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/WGijWx0uOw0) | Ref. 131.5629
-3. Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/x2Pz56QzhwE) | Ref. 131.6492
-4. Smoke da BASE TR para o JANELÃO | [YouTube](https://youtu.be/ebUX55AarB0) | Ref. 131.6220
-5. Smoke da BASE TR (SPAWN-1 setpos 1296.000000 32.000000 -103.968750) para o JANELÃO | [YouTube](https://youtu.be/7mBnKYhtno8) | Ref. 131.4671:
-6. Smoke da BASE TR (SPAWN-2 setpos 1216.000000 -16.000000 -102.950439) para o JANELÃO | [YouTube](https://youtu.be/9dS0-YCiC3k) | Ref. 131.4672
-7. Smoke da BASE TR (SPAWN-3 setpos 1296.000000 -352.000000 -103.968750) para o JANELÃO | [YouTube](https://youtu.be/n18xonyfNDI) | Ref. 131.4673
-8. Smoke da BASE TR (SPAWN-4 setpos 1216.000000 -115.000000 -102.950439) para o JANELÃO | [YouTube](https://youtu.be/Zqgu9S1p_tE) | Ref. 131.4674
-9. Smoke da BASE TR (SPAWN-5 setpos 1216.000000 -211.000000 -100.611038) para o JANELÃO | [YouTube](https://youtu.be/ZQpSzmS2ojQ) |  Ref. 131.4675
-10. Smoke da BASE TR para o PASSAGEM EDWARD | [YouTube](https://youtu.be/T9IVs9Y_HZo) | Ref. 131.9642
-11. Smoke da BASE TR para o L e ENTRADA DO MOSCOU | [YouTube](https://youtu.be/cH0hkFLdjgI) | Ref. 131.8954
-12. Smoke da BASE TR para o L | [YouTube](https://youtu.be/ZPze9F_tfxc) | Ref. 131.7320
-13. Smoke da BASE TR para o L | [YouTube](https://youtu.be/To8DriNfVg8) | Ref. 131.8558
-14. Smoke da BASE TR para o LIGAÇÃO BAIXO | [YouTube](https://youtu.be/Uqlj_ydElrQ) | Ref. 131.2544
-15. Smoke da BASE TR para o LIGAÇÃO BAIXO | [YouTube](https://youtu.be/NuNusxVSbd0) | Ref. 131.4533
-16. Smoke da BASE TR (1/2) para o JUNGLE | [YouTube](https://youtu.be/VA1NRsPRNxk) | Ref. 131.9853
-17. Smoke da BASE TR (2/2) para o LIGAÇÃO CIMA | [YouTube](https://youtu.be/VA1NRsPRNxk) | Ref. 131.7432
-18. Smoke da BASE TR para o PASSAGEM CARROÇA | [YouTube](https://youtu.be/VCPt4cng_-E) | Ref. 131.0911
-19. Smoke da BASE TR (1/2) para o CABECINHA | [YouTube](https://youtu.be/_30_2a9Uk7I) | Ref. 131.5623
-20. Smoke da BASE TR (2/2) para o PASSAGEM JUNGLE | [YouTube](https://youtu.be/_30_2a9Uk7I) | Ref. 131.3452
-
+1. Smoke: BASE TR → BOLTZ | [YouTube](https://youtu.be/hteQbGFrhBw) | Ref. 131.2965;
+2. Smoke: BASE TR → JANELÃO | [YouTube](https://youtu.be/WGijWx0uOw0) | Ref. 131.5629;
+3. Smoke: BASE TR → JANELÃO | [YouTube](https://youtu.be/x2Pz56QzhwE) | Ref. 131.6492;
+4. Smoke: BASE TR → JANELÃO | [YouTube](https://youtu.be/ebUX55AarB0) | Ref. 131.6220;
+5. Smoke: BASE TR → JANELÃO | [YouTube](https://youtu.be/7mBnKYhtno8) | (SPAWN-1 setpos 1296.000000 32.000000 -103.968750) | Ref. 131.4671; 
+6. Smoke: BASE TR → JANELÃO | [YouTube](https://youtu.be/9dS0-YCiC3k) | (SPAWN-2 setpos 1216.000000 -16.000000 -102.950439) | Ref. 131.4672;
+7. Smoke: BASE TR → JANELÃO | [YouTube](https://youtu.be/n18xonyfNDI) | (SPAWN-3 setpos 1296.000000 -352.000000 -103.968750) | Ref. 131.4673;
+8. Smoke: BASE TR → JANELÃO | [YouTube](https://youtu.be/Zqgu9S1p_tE) | (SPAWN-4 setpos 1216.000000 -115.000000 -102.950439) | Ref. 131.4674;
+9. Smoke: BASE TR → JANELÃO | [YouTube](https://youtu.be/ZQpSzmS2ojQ) | (SPAWN-5 setpos 1216.000000 -211.000000 -100.611038) | Ref. 131.4675;
+10. Smoke: BASE TR → PASSAGEM EDWARD | [YouTube](https://youtu.be/T9IVs9Y_HZo) | Ref. 131.9642;
+11. Smoke: BASE TR → L e ENTRADA DO MOSCOU | [YouTube](https://youtu.be/cH0hkFLdjgI) | Ref. 131.8954;
+12. Smoke: BASE TR → L | [YouTube](https://youtu.be/ZPze9F_tfxc) | Ref. 131.7320;
+13. Smoke: BASE TR → L | [YouTube](https://youtu.be/To8DriNfVg8) | Ref. 131.8558;
+14. Smoke: BASE TR → LIGAÇÃO BAIXO | [YouTube](https://youtu.be/Uqlj_ydElrQ) | Ref. 131.2544;
+15. Smoke: BASE TR → LIGAÇÃO BAIXO | [YouTube](https://youtu.be/NuNusxVSbd0) | Ref. 131.4533;
+16. Smoke (1/2): BASE TR → JUNGLE | [YouTube](https://youtu.be/VA1NRsPRNxk) | Ref. 131.9853;
+17. Smoke (2/2): BASE TR → LIGAÇÃO CIMA | [YouTube](https://youtu.be/VA1NRsPRNxk) | Ref. 131.7432;
+18. Smoke: BASE TR → PASSAGEM CARROÇA | [YouTube](https://youtu.be/VCPt4cng_-E) | Ref. 131.0911;
+19. Smoke (1/2): BASE TR → CABECINHA | [YouTube](https://youtu.be/_30_2a9Uk7I) | Ref. 131.5623;
+20. Smoke (2/2): BASE TR → PASSAGEM JUNGLE | [YouTube](https://youtu.be/_30_2a9Uk7I) | Ref. 131.3452;
 
 #### [BECO](#top)
 
-1. Smoke do BECO para o BOLTZ | [YouTube](https://youtu.be/4VIT-PBPkk0) | Ref. 131.8345
-2. Smoke do BECO (1/2) para a CABECINHA | [YouTube](https://youtu.be/V0jDRO-1sfc) | Ref. 131.7433:
-3. Smoke do BECO (2/2) para a PASSAGEM JUNGLE | [YouTube](https://youtu.be/V0jDRO-1sfc) | Ref. 131.7434: 
-4. Smoke do BECO para o EDWARD FECHADO | [YouTube](https://youtu.be/wwU-4fSdcz8) | Ref. 131.9027:
-5. Smoke do BECO para o EDWARD ABERTO | [YouTube](https://youtu.be/EW1t1Iqi8Iw) | Ref. 131.5882:
-6. Smoke do BECO para o FOREST | [YouTube](https://youtu.be/4NmQMGzOR3Y) | Ref. 131.8104:
-7. Smoke do BECO para a JUNGLE | [YouTube](https://youtu.be/_vcUN4eAOQA) Ref. 131.5718:
-8. Smoke do BECO (1/2) para a JANELA DO MERCADO | [YouTube](https://youtu.be/q6qx6hqTaK4) | Ref. 131.0732:
-9. Smoke do BECO (2/2) para a PORTA DO MERCADO | [YouTube](https://youtu.be/X9n39Kuty_Y) | Ref. 131.5438:
-10. Smoke do BECO para a VAN | [YouTube](https://youtu.be/uqGfLMpz3j0) | Ref. 131.2184:
-11. Smoke do BECO para a VAN | [YouTube](https://youtu.be/RThRBE7fvag) | Ref. 131.7593:
-12. Smoke do BECO para a VARANDA | [YouTube](https://youtu.be/eSjkjfelxg8) | Ref. 131.2145: 
-13. Smoke do BECO para a PASSAGEM EDWARD | [YouTube](https://youtu.be/MSyxwpd0mig) | Ref. 131.6630:
-14. Smoke do BECO para a PASSAGEM MOSCOW | [YouTube](https://youtu.be/nt0cpATk2Wc) | Ref. 131.7391:
-15. Smoke do BECO para o CENTRO DO BOMB B | [YouTube](https://youtu.be/BpIT1WOEUwo) | Ref. 131.1003:
-
+1. Smoke: BECO → BOLTZ | [YouTube](https://youtu.be/4VIT-PBPkk0) | Ref. 131.8345;
+2. Smoke (1/2): BECO → CABECINHA | [YouTube](https://youtu.be/V0jDRO-1sfc) | Ref. 131.7433;
+3. Smoke (2/2): BECO → PASSAGEM JUNGLE | [YouTube](https://youtu.be/V0jDRO-1sfc) | Ref. 131.7434; 
+4. Smoke: BECO → EDWARD FECHADO | [YouTube](https://youtu.be/wwU-4fSdcz8) | Ref. 131.9027;
+5. Smoke: BECO → EDWARD ABERTO | [YouTube](https://youtu.be/EW1t1Iqi8Iw) | Ref. 131.5882;
+6. Smoke: BECO → FOREST | [YouTube](https://youtu.be/4NmQMGzOR3Y) | Ref. 131.8104;
+7. Smoke: BECO → JUNGLE | [YouTube](https://youtu.be/_vcUN4eAOQA) Ref. 131.5718;
+8. Smoke (1/2): BECO → JANELA DO MERCADO | [YouTube](https://youtu.be/q6qx6hqTaK4) | Ref. 131.0732;
+9. Smoke (2/2): BECO → PORTA DO MERCADO | [YouTube](https://youtu.be/X9n39Kuty_Y) | Ref. 131.5438;
+10. Smoke: BECO → VAN | [YouTube](https://youtu.be/uqGfLMpz3j0) | Ref. 131.2184;
+11. Smoke: BECO → VAN | [YouTube](https://youtu.be/RThRBE7fvag) | Ref. 131.7593;
+12. Smoke: BECO → VARANDA | [YouTube](https://youtu.be/eSjkjfelxg8) | Ref. 131.2145; 
+13. Smoke: BECO → PASSAGEM EDWARD | [YouTube](https://youtu.be/MSyxwpd0mig) | Ref. 131.6630;
+14. Smoke: BECO → PASSAGEM MOSCOW | [YouTube](https://youtu.be/nt0cpATk2Wc) | Ref. 131.7391;
+15. Smoke: BECO → CENTRO DO BOMB B | [YouTube](https://youtu.be/BpIT1WOEUwo) | Ref. 131.1003;
 
 #### [BOLTZ](#top)
 
-
-1. Smoke do BOLTZ para a CAVERNA [YouTube](https://youtu.be/dkU4N3K1tkk) | Ref. 131.7522:
-2. Smoke do BOLTZ para a ENTRADA DO PALÁCIO | [YouTube](https://youtu.be/IpABmc5Nk0I) | Ref. 131.4399:
-3. Smoke do BOLTZ para a ENTRADA DO PALÁCIO | [YouTube](https://youtu.be/7RHbwssY_dY) | Ref. 131.1392:
-
+1. Smoke: BOLTZ → CAVERNA [YouTube](https://youtu.be/dkU4N3K1tkk) | Ref. 131.7522;
+2. Smoke: BOLTZ → ENTRADA DO PALÁCIO | [YouTube](https://youtu.be/IpABmc5Nk0I) | Ref. 131.4399;
+3. Smoke: BOLTZ → ENTRADA DO PALÁCIO | [YouTube](https://youtu.be/7RHbwssY_dY) | Ref. 131.1392;
 
 #### [BOMB B](#top)
 
-
-1. Smoke do BOMB B (NINJA) para a JANELA DO MERCADO | [YouTube](https://youtu.be/G1W3euPg-XE) | Ref. 131.2110:
-
+1. Smoke: BOMB B (NINJA) → JANELA DO MERCADO | [YouTube](https://youtu.be/G1W3euPg-XE) | Ref. 131.2110;
 
 #### [CABECINHA](#top)
 
-
-1. Smoke da CABECINHA para a ENTRADA DO PALÁCIO | [YouTube](https://youtu.be/9maVZMbl5Zk) | Ref. 131.4370:
-
+1. Smoke: CABECINHA → ENTRADA DO PALÁCIO | [YouTube](https://youtu.be/9maVZMbl5Zk) | Ref. 131.4370;
 
 #### [CAVERNA](#top)
 
-
-1. Smoke da CAVERNA para a PASSAGEM CAVERNA | [YouTube](https://youtu.be/gQGbnsnEcAo) | Ref. 131.0056:
-2. Smoke da CAVERNA para a PASSAGEM JUNGLE | [YouTube](https://youtu.be/HGxdnsPd2ys) | Ref. 131.2384:
-
+1. Smoke: CAVERNA → PASSAGEM CAVERNA | [YouTube](https://youtu.be/gQGbnsnEcAo) | Ref. 131.0056;
+2. Smoke: CAVERNA → PASSAGEM JUNGLE | [YouTube](https://youtu.be/HGxdnsPd2ys) | Ref. 131.2384;
 
 #### [CAVERNA TR](#top)
 
-
-1. Smoke da CAVERNA TR para o BOLTZ | [YouTube](https://youtu.be/mj9dkicsrdc) | Ref. 131.5395
-2. Smoke da CAVERNA TR (1/2) para a LIGAÇÃO CIMA | [YouTube](https://youtu.be/M8etjOJe_LQ) | Ref. 131.8303:
-3. Smoke da CAVERNA TR (2/2) para a JUNGLE | [YouTube](https://youtu.be/7x3Etf5oh_w) | Ref. 131.0946:
-4. Smoke da CAVERNA TR (1/2) para a CABECINHA | [YouTube](https://youtu.be/F2piqW1aj0c) | Ref. 131.8757:
-5. Smoke da CAVERNA TR (2/2) para a PASSAGEM JUNGLE | [YouTube](https://youtu.be/HMZPhN576KA) | Ref. 131.8756:
-6. Smoke da CAVERNA TR para a CABECINHA | [YouTube](https://youtu.be/a6_3h1R0pvA) | Ref. 131.8741:
-7. Smoke da CAVERNA TR para a CABECINHA | [YouTube](https://youtu.be/Ittt6GjIUrM) | Ref. 131.0032:
-8. Smoke da CAVERNA TR para o JANELÃO | [YouTube](https://youtu.be/xANeEfWHZlk) | Ref. 131.2002:
-9. Smoke da CAVERNA TR para o L | [YouTube](https://youtu.be/Q3jbGxjj1no) | Ref. 131.9972:
-
+1. Smoke: CAVERNA TR → BOLTZ | [YouTube](https://youtu.be/mj9dkicsrdc) | Ref. 131.5395;
+2. Smoke (1/2): CAVERNA TR → LIGAÇÃO CIMA | [YouTube](https://youtu.be/M8etjOJe_LQ) | Ref. 131.8303;
+3. Smoke (2/2): AVERNA TR → JUNGLE | [YouTube](https://youtu.be/7x3Etf5oh_w) | Ref. 131.0946;
+4. Smoke (1/2): CAVERNA TR → CABECINHA | [YouTube](https://youtu.be/F2piqW1aj0c) | Ref. 131.8757;
+5. Smoke (2/2): CAVERNA TR → PASSAGEM JUNGLE | [YouTube](https://youtu.be/HMZPhN576KA) | Ref. 131.8756;
+6. Smoke: CAVERNA TR → CABECINHA | [YouTube](https://youtu.be/a6_3h1R0pvA) | Ref. 131.8741;
+7. Smoke: CAVERNA TR → CABECINHA | [YouTube](https://youtu.be/Ittt6GjIUrM) | Ref. 131.0032;
+8. Smoke: CAVERNA TR → JANELÃO | [YouTube](https://youtu.be/xANeEfWHZlk) | Ref. 131.2002;
+9. Smoke: CAVERNA TR → L | [YouTube](https://youtu.be/Q3jbGxjj1no) | Ref. 131.9972;
 
 #### [CARROÇA](#top)
 
-
-1. Smoke da CARROÇA para o JANELÃO | [YouTube](https://youtu.be/uZs06hyP9GU) | Ref. 131.7439:
-2. Smoke da CARROÇA para o JANELÃO | [YouTube](https://youtu.be/98RYeVxM6DI) | Ref. 131.6722:
-3. Smoke da CARROÇA para o L | [YouTube](https://youtu.be/c4kaAthepYM) | Ref. 131.8720:
-4. Smoke da CARROÇA para a LIGAÇÃO BAIXO | [YouTube](https://youtu.be/oNcqc7_BuZE) | Ref. 131.7001:
-5. Smoke da CARROÇA para a LIGAÇÃO CIMA | [YouTube](https://youtu.be/KbS0IDc4NK4) | Ref. 131.8527:
-6. Smoke da CARROÇA para a JANELA DO MERCADO | [YouTube](https://youtu.be/GbFyRXd4zEw) | Ref. 131.4209:
-
+1. Smoke: CARROÇA → JANELÃO | [YouTube](https://youtu.be/uZs06hyP9GU) | Ref. 131.7439;
+2. Smoke: CARROÇA → JANELÃO | [YouTube](https://youtu.be/98RYeVxM6DI) | Ref. 131.6722;
+3. Smoke: CARROÇA → L | [YouTube](https://youtu.be/c4kaAthepYM) | Ref. 131.8720;
+4. Smoke: CARROÇA → LIGAÇÃO BAIXO | [YouTube](https://youtu.be/oNcqc7_BuZE) | Ref. 131.7001;
+5. Smoke: CARROÇA → LIGAÇÃO CIMA | [YouTube](https://youtu.be/KbS0IDc4NK4) | Ref. 131.8527;
+6. Smoke: CARROÇA → JANELA DO MERCADO | [YouTube](https://youtu.be/GbFyRXd4zEw) | Ref. 131.4209;
 
 #### [ESQUINA](#top)
 
-
-1. Smoke da ESQUINA para a LIGAÇÃO CIMA | [YouTube](https://youtu.be/ZVDg7XUvga4) | Ref. 131.6565:
-2. Smoke da ESQUINA para a JUNGLE | [YouTube](https://youtu.be/-doF8P5FFOw) | Ref. 131.4936:
+1. Smoke: ESQUINA → LIGAÇÃO CIMA | [YouTube](https://youtu.be/ZVDg7XUvga4) | Ref. 131.6565;
+2. Smoke: ESQUINA → JUNGLE | [YouTube](https://youtu.be/-doF8P5FFOw) | Ref. 131.4936;
   
-
 #### [JUNGLE](#top)
 
-
-1. Smoke da JUNGLE para o BOLTZ | [YouTube](https://youtu.be/nAhRK3pkAlI) | Ref. 131.2203:
-2. Smoke da JUNGLE para a CAVERNA | [YouTube](https://youtu.be/ZP6d6BfEubo) | Ref. 131.6520:
-
+1. Smoke: JUNGLE → BOLTZ | [YouTube](https://youtu.be/nAhRK3pkAlI) | Ref. 131.2203;
+2. Smoke: JUNGLE → CAVERNA | [YouTube](https://youtu.be/ZP6d6BfEubo) | Ref. 131.6520;
 
 #### [L](#top)
 
-
-1. Smoke do L para o PALÁCIO | [YouTube](https://youtu.be/cvd6pCh-UHM) | Ref. 131.8701:
-
+1. Smoke: L → PALÁCIO | [YouTube](https://youtu.be/cvd6pCh-UHM) | Ref. 131.8701;
 
 #### [MEIO](#top)
 
-
-1. Smoke do MEIO  para a LIGAÇÃO CIMA | [YouTube](https://youtu.be/RJX0mfH8bow) | Ref. 131.6342:
-
+1. Smoke: MEIO → LIGAÇÃO CIMA | [YouTube](https://youtu.be/RJX0mfH8bow) | Ref. 131.6342;
 
 #### [MEIO FALSO](#top)
 
-
-1. Smoke do MEIO FALSO para o JANELÃO | [YouTube](https://youtu.be/S197TFwAe_0) | Ref. 131.3782:
-1. Smoke do MEIO FALSO para a JUNGLE | [YouTube](https://youtu.be/vKPVuc1a3PE) | Ref. 131.9733:
-1. Smoke do MEIO FALSO para a LIGAÇÃO CIMA | [YouTube](https://youtu.be/AwG7WQThlBY) | Ref. 131.9743:
-1. Smoke do MEIO FALSO para a LIGAÇÃO BAIXO | [YouTube](https://youtu.be/1-kTJjn8J00) | Ref. 131.5400:
-1. Smoke do MEIO FALSO (1/2) para a JANELA DO MERCADO | [YouTube](https://youtu.be/vklbMtTLp5U) | Ref. 131.7423:
-1. Smoke do MEIO FALSO (2/2) para a PORTA DO MERCADO | [YouTube](https://youtu.be/9Qaxu8Ig_wg) | Ref. 131.7424:
-1. Smoke do MEIO FALSO para a JANELA DO MERCADO | [YouTube](https://youtu.be/BiPXljKfn5k) |  Ref. 131.6732:
-1. Smoke do MEIO FALSO para o EDWARD | [YouTube](https://youtu.be/dACcOd-1xoI) | Ref. 131.6428:
-1. Smoke do MEIO FALSO para o CENTRO DO BOMB B | [YouTube](https://youtu.be/WJR6XQGhEVQ) | Ref. 131.7392:
-
+1. Smoke: MEIO FALSO → JANELÃO | [YouTube](https://youtu.be/S197TFwAe_0) | Ref. 131.3782;
+2. Smoke: MEIO FALSO → JUNGLE | [YouTube](https://youtu.be/vKPVuc1a3PE) | Ref. 131.9733;
+3. Smoke: MEIO FALSO → LIGAÇÃO CIMA | [YouTube](https://youtu.be/AwG7WQThlBY) | Ref. 131.9743;
+4. Smoke: MEIO FALSO → LIGAÇÃO BAIXO | [YouTube](https://youtu.be/1-kTJjn8J00) | Ref. 131.5400;
+5. Smoke (1/2): MEIO FALSO → JANELA DO MERCADO | [YouTube](https://youtu.be/vklbMtTLp5U) | Ref. 131.7423;
+6. Smoke (2/2): MEIO FALSO → PORTA DO MERCADO | [YouTube](https://youtu.be/9Qaxu8Ig_wg) | Ref. 131.7424;
+7. Smoke: MEIO FALSO → JANELA DO MERCADO | [YouTube](https://youtu.be/BiPXljKfn5k) |  Ref. 131.6732;
+8. Smoke: MEIO FALSO → EDWARD | [YouTube](https://youtu.be/dACcOd-1xoI) | Ref. 131.6428;
+9. Smoke: MEIO FALSO → CENTRO DO BOMB B | [YouTube](https://youtu.be/WJR6XQGhEVQ) | Ref. 131.7392;
 
 #### [MERCADO](#top)
 
-
-1. Smoke da JANELA DO MERCADO para o BECO | [YouTube](https://youtu.be/LYnCemoeV9s) | Ref. 131.1414:
-2. Smoke do JANELA DO MERCADO (FORA) para o TAPETE DA B | [YouTube](https://youtu.be/i78OEdZyQt0) | Ref. 131.0766:
-3. Smoke da SAÍDA DO MERCADO para O TAPETE | [YouTube](https://youtu.be/mInYV8-ynP8) | Ref. 131.3945:
-
+1. Smoke: JANELA DO MERCADO → BECO | [YouTube](https://youtu.be/LYnCemoeV9s) | Ref. 131.1414;
+2. Smoke: JANELA DO MERCADO (FORA) → TAPETE DA B | [YouTube](https://youtu.be/i78OEdZyQt0) | Ref. 131.0766;
+3. Smoke: SAÍDA DO MERCADO → TAPETE | [YouTube](https://youtu.be/mInYV8-ynP8) | Ref. 131.3945;
 
 #### [PALÁCIO](#top)
 
-
-1. Smoke do PALÁCIO para a LIGAÇÃO |  [YouTube](https://youtu.be/XHkQ7BAwvys) | Ref. 131.9579:
-
+1. Smoke: PALÁCIO → LIGAÇÃO |  [YouTube](https://youtu.be/XHkQ7BAwvys) | Ref. 131.9579;
 
 #### [PASSAGEM CARROÇA](#top)
 
-
-1. Smoke da PASSAGEM CARROÇA para o JANELÃO | [YouTube](https://youtu.be/uMklmAI_KDk) | Ref. 131.4560:
-1. Smoke da PASSAGEM CARROÇA para o JANELÃO | [YouTube](https://youtu.be/33ghUhrl4Ls) | Ref. 131.7592:
-1. Smoke da PASSAGEM CARROÇA para a LIGAÇÃO BAIXO | [YouTube](https://youtu.be/pdBaCVckihY) | Ref. 131.9011:
-1. Smoke da PASSAGEM CARROÇA para a JUNGLE | [YouTube](https://youtu.be/g35xaLdoyrE) | Ref. 131.1932:
-
+1. Smoke: PASSAGEM CARROÇA → JANELÃO | [YouTube](https://youtu.be/uMklmAI_KDk) | Ref. 131.4560;
+2. Smoke: PASSAGEM CARROÇA → JANELÃO | [YouTube](https://youtu.be/33ghUhrl4Ls) | Ref. 131.7592;
+3. Smoke: PASSAGEM CARROÇA → LIGAÇÃO BAIXO | [YouTube](https://youtu.be/pdBaCVckihY) | Ref. 131.9011;
+4. Smoke: PASSAGEM CARROÇA → JUNGLE | [YouTube](https://youtu.be/g35xaLdoyrE) | Ref. 131.1932;
 
 #### [PLATAFORMA](#top)
 
-
-1. Smoke da PLATAFORMA (1/2) para a CABECINHA | [YouTube](https://youtu.be/Ru_yNrbL8gs) Ref. 131.2230:
-1. Smoke da PLATAFORMA (2/2) para a PASSAGEM JUNGLE | [YouTube](https://youtu.be/Ru_yNrbL8gs) | Ref. 131.7901:
-
+1. Smoke (1/2): PLATAFORMA → CABECINHA | [YouTube](https://youtu.be/Ru_yNrbL8gs) Ref. 131.2230;
+2. Smoke (2/2): PLATAFORMA → PASSAGEM JUNGLE | [YouTube](https://youtu.be/Ru_yNrbL8gs) | Ref. 131.7901;
 
 #### [RATO](#top)
 
-
-1. Smoke: RATO > PASSAGEM JUNGLE | [YouTube](https://youtu.be/WeVsYwkVtlI) | Ref. 131.6577:
-1. Smoke: RATO > JANELÃO | [YouTube](https://youtu.be/rk99ajyDGoY) | Ref. 131.7523:
-1. Smoke: RATO > L | [YouTube](https://youtu.be/-uE8rFAniig) | Ref. 131.6392:
-
+1. Smoke: RATO → PASSAGEM JUNGLE | [YouTube](https://youtu.be/WeVsYwkVtlI) | Ref. 131.6577;
+2. Smoke: RATO → JANELÃO | [YouTube](https://youtu.be/rk99ajyDGoY) | Ref. 131.7523;
+3. Smoke: RATO → L | [YouTube](https://youtu.be/-uE8rFAniig) | Ref. 131.6392;
 
 #### [TV](#top)
 
-
-1. Smoke: SAÍDA DA TV > LIGAÇÃO CIMA | [YouTube](https://youtu.be/y2VSvTikXCo) | Ref. 131.8391:
-1. Smoke: SAÍDA DA TV > LIGAÇÃO BAIXO | [YouTube](https://youtu.be/4S60W_WDA3A) | Ref. 131.0562:
-
+1. Smoke: SAÍDA DA TV → LIGAÇÃO CIMA | [YouTube](https://youtu.be/y2VSvTikXCo) | Ref. 131.8391;
+2. Smoke: SAÍDA DA TV → LIGAÇÃO BAIXO | [YouTube](https://youtu.be/4S60W_WDA3A) | Ref. 131.0562;
 
 #### [TACO](#top)
 
-
-1. Smoke: TACO LIGAÇÃO CIMA | [YouTube](https://youtu.be/nPwANejXk3s) | Ref. 131.8491:
-
+1. Smoke: TACO LIGAÇÃO CIMA | [YouTube](https://youtu.be/nPwANejXk3s) | Ref. 131.8491;
 
 #### [TETRIS](#top)
 
-
-1. Smoke: TETRIS → JUNGLE | [YouTube](https://youtu.be/CMKsBpueWFI) | Ref. 131.5427:
-1. Smoke: TETRIS → LIGAÇÃO CIMA | [YouTube](https://youtu.be/BpCntFIGyW4) | Ref. 131.7209:
-1. Smoke: TETRIS → para o BOLTZ | [YouTube](https://youtu.be/8E7erkRnpy0) | Ref. 131.9723:
-
+1. Smoke: TETRIS → JUNGLE | [YouTube](https://youtu.be/CMKsBpueWFI) | Ref. 131.5427;
+2. Smoke: TETRIS → LIGAÇÃO CIMA | [YouTube](https://youtu.be/BpCntFIGyW4) | Ref. 131.7209;
+3. Smoke: TETRIS → BOLTZ | [YouTube](https://youtu.be/8E7erkRnpy0) | Ref. 131.9723;
 
 #### [VAN](#top)
 
-
-1. Smoke da VAN PORTA DO MERCADO | [YouTube](https://youtu.be/nKzpF-u2L9c) | Ref. 131.9122:
-1. Smoke da VAN JANELA DO MERCADO | [YouTube](https://youtu.be/zTEEvQy9U8U) | Ref. 131.2677:
-1. Smoke da VAN PASSAGEM EDWARD | [YouTube](https://youtu.be/fDRJI3bQfoo) | Ref. 131.8902:
+1. Smoke: VAN → PORTA DO MERCADO | [YouTube](https://youtu.be/nKzpF-u2L9c) | Ref. 131.9122;
+2. Smoke: VAN → JANELA DO MERCADO | [YouTube](https://youtu.be/zTEEvQy9U8U) | Ref. 131.2677;
+3. Smoke: VAN → PASSAGEM EDWARD | [YouTube](https://youtu.be/fDRJI3bQfoo) | Ref. 131.8902;
 
 
 
