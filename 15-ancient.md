@@ -1,10 +1,10 @@
+<a name="TOP"></a>
+
 **Mapa N. 15**  
 # ANCIENT (+95 utilitárias)
 
 
-<a name="TOP"></a>
-
-Ir para: [**BASE CT**](#TOP) | [**BASE TR**](#TOP) | [**BANANA**](#TOP) | [**BOCA DO FUNDO**](#TOP) | [**CAVERNA**](#TOP) | [**CORREDOR**](#TOP) | [**CT DA B**](#TOP) | [**ESQUINA**](#TOP) | [**ESCURO**](#TOP) | [**L**](#TOP) | [**LIGAÇÃO**](#TOP) | [**PORTA**](#TOP) | [**QUADRADO DA B**](#TOP) | [**QUADRADO DO FUNDO**](#TOP) | [**RAMPA**](#TOP) | [**SOL**](#TOP) | [**SOMBRA**](#TOP) | [**TÚNEL**](#TOP) | [**YUURIH**](#TOP)
+Ir para: [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR) | [**BANANA**](#BANANA) | [**BOCA DO FUNDO**](#BOCA-DO-FUNDO) | [**CAVERNA**](#CAVERNA) | [**CORREDOR**](#CORREDOR) | [**CT DA B**](#CT-DA-B) | [**ESQUINA**](#ESQUNA) | [**ESCURO**](#ESCURO) | [**L**](#L) | [**LIGAÇÃO**](#LIGAÇÃO) | [**PORTA**](#PORTA) | [**QUADRADO DA B**](#QUADRADO-DA-B) | [**QUADRADO DO FUNDO**](#QUADRADO-DO-FUNDO) | [**RAMPA**](#RAMPA) | [**SOL**](#SOL) | [**SOMBRA**](#SOMBRA) | [**TÚNEL**](#TÚNEL) | [**YUURIH**](#YUURIH)
 
 
 ---
