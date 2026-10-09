@@ -1,21 +1,23 @@
+<a name="TOP"></a>
+
 **Mapa N. 13**  
 # MIRAGE (+200 utilitárias)
-
-
-<a name="top"></a>
 
 
 Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR) - [**BECO**](#BECO) - [**BOLTZ**](#BOLTZ) - [**BOMB A**](#BOMB-A) - [**BOMB B**](#BOMB-B) - [**CABECINHA**](#CABECINHA) - [**CAIXA FOGO**](#CAIXA-FOGO) - [**CAVERNA**](#CAVERNA) - [**CAVERNA TR**](#CAVERNA-TR) - [**CARROÇA**](#CARROCA) - [**COZINHA**](#COZINHA) - [**EDWARD**](#EDWARD) - [**ESQUINA**](#ESQUINA) - [**JANELÃO**](#JANELÃO)- [**JUNGLE**](#JUNGLE) - [**L**](#L) - [**LIGAÇÃO**](#LIGAÇÃO) - [**MEIO**](#MEIO) - [**MEIO FALSO**](#MEIO-FALSO) - [**MERCADO**](#MERCADO) - [**MOSCOU**](#MOSCOU) - [**PALÁCIO**](#PALÁCIO) - [**PASSAGEM CARROÇA**](#PASSAGEM-CARROÇA) - [**PLATAFORMA**](#PLATAFORMA) - [**RATO**](#RATO) - [**TACO**](#TACO) - [**TAPETE**](#TAPETE) - [**TV**](#TV) - [**TETRIS**](#TETRIS) - [**VAN**](#VAN)
 
 
-#### [AREIA](#top)
+---
+
+
+#### [AREIA](#TOP)
 
 
 1. Flash: AREIA → CAVERNA, TETRIS | [YouTube](https://youtu.be/WlyZDl-jE88) | Ref. 133.8733;
 2. Flash: AREIA → CAVERNA, TETRIS, PALÁCIO | [YouTube](https://youtu.be/5mAPA57UyqU) | Ref. 133.7632;
 
 
-#### [BASE CT](#top)
+#### [BASE CT](#TOP)
 
 
 1. Smoke: BASE CT → CAVERNA | [YouTube](https://youtu.be/xlZecDzVaKQ) | Ref. 131.8942;
@@ -28,7 +30,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 8. Smoke: BASE CT → TAPETE DA B | [YouTube](https://youtu.be/Ugp4tisXoxE) | Ref. 131.4091;
 
 
-#### [BASE TR](#top)
+#### [BASE TR](#TOP)
 
 
 1. Smoke: BASE TR → BOLTZ | [YouTube](https://youtu.be/hteQbGFrhBw) | Ref. 131.2965;
@@ -53,7 +55,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 20. Smoke (2/2): BASE TR → PASSAGEM JUNGLE | [YouTube](https://youtu.be/_30_2a9Uk7I) | Ref. 131.3452;
 
 
-#### [BECO](#top)
+#### [BECO](#TOP)
 
 
 1. Smoke: BECO → BOLTZ | [YouTube](https://youtu.be/4VIT-PBPkk0) | Ref. 131.8345;
@@ -74,7 +76,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 16. Flash: BECO → EDWARD, FOREST, VAN, MERCADO | [YouTube](https://youtu.be/pJ97ZwvhgFE) | Ref. 133.0922;
 
 
-#### [BOLTZ](#top)
+#### [BOLTZ](#TOP)
 
 
 1. Smoke: BOLTZ → CAVERNA [YouTube](https://youtu.be/dkU4N3K1tkk) | Ref. 131.7522;
@@ -83,7 +85,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 4. Molotov: Boltz → CAVERNA | [YouTube](https://youtu.be/EqGtUuJhlXM) | Ref. 132.6432;
 5. Flash: BOLTZ → CAVERNA | [YouTube](https://youtu.be/phCtWyBjfy8) | Ref. 133.4592;
 
-#### [BOMB A](#top)
+#### [BOMB A](#TOP)
 
 
 1. Flash: BOMB A → CAVERNA | [YouTube](https://youtu.be/rxUl71E94k0) | Ref. 133.8930;
@@ -91,7 +93,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 3. Flash: BOMB A → MEIO CIMA, CARROÇA, ESQUINA | [YouTube](https://youtu.be/WXqFRp8Yae4) | Ref. 133.9432;
    
 
-#### [BOMB B](#top)
+#### [BOMB B](#TOP)
 
 
 1. Smoke: BOMB B (NINJA) → JANELA DO MERCADO | [YouTube](https://youtu.be/G1W3euPg-XE) | Ref. 131.2110; 
@@ -103,20 +105,20 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 7. HE: BOMB B → COZINHA | [YouTube](https://youtu.be/lzMmkFxHaMc) | Ref. 134.0933;
 
 
-#### [CABECINHA](#top)
+#### [CABECINHA](#TOP)
 
 
 1. Smoke: CABECINHA → ENTRADA DO PALÁCIO | [YouTube](https://youtu.be/9maVZMbl5Zk) | Ref. 131.4370;
 1. Flash: CABECINHA → CARROÇA, ESQUINA, MEIO | [YouTube](https://youtu.be/oD-qWguCgvw) | Ref. 133.4766;
 
 
-#### [CAIXA FOGO](#top)
+#### [CAIXA FOGO](#TOP)
 
 
 1. Flash: CAIXA FOGO → CARROÇA, ESQUINA, MEIO | [YouTube](https://youtu.be/dVwHjfg3Vnc) | Ref. 133.2302;
 
 
-#### [CARROÇA](#top)
+#### [CARROÇA](#TOP)
 
 
 1. Smoke: CARROÇA → JANELÃO | [YouTube](https://youtu.be/uZs06hyP9GU) | Ref. 131.7439;
@@ -133,7 +135,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 12. HE: CARROÇA → JANELÃO | [YouTube](https://youtu.be/EMtm9FNFeRs) | Ref. 134.7523; 
 
 
-#### [CAVERNA](#top)
+#### [CAVERNA](#TOP)
 
 
 1. Smoke: CAVERNA → PASSAGEM CAVERNA | [YouTube](https://youtu.be/gQGbnsnEcAo) | Ref. 131.0056;
@@ -145,7 +147,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 7. HE: CAVERNA → AREIA | [YouTube](https://youtu.be/DHe-If23YpI) | Ref. 134.8527;
 
 
-#### [CAVERNA TR](#top)
+#### [CAVERNA TR](#TOP)
 
 
 1. Smoke: CAVERNA TR → BOLTZ | [YouTube](https://youtu.be/mj9dkicsrdc) | Ref. 131.5395;
@@ -163,20 +165,20 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 13. Flash: CAVERNA TR → CAVERNA, TETRIS | [YouTube](https://youtu.be/AHmQnjVh77Y) | Ref. 133.3375;
 
 
-#### [COZINHA](#top)
+#### [COZINHA](#TOP)
 
 
 1. Molotov: COZINHA → VARANDA DA B | [YouTube](https://youtu.be/5c9LJAnewNg) | Ref. 132.7893;
 2. Flash: COZINHA → BOMB B, EDWARD | [YouTube](https://youtu.be/iTz_hLnBlmQ) | Ref. 133.0228;
 
 
-#### [EDWARD](#top)
+#### [EDWARD](#TOP)
 
 
 1. Molotov: EDWARD → VAN | [YouTube](https://youtu.be/38jJo78EwSg) | Ref. 132.7124;
 2. HE: EDWARD → VAN | [YouTube](https://youtu.be/4z_bHAPURlc) | Ref. 134.7124;
 
-#### [ESQUINA](#top)
+#### [ESQUINA](#TOP)
 
 
 1. Smoke: ESQUINA → LIGAÇÃO CIMA | [YouTube](https://youtu.be/ZVDg7XUvga4) | Ref. 131.6565;
@@ -187,7 +189,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 6. Flash: ESQUINA → CABECINHA, CAIXA FOGO, PALÁCIO, JUNGLE | [YouTube](https://youtu.be/V5QrUvnJflc) | Ref. 133.7940;
 
 
-#### [JANELÃO](#top)
+#### [JANELÃO](#TOP)
 
 
 1. Molotov: JANELÃO → RATO | [YouTube](https://youtu.be/FIDqk8gFOlc) | Ref. 132.6492;
@@ -200,7 +202,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 8. HE: JANELÃO → JANELÃO (QUEBRA DE SMOKE) | [YouTube](https://youtu.be/LDPpFIy1R7k) | Ref. 134.7455;
 
 
-#### [JUNGLE](#top)
+#### [JUNGLE](#TOP)
 
 
 1. Smoke: JUNGLE → BOLTZ | [YouTube](https://youtu.be/nAhRK3pkAlI) | Ref. 131.2203;
@@ -215,7 +217,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 10. HE: JUNGLE → CAVERNA, CAVERNA TR | [YouTube](https://youtu.be/U3XVSuXMGLM) | Ref. 134.9367;
 
 
-#### [L](#top)
+#### [L](#TOP)
 
 
 1. Smoke: L → PALÁCIO | [YouTube](https://youtu.be/cvd6pCh-UHM) | Ref. 131.8701;
@@ -224,7 +226,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 4. HE: L → JANELÃO  [YouTube](https://youtu.be/DSDE4lJuXcI) | Ref. 134.7750;
 
 
-#### [LIGAÇÃO](#top)
+#### [LIGAÇÃO](#TOP)
 
 
 1. Molotov: LIGAÇÃO → AREIA | [YouTube](https://youtu.be/0enU7fK55SU) | Ref. 132.7309;
@@ -232,7 +234,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 3. Flash: LIGAÇÃO → RATO | [YouTube](https://youtu.be/mT4eEwnG6N8) | Ref. 133.2756;
 
 
-#### [MEIO](#top)
+#### [MEIO](#TOP)
 
 
 1. Smoke: MEIO → LIGAÇÃO CIMA | [YouTube](https://youtu.be/RJX0mfH8bow) | Ref. 131.6342;
@@ -242,7 +244,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 5. Flash: MEIO (BANCO) → JANELÃO, JUNGLE, MOSCOW | [YouTube](https://youtu.be/CWE_cM4yDe4) | Ref. 133.3290;
 6. Flash: MEIO (BANCO) → MOSCOW | [YouTube](https://youtu.be/WI2XkypEdo4) | Ref. 133.4391;
 
-#### [MEIO FALSO](#top)
+#### [MEIO FALSO](#TOP)
 
 
 1. Smoke: MEIO FALSO → JANELÃO | [YouTube](https://youtu.be/S197TFwAe_0) | Ref. 131.3782;
@@ -260,7 +262,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 13. Flash: MEIO FALSO → MEIO BAIXO, LIGAÇÃO, JANELÃO, L | [YouTube](https://youtu.be/RLuswioeiKI) | Ref. 133.1633;
 
 
-#### [MERCADO](#top)
+#### [MERCADO](#TOP)
 
 
 1. Smoke: JANELA DO MERCADO → BECO | [YouTube](https://youtu.be/LYnCemoeV9s) | Ref. 131.1414;
@@ -273,13 +275,13 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 8. HE: JANELA DO MERCADO → BOMB B (NINJA) | [YouTube](https://youtu.be/Q6UjVx5TkKM) | Ref. 134.6743;
 
 
-#### [MOSCOU](#top)
+#### [MOSCOU](#TOP)
 
 
 1. Flash: MOSCOU → MEIO, RATO, CARROÇA | [YouTube](https://youtu.be/HTahorlnVCw) | Ref. 133.5492;
 
 
-#### [PALÁCIO](#top)
+#### [PALÁCIO](#TOP)
 
 
 1. Smoke: PALÁCIO → LIGAÇÃO |  [YouTube](https://youtu.be/XHkQ7BAwvys) | Ref. 131.9579;
@@ -291,7 +293,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 7. HE: PALÁCIO → LIGAÇÃO | [YouTube](https://youtu.be/jyVDPRxc6RE) | Ref. 134.9579;
 
 
-#### [PASSAGEM CARROÇA](#top)
+#### [PASSAGEM CARROÇA](#TOP)
 
 
 1. Smoke: PASSAGEM CARROÇA → JANELÃO | [YouTube](https://youtu.be/uMklmAI_KDk) | Ref. 131.4560;
@@ -300,7 +302,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 4. Smoke: PASSAGEM CARROÇA → JUNGLE | [YouTube](https://youtu.be/g35xaLdoyrE) | Ref. 131.1932;
 
 
-#### [PLATAFORMA](#top)
+#### [PLATAFORMA](#TOP)
 
 
 1. Smoke (1/2): PLATAFORMA → CABECINHA | [YouTube](https://youtu.be/Ru_yNrbL8gs) Ref. 131.2230;
@@ -309,7 +311,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 4. Flash: PLATAFORMA → TETRIS | [YouTube](https://youtu.be/kXMijQEwiqc) | Ref. 133.2153;
 
 
-#### [RATO](#top)
+#### [RATO](#TOP)
 
 
 1. Smoke: RATO → PASSAGEM JUNGLE | [YouTube](https://youtu.be/WeVsYwkVtlI) | Ref. 131.6577;
@@ -322,7 +324,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 8. HE: RATO → JANELÃO/BURACO | [YouTube](https://youtu.be/yi7zMHDY7tw) | Ref. 134.8551;
 
 
-#### [TACO](#top)
+#### [TACO](#TOP)
 
 
 1. Smoke: TACO LIGAÇÃO CIMA | [YouTube](https://youtu.be/nPwANejXk3s) | Ref. 131.8491;
@@ -331,7 +333,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 4. Flash: TACO → BASE CT | [YouTube](https://youtu.be/LAuBEC-QD9g) | Ref. 133.6734;
 
 
-#### [TAPETE](#top)
+#### [TAPETE](#TOP)
 
 
 1. Molotov: TAPETE DA B → SOMBRA DA B | [YouTube](https://youtu.be/sH_8Upvfveo) | Ref. 132.7031;   
@@ -342,7 +344,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 6. Flash: TAPETE DA B → PORTA DO MERCADO | [YouTube](https://youtu.be/y94_cohO4aI) | Ref. 133.0947;
 
 
-#### [TV](#top)
+#### [TV](#TOP)
 
 
 1. Smoke: SAÍDA DA TV → LIGAÇÃO CIMA | [YouTube](https://youtu.be/y2VSvTikXCo) | Ref. 131.8391;
@@ -351,7 +353,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 4. Flash: TV → COZINHA, TAPETE | [YouTube](https://youtu.be/tA0xOF5-BOU) | Ref. 133.1239;
 
 
-#### [TETRIS](#top)
+#### [TETRIS](#TOP)
 
 
 1. Smoke: TETRIS → JUNGLE | [YouTube](https://youtu.be/CMKsBpueWFI) | Ref. 131.5427;
@@ -362,7 +364,7 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 6. Molotov: TETRIS → CAIXA FOGO | [YouTube](https://youtu.be/QZJTjG1f4uw) | Ref. 132.8110;
 
 
-#### [VAN](#top)
+#### [VAN](#TOP)
 
 
 1. Smoke: VAN → PORTA DO MERCADO | [YouTube](https://youtu.be/nKzpF-u2L9c) | Ref. 131.9122;
@@ -372,3 +374,10 @@ Ir para: [**AREIA**](#AREIA) - [**BASE CT**](#BASE-CT) - [**BASE TR**](#BASE-TR)
 5. HE: VAN → JANELA DO MERCADO | [YouTube](https://youtu.be/IZ1r-BbLmdE) | Ref. 134.2509;
 
 
+#### COMENTÁRIO
+
+
+- A localização das posições de execução das utilitárias são aproximadas e os nomes das posições são as mais usadas pela comunidade.
+- Arremesso longo = Arremesso com o botão esquerdo do mouse.
+- Arremesso médio = Arremesso com os dois botões do mouse.
+- Arremesso curto = Arremesso com o botão direito do mouse.

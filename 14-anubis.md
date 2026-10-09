@@ -1,13 +1,16 @@
+<a name="TOP"></a>
+
 **Mapa N. 14**  
 # ANUBIS (+125 utilitárias)
-
-<a name="top"></a>
 
 
 Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR) | [**BOMB B**](#BOMB-B) | [**CANAL**](#CANAL) | [**CÉU**](#CÉU) | [**CT BAIXO**](#CT-BAIXO) | [**DEFAULT**](#DEFAULT) | [**ESCADÃO**](#ESCADÃO) | [**ESQUINA**](#ESQUINA) | [**FUNDO**](#FUNDO) | [**INSANI**](#INSANI) | [**JANELÃO**](#JANELÃO) | | [**LIGAÇÃO**](#LIGAÇÃO) | [**MEIO**](#MEIO) | [**MERCADO**](#MERCADO) | [**PAREDÃO**](#PAREDÃO) | [**PILAR**](#PILAR) | [**PLATAFORMA**](#PLATAFORMA) | [**PORTA DUPLA**](#PORTA-DUPLA) | [**PORTÃO**](#PORTÃO) | [**RATO**](#RATO) | [**TETRIS**](#TETRIS) | [**VARANDA**](#VARANDA)
 
 
-#### [ÁGUA](#top)
+---
+
+
+#### [ÁGUA](#TOP)
 
 
 1. Smoke da ÁGUA para o CÉU | [YouTube](https://youtu.be/6PKxy4bTtqk) | Ref. 141.0662
@@ -29,7 +32,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 17. Flash da ÁGUA para a CAVERNA e ALTAR | [YouTube](https://youtu.be/ks83R8xu2U0) | Ref. 143.0623
 
 
-#### [BASE CT](#top)
+#### [BASE CT](#TOP)
 
 
 1. Smoke da BASE CT para a CAVERNA | [YouTube](https://youtu.be/CpzuyuF9qbM) | Ref. 141.0603
@@ -37,7 +40,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 3. Smoke da BASE CT para o PORTÃO | [YouTube](https://youtu.be/1dD9KorD-g4) |  Ref. 141.0626
 
 
-#### [BASE TR](#top)
+#### [BASE TR](#TOP)
 
 
 1. Smoke da BASE TR para o CT BAIXO | [YouTube](https://youtu.be/YD9iA6yzcE0) | Ref. 141.0659
@@ -50,13 +53,13 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 8. Smoke da BASE TR para a TUMBA | [YouTube](https://youtu.be/bq7BryROXek) | Ref. 141.4386
 
 
-#### [BOMB B](#top)
+#### [BOMB B](#TOP)
 
 
 1.  Smoke do BOMB B para o PORTÃO |  [YouTube](https://youtu.be/yi7XVVMkJuw) | Ref. 141.5894
 
 
-#### [CANAL](#top)
+#### [CANAL](#TOP)
 
 
 1. Smoke do CANAL para a TUMBA | [YouTube](https://youtu.be/4Evmf9Vj8mw) | Ref. 141.0905
@@ -64,13 +67,13 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 3. Flash do CANAL para o RATO | [YouTube](https://youtu.be/uY-nZ6E0P6Y) | Ref. 143.0927
 
 
-#### [CÉU](#top)
+#### [CÉU](#TOP)
 
 
 1. Molotov do CÉU para o REDONDO | [YouTube](https://youtu.be/SxTWUP6IgfQ) | Ref. 142.7328
 
 
-#### [CT BAIXO](#top)
+#### [CT BAIXO](#TOP)
 
 
 1. Smoke do CT BAIXO para o PORTÃO | [YouTube](https://youtu.be/FZ3QTADi3Oo) | Ref. 141.0677
@@ -84,13 +87,13 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 9. HE do CT BAIXO para o PORTÃO | [YouTube](https://youtu.be/o1zcSX-is7A) | Ref. 144.4598
 
 
-#### [DEFAULT](#top)
+#### [DEFAULT](#TOP)
 
 
 1. Flash do DEFAULT para o RATO | [YouTube](https://youtu.be/OmhtS2mdxvw) | Ref. 143.3456
 
 
-#### [ESCADÃO](#top)
+#### [ESCADÃO](#TOP)
 
 
 1. Smoke do ESCADÃO para o MERCADO | [YouTube](https://youtu.be/xFhCqd8iZ8c) | Ref. 141.0683
@@ -101,7 +104,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 6. Flash do ESCADÃO para o MEIO | [YouTube](https://youtu.be/nljAb3bPpew) | Ref. 143.0687
 
 
-#### [ESQUINA](#top)
+#### [ESQUINA](#TOP)
 
 
 1. Smoke da ESQUINA para o JANELÃO | [YouTube](https://youtu.be/c0PbNdEuu1o) | Ref. 141.1517
@@ -114,7 +117,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 8. Flash da ESQUINA para o RATO | [YouTube](https://youtu.be/uAxaiK_xeuY) | Ref. 143.6449
 
 
-#### [FUNDO](#top)
+#### [FUNDO](#TOP)
 
 
 1. Smoke do FUNDO (1/3) para o CT BAIXO | [YouTube](https://youtu.be/3xT6mE7ICXw) | Ref. 141.3894
@@ -141,7 +144,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 22. HE do FUNDO para o PILAR | [YouTube](https://youtu.be/bna85uOzO2g) | Ref. 144.6432
 
 
-#### [INSANI](#top)
+#### [INSANI](#TOP)
 
 
 1. Molotov do INSANI para o FUNDO | [YouTube](https://youtu.be/liuAKtz8OM0) | Ref. 142.1755
@@ -149,7 +152,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 3. Flash do INSANI para o FUNDO | [YouTube](https://youtu.be/N4yqSx1unjM) | Ref. 143.4229
 
 
-#### [JANELÃO](#top)
+#### [JANELÃO](#TOP)
 
 
 1. Smoke do JANELÃO para a PORTA DO MEIO | [YouTube](https://youtu.be/IqoQsa_a7IE) | Ref. 141.3019
@@ -157,14 +160,14 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 3. Flash do JANELÃO para a PONTE, PALMEIRA e ESQUINA | [YouTube](https://youtu.be/YTHBqrk2fEc) | Ref. 143.7456
 
 
-#### [LIGAÇÃO](#top)
+#### [LIGAÇÃO](#TOP)
 
 
 1. Smoke da LIGAÇÃO para a ENTRADA DA CAVERNA | [YouTube](https://youtu.be/EFA1SktNFkk) | Ref. 141.3649
 2. Molotov da LIGAÇÃO para a ENTRADA DA CAVERNA | [YouTube](https://youtu.be/v_ktssvD0vs) | Ref. 142.3485
 
 
-#### [MEIO](#top)
+#### [MEIO](#TOP)
 
 
 1. Smoke do MEIO para a PONTE | [YouTube](https://youtu.be/CctPBiKKktg) | Ref. 141.3916
@@ -174,7 +177,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 5. Flash do MEIO para a PONTE | [YouTube](https://youtu.be/wrBoHFjx0FA) | Ref. 143.7662
 
 
-#### [MERCADO](#top)
+#### [MERCADO](#TOP)
 
 
 1. Smoke do MERCADO para a PASSAGEM BOMB A | [YouTube](https://youtu.be/Dn6HL-zJu8M) | Ref. 141.0914
@@ -189,20 +192,20 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 10. HE do MERCADO para o ALTAR | [YouTube](https://youtu.be/65w-JcR9cCc) | Ref. 144.4956
 
 
-#### [PAREDÃO](#top)
+#### [PAREDÃO](#TOP)
 
 
 1. Smoke do PAREDÃO para a VARANDA | [YouTube](https://youtu.be/ai0EBhURowc) | Ref. 141.4815
 2. Molotov do PAREDÃO para o MERCADO | [YouTube](https://youtu.be/52b2AMfxDm4) | Ref. 142.1999
 
 
-#### [PILAR](#top)
+#### [PILAR](#TOP)
 
 
 1. Molotov do PILAR para o FUNDO | [YouTube](https://youtu.be/geGbHZl8Zfo) | Ref. 142.6403
 
 
-#### [PLATAFORMA](#top)
+#### [PLATAFORMA](#TOP)
 
 
 1. Molotov da PLATAFORMA para o ALTAR | [YouTube](https://youtu.be/HwKTiW59A88) | Ref. 142.4563
@@ -211,7 +214,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 4. HE da PLATAFORMA para o ESCADÃO | [YouTube](https://youtu.be/1WBA6eLCwpw) | Ref. 144.4836
 
 
-#### [PORTA DUPLA](#top)
+#### [PORTA DUPLA](#TOP)
 
 
 1. Flash da PORTA DUPLA para a ESQUINA e PALMEIRA | [YouTube](https://youtu.be/VmzBbetQA4Y) | Ref. 143.4827
@@ -220,13 +223,13 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 4. Flash da PORTA DUPLA para a PONTE, PALMEIRA e ESQUINA | [YouTube](https://youtu.be/JkTGLJ_Ijk8) | Ref. 143.5399
 
 
-#### [PORTÃO](#top)
+#### [PORTÃO](#TOP)
 
 
 1. Flash do PORTÃO para o CANAL | [YouTube](https://youtu.be/CtYNBBf_mNc) | Ref. 143.4862
 
 
-#### [RATO](#top)
+#### [RATO](#TOP)
 
 
 1. Smoke do RATO para a TUMBA | [YouTube](https://youtu.be/KoZb09kxOyI) | Ref. 141.5417
@@ -235,7 +238,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 4. Flash do RATO para o ESCURO | [YouTube](https://youtu.be/bO0isken2rI) | Ref. 144.2310
 
 
-#### [TETRIS](#top)
+#### [TETRIS](#TOP)
 
 
 1. Smoke do TETRIS para a LIGAÇÃO | [YouTube](https://youtu.be/lDmRxFZ32og) | Ref. 141.6014
@@ -246,7 +249,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 6. Molotov do TETRIS para o REDONDO | [YouTube](https://youtu.be/jQl8SOPwoXI) | Ref. 142.6025
 
 
-#### [VARANDA](#top)
+#### [VARANDA](#TOP)
 
 
 1. Smoke da VARANDA para a LIGAÇÃO | [YouTube](https://youtu.be/pK-SfbpWeWw) | Ref. 141.6624

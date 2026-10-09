@@ -1,10 +1,12 @@
+<a name="TOP"></a>
+
 **Mapa N. 12**  
 # INFERNO (+145 utilitárias)
 
-<a name="TOP"></a>
 
 Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**BANANA**](#BANANA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)  | [**BOMB A**](#BOMB-A) | [**BOMB B**](#BOMB-B) | [**CORREDOR CT**](#CORREDOR-CT) | [**CT**](#CT) |
 [**CAIXÃO**](#CAIXÃO) | [**CAMPANÁRIO**](#CAMPANÁRIO) | [**CARRO**](#CARRO) | [**CAVERNA**](#CAVERNA) | [**CIMENTO**](#CIMENTO) | [**COGU**](#COGU) | [**FALLEN**](#FALLEN) | [**HEAD SHOT**](#HEAD-SHOT) | [**IGREJA**](#IGREJA) | [**MEIO**](#MEIO) | [**MEIO FALSO**](#MEIO-FALSO) | [**NIP**](#NIP) | [**PISCINA**](#PISCINA) | [**SANDUÍCHE**](#SANDUÍCHE) | [**TAPETE**](#TAPETE)
+
 
 ---
 

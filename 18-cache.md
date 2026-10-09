@@ -1,26 +1,28 @@
+<a name="TOP"></a>
+
 **MAPA 18**
 # CACHE (+45 utilitárias)
-
-
-<a name="top"></a>
 
 
 Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE TR**](#BASE-TR) | [**CAMINHÃO**](#CAMINHÃO) | [**CÉU**](#CÉU) | [**GARAGEM**](#GARAGEM) | [**GRAFITE**](#GRAFITE) | [**LIGAÇÃO**](#LIGAÇÃO) | [**MEIO**](#MEIO) | [**MIOLO**](#MIOLO) | [**SOL**](#SOL) | [**TOYOTA**](#TOYOTA) | [**VERMELHO**](#VERMELHO)
 
 
-#### [AZUL](#top)
+---
+
+
+#### [AZUL](#TOP)
 
 
 1. Molotov do AZUL para a EMPILHADEIRA | [YouTube](https://youtu.be/KmQN5kjrhcc) | Ref. 182.9844
 
 
-#### [ALVO](#top)
+#### [ALVO](#TOP)
 
 
 1. Smoke do ALVO para o MIOLO | [YouTube](https://youtu.be/vMx63MSXkRc) | Ref. 181.8733
 
 
-#### [BASE TR](#top)
+#### [BASE TR](#TOP)
 
 
 1. Smoke da BASE TR para a LIGAÇÃO | [YouTube](https://youtu.be/_TyTUCUjagY) | Ref. 181.3645
@@ -28,13 +30,14 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 3. Smoke da BASE TR para o PASSAGEM EMPILHADEIRA | [YouTube](https://youtu.be/40vce6GtKD0) | Ref. 181.1823
 4. Flash da BASE TR para o MEIO, BRANCA, CIMENTO, LIGAÇÃO | [YouTube](https://youtu.be/_2J5Os2GStw) | Ref. 183.9820
 
-#### [BRANCA](#top)
+
+#### [BRANCA](#TOP)
 
 
 1. HE da BRANCA para a LONA [YouTube](https://youtu.be/FJdoRhmIRdU) | Ref. 184.5638
 
 
-#### [CAMINHÃO](#top)
+#### [CAMINHÃO](#TOP)
 
 
 1. Smoke do CAMINHÃO para o LIGAÇÃO | [YouTube](https://youtu.be/eY5jAz-uR-I) | Ref. 181.3982
@@ -49,13 +52,13 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 10. HE do CAMINHÃO para a BRANCA | [YouTube](https://youtu.be/Ard_Rxproxc) | Ref. 184.6032
 
 
-#### [CÉU](#top)
+#### [CÉU](#TOP)
 
 
 1. Smoke do CÉU para o MIOLO | [YouTube](https://youtu.be/k_B8V8ynvyU) | Ref. 181.7220
 
 
-#### [GARAGEM](#top)
+#### [GARAGEM](#TOP)
 
 
 1. Molotov da GARAGEM para a PASSAGEM EMPILHADEIRA | [YouTube](https://youtu.be/nFprCBCL43s) | Ref. 182.2900
@@ -65,27 +68,27 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 5. Flash da GARAGEM(LONA) para a GARAGEM | [YouTube](https://youtu.be/qKDdtaVKVbw) | Ref. 183.8362
 
 
-#### [GRAFITE](#top)
+#### [GRAFITE](#TOP)
 
 
 1. Smoke do GRAFITE para a TOYOTA | [YouTube](https://youtu.be/rFxwfXjAeac) | Ref. 181.7563
 2. Smoke do GRAFITE para a PASSAGEM EMPILHADEIRA e ESCANTEIO | [YouTube](https://youtu.be/vsehf2onORg) | Ref. 181.0245
 
 
-#### [LIGAÇÃO](#top)
+#### [LIGAÇÃO](#TOP)
 
 
 1. Smoke da LIGAÇÃO para o VERMELHO | [YouTube](https://youtu.be/q_2X3UzpDI8) | Ref. 181.7602
 2. Molotov da LIGAÇÃO para a LONA | [YouTube](https://youtu.be/9PIix6H18Ic) | Ref. 182.8002
 
 
-#### [MEIO](#top)
+#### [MEIO](#TOP)
 
 
 1. Smoke da MEIO para o ESCANTEIO | [YouTube](https://youtu.be/zjuAUyGC2RY) | Ref. 181.8497
 
 
-#### [MIOLO](#top)
+#### [MIOLO](#TOP)
 
 
 1. Smoke do MIOLO para a ENTRADA DO BOMB B | [YouTube](https://youtu.be/GlzcpcYHXgY) | Ref. 181.2409
@@ -93,7 +96,7 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 3. HE do MIOLO(TÓXICO) para o BARRIL | [YouTube](https://youtu.be/lUGevJ2vEHA) | Ref. 184.8365
 
 
-#### [SOL](#top)
+#### [SOL](#TOP)
 
 
 1. Smoke do SOL para o CT | [YouTube](https://youtu.be/6FTcfC5AKAA) | Ref. 181.0355
@@ -108,24 +111,23 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 10. HE do SOL para o ALVO | [YouTube](https://youtu.be/XueNhy8rN3E) | Ref. 184.3081
 
 
-#### [TOYOTA](#top)
+#### [TOYOTA](#TOP)
 
 
 1. Smoke TOYOTA para a GARAGEM | [YouTube](https://youtu.be/ut-YDtpFCOw) | Ref. 181.6200
 2. HE TOYOTA para a DEFAULT | [YouTube](https://youtu.be/9zGLBzkmVvc) | Ref. 184.8353
 
 
-#### [VERMELHO](#top)
+#### [VERMELHO](#TOP)
 
 
 1. Flash do VERMELHO para o MEIO, CIMENTO, BRANCA, LIGAÇÃO [YouTube](https://youtu.be/hWLGZWPbk60) | Ref. 183.1890
 
 
-### Comentário
+### COMENTÁRIO
 
  
-1. As utilitária descritas neste manual foram obtidas das partidas profissionais dos jogos de CS2. 
 1. A localização das posições de execução das utilitárias são aproximadas e os nomes das posições são as mais usadas pela comunidade.
-1. Arremesso longo = Arremesso com o botão esquerdo do mouse.
-1. Arremesso médio = Arremesso com os dois botões do mouse.
-2. Arremesso curto = Arremesso com o botão direito do mouse.
+2. Arremesso longo = Arremesso com o botão esquerdo do mouse.
+3. Arremesso médio = Arremesso com os dois botões do mouse.
+4. Arremesso curto = Arremesso com o botão direito do mouse.
