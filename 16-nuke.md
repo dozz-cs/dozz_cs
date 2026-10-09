@@ -4,13 +4,13 @@
 # NUKE (+95 utilitárias)
 
 
-Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TOP) | [**BANANA**](TOP) | [**BOMB A**](TOP) | [**BOMB B**](TOP) | [**BREAKING BAD**](TOP) | [**CAIXA CT**](TOP) | [**CAMINHÃO**](TOP) | [**CASINHA**](TOP) | [**CAT**](TOP) | [**GALPÃO**](TOP) | [**METAL**](TOP) | [**MIOLO**](TOP) | [**MONTANHA**](TOP) | [**PLATAFORMA**](TOP) | [**RAMPA**](TOP) | [**TELHADO TR**](TOP) | [**TERRA**](TOP) |  [**TETRIS**](TOP) | [**TROFÉU**](TOP) | [**VIDRO**](TOP)
+Ir para: [**ADM**](#ADM) | [**AZUL**](#AZUL) |[**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR) | [**BANANA**](#BANANA) | [**BOMB A**](#BOMB-A) | [**BOMB B**](#BOMB-B) | [**BREAKING BAD**](#BREAKING-BAD) | [**CAIXA CT**](#CAIXA-CT) | [**CAMINHÃO**](#CAMINHÃO) | [**CASINHA**](#CASINHA) | [**CAT**](#CAT) | [**GALPÃO**](#GALPÃO) | [**METAL**](#METAL) | [**MIOLO**](#MIOLO) | [**MONTANHA**](#MONTANHA) | [**PLATAFORMA**](#PLATAFORMA) | [**RAMPA**](#RAMPA) | [**TELHADO TR**](#TELHADO-TR) | [**TERRA**](#TERRA) |  [**TETRIS**](#TETRIS) | [**TROFÉU**](#TROFÉU) | [**VIDRO**](#VIDRO)
 
 
 ---
 
 
-#### [**ADM**](TOP)
+#### [**ADM**](#TOP)
 
 
 1. Smoke: ADM → TROFÉU |  [YouTube](https://youtu.be/E_TVDUz_QsI) | Ref. 161.9473;
@@ -18,21 +18,21 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 3. HE: ADM → CAT/CÉU |  [YouTube](https://youtu.be/uKu7K9DpuCw) | Ref. 164.7214;
 
 
-#### [**AZUL**](TOP)
+#### [**AZUL**](#TOP)
 
 
 1. Smoke: AZUL → VERMELHO (FORA) |  [YouTube](https://youtu.be/l2oLB9WSfwA) | Ref. 161.8391;
 2. HE: AZUL → MONTANHA |  [YouTube](https://youtu.be/4cSD43UQOYU) | Ref. 164.0255;
 
 
-#### [**BASE CT**](TOP)
+#### [**BASE CT**](#TOP)
 
 
 1. Molotov: SAÍDA DA BASE CT → CAIXA DA MONTANHA |  [YouTube](https://youtu.be/7Askhb5P8Pw) | Ref. 162.6222;
 2. Flash: SAÍDA DA BASE CT → BOMB A |  [YouTube](https://youtu.be/eXgHspNV2sI) | Ref. 163.0854;
 
 
-#### [**BASE TR**](TOP)
+#### [**BASE TR**](#TOP)
 
 
 1. Smoke: BASE TR → CAT/CÉU |  [YouTube](https://youtu.be/KJ5Bqmzenvc) | Ref. 161.8954;
@@ -56,13 +56,13 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 19. Flash: SAÍDA DA BASE TR → CAT; REATOR, DUTO FALSO, PLATAFORMA |  [YouTube](https://youtu.be/OZUXi4EfBSE) | Ref. 163.8210;   
 
 
-#### [**BANANA**](TOP)
+#### [**BANANA**](#TOP)
 
 
 1.  Molotov: BANANA → ESCADA DA PORTA DUPLA |  [YouTube](https://youtu.be/jfEHMfwmifw) | Ref. 162.7403;
 
 
-#### [**BOMB A**](TOP)
+#### [**BOMB A**](#TOP)
 
 
 1. Smoke: BOMB A → PORTA DO METAL |  [YouTube](https://youtu.be/d_1D1JABaE8) | Ref. 161.1003;
@@ -72,20 +72,20 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 5. HE: BOMB A → TERRA |  [YouTube](https://youtu.be/ksQ2P61v2fQ) | Ref. 164.0722;
 
 
-#### [**BOMB B**](TOP)
+#### [**BOMB B**](#TOP)
 
 
 1. Molotov: BOMB B → ESCADA DA PORTA DUPLA |  [YouTube](https://youtu.be/CPWrv12StUQ) | Ref. 162.7634;
 
 
-#### [**BREAKING BAD**](TOP)
+#### [**BREAKING BAD**](#TOP)
 
 
 1. Smoke: BREAKING BAD → PASSAGEM DO BOMB B |  [YouTube](https://youtu.be/8jjbPe19FiY) | Ref. 161.7211;
 2. HE: BREAKING BAD → ESCURO |  [YouTube](https://youtu.be/cXgsXUlwW9c) | Ref. 164.9047;
 
 
-#### [**CAIXA CT**](TOP)
+#### [**CAIXA CT**](#TOP)
 
 
 1. Smoke: CAIXA CT → FORA |  [YouTube](https://youtu.be/SRj1K658fkk) | Ref. 161.8477;
@@ -93,7 +93,7 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 3. Smoke: CAIXA CT → MONTANHA |  [YouTube](https://youtu.be/ED7VaUp9TX4) | Ref. 161.2390;
 
 
-#### [**CAMINHÃO**](TOP)
+#### [**CAMINHÃO**](#TOP)
 
 
 1. Smoke (1/2): CAMINHÃO → FRENTE DO VERMELHO |  [YouTube](https://youtu.be/cGF4xZ3Hbak) | Ref. 161.8071;
@@ -108,14 +108,14 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 10. Smoke: CAMINHÃO → VIDRO/VESTIÁRIO |  [YouTube](https://youtu.be/QKNYQU9DR94) | Ref. 161.9482;
 
 
-#### [**CASINHA**](TOP)
+#### [**CASINHA**](#TOP)
 
 
 1. Molotov: PORTA DA CASINHA → CAT/CÉU |  [YouTube](https://youtu.be/LhaS3A1wy-E) | Ref. 162.9833;
 2. Molotov: PORTA DA CASINHA → DUTO FALSO |  [YouTube](https://youtu.be/DsFP4Iw_OdI) | Ref. 162.9502;
 
 
-#### [**CAT**](TOP)
+#### [**CAT**](#TOP)
 
 
 1. Smoke: CAT/CÉU → METAL |  [YouTube](https://youtu.be/42gadqy28NQ) | Ref. 161.9367;
@@ -127,20 +127,20 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 7. HE: CAT/CÉU → REATOR DO BOMB A |  [YouTube](https://youtu.be/4vP2UrmovjY) | Ref. 164.8433;
 
 
-#### [**GALPÃO**](TOP)
+#### [**GALPÃO**](#TOP)
 
 
 1. Smoke: FRENTE DO GALPÃO → PORTA DO METAL |  [YouTube](https://youtu.be/K8g1JMEqPDE) | Ref. 161.8067;
 
 
-#### [**METAL**](TOP)
+#### [**METAL**](#TOP)
 
 
 1. Smoke: METAL → PORTA INTERNA DO TERRA |  [YouTube](https://youtu.be/za2P3mFOTgo) | Ref. 161.8309;
 2. Molotov: METAL → TETO DA CASINHA |  [YouTube](https://youtu.be/nbSLFzwLj74) | Ref. 162.4399;
 
 
-#### [**MIOLO**](TOP)
+#### [**MIOLO**](#TOP)
 
 
 1. Smoke: MIOLO → PORTA INTERNA DO TERRA |  [YouTube](https://youtu.be/0jRLTatST48) | Ref. 161.5641;
@@ -148,13 +148,13 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 3. Flash: MIOLO → CAT, REATOR, DUTO FALSO |  [YouTube](https://youtu.be/2uHKIxf0lLA) | Ref. 163.5632;
 
 
-#### [**MONTANHA**](TOP)
+#### [**MONTANHA**](#TOP)
 
 
 1. Smoke: MONTANHA → CAT/CÉU |  [YouTube](https://youtu.be/uhUbZQX7xLQ) | Ref. 161.6662;
 
 
-#### [**PLATAFORMA**](TOP)
+#### [**PLATAFORMA**](#TOP)
 
 
 1. Molotov: PLATAFORMA → BOBINA DO TELHADO TR |  [YouTube](https://youtu.be/HbEudNxQUug) | Ref. 162.6732;
@@ -162,7 +162,7 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 3. HE: PLATAFORMA → MONTANHA |  [YouTube](https://youtu.be/sWeuVJwPYNE) | Ref. 164.4002;
 
 
-#### [**RAMPA**](TOP)
+#### [**RAMPA**](#TOP)
 
 
 1. Smoke: RAMPA → VIDRO |  [YouTube](https://youtu.be/m_HjLOQnQoU) | Ref. 161.7090;
@@ -176,7 +176,7 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 9. HE: RAMPA → REATOR DO BOMB B |  [YouTube](https://youtu.be/SK59fShHMS0) | Ref. 164.8229;
 
 
-#### [**TELHADO TR**](TOP)
+#### [**TELHADO TR**](#TOP)
 
 
 1. Smoke: TELHADO TR → PORTA INTERNA DO TERRA |  [YouTube](https://youtu.be/JzRO4yDs8m0) | Ref. 161.7233;
@@ -190,7 +190,7 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 9. HE: TELHADO TR → PLATAFORMA |  [YouTube](https://youtu.be/WxkmH-wT5pM) | Ref. 164.6322;
 
 
-#### [**TERRA**](TOP)
+#### [**TERRA**](#TOP)
 
 
 1. Smoke: PORTA INTERNA TERRA → CÉU |  [YouTube](https://youtu.be/NZEyFWtMYy0) | Ref. 161.1818;
@@ -200,20 +200,20 @@ Ir para: [**ADM**](TOP) | [**AZUL**](TOP) |[**BASE CT**](TOP) | [**BASE TR**](TO
 5. HE: ENTRADA DO TERRA → MONTANHA |  [YouTube](https://youtu.be/25L3Y8FYqQk) | Ref. 164.9662;
    
 
-#### [**TETRIS**](TOP)
+#### [**TETRIS**](#TOP)
 
 
 1. Smoke: TETRIS → CAT/CÉU |  [YouTube](https://youtu.be/vIxysnWoNY8) | Ref. 161.6429;
 2. Molotov: TETRIS → CAT/CÉU |  [YouTube](https://youtu.be/1y-VhQsoeJk) | Ref. 162.8032;
 
 
-#### [**TROFÉU**](TOP)
+#### [**TROFÉU**](#TOP)
 
 
 1. Flash: TROFÉU → RAMPA, FUNDO DA RAMPA |  [YouTube](https://youtu.be/G5AtcXF080U) | Ref. 163.8374;
 
 
-#### [**VIDRO**](TOP)
+#### [**VIDRO**](#TOP)
 
 
 1. Smoke (1/2): VIDRO → PORTA DIREITA DO BOMB B |  [YouTube](https://youtu.be/ZUhDJ8fMf1I) | Ref. 161.7350;
