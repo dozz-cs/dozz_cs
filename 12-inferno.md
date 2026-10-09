@@ -8,7 +8,9 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 
 ---
 
+
 #### [**ARCO**](#TOP)
+
 
 1. Smoke: ARCO → VARANDA, HEAD SHOT |  [YouTube](https://youtu.be/7sJemTxFWSI) | Ref. 121.5687;
 2. Smoke: ARCO → VARANDA; HEAD SHOT |  [YouTube](https://youtu.be/CdFwmDgRBrY) | Ref. 121.3265;
@@ -18,19 +20,25 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 6. Molotov: ARCO → ESCURO DA A |  [YouTube](https://youtu.be/Y7AVl5sMo6I) | Ref. 122.5408;
 7. HE: ARCO → DEFAULT |  [YouTube](https://youtu.be/s2aTiUCDeco) | Ref. 124.2751;
 
+
 #### [**AREIA**](#TOP)
+
 
 1. Smoke: AREIA → FALLEN |  [YouTube](https://youtu.be/6UysNmzSLDw) | Ref. 121.1099;
 2. Flash: ARCO → XUXA, TAPETE, CEMITÉRIO, HEAD SHOT |  [YouTube](https://youtu.be/PVktQpmIROw) | Ref. 123.8330;
 
+
 #### [**AREIA 2**](#TOP)
+
 
 1. Smoke: AREIA 2 → FALLEN |  [YouTube](https://youtu.be/Mz7STU_3-xg) | Ref. 121.7401;
 2. Molotov: AREIA 2 → TAPETE DA A |  [YouTube](https://youtu.be/XmBYUCLHK-U) | Ref. 122.3940;
 3. Flash: AREIA 2 → TAPETE |  [YouTube](https://youtu.be/fMoL4DIC54g) | Ref. 123.1169;
 4. HE: AREIA 2 → TAPETE |  [YouTube](https://youtu.be/ynMEdJ2J2xk) | Ref. 124.3900;
 
+
 #### [**BANANA**](#TOP)
+
 
 1. Smoke: BANANA → PEZINHO CT |  [YouTube](https://youtu.be/fxNPvsMPIrA) | Ref. 121.8874;
 2. Smoke: BANANA → PEZINHO CT |  [YouTube](https://youtu.be/ApbtnPseS7E) | Ref. 121.9832;
@@ -48,7 +56,9 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 14. Flash: BANANA → PEZINHO CT, TRIPLA, |  [YouTube](https://youtu.be/Wqpe8VGFoGs) | Ref. 123.2649;
 15. Flash: BANANA → CAIXÃO, TRIPLA, CT |  [YouTube](https://youtu.be/DyHKgt2Yj8Y) | Ref. 123.0943;
 
+
 #### [**BASE CT**](#TOP)
+
 
 1. Smoke: BASE CT → BANANA |  [YouTube](https://youtu.be/Cg7F8xKAog8) | Ref. 121.2345;
 2. Smoke: BASE CT → BANANA |  [YouTube](https://youtu.be/Am0H683_LLQ) | Ref. 121.2346;
@@ -60,7 +70,9 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 8. Smoke: BASE CT → MEIO BAIXO |  [YouTube](https://youtu.be/WX2EI8hSpGA) | Ref. 121.6534;
 9. Smoke: BASE CT → MEIO BAIXO |  [YouTube](https://youtu.be/qdj7hU02ZX4) | Ref. 121.1837;
 
+
 #### [**BASE TR**](#TOP)
+
 
 1. Smoke: BASE TR → BANANA |  [YouTube](https://youtu.be/w-5TZAuMBng) | Ref. 121.2939;
 2. Smoke: BASE TR, SAÍDA → CARRO |  [YouTube](https://youtu.be/BF340vhfiZw) | Ref. 121.0124;
@@ -73,21 +85,29 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 9. Flash: BASE TR, SAÍDA → BANANA, CARRO |  [YouTube](https://youtu.be/Tf5qjyP4Jvk) | Ref. 123.7443;
 10. Flash: BASE TR, SAÍDA → BANANA, CARRO |  [YouTube](https://youtu.be/ICdLE5_1P5A) | Ref. 123.2559;
 
+
 #### [**BOMB A**](#TOP)
+
 
 1. Smoke: BOMB A → AREIA 2 |  [YouTube](https://youtu.be/bzhFBMcGte8) | Ref. 121.5732;
 
+
 #### [**BOMB B**](#TOP)
+
 
 1. Smoke: BOMB B → CARRO |  [YouTube](https://youtu.be/hQ0VL-3E2kk) | Ref. 121.7011;
 2. Molotov: BOMB B → CARRO |  [YouTube](https://youtu.be/w6-oqJuAlH4) | Ref. 122.7011;
 3. Flash: BOMB B → BANANA |  [YouTube](https://youtu.be/VR9qRwp4ANs) | Ref. 123.4771;
 
+
 #### [**CORREDOR CT**](#TOP)
+
 
 1. Smoke: CORREDOR CT → CT |  [YouTube](https://youtu.be/eFMO97SMzs4) | Ref. 121.2255;
 
+
 #### [**CT**](#TOP)
+
 
 1. Smoke: CT → BANANA |  [YouTube](https://youtu.be/5m0630O9XjE) | Ref. 121.0042;
 2. Smoke: CT → FALLEN |  [YouTube](https://youtu.be/Q_pRTQRJuoA) | Ref. 121.4923;
@@ -104,7 +124,9 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 13. HE: CT → TRIPLA |  [YouTube](https://youtu.be/cGgrpjDFpfs) | Ref. 124.6433;
 14. HE: CT → MURETA DA BANANA |  [YouTube](https://youtu.be/4T-7aIbOIwc) | Ref. 124.0352;
 
+
 #### [**CAIXÃO**](#TOP)
+
 
 1. Smoke: CAIXÃO → BANANA |  [YouTube](https://youtu.be/ZGKxxcDwcho) | Ref. 121.5309;
 2. Smoke: CAIXÃO → BANANA E MURETA |  [YouTube](https://youtu.be/OvnVIgix0mI) | Ref. 121.3478;
@@ -117,11 +139,14 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 
 #### [**CAMPANÁRIO**](#TOP)
 
+
 1. Molotov: CAMPANÁRIO → HEAD SHOT |  [YouTube](https://youtu.be/aePHXvU-FxI) | Ref. 122.8211;
 2. Molotov: CAMPANÁRIO → AREIA |  [YouTube](https://youtu.be/vdzzKB4RvBU) | Ref. 122.4398;
 3. Molotov: CAMPANÁRIO → AREIA |  [YouTube](https://youtu.be/Hgn5uyIyPaQ) | Ref. 122.4577;
 
+
 #### [**CARRO**](#TOP)
+
 
 1. Smoke: CARRO → CAIXÃO |  [YouTube](https://youtu.be/z3ztVqpo7G4) | Ref. 121.7981;
 2. Smoke: CARRO → CAIXÃO |  [YouTube](https://youtu.be/L7tLsE9o0os) | Ref. 121.3872;
@@ -145,9 +170,12 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 20. HE: CARRO → SAÍDA DA CAVERNA |  [YouTube](https://youtu.be/_b2ag-5qAXo) | Ref. 124.9724;
 21. HE: CARRO → CT |  [YouTube](https://youtu.be/TPCYAD3QcH4) | Ref. 124.6490;
 
+
 #### [**CAVERNA**](#TOP)
 
+
 1. Smoke: CAVERNA → NIP |  [YouTube](https://youtu.be/GNhWQTlA-ys) | Ref. 121.4779;
+
 
 #### [**CIMENTO**](#TOP)
 
@@ -156,11 +184,15 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 2. Molotov: CIMENTO → BANANA |  [YouTube](https://youtu.be/qwxd_NY-sa4) | Ref. 122.2845;
 3. Flash: CIMENTO → BANANA |  [YouTube](https://youtu.be/dqrCO1vPA7Q) | Ref. 123.6740;
 
+
 #### [**COGU**](#TOP)
+
 
 1. Smoke: COGU → TELHADO DO COGU |  [YouTube](https://youtu.be/HtUwmwLRLFw) | Ref. 121.1003;
 
+
 #### [**FALLEN**](#TOP)
+
 
 1. Molotov: FALLEN → BANANA (MADEIRA) |  [YouTube](https://youtu.be/EGUK3b8sUnE) | Ref. 122.9377;
 2. Molotov: FALLEN → ESCURO |  [YouTube](https://youtu.be/TgS0ZaEVavw) | Ref. 122.6023;
@@ -172,15 +204,21 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 8. HE: FALLEN → TRIPLA |  [YouTube](https://youtu.be/5a3vP0sJAiU) | Ref. 124.3819;
 9. HE: FALLEN → TRIPLA |  [YouTube](https://youtu.be/atgJzXghEN4) | Ref. 124.9456;
 
+
 #### [**HEAD SHOT**](#TOP)
+
 
 1. Smoke: HEAD SHOT, FRENTE → FALLEN |  [YouTube](https://youtu.be/XB3eBEELZ0g) | Ref. 121.2384;
 
+
 #### [**IGREJA**](#TOP)
+
 
 1. Molotov: IGREJA → CIMENTO DO BOMB B |  [YouTube](https://youtu.be/eYM7z2vZjoc) | Ref. 122.0933;
 
+
 #### [**MEIO**](#TOP)
+
 
 1. Smoke: MEIO → AREIA 2 |  [YouTube](https://youtu.be/2bKNn9Dt8VI) | Ref. 121.2893;
 2. Smoke: MEIO → ARCO |  [YouTube](https://youtu.be/zERQ7dnLxZ0) | Ref. 121.3021;
@@ -191,7 +229,9 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 7. Smoke: MEIO → NIP |  [YouTube](https://youtu.be/9fFmofRrChA) | Ref. 121.4063;
 8. Molotov: MEIO → COGU |  [YouTube](https://youtu.be/ZWHtVL0Uvvk) | Ref. 122.3222;
 
+
 #### [**MEIO FALSO**](#TOP)
+
 
 1. Smoke: MEIO FALSO → ADEGA/BIBLIOTECA |  [YouTube](https://youtu.be/sJE6wDR5DbA) | Ref. 121.3488;
 2. Smoke: MEIO FALSO → AREIA 2 |  [YouTube](https://youtu.be/YwTqip6XUDM) | Ref. 121.3992;
@@ -205,31 +245,47 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 10. Smoke: MEIO FALSO → NIP |  [YouTube](https://youtu.be/7l6gAK6RKIY) | Ref. 121.5102;
 11. Molotov: MEIO FALSO → JANELÃO |  [YouTube](https://youtu.be/eY1kh1v_0Pg) | Ref. 122.0027;
 
+
 #### [**NIP**](#TOP)
+
 
 1. Smoke: NIP → FALLEN |  [YouTube](https://youtu.be/DPF3Q5YDF64) | Ref. 121.6499;
 
+
 #### [**PISCINA**](#TOP)
+
 
 1. Smoke: PISCINA → CAVERNA |  [YouTube](https://youtu.be/vduq72HcWas) | Ref. 121.7310;
 
+
 #### [**SANDUÍCHE**](#TOP)
+
 
 1. Smoke: SANDUÍCHE → BANANA |  [YouTube](https://youtu.be/6qG6OSwGrQE) | Ref. 121.5320;
 2. Molotov: SANDUÍCHE → CARRO |  [YouTube](https://youtu.be/NxtdS-F-azE) | Ref. 122.5320;
 3. Flash: SANDUICHE → CT, FALLEN |  [YouTube](https://youtu.be/rrTitWpcq08) | Ref. 123.4533;
 4. HE: BTT → MURETA DA BANANA |  [YouTube](https://youtu.be/MKSDAlMH7T0) | Ref. 124.7008;
 
+
 #### [**TAPETE**](#TOP)
+
 
 1. Smoke: TAPETE → AREIA 2 |  [YouTube](https://youtu.be/6GSj7nqdt9w) | Ref. 121.9766;
 2. Smoke: TAPETE → VARANDA |  [YouTube](https://youtu.be/twLrqsxHqPU) | Ref. 121.5299;
 3. Molotov: TAPETE → DEFAULT |  [YouTube](https://youtu.be/V7EwglR9ZSg) | Ref. 122.6399;
 4. Molotov: TAPETE → AREIA |  [YouTube](https://youtu.be/KmjzlVaAHgU) | Ref. 122.5378;
 5. Molotov: TAPETE → AREIA 2 |  [YouTube](https://youtu.be/sxUFyTXN2Nc) | Ref. 122.4301;
-6.  Flash: TAPETE → HEAD SHOT, AREIA, CEMITÉRIO, BOMB, AREIA 2 |  [YouTube](https://youtu.be/hjklJef6PPY) | Ref. 123.4960;
-7.  Flash: TAPETE → AREIA, BOMB A, CEMITÉRIO |  [YouTube](https://youtu.be/Yv8IOUb1q90) | Ref. 123.3548;
-8.  Flash: TAPETE, ESCADA DO → TAPETE |  [YouTube](https://youtu.be/vyp0-sELKEo) | Ref. 123.2110;
+6. Flash: TAPETE → HEAD SHOT, AREIA, CEMITÉRIO, BOMB, AREIA 2 |  [YouTube](https://youtu.be/hjklJef6PPY) | Ref. 123.4960;
+7. Flash: TAPETE → AREIA, BOMB A, CEMITÉRIO |  [YouTube](https://youtu.be/Yv8IOUb1q90) | Ref. 123.3548;
+8. Flash: TAPETE, ESCADA DO → TAPETE |  [YouTube](https://youtu.be/vyp0-sELKEo) | Ref. 123.2110;
 9. HE: TAPETE → AREIA |  [YouTube](https://youtu.be/ALWErXTAyPo) | Ref. 124.9834;
 10. HE: TAPETE → DEFAULT |  [YouTube](https://youtu.be/0Jqf_-BL_IQ) | Ref. 124.6399;
 
+
+#### COMENTÁRIO
+
+
+- A localização das posições de execução das utilitárias são aproximadas e os nomes das posições são as mais usadas pela comunidade.
+- Arremesso longo = Arremesso com o botão esquerdo do mouse.
+- Arremesso médio = Arremesso com os dois botões do mouse.
+- Arremesso curto = Arremesso com o botão direito do mouse.
