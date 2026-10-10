@@ -41,19 +41,20 @@ Ir para: [**ADM**](#ADM) | [**AZUL**](#AZUL) |[**BASE CT**](#BASE-CT) | [**BASE 
 4. Smoke (1/3): BASE TR → PORTA EXTERNA DO TERRA |  [YouTube](https://youtu.be/JrwW1kXxhWs) | Ref. 161.9882;
 5. Smoke (2/3): BASE TR → PASSAGEM TERRA |  [YouTube](https://youtu.be/JrwW1kXxhWs) | Ref. 161.9883;
 6. Smoke (3/3): BASE TR → FRENTE DO GALPÃO |  [YouTube](https://youtu.be/JrwW1kXxhWs) | Ref. 161.9884;
-7. Smoke: SAÍDA DA BASE TR → PASSAGEM VERMELHO |  [YouTube](https://youtu.be/qi_gr7J3T74) | Ref. 161.6342;
-8. Smoke: SAÍDA DA BASE TR → PORTA EXTERNA DO TERRA |  [YouTube](https://youtu.be/ilQTfkyTH-M) | Ref. 161.7823;
-9. Smoke: SAÍDA DA BASE TR → FRENTE DO DUTO |  [YouTube](https://youtu.be/bJLMezAy1so) | Ref. 161.7343;
-10. Smoke (1/2): SAÍDA DA BASE TR → FRENTE DO TERRA |  [YouTube](https://youtu.be/TC_p49G9ohA) | Ref. 161.5656;
-11. Smoke (2/2): SAÍDA DA BASE TR → FRENTE DO GALPÃO |  [YouTube](https://youtu.be/TC_p49G9ohA) | Ref. 161.5657;
-12. Smoke: SAÍDA DA BASE TR → FRENTE DO AZUL |  [YouTube](https://youtu.be/nyqJK7-PU3g) | Ref. 161.8914;
-13. Molotov: SAÍDA DA BASE TR → VERMELHO |  [YouTube](https://youtu.be/OagETOyvNpk) | Ref. 162.8235;
-14. Molotov: SAÍDA DA BASE TR → AZUL |  [YouTube](https://youtu.be/r3f91wkw6fg) | Ref. 162.4309;
-15. Molotov: SAÍDA DA BASE TR → SEC-RT |  [YouTube](https://youtu.be/ZhCV5Zh-b-U) | Ref. 162.4583;
-16. Flash: SAÍDA DA BASE TR → PORTA DO TERRA, FORA, AZUL |  [YouTube](https://youtu.be/6RIqBOy17PU) | Ref. 163.6342;
-17. Flash: SAÍDA DA BASE TR → FORA; SEC-RT, PORTA DO TERRA, GALPÃO |  [YouTube](https://youtu.be/SSCal5I9-2Q) | Ref. 163.7345;
-18. Flash: SAÍDA DA BASE TR → SEC-RT, GALPÃO |  [YouTube](https://youtu.be/gRn-GUkZYPE) | Ref. 163.6343;
-19. Flash: SAÍDA DA BASE TR → CAT; REATOR, DUTO FALSO, PLATAFORMA |  [YouTube](https://youtu.be/OZUXi4EfBSE) | Ref. 163.8210;   
+7. Smoke: SAÍDA DA BASE TR → FRENTE DO AZUL |  [YouTube](https://youtu.be/nyqJK7-PU3g) | Ref. 161.8914;
+8. Smoke: SAÍDA DA BASE TR → FRENTE DO DUTO |  [YouTube](https://youtu.be/bJLMezAy1so) | Ref. 161.7343;
+9. Smoke: SAÍDA DA BASE TR → PASSAGEM VERMELHO |  [YouTube](https://youtu.be/qi_gr7J3T74) | Ref. 161.6342;
+10. Smoke: SAÍDA DA BASE TR → PORTA EXTERNA DO TERRA |  [YouTube](https://youtu.be/ilQTfkyTH-M) | Ref. 161.7823;
+11. Smoke: SAÍDA DA BASE TR → VIDRO/VESTIÁRIO |  [YouTube](https://youtu.be/z1WQbS4g0Lk) | Ref. 161.4732;
+12. Smoke (1/2): SAÍDA DA BASE TR → FRENTE DO TERRA |  [YouTube](https://youtu.be/TC_p49G9ohA) | Ref. 161.5656;
+13. Smoke (2/2): SAÍDA DA BASE TR → FRENTE DO GALPÃO |  [YouTube](https://youtu.be/TC_p49G9ohA) | Ref. 161.5657;
+14. Molotov: SAÍDA DA BASE TR → VERMELHO |  [YouTube](https://youtu.be/OagETOyvNpk) | Ref. 162.8235;
+15. Molotov: SAÍDA DA BASE TR → AZUL |  [YouTube](https://youtu.be/r3f91wkw6fg) | Ref. 162.4309;
+16. Molotov: SAÍDA DA BASE TR → SEC-RT |  [YouTube](https://youtu.be/ZhCV5Zh-b-U) | Ref. 162.4583;
+17. Flash: SAÍDA DA BASE TR → PORTA DO TERRA, FORA, AZUL |  [YouTube](https://youtu.be/6RIqBOy17PU) | Ref. 163.6342;
+18. Flash: SAÍDA DA BASE TR → FORA; SEC-RT, PORTA DO TERRA, GALPÃO |  [YouTube](https://youtu.be/SSCal5I9-2Q) | Ref. 163.7345;
+19. Flash: SAÍDA DA BASE TR → SEC-RT, GALPÃO |  [YouTube](https://youtu.be/gRn-GUkZYPE) | Ref. 163.6343;
+20. Flash: SAÍDA DA BASE TR → CAT; REATOR, DUTO FALSO, PLATAFORMA |  [YouTube](https://youtu.be/OZUXi4EfBSE) | Ref. 163.8210;   
 
 
 #### [**BANANA**](#TOP)
