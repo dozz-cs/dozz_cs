@@ -4,10 +4,7 @@
 # DUST 2 (+135 utilitárias)
 
 
-Ir para: [**ANDAIME**](#ANDAIME) | [**AZUL**](#AZUL) | [**ALTAR DO BUNKER**](#ALTAR-DO-BUNKER) | [**BASE TR**](#BASE-TR) | [**BASE CT**](#BASE-CT) | [**BOMB A**](#BOMB-A) | [**BOMB B**](#BOMB-B) | [**BUNKER**](#BUNKER) | [**CAIXA GORDA**](#CAIXA-GORDA) | [**CAMINHO DA MORTE**](#CAMINHO-DA-MORTE) | [**CARRO A**](#CARRO-A) | [**CASINHA**](#CASINHA) | [**COQUEIRO**](#COQUEIRO) | [**ESCURO BAIXO**](#ESCURO-BAIXO) |
-[**ESCURO ALTO**](#ESCURO-ALTO) | [**ESCURO FORA**](#ESCURO-FORA) | [**FUNDO**](#FUNDO) | [**MEIO**](#MEIO) | [**MEIO CT**](#MEIO-CT) |
-[**NEWBA**](#NEWBA) | [**PORTA DO MEIO**](#PORTA-DO-MEIO) | [**RAMPA DA A**](#RAMPA-DA-A) | [**RAMPA DA B**](#RAMPA-DA-B) |
-[**RAMPA CT**](#RAMPA-CT) | [**VARANDA**](#VARANDA)
+Ir para: [**ANDAIME**](#ANDAIME) | [**AZUL**](#AZUL) | [**ALTAR DO BUNKER**](#ALTAR-DO-BUNKER) | [**BASE TR**](#BASE-TR) | [**BASE CT**](#BASE-CT) | [**BOMB A**](#BOMB-A) | [**BOMB B**](#BOMB-B) | [**BUNKER**](#BUNKER) | [**CAIXA GORDA**](#CAIXA-GORDA) | [**CAMINHO DA MORTE**](#CAMINHO-DA-MORTE) | [**CARRO A**](#CARRO-A) | [**CASINHA**](#CASINHA) | [**COQUEIRO**](#COQUEIRO) | [**ESCURO BAIXO**](#ESCURO-BAIXO) | [**ESCURO ALTO**](#ESCURO-ALTO) | [**ESCURO FORA**](#ESCURO-FORA) | [**FUNDO**](#FUNDO) | [**FUNDO TR**](#FUNDO-TR) | [**MEIO**](#MEIO) | [**MEIO CT**](#MEIO-CT) | [**NEWBA**](#NEWBA) | [**PORTA DO MEIO**](#PORTA-DO-MEIO) | [**RAMPA DA A**](#RAMPA-DA-A) | [**RAMPA DA B**](#RAMPA-DA-B) | [**RAMPA CT**](#RAMPA-CT) | [**VARANDA**](#VARANDA)
 
 
 ---
@@ -193,6 +190,21 @@ Ir para: [**ANDAIME**](#ANDAIME) | [**AZUL**](#AZUL) | [**ALTAR DO BUNKER**](#AL
 11. Molotov: ESQUINA DO FUNDO → MAROTE DO AZUL |  [YouTube](https://youtu.be/B1Ko9p7RJi8) | Ref. 102.1804;
 12. Flash: ESQUINA DO FUNDO → SAÍDA DA CAVERNA |  [YouTube](https://youtu.be/MX5YexNtdZo) | Ref. 103.4833;
 13. Flash: FUNDO → NEWBA, BOMB A, VARANDA |  [YouTube](https://youtu.be/6yyF3RYRzVQ) | Ref. 103.9592;
+
+
+#### [**FUNDO TR**](#TOP)
+
+
+1. Smoke: FUNDO TR → CAIXA DA BASE CT | [YouTube](https://youtu.be/ddMnYe_q2XY) | Ref. 101.1813;
+2. Smoke: FUNDO TR → PORTA DO MEIO | [YouTube](https://youtu.be/g2-1XjxncPg) | Ref. 101.3365;
+3. Smoke: FUNDO TR → QUINA DO FUNDO | [YouTube](https://youtu.be/ZH-0CVZs9ok) | Ref. 101.4563;
+4. Smoke: FUNDO TR → XBOX | [YouTube](https://youtu.be/RnTxIVTR4gU) | Ref. 101.7453;
+5. Smoke: FUNDO TR → XBOX | [YouTube](https://youtu.be/x7aOR07iIMs) | Ref. 101.1449;
+6. FUNDO TR → QUINA DO FUNDO | [YouTube](https://youtu.be/hoSGAlEwE3Y) | Ref. 103.1807;
+7. FUNDO TR → QUINA DO FUNDO | [YouTube](https://youtu.be/cx9p1Kc-ZlI) | Ref. 103.9855;
+8. FUNDO TR → QUINA DO FUNDO | [YouTube](https://youtu.be/xQrVHhMFe7M) | Ref. 103.1823;
+9. FUNDO TR → QUINA DO FUNDO, BUNKER, FUNDO, ALTAR | [YouTube](https://youtu.be/ZshrXQoK1l4) | Ref. 103.7822;
+10. FUNDO TR → FUNDO | [YouTube](https://youtu.be/yJSl92TaOxM) | Ref. 103.5112;
 
 
 #### [**MEIO**](#TOP)
