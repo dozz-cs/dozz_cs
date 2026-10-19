@@ -43,17 +43,17 @@ Ir para: [**ANDAIME**](#ANDAIME) | [**AZUL**](#AZUL) | [**ALTAR DO BUNKER**](#AL
 #### [**BASE TR**](#TOP)
 
 
-1. Smoke: BASE TR → BASE CT |  [YouTube](https://youtu.be/B4Z5i_gJiMo) | Ref. 101.0023;
-2. Smoke (1/2): BASE TR → JANELA/BURACO |  [YouTube](https://youtu.be/hOLVJ5doFSI) | Ref. 101.7645;
-3. Smoke (2/2): BASE TR → PORTA DA B |  [YouTube](https://youtu.be/hOLVJ5doFSI) | Ref. 101.7646;
-4. Smoke: BASE TR → PORTA DO MEIO |  [YouTube](https://youtu.be/iLouOtBUrH0) | Ref. 101.0603;
-5. Smoke: BASE TR → PORTA DO MEIO |  [YouTube](https://youtu.be/rl1Sa2bJDLw) | Ref. 101.8755;
-6. Smoke: BASE TR → PORTA DO MEIO |  [YouTube](https://youtu.be/rhx7Ioq5lYg) | Ref. 101.1238;
-7. Smoke: BASE TR → CAIXA GORDA |  [YouTube](https://youtu.be/3WcxjGaRRyI) | Ref. 101.4598;
-8. Smoke: BASE TR → CAIXA GORDA |  [YouTube](https://youtu.be/e02w7bw80sM) | Ref. 101.4302;
-9. Smoke: BASE TR → CAIXA GORDA |  [YouTube](https://youtu.be/oa6Yj8rFPNI) | Ref. 101.9773;
-10. Smoke: BASE TR → QUINA DO FUNDO |  [YouTube](https://youtu.be/7jRnl0cvoBE) | Ref. 101.0622;
-11. Smoke: BASE TR → QUINA DO FUNDO |  [YouTube](https://youtu.be/W2QPXOglRFM) | Ref. 101.7492;
+1. Smoke: BASE TR → BASE CT | [YouTube](https://youtu.be/B4Z5i_gJiMo) | Ref. 101.0023;
+2. Smoke (1/2): BASE TR → JANELA/BURACO | [YouTube](https://youtu.be/9Yovh_yah_g) | Ref. 101.7645;
+3. Smoke (2/2): BASE TR → PORTA DA B | [YouTube](https://youtu.be/9Yovh_yah_g) | Ref. 101.7646;
+4. Smoke: BASE TR → PORTA DO MEIO | [YouTube](https://youtu.be/iLouOtBUrH0) | Ref. 101.0603;
+5. Smoke: BASE TR → PORTA DO MEIO | [YouTube](https://youtu.be/rl1Sa2bJDLw) | Ref. 101.8755;
+6. Smoke: BASE TR → PORTA DO MEIO | [YouTube](https://youtu.be/rhx7Ioq5lYg) | Ref. 101.1238;
+7. Smoke: BASE TR → CAIXA GORDA | [YouTube](https://youtu.be/3WcxjGaRRyI) | Ref. 101.4598;
+8. Smoke: BASE TR → CAIXA GORDA | [YouTube](https://youtu.be/e02w7bw80sM) | Ref. 101.4302;
+9. Smoke: BASE TR → CAIXA GORDA | [YouTube](https://youtu.be/oa6Yj8rFPNI) | Ref. 101.9773;
+10. Smoke: BASE TR → QUINA DO FUNDO | [YouTube](https://youtu.be/7jRnl0cvoBE) | Ref. 101.0622;
+11. Smoke: BASE TR → QUINA DO FUNDO | [YouTube](https://youtu.be/W2QPXOglRFM) | Ref. 101.7492;
 
 
 #### [**BASE CT**](#TOP)
@@ -195,16 +195,18 @@ Ir para: [**ANDAIME**](#ANDAIME) | [**AZUL**](#AZUL) | [**ALTAR DO BUNKER**](#AL
 #### [**FUNDO TR**](#TOP)
 
 
-1. Smoke: FUNDO TR → CAIXA DA BASE CT | [YouTube](https://youtu.be/ddMnYe_q2XY) | Ref. 101.1813;
+1. Smoke: FUNDO TR → CAIXA DA BASE CT | [YouTube](https://youtu.be/h-2ZStongWA) | Ref. 101.1813;
 2. Smoke: FUNDO TR → PORTA DO MEIO | [YouTube](https://youtu.be/g2-1XjxncPg) | Ref. 101.3365;
-3. Smoke: FUNDO TR → ESQUINA DO FUNDO | [YouTube](https://youtu.be/ZH-0CVZs9ok) | Ref. 101.4563;
-4. Smoke: FUNDO TR → XBOX | [YouTube](https://youtu.be/RnTxIVTR4gU) | Ref. 101.7453;
-5. Smoke: FUNDO TR → XBOX | [YouTube](https://youtu.be/x7aOR07iIMs) | Ref. 101.1449;
-6. FUNDO TR → ESQUINA DO FUNDO | [YouTube](https://youtu.be/hoSGAlEwE3Y) | Ref. 103.1807;
-7. FUNDO TR → ESQUINA DO FUNDO | [YouTube](https://youtu.be/cx9p1Kc-ZlI) | Ref. 103.9855;
-8. FUNDO TR → ESQUINA DO FUNDO | [YouTube](https://youtu.be/xQrVHhMFe7M) | Ref. 103.1823;
-9. FUNDO TR → ESQUINA DO FUNDO, BUNKER, FUNDO, ALTAR | [YouTube](https://youtu.be/ZshrXQoK1l4) | Ref. 103.7822;
-10. FUNDO TR → FUNDO | [YouTube](https://youtu.be/yJSl92TaOxM) | Ref. 103.5112;
+3. Smoke: FUNDO TR → PORTA DO MEIO | [YouTube](https://youtu.be/Z2qr2eW-MK4) | Ref. 101.3749;
+4. Smoke: FUNDO TR → PORTA DO MEIO | [YouTube](https://youtu.be/SspyVfOmntU) | Ref. 101.0930;
+5. Smoke: FUNDO TR → ESQUINA DO FUNDO | [YouTube](https://youtu.be/zESPaRBtcjY) | Ref. 101.4563;
+6. Smoke: FUNDO TR → CAIXA GORDA | [YouTube](https://youtu.be/X11tlAw95aU) | Ref. 101.7453;
+7. Smoke: FUNDO TR → CAIXA GORDA | [YouTube](https://youtu.be/eCjmZaPjY1U) | Ref. 101.1449;
+8. FUNDO TR → ESQUINA DO FUNDO | [YouTube](https://youtu.be/hoSGAlEwE3Y) | Ref. 103.1807;
+9. FUNDO TR → ESQUINA DO FUNDO | [YouTube](https://youtu.be/cx9p1Kc-ZlI) | Ref. 103.9855;
+10. FUNDO TR → ESQUINA DO FUNDO | [YouTube](https://youtu.be/xQrVHhMFe7M) | Ref. 103.1823;
+11. FUNDO TR → ESQUINA DO FUNDO, BUNKER, FUNDO, ALTAR | [YouTube](https://youtu.be/ZshrXQoK1l4) | Ref. 103.7822;
+12. FUNDO TR → FUNDO | [YouTube](https://youtu.be/yJSl92TaOxM) | Ref. 103.5112;
 
 
 #### [**MEIO**](#TOP)
