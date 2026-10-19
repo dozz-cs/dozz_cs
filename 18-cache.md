@@ -132,7 +132,9 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 
 
 1. Smoke: TOYOTA → GARAGEM | [YouTube](https://youtu.be/ut-YDtpFCOw) | Ref. 181.6200;
-2. HE: TOYOTA → DEFAULT | [YouTube](https://youtu.be/9zGLBzkmVvc) | Ref. 184.8353;
+2. Molotov: TOYOTA → ESCANTEIO | [YouTube](https://youtu.be/9d6ND0Lzu2s) | Ref. 182.3840;
+3. HE: TOYOTA → DEFAULT | [YouTube](https://youtu.be/9zGLBzkmVvc) | Ref. 184.8353;
+4. HE: TOYOTA → ESCANTEIO | [YouTube](https://youtu.be/sU2PoZO9Lws) | Ref. 184.2304;
 
 
 #### [VERMELHO](#TOP)
