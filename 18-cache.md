@@ -4,7 +4,7 @@
 # CACHE (+45 utilitárias)
 
 
-Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE TR**](#BASE-TR) | | [**BOMB A**](#BOMB-A) | [**CAMINHÃO**](#CAMINHÃO) | [**CÉU**](#CÉU) | [**GARAGEM**](#GARAGEM) | [**GRAFITE**](#GRAFITE) | [**LIGAÇÃO**](#LIGAÇÃO) | [**MEIO**](#MEIO) | [**MIOLO**](#MIOLO) | [**SOL**](#SOL) | [**TOYOTA**](#TOYOTA) | [**VERMELHO**](#VERMELHO)
+Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE TR**](#BASE-TR) | [**BOMB A**](#BOMB-A) | [**CAMINHÃO**](#CAMINHÃO) | [**CÉU**](#CÉU) | [**GARAGEM**](#GARAGEM) | [**GRAFITE**](#GRAFITE) | [**LIGAÇÃO**](#LIGAÇÃO) | [**MEIO**](#MEIO) | [**MIOLO**](#MIOLO) | [**SOL**](#SOL) | [**TOYOTA**](#TOYOTA) | [**VERMELHO**](#VERMELHO)
 
 
 ---
@@ -116,16 +116,17 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 
 
 1. Smoke: SOL → CT | [YouTube](https://youtu.be/6FTcfC5AKAA) | Ref. 181.0355;
-2. Smoke: SOL → ALVO | [YouTube](https://youtu.be/DqJBebejZO0) | Ref. 181.0387;
-3. Smoke: SOL → XADREZ | [YouTube](https://youtu.be/SAuJsGhHagQ) | Ref. 181.0277;
-4. Molotov: SOL → TRINCHEIRA | [YouTube](https://youtu.be/xh70FxVvyAQ) | Ref. 182.6442;
-5. Molotov: SOL → XADREZ | [YouTube](https://youtu.be/9LnFbvt_nO0) | Ref. 182.9881;
-6. Molotov: SOL → TRIPLA | [YouTube](https://youtu.be/CWAyIt79_so) | Ref. 182.1174;
-7. Molotov: SOL → BARRIL | [YouTube](https://youtu.be/AIQRSrmlMXQ) | Ref. 182.8573;
-8. Flash: SOL → CÉU, ALVO, TRIPLA, CT | [YouTube](https://youtu.be/Yi1GS4n9ehw) | Ref. 183.9629;
-9. Flash: SOL → BOMB B, CÉU [YouTube](https://youtu.be/SveaxL4sSJE) | Ref. 183.5492;
-10. HE: SOL → BTT | [YouTube](https://youtu.be/lGTKl8VF0m4) | Ref. 184.8110;
-11. HE: SOL → ALVO | [YouTube](https://youtu.be/XueNhy8rN3E) | Ref. 184.3081;
+2. Smoke: SOL → CT | [YouTube](https://youtu.be/hrrdXR2k80Y) | Ref. 181.8672;
+3. Smoke: SOL → ALVO | [YouTube](https://youtu.be/DqJBebejZO0) | Ref. 181.0387;
+4. Smoke: SOL → XADREZ | [YouTube](https://youtu.be/SAuJsGhHagQ) | Ref. 181.0277;
+5. Molotov: SOL → TRINCHEIRA | [YouTube](https://youtu.be/xh70FxVvyAQ) | Ref. 182.6442;
+6. Molotov: SOL → XADREZ | [YouTube](https://youtu.be/9LnFbvt_nO0) | Ref. 182.9881;
+7. Molotov: SOL → TRIPLA | [YouTube](https://youtu.be/CWAyIt79_so) | Ref. 182.1174;
+8. Molotov: SOL → BARRIL | [YouTube](https://youtu.be/AIQRSrmlMXQ) | Ref. 182.8573;
+9. Flash: SOL → CÉU, ALVO, TRIPLA, CT | [YouTube](https://youtu.be/Yi1GS4n9ehw) | Ref. 183.9629;
+10. Flash: SOL → BOMB B, CÉU [YouTube](https://youtu.be/SveaxL4sSJE) | Ref. 183.5492;
+11. HE: SOL → BTT | [YouTube](https://youtu.be/lGTKl8VF0m4) | Ref. 184.8110;
+12. HE: SOL → ALVO | [YouTube](https://youtu.be/XueNhy8rN3E) | Ref. 184.3081;
 
 
 #### [TOYOTA](#TOP)
