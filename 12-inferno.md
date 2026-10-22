@@ -223,13 +223,15 @@ Ir para: [**ARCO**](#ARCO) | [**AREIA**](#AREIA) | [**AREIA 2**](#AREIA-2) | [**
 
 
 1. Smoke: MEIO → AREIA 2 |  [YouTube](https://youtu.be/2bKNn9Dt8VI) | Ref. 121.2893;
-2. Smoke: MEIO → ARCO |  [YouTube](https://youtu.be/zERQ7dnLxZ0) | Ref. 121.3021;
-3. Smoke: MEIO (1/2) → ARCO; |  [YouTube](https://youtu.be/teIC-oMociI) | Ref. 121.7633;
-4. Smoke: MEIO (2/2) → ADEGA/BIBLIOTECA |  [YouTube](https://youtu.be/9OyRbHrmokA) | Ref. 121.7634;
-5. Smoke: MEIO → COLDZERA |  [YouTube](https://youtu.be/7nqX2Zz8BUQ) | Ref. 121.2657;
-6. Smoke: MEIO → NIP |  [YouTube](https://youtu.be/yZZCIrohrkI) | Ref. 121.1104;
-7. Smoke: MEIO → NIP |  [YouTube](https://youtu.be/9fFmofRrChA) | Ref. 121.4063;
-8. Molotov: MEIO → COGU |  [YouTube](https://youtu.be/ZWHtVL0Uvvk) | Ref. 122.3222;
+2. Smoke: MEIO → AREIA 2 |  [YouTube](https://youtu.be/g_0dKkTseA0) | Ref. 121.2550;
+3. Smoke: MEIO → ARCO |  [YouTube](https://youtu.be/zERQ7dnLxZ0) | Ref. 121.3021;
+4. Smoke: MEIO (1/2) → ARCO; |  [YouTube](https://youtu.be/teIC-oMociI) | Ref. 121.7633;
+5. Smoke: MEIO (2/2) → ADEGA/BIBLIOTECA |  [YouTube](https://youtu.be/9OyRbHrmokA) | Ref. 121.7634;
+6. Smoke: MEIO → CT |  [YouTube](https://youtu.be/LpeBmoG8p5c) | Ref. 121.0453;
+7. Smoke: MEIO → COLDZERA |  [YouTube](https://youtu.be/7nqX2Zz8BUQ) | Ref. 121.2657;
+8. Smoke: MEIO → NIP |  [YouTube](https://youtu.be/yZZCIrohrkI) | Ref. 121.1104;
+9. Smoke: MEIO → NIP |  [YouTube](https://youtu.be/9fFmofRrChA) | Ref. 121.4063;
+10. Molotov: MEIO → COGU |  [YouTube](https://youtu.be/ZWHtVL0Uvvk) | Ref. 122.3222;
 
 
 #### [**MEIO FALSO**](#TOP)
