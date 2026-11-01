@@ -123,10 +123,10 @@ Ir para: [**AZUL**](#AZUL) | [**ALVO**](#ALVO) | [**BRANCA**](#BRANCA) | [**BASE
 6. Molotov: SOL → XADREZ | [YouTube](https://youtu.be/9LnFbvt_nO0) | Ref. 182.9881;
 7. Molotov: SOL → TRIPLA | [YouTube](https://youtu.be/CWAyIt79_so) | Ref. 182.1174;
 8. Molotov: SOL → BARRIL | [YouTube](https://youtu.be/AIQRSrmlMXQ) | Ref. 182.8573;
-9. Flash: SOL → CÉU, ALVO, TRIPLA, CT | [YouTube](https://youtu.be/Yi1GS4n9ehw) | Ref. 183.9629;
+9. Flash: SOL → CÉU, ALVO, TRIPLA, CT | [YouTube](https://youtu.be/Yi1GS4n9ehw) | Ref. 183.9629R0;
 10. Flash: SOL → BOMB B, CÉU [YouTube](https://youtu.be/SveaxL4sSJE) | Ref. 183.5492R0;
 11. HE: SOL → BTT | [YouTube](https://youtu.be/lGTKl8VF0m4) | Ref. 184.8110;
-12. HE: SOL → ALVO | [YouTube](https://youtu.be/XueNhy8rN3E) | Ref. 184.3081;
+12. HE: SOL → ALVO | [YouTube](https://youtu.be/XueNhy8rN3E) | Ref. 184.3081R0;
 
 
 #### [TOYOTA](#TOP)
