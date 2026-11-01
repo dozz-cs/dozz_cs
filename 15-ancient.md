@@ -173,9 +173,9 @@ Ir para: [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR) | [**BANANA**](#BANAN
 #### [**RAMPA DO FUNDO**](#TOP)
 
 
-1. Smoke (1/3): RAMPA DO FUNDO → CT |  [YouTube](https://youtu.be/Vpb1_VNsARA) | Ref. 151.8632-R2;
-2. Smoke (2/3): RAMPA DO FUNDO → LIGAÇÃO |  [YouTube](https://youtu.be/91HZwggTIe4) | Ref. 151.5326-R2;
-3. Smoke (3/3): RAMPA DO FUNDO → TEMPLO |  [YouTube](https://youtu.be/y-obwGXQRxM) | Ref. 151.7498-R2;
+1. Smoke (1/3): RAMPA DO FUNDO → CT |  [YouTube](https://youtu.be/Vpb1_VNsARA) | Ref. 151.8632R2;
+2. Smoke (2/3): RAMPA DO FUNDO → LIGAÇÃO |  [YouTube](https://youtu.be/91HZwggTIe4) | Ref. 151.5326R2;
+3. Smoke (3/3): RAMPA DO FUNDO → TEMPLO |  [YouTube](https://youtu.be/y-obwGXQRxM) | Ref. 151.7498R2;
 4. Smoke: RAMPA DO FUNDO → LIGAÇÃO |  [YouTube](https://youtu.be/15YLLn0jh50) | Ref. 151.0275;
 
 
