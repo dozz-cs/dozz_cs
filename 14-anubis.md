@@ -22,7 +22,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 7. Smoke: ÁGUA → RATO | [YouTube](https://youtu.be/27U5twTYDLE) | Ref. 141.8522;
 8. Molotov: ÁGUA → CÉU | [YouTube](https://youtu.be/1pNRZvjE2YQ) | Ref. 142.0601;
 9. Molotov: ÁGUA → MERCADO | [YouTube](https://youtu.be/aRtRx9NtqgA) | Ref. 142.1745;
-10. Molotov: ÁGUA → MERCADO | [YouTube](https://youtu.be/diwMzGI-ZTk) | Ref. 142.9477;
+10. Molotov: ÁGUA → MERCADO | [YouTube](https://youtu.be/diwMzGI-ZTk) | Ref. 142.9477R0;
 11. Molotov: ÁGUA → PLATAFORMA | [YouTube](https://youtu.be/ClvOc2ytyv4) | Ref. 142.0623;
 12. Molotov: ÁGUA → PLATAFORMA | [YouTube](https://youtu.be/ME32rEzQIgw) | Ref. 142.1834;
 13. Molotov: ÁGUA → REDONDO | [YouTube](https://youtu.be/Jrpthhw6oG8) | Ref. 142.6492;
@@ -55,7 +55,7 @@ Ir para: [**ÁGUA**](#ÁGUA) | [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR)
 #### [BOMB B](#TOP)
 
 
-1.  Smoke: BOMB B → PORTÃO |  [YouTube](https://youtu.be/yi7XVVMkJuw) | Ref. 141.5894
+1.  Smoke: BOMB B → PORTÃO |  [YouTube](https://youtu.be/yi7XVVMkJuw) | Ref. 141.5894R0
 
 
 #### [CANAL](#TOP)
