@@ -4,7 +4,7 @@
 # ANCIENT (+95 utilitárias)
 
 
-Ir para: [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR) | [**BANANA**](#BANANA) | [**BOCA DO FUNDO**](#BOCA-DO-FUNDO) | [**CAVERNA**](#CAVERNA) | [**CORREDOR**](#CORREDOR) | [**CT DA B**](#CT-DA-B) | [**ESQUINA**](#ESQUNA) | [**ESCURO**](#ESCURO) | [**L**](#L) | [**LIGAÇÃO**](#LIGAÇÃO) | [**PORTA**](#PORTA) | [**QUADRADO DA B**](#QUADRADO-DA-B) | [**QUADRADO DO FUNDO**](#QUADRADO-DO-FUNDO) | [**RAMPA**](#RAMPA) | [**SOL**](#SOL) | [**SOMBRA**](#SOMBRA) | [**TÚNEL**](#TÚNEL) | [**YUURIH**](#YUURIH)
+Ir para: [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR) | [**BANANA**](#BANANA) | [**BOCA DO FUNDO**](#BOCA-DO-FUNDO) | [**CAVERNA**](#CAVERNA) | [**CORREDOR**](#CORREDOR) | [**CT DA B**](#CT-DA-B) | [**ESQUINA**](#ESQUNA) | [**ESCURO**](#ESCURO) | [**L**](#L) | [**LIGAÇÃO**](#LIGAÇÃO) | [**PORTA**](#PORTA) | [**QUADRADO DA B**](#QUADRADO-DA-B) | [**QUADRADO DO FUNDO**](#QUADRADO-DO-FUNDO) | [**RAMPA**](#RAMPA) | [**RAMPA DO FUNDO**](#RAMPA-DO-FUNDO) | [**SOL**](#SOL) | [**SOMBRA**](#SOMBRA) | [**TÚNEL**](#TÚNEL) | [**YUURIH**](#YUURIH)
 
 
 ---
@@ -23,26 +23,27 @@ Ir para: [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR) | [**BANANA**](#BANAN
 #### [**BASE TR**](#TOP)
 
 
-1. Smoke: BASE TR → JANELÃO |  [YouTube](https://youtu.be/MR-ADW1XJek) | Ref. 151.1744;
-2. Smoke: BASE TR → JANELÃO |  [YouTube](https://youtu.be/R3sdMaIOPZA) | Ref. 151.6498;
+1. Smoke: BASE TR → JANELÃO |  [YouTube](https://youtu.be/f3woZ-semps) | Ref. 151.1744R3;
+2. Smoke: BASE TR → JANELÃO |  [YouTube](https://youtu.be/i1t8H8Bd-Mo) | Ref. 151.6498R3;
 3. Smoke: BASE TR → JANELÃO |  [YouTube](https://youtu.be/m9Jfnj6lIKg) | Ref. 151.5346;
 4. Smoke: BASE TR (SPAWN 1) → JANELÃO |  [YouTube](https://youtu.be/XXO_CsvuZM4) | Ref. 151.4309;
 5. Smoke: BASE TR (SPAWN 2) → JANELÃO |  [YouTube](https://youtu.be/c5JjfnVDhjM) | Ref. 151.4387;
 6. Smoke: BASE TR (SPAWN 3) → JANELÃO |  [YouTube](https://youtu.be/zcKefADBXO8) | Ref. 151.8281;
 7. Smoke: BASE TR (SPAWN 4) → JANELÃO |  [YouTube](https://youtu.be/q9MGNAxgO_0) | Ref. 151.7109;
-8. Smoke: BASE TR → ENTRADA DA LIGAÇÃO |  [YouTube](https://youtu.be/hhEfS8QQuhY) | Ref. 151.0235;
-9. Smoke: BASE TR → ENTRADA DO CHITA |  [YouTube](https://youtu.be/Fx3EqPQ-EeE) | Ref. 151.1063;
-10. Smoke: BASE TR → ENTRADA DO CHITA |  [YouTube](https://youtu.be/8iLGYXp5qu0) | Ref. 151.7320;
-11. Smoke: BASE TR → ENTRADA DO CHITA |  [YouTube](https://youtu.be/hozAM96BhFY) | Ref. 151.6905;
-12. Flash: BASE TR → MEIO, COM SAÍDA, SEM SAÍDA, VARANDA, JANELÃO |  [YouTube](https://youtu.be/1U5KYiJI-d0) | Ref. 153.4390;
-13. Flash: BASE TR → MEIO, COM SAÍDA, VARANDA, JANELÃO |  [YouTube](https://youtu.be/am2lODBcTZg) | Ref. 153.0551;
+8. Smoke: BASE TR → ENTRADA DA LIGAÇÃO (ESCURO) |  [YouTube](https://youtu.be/hhEfS8QQuhY) | Ref. 151.0235;
+9. Smoke: BASE TR → ENTRADA DO CHITA (ESCURO) |  [YouTube](https://youtu.be/Fx3EqPQ-EeE) | Ref. 151.1063;
+10. Smoke: BASE TR → ENTRADA DO CHITA (ESCURO) |  [YouTube](https://youtu.be/8iLGYXp5qu0) | Ref. 151.7320;
+11. Smoke: BASE TR → ENTRADA DO CHITA (ESCURO) |  [YouTube](https://youtu.be/hozAM96BhFY) | Ref. 151.6905;
+12. Smoke: BASE TR → SOL | [YouTube](https://youtu.be/kXy8dDUM1O0) | Ref. 151.5349-R0;
+13. Flash: BASE TR → MEIO, COM SAÍDA, SEM SAÍDA, VARANDA, JANELÃO |  [YouTube](https://youtu.be/1U5KYiJI-d0) | Ref. 153.4390;
+14. Flash: BASE TR → MEIO, COM SAÍDA, VARANDA, JANELÃO |  [YouTube](https://youtu.be/am2lODBcTZg) | Ref. 153.0551;
 
 
 #### [**BANANA**](#TOP)
 
 
 1. Smoke: BANANA → CT DA B |  [YouTube](https://youtu.be/3EEQzGdQdK8) | Ref. 151.8453;
-2. Smoke: BANANA → SOL |  [YouTube](https://youtu.be/5DHNPd05cA4) | Ref. 151.7691;
+2. Smoke: BANANA → SOL |  [YouTube](https://youtu.be/c9Ho-jBXQdM) | Ref. 151.7691;
 3. Molotov: BANANA → AREIA |  [YouTube](https://youtu.be/yt8LjCpdJnA) | Ref. 152.3585;
 4. Molotov: BANANA → ENTRADA DO ESCURO |  [YouTube](https://youtu.be/gdD8UlHLgY0) | Ref. 152.0925;
 5. Molotov: BANANA → PILAR |  [YouTube](https://youtu.be/jh3llXRvFJc) | Ref. 152.4563;
@@ -167,10 +168,15 @@ Ir para: [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR) | [**BANANA**](#BANAN
 
 
 1. Smoke: RAMPA → SOL |  [YouTube](https://youtu.be/VZ-TLXekb5E) | Ref. 151.5922;
-2. Smoke: RAMPA DO FUNDO (SMOKE 1/3) → CT |  [YouTube](https://youtu.be/I2ItKLmRyy8) | Ref. 151.8632;
-3. Smoke: RAMPA DO FUNDO (SMOKE 2/3) → LIGAÇÃO |  [YouTube](https://youtu.be/_9tDZCuSLlI) | Ref. 151.5326;
-4. Smoke: RAMPA DO FUNDO (SMOKE 3/3) → TEMPLO |  [YouTube](https://youtu.be/xbyKqdZHF7c) | Ref. 151.7498;
-5. Smoke: RAMPA DO FUNDO → LIGAÇÃO |  [YouTube](https://youtu.be/15YLLn0jh50) | Ref. 151.0275;
+
+
+#### [**RAMPA DO FUNDO**](#TOP)
+
+
+1. Smoke (1/3): RAMPA DO FUNDO → CT |  [YouTube](https://youtu.be/Vpb1_VNsARA) | Ref. 151.8632-R2;
+2. Smoke (2/3): RAMPA DO FUNDO → LIGAÇÃO |  [YouTube](https://youtu.be/91HZwggTIe4) | Ref. 151.5326-R2;
+3. Smoke (3/3): RAMPA DO FUNDO → TEMPLO |  [YouTube](https://youtu.be/y-obwGXQRxM) | Ref. 151.7498-R2;
+4. Smoke: RAMPA DO FUNDO → LIGAÇÃO |  [YouTube](https://youtu.be/15YLLn0jh50) | Ref. 151.0275;
 
 
 #### [**SOL**](#TOP)
