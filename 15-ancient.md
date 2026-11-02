@@ -156,12 +156,13 @@ Ir para: [**BASE CT**](#BASE-CT) | [**BASE TR**](#BASE-TR) | [**BANANA**](#BANAN
 
 #### [**QUADRADO DO FUNDO**](#TOP)
 
-
 1. Smoke: QUADRADO DO FUNDO → JANELÃO |  [YouTube](https://youtu.be/fyBDe62dixQ) | Ref. 151.7731;
-2. Smoke: QUADRADO DO FUNDO → VARANDA |  [YouTube](https://youtu.be/4GPEhcbaHlM) | Ref. 151.2066;
-3. Smoke: QUADRADO DO FUNDO → CT |  [YouTube](https://youtu.be/dmweYh2KItk) | Ref. 151.3093;
-4. Flash: QUADRADO DO FUNDO → MEIO, SEM SAÍDA, LIGAÇÃO, JANELÃO |  [YouTube](https://youtu.be/IK_zmwED-fI) | Ref. 153.1962;
-5. Flash: QUADRADO DO FUNDO → MEIO, VARANDA, LIGAÇÃO, JANELÃO |  [YouTube](https://youtu.be/xJzwrK9Furg) | Ref. 153.6302;
+2. Smoke: QUADRADO DO FUNDO → JANELÃO |  [YouTube](https://youtu.be/74ybB0gajcI) | Ref. 151.8544R0;
+3. Smoke: QUADRADO DO FUNDO → VARANDA |  [YouTube](https://youtu.be/4GPEhcbaHlM) | Ref. 151.2066;
+4. Smoke: QUADRADO DO FUNDO → CT |  [YouTube](https://youtu.be/dmweYh2KItk) | Ref. 151.3093;
+5. Molotov: QUADRADO DO FUND → SEM SAÍDA |  [YouTube](https://youtu.be/EhQZW8uwOJY) | Ref. 152.9045R0;
+6. Flash: QUADRADO DO FUNDO → MEIO, SEM SAÍDA, LIGAÇÃO, JANELÃO |  [YouTube](https://youtu.be/IK_zmwED-fI) | Ref. 153.1962;
+7. Flash: QUADRADO DO FUNDO → MEIO, VARANDA, LIGAÇÃO, JANELÃO |  [YouTube](https://youtu.be/xJzwrK9Furg) | Ref. 153.6302;
 
 
 #### [**RAMPA**](#TOP)
