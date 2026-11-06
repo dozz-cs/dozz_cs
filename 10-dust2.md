@@ -25,8 +25,8 @@ Ir para: [**ANDAIME**](#ANDAIME) | [**AZUL**](#AZUL) | [**ALTAR DO BUNKER**](#AL
 #### [**AZUL**](#TOP)
 
 
-1. Smoke: AZUL → RAMPA DA BASE CT |  [YouTube](https://youtu.be/KYaQ1bo62wQ) | Ref. 101.8774;
-2. Smoke: AZUL → RAMPA DA BASE CT |  [YouTube](https://youtu.be/h253fwn2j3Y) | Ref. 101.9347;
+1. Smoke: AZUL → RAMPA CT |  [YouTube](https://youtu.be/o_8R9ZDn6RM) | Ref. 101.8774R3;
+2. Smoke: AZUL → RAMPA CT |  [YouTube](https://youtu.be/h253fwn2j3Y) | Ref. 101.9347;
 3. Smoke: FRENTE DO AZUL → ESCADA DA VARANDA |  [YouTube](https://youtu.be/rSB33dlR-JU) | Ref. 101.0327;
 4. Smoke: MAROTE DO AZUL → BASE CT |  [YouTube](https://youtu.be/XkEA5zuEygs) | Ref. 101.8702;
 5. Molotov: FRENTE DO AZUL → CARRO DA A |  [YouTube](https://youtu.be/qqFGRA0zNSg) | Ref. 102.0312;
@@ -66,10 +66,11 @@ Ir para: [**ANDAIME**](#ANDAIME) | [**AZUL**](#AZUL) | [**ALTAR DO BUNKER**](#AL
 #### [**BOMB A**](#TOP)
 
 
-1. Smoke: BOMB A → BASE CT |  [YouTube](https://youtu.be/kfVRSDTpNq8) | Ref. 101.4931;
+1. Smoke: BOMB A → BASE CT |  [YouTube](https://youtu.be/cKjrVmUGVG8) | Ref. 101.4931R2;
 2. Smoke: BOMB A → TÚNEL DO ESCURO ALTO |  [YouTube](https://youtu.be/3gDOVQtVmtE) | Ref. 101.8306;
 3. Smoke: BOMB A → PORTA DO MEIO |  [YouTube](https://youtu.be/pT60fQ9B31o) | Ref. 101.8344;
-4. Smoke: BOMB A → VARANDA |  [YouTube](https://youtu.be/mns16O7F26s) | Ref. 101.6439;
+4. Smoke: BOMB A → RAMPA CT |  [YouTube](https://youtu.be/Pw-Qh7FSpkk) | Ref. 101.7422R1;
+5. Smoke: BOMB A → VARANDA |  [YouTube](https://youtu.be/mns16O7F26s) | Ref. 101.6439;
 
 
 #### [**BOMB B**](#TOP)
@@ -180,9 +181,9 @@ Ir para: [**ANDAIME**](#ANDAIME) | [**AZUL**](#AZUL) | [**ALTAR DO BUNKER**](#AL
 1. Smoke: FUNDO (1/2) → PORTA DA B |  [YouTube](https://youtu.be/6pRODjfpIKQ) | Ref. 101.6732;
 2. Smoke: FUNDO (2/2) → JANELA |  [YouTube](https://youtu.be/6pRODjfpIKQ) | Ref. 101.6733;
 3. Smoke: FUNDO → VARANDA |  [YouTube](https://youtu.be/NLO7nVdIFTA) | Ref. 101.8700;
-4. Smoke: FUNDO → RAMPA DA BASE CT |  [YouTube](https://youtu.be/nSPIkk2gqdc) | Ref. 101.0314;
-5. Smoke: FUNDO → RAMPA DA BASE CT |  [YouTube](https://youtu.be/mS0MHgpSN4E) | Ref. 101.7355;
-6. Smoke: FUNDO → RAMPA DA BASE CT |  [YouTube](https://youtu.be/s31SXVoETaE) | Ref. 101.2478;
+4. Smoke: FUNDO → RAMPA CT |  [YouTube](https://youtu.be/nSPIkk2gqdc) | Ref. 101.0314;
+5. Smoke: FUNDO → RAMPA CT |  [YouTube](https://youtu.be/Xe4cpwgzOm8) | Ref. 101.7355R2;
+6. Smoke: FUNDO → RAMPA CT |  [YouTube](https://youtu.be/fLjU4aLTlYs) | Ref. 101.2478R3;
 7. Smoke: FUNDO → PORTA DO MEIO |  [YouTube](https://youtu.be/TvJTn_UQMTQ) | Ref. 101.6501;
 8. Smoke: FUNDO → CAIXA GORDA |  [YouTube](https://youtu.be/0LfgErXMhmc) | Ref. 101.3854;
 9. Molotov: FUNDO → CASINHA |  [YouTube](https://youtu.be/oomFPuPTjWU) | Ref. 102.4566;
